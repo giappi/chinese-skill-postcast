@@ -2,16 +2,44 @@
 
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Postcast</title>
-  <meta name="description" content="Chinese Skills">
-  <meta name="author" content="Hg">
+    <meta charset="utf-8">
+    <title>Postcast</title>
+    <meta name="description" content="Chinese Skills">
+    <meta name="author" content="Hg">
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous">
+    </script>
+    <style>
+        .word
+        {
+            color: #DD6600;
+            cursor: pointer;
+            border-bottom: 2px dotted #000000;
+            font-family: "Microsoft YaHei";
+        }
+        
+        ul.postcast
+        {
+            list-style-type: none;
+            outline: 1px dotted #CCCCCC;
+            padding-left: 1px;
+            display: block;
+            font-size: 14pt;
+        }
+        
+        ul.postcast > li
+        {
+            outline: 1px dotted #DDDDDD;
+        }
+
+    </style>
 </head>
 
 <body>
     <div id="postcast">
     </div>
-    <script src="lesson.js"></script>
     <script src="postcast.js"></script>
     <script type="text/javascript">
     </script>
