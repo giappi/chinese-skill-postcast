@@ -12,22 +12,29 @@
         integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
         crossorigin="anonymous">
     </script>
+    <link rel="stylesheet" href="web/fonts/font.css" type="text/css" />
     <style>
+
         .word
         {
-            color: #DD6600;
+            color: #4400DD;
             cursor: pointer;
             border-bottom: 1px dotted #000000;
-            font-family: "Microsoft YaHei";
+            font-family: "KaiTi";
         }
-        
+
+        .clickable
+        {
+            cursor: pointer;
+        }
+
         ul.postcast
         {
             list-style-type: none;
             border: 1px solid #CCCCCC;
             padding-left: 1px;
             display: block;
-            font-size: normal;
+            font-size: 16pt;
             width: auto;
         }
         
@@ -40,6 +47,7 @@
 </head>
 
 <body>
+    <h2 id="title">{{Podcast Title}}</h2>
     <div id="postcast">
     </div>
     <script src="postcast.js"></script>
