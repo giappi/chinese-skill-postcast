@@ -1,0 +1,33 @@
+{
+    "Level":
+    {
+        "Free": "3",
+        "Elementary": "266",
+        "Elementary+": "133",
+        "Intermediate": "233",
+        "Advanced": "164",
+        "All": "796"
+    },
+    "Category":
+    {
+        "ART AND CRAFT": "34",
+        "HISTORY": "0",
+        "EDUCATION": "27",
+        "ENTERTAINMENT": "35",
+        "HEALTH": "32",
+        "LANGUAGE": "59",
+        "LIFESTYLE": "262",
+        "PEOPLE": "27",
+        "SPORTS": "22",
+        "TRAVEL": "48",
+        "OTHERS": "34",
+        "FOOD": "32",
+        "NEWS AND MEDIA": "0",
+        "CULTURE": "23",
+        "SHOPPING": "35",
+        "FRIENDS": "45",
+        "RELATIONSHIP": "46",
+        "BUSINESS": "41",
+        "WEATHER": "12"
+    }
+}

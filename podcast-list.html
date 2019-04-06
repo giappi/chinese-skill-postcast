@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Postcast</title>
+    <title>Postcast List</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Chinese Skills">
     <meta name="author" content="Hg">
@@ -40,27 +40,28 @@
 </head>
 
 <body>
-    <div id="postcast">
+    <div id="postcast-list">
     </div>
     <script src="postcast.js"></script>
     <script type="text/javascript">
-    
-    window.onload = function()
+    window.onload = function(e)
     {
-        let URL = document.location.href;
-        let URI = URL.match(/[?&](\w+=\w*)/g);
-        let args = {};
-        for(let i = 0; i < URI.length; i++)
-        {
-            let pair    = URI[i].substring(1).split("=");
-            let name    = pair[0];
-            let value   = pair[1];
-            args[name]  = value;
-        }
-        console.log(args);
-        loadLesson(args.lession, main);
-    };
+        var div = document.getElementById("postcast-list");
+        var ul           = document.createElement("ul");
+        ul.setAttribute("class", "postcast");
+        div.appendChild(ul);
 
+        loadPodcastList(function(data)
+        {
+            for(let lessionId in data)
+            {
+                let lessionMeta = data[lessionId];
+                var li = document.createElement("li");
+                li.innerHTML = `<a href="postcast.html?lession=${lessionMeta.Id}" >${lessionMeta.ST} / ${lessionMeta.ET}</a>`;
+                ul.appendChild(li);
+            }
+        });
+    }
     </script>
 </body>
 </html>
