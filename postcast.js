@@ -2,7 +2,12 @@
 
 function main(data)
 {
+    let wordDetailHTML  = document.getElementById("word-detail");
+    let wordDetailHead  = document.getElementById("detail-headword");
+    let wordDetailPiny  = document.getElementById("detail-pinyin");
+    let wordDetailMean  = document.getElementById("detail-meaning");
     let player          = new Audio();
+    let timeoutDetail   = 0;
     console.log(Object.keys(data.Sents));
     let lesson_content  = Object.keys(data.Sents).map(e => data.Sents[e]);
     let lesson_id       = data.EID;
@@ -10,6 +15,8 @@ function main(data)
     let spans           = [];
     let title_en        = data.TRE;
     let title_cn        = data.ST;
+    
+
     for(let lineId in lesson_content)
     {
 
@@ -27,8 +34,7 @@ function main(data)
         sentenceHTML.push(playSentButton);
         playSentButton.onclick = function(e)
         {
-            player.src = "podcast/" + lesson_id + "/audio/" + lesson_id + "-2-" + (lineId) + ".m4a";
-            player.play();
+            showDetail("--", "--", sentence_en, "podcast/" + lesson_id + "/audio/" + lesson_id + "-2-" + (lineId) + ".m4a");
             return false;
         };
         for(let wordId in line.Words)
@@ -76,8 +82,7 @@ function main(data)
                 // convert href to onclick
                 span.onclick = function(e)
                 {
-                    player.src=_audio + "";
-                    player.play();
+                    showDetail(text, _pinyin, _meanning, _audio);
                     return false;
                 };
                 if(span.href)
@@ -94,6 +99,7 @@ function main(data)
     console.log(spans);
     
     var titleElement    = document.getElementById("title");
+    var titleMeaning    = document.getElementById("title-meaning");
     var postcastElement = document.getElementById("postcast");
     var ul              = document.createElement("ul");
     ul.setAttribute("class", "postcast");
@@ -106,12 +112,36 @@ function main(data)
         for(let word of sentence)
         {
             li.appendChild(word);
-            li.appendChild(document.createTextNode("  "));
+            li.appendChild(document.createTextNode(" "));
         }
     }
 
     document.title = title_cn + " / " + title_en;
-    titleElement.innerText = document.title;
+    titleElement.innerHTML = `<span class="chinese">${title_cn}</span>`;
+    titleMeaning.innerHTML = `<span>${title_en}</span>`;
+
+    /**
+     * FUNCTION AREA
+     */
+
+    function showDetail(headword, pinyin, meaning, audio)
+    {
+        // Play audio
+        player.src = audio;
+        player.play();
+
+        // Set content for detail
+        wordDetailHead.innerText = headword;
+        wordDetailPiny.innerText = pinyin;
+        wordDetailMean.innerText = meaning;
+
+        // Show detail
+        wordDetailHTML.style.display = "block";
+
+        // Set time to hide detail
+        clearTimeout(timeoutDetail);
+
+    }
 
 }
 

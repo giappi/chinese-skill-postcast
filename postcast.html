@@ -15,12 +15,20 @@
     <link rel="stylesheet" href="web/fonts/font.css" type="text/css" />
     <style>
 
+        .chinese
+        {
+            font-family: "KaiTi";
+            font-weight: normal;
+            text-shadow: 0px 0px 1px #4400DD;
+        }
+
         .word
         {
             color: #4400DD;
             cursor: pointer;
             border-bottom: 1px dotted #000000;
             font-family: "KaiTi";
+            text-shadow: 0px 0px 1px #4400DD;
         }
 
         .clickable
@@ -37,18 +45,68 @@
             font-size: 16pt;
             width: auto;
         }
-        
+
         ul.postcast > li
         {
             border-bottom: 1px solid #EEEEEE;
+        }
+
+        #word-detail
+        {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: #EEEEFF;
+            display: none;
+            padding: 5px;
+            padding-left: 10px;
+            
+        }
+
+        #detail-headword
+        {
+            font-size: 32pt;
+            display: flex;
+            align-items: center;
+        }
+
+        #detail-pinyin
+        {
+            display: flex;
+            align-items: center;
+            /*justify-content: center;*/
+            font-size: small;
+            
+        }
+
+        #detail-meaning
+        {
+            display: flex;
+            align-items: center;
         }
 
     </style>
 </head>
 
 <body>
-    <h2 id="title">{{Podcast Title}}</h2>
+    <h1 id="title" style="margin: 9px;">{{Podcast Title}}</h1>
+    <h5 id="title-meaning" style="margin: 9px;" >{{Title Meaning}}</h5>
     <div id="postcast">
+    </div>
+    <div id="word-detail" >
+        <div class="column-left" style="height:100%; float:left;" >
+            <div style="float: left;" >
+                <div id="detail-headword" class="chinese" >{{HEAD}}</div>
+                <div id="detail-pinyin" >{{pinyin}}</div>
+            </div>
+            <div style="clear:both;" ></div>
+            <div id="detail-meaning" >{{meaning}}</div>
+        </div>
+        <div style="height:100%; width: 48px; float:right;" >
+            <div id="detail-close" style="width: 24px; height: 24px; border: 1px dotted #808080; font-weight:bold; display: flex; align-items: center; justify-content: center;" >×</div>
+        </div>
+        <div style="clear:both;" ></div>
     </div>
     <script src="postcast.js"></script>
     <script type="text/javascript">
