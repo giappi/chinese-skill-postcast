@@ -26,7 +26,7 @@ function main(data)
         }
 
         let line            = lesson_content[lineId];
-        let sentence_en     = line.STRE;
+        let sentence_en     = line.vi ? line.vi : line.STRE;
         let sentenceHTML    = [];
         var playSentButton  = document.createElement("span");
         playSentButton.appendChild(document.createTextNode("[►]"));
