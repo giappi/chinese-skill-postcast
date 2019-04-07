@@ -16,7 +16,6 @@ function main(data)
     let spans           = [];
     let title_en        = data.TRE;
     let title_cn        = data.ST;
-    
 
     for(let lineId in lesson_content)
     {
@@ -96,9 +95,7 @@ function main(data)
         
         spans.push(sentenceHTML);
     }
-    
-    console.log(spans);
-    
+
     var titleElement    = document.getElementById("title");
     var titleMeaning    = document.getElementById("title-meaning");
     var postcastElement = document.getElementById("postcast");
@@ -128,7 +125,10 @@ function main(data)
     function showDetail(headword, pinyin, meaning, audio)
     {
         // Play audio
-        player.src = audio;
+        if(audio != player.src)
+        {
+            player.src = audio;
+        }
         player.play();
 
         // Set content for detail
