@@ -6,6 +6,7 @@ function main(data)
     let wordDetailHead  = document.getElementById("detail-headword");
     let wordDetailPiny  = document.getElementById("detail-pinyin");
     let wordDetailMean  = document.getElementById("detail-meaning");
+    let wordDetailClose = document.getElementById("detail-close");
     let player          = new Audio();
     let timeoutDetail   = 0;
     console.log(Object.keys(data.Sents));
@@ -34,7 +35,7 @@ function main(data)
         sentenceHTML.push(playSentButton);
         playSentButton.onclick = function(e)
         {
-            showDetail("--", "--", sentence_en, "podcast/" + lesson_id + "/audio/" + lesson_id + "-2-" + (lineId) + ".m4a");
+            showDetail("", "", sentence_en, "podcast/" + lesson_id + "/audio/" + lesson_id + "-2-" + (lineId) + ".m4a");
             return false;
         };
         for(let wordId in line.Words)
@@ -141,6 +142,11 @@ function main(data)
         // Set time to hide detail
         clearTimeout(timeoutDetail);
 
+    }
+    
+    wordDetailClose.onclick = function hideDetail()
+    {
+        wordDetailHTML.style.display = "none";
     }
 
 }
