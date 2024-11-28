@@ -63,7 +63,7 @@ function main(data)
                     span.setAttribute(attr, word[attr]);
                 }
 
-                let _audio          = "audio/chinese_word_m4a/" + (_pinyin + "").replace("'", "-") + ".m4a";
+                let _audio          = "audio/chinese_words_m4a/" + (_pinyin + "").replace("'", "-") + ".m4a";
                 let elementAttrs    = 
                 {
                     "class" :       _isWord ? "word" : "",
