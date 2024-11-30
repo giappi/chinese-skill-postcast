@@ -1,0 +1,34 @@
+{
+    "ST": "那个男人是谁？",
+    "TV": "Người đàn ông đó là ai?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：那个男人是谁？",
+            "STRV": "Người đàn ông đó là ai?"
+        },
+        "2": {
+            "STRC": "B：哪个男人？",
+            "STRV": "Người đàn ông nào?"
+        },
+        "3": {
+            "STRC": "A：那个穿黑色西装的男人。",
+            "STRV": "Người đàn ông mặc bộ vest đen đó."
+        },
+        "4": {
+            "STRC": "B：那儿有两位穿黑色西装的男人。",
+            "STRV": "Ở đó có hai người đàn ông mặc vest đen."
+        },
+        "5": {
+            "STRC": "A：那个穿黑色西装打红色领带的男人。",
+            "STRV": "Người đàn ông mặc vest đen thắt cà vạt đỏ."
+        },
+        "6": {
+            "STRC": "B：哦，那位是我们公司的总经理。",
+            "STRV": "Ồ, đó là tổng giám đốc công ty chúng tôi."
+        }
+    }
+}

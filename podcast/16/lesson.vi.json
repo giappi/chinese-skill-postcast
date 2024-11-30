@@ -1,0 +1,30 @@
+{
+    "ST": "生日快乐",
+    "TV": "Chúc mừng sinh nhật",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：高平，生日快乐！",
+            "STRV": "A: Cao Bình, chúc mừng sinh nhật!"
+        },
+        "2": {
+            "STRC": "B：今天不是我的生日。",
+            "STRV": "B: Hôm nay không phải sinh nhật của tôi."
+        },
+        "3": {
+            "STRC": "A：今天是1月9号啊！",
+            "STRV": "A: Hôm nay là ngày 9 tháng 1 mà!"
+        },
+        "4": {
+            "STRC": "B：今天是1月9号，",
+            "STRV": "B: Hôm nay là ngày 9 tháng 1,"
+        },
+        "5": {
+            "STRC": "B：可是我的生日是11月9号！",
+            "STRV": "B: Nhưng sinh nhật của tôi là ngày 9 tháng 11!"
+        }
+    }
+}

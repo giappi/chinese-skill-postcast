@@ -26,9 +26,33 @@
         {
             color: #4400DD;
             cursor: pointer;
-            border-bottom: 1px dotted #000000;
+            border-bottom: 1pt dotted #000000;
             font-family: "KaiTi";
             text-shadow: 0px 0px 1px #4400DD;
+            /*position: relative;*/
+        }
+
+        .word:hover
+        {
+            background-color: #DDDDFF;
+        }
+
+        /* span[title]:hover::after */
+        ._word::after
+        {
+            content: attr(py);
+            position: absolute;
+            bottom: 107%;
+            left: 0;
+            background-color: #FFCCCC;
+            color: #000000;
+            font-family: "Times New Roman";
+            font-size: small;
+            text-shadow: none;
+            /* box-shadow: 0px 0px 7px #000000; */
+            padding: 3px;
+            width: 100pt;
+            white-space: pre-wrap;
         }
 
         .clickable
@@ -62,7 +86,6 @@
             padding: 5px;
             padding-left: 10px;
             box-sizing: border-box;
-            
         }
 
         #detail-headword
@@ -92,7 +115,7 @@
 
 <body>
     <h1 id="title" style="margin: 9px;">{{Podcast Title}}</h1>
-    <h5 id="title-meaning" style="margin: 9px;" >{{Title Meaning}}</h5>
+    <h4 id="title-meaning" style="margin: 9px;" >{{Title Meaning}}</h4>
     <div id="postcast">
     </div>
     <div id="word-detail" >

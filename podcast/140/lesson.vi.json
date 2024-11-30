@@ -1,0 +1,30 @@
+{
+    "ST": "请问，更衣室在哪里？",
+    "TV": "Xin hỏi, phòng thay đồ ở đâu?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：你好，请问，更衣室在哪里？",
+            "STRV": "A: Xin chào, phòng thay đồ ở đâu vậy?"
+        },
+        "2": {
+            "STRC": "B：直走，右拐是女更衣室，左拐是男更衣室。",
+            "STRV": "B: Đi thẳng, rẽ phải là phòng thay đồ nữ, rẽ trái là phòng thay đồ nam."
+        },
+        "3": {
+            "STRC": "A：请问，更衣室里有浴巾吗？",
+            "STRV": "A: Xin hỏi, trong phòng thay đồ có khăn tắm không?"
+        },
+        "4": {
+            "STRC": "B：没有，服务台有浴巾。",
+            "STRV": "B: Không có, khăn tắm ở quầy dịch vụ."
+        },
+        "5": {
+            "STRC": "A：谢谢！",
+            "STRV": "A: Cảm ơn!"
+        }
+    }
+}

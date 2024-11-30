@@ -1,0 +1,50 @@
+{
+    "ST": "租房",
+    "TV": "Thuê nhà",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：你好，我想租房。",
+            "STRV": "A: Xin chào, tôi muốn thuê nhà."
+        },
+        "2": {
+            "STRC": "B：请问您想租怎样的房子？",
+            "STRV": "B: Xin hỏi, bạn muốn thuê nhà như thế nào?"
+        },
+        "3": {
+            "STRC": "A：我想租一套两室一厅的房子，",
+            "STRV": "A: Tôi muốn thuê một căn nhà hai phòng ngủ, một phòng khách,"
+        },
+        "4": {
+            "STRC": "A：最好离地铁站近一些，",
+            "STRV": "A: Tốt nhất là gần ga tàu điện ngầm một chút,"
+        },
+        "5": {
+            "STRC": "A：周围有超市和菜市场。",
+            "STRV": "A: Xung quanh có siêu thị và chợ."
+        },
+        "6": {
+            "STRC": "B：这样的房子都不便宜。",
+            "STRV": "B: Những căn nhà như vậy không rẻ đâu."
+        },
+        "7": {
+            "STRC": "A：一个月多少钱？",
+            "STRV": "A: Một tháng bao nhiêu tiền?"
+        },
+        "8": {
+            "STRC": "B：我们有一套这样的房子，一个月三千块。",
+            "STRV": "B: Chúng tôi có một căn như vậy, giá 3.000 tệ một tháng."
+        },
+        "9": {
+            "STRC": "A：好的，我现在能看看吗？",
+            "STRV": "A: Được, bây giờ tôi có thể xem được không?"
+        },
+        "10": {
+            "STRC": "B：没问题，请跟我来。",
+            "STRV": "B: Không vấn đề gì, xin mời đi theo tôi."
+        }
+    }
+}

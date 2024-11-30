@@ -1,0 +1,94 @@
+{
+    "ST": "参加前男友的婚礼",
+    "TV": "Tham dự đám cưới bạn trai cũ",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A:上周末你干什么了？",
+            "STRV": "A: Cuối tuần trước bạn làm gì thế?"
+        },
+        "2": {
+            "STRC": "B:我去参加杨光的婚礼了。",
+            "STRV": "B: Tôi đã đi dự đám cưới của Dương Quang."
+        },
+        "3": {
+            "STRC": "A:杨光？你的前男友？",
+            "STRV": "A: Dương Quang? Bạn trai cũ của bạn à?"
+        },
+        "4": {
+            "STRC": "B:没错，是他。",
+            "STRV": "B: Đúng vậy, là anh ấy."
+        },
+        "5": {
+            "STRC": "A:他竟然请你去参加他的婚礼？",
+            "STRV": "A: Anh ấy lại mời bạn đến dự đám cưới của mình sao?"
+        },
+        "6": {
+            "STRC": "B:是啊，他能请我去，我挺高兴的。",
+            "STRV": "B: Đúng vậy, anh ấy mời tôi, tôi rất vui."
+        },
+        "7": {
+            "STRC": "B:我们的事已经过去了，",
+            "STRV": "B: Chuyện của chúng tôi đã qua rồi,"
+        },
+        "8": {
+            "STRC": "B:现在我们是朋友了。",
+            "STRV": "B: Giờ chúng tôi là bạn bè."
+        },
+        "9": {
+            "STRC": "A:你告诉过我当初你们分手是不得已的，",
+            "STRV": "A: Bạn từng nói với tôi rằng hồi đó hai người chia tay là bất đắc dĩ,"
+        },
+        "10": {
+            "STRC": "A:而且我总觉得你还是挺在乎他的。",
+            "STRV": "A: Và tôi luôn cảm thấy bạn vẫn rất quan tâm đến anh ấy."
+        },
+        "11": {
+            "STRC": "B:其实我们第一次要分手的时候，",
+            "STRV": "B: Thật ra, lần đầu tiên chúng tôi định chia tay,"
+        },
+        "12": {
+            "STRC": "B:我努力挽回过，",
+            "STRV": "B: Tôi đã cố gắng níu kéo,"
+        },
+        "13": {
+            "STRC": "B:但是再也回不去从前了。",
+            "STRV": "B: Nhưng không thể quay lại như trước được nữa."
+        },
+        "14": {
+            "STRC": "B:我们都得重新开始自己的生活，",
+            "STRV": "B: Cả hai chúng tôi đều phải bắt đầu cuộc sống mới,"
+        },
+        "15": {
+            "STRC": "B:我真心希望他幸福。",
+            "STRV": "B: Tôi thật lòng mong anh ấy hạnh phúc."
+        },
+        "16": {
+            "STRC": "A:哦，原来是这样。他的婚礼怎么样？",
+            "STRV": "A: Ồ, thì ra là vậy. Đám cưới của anh ấy thế nào?"
+        },
+        "17": {
+            "STRC": "B:非常好！他和新娘挺般配的。",
+            "STRV": "B: Rất tuyệt! Anh ấy và cô dâu rất xứng đôi."
+        },
+        "18": {
+            "STRC": "A:看到他们在一起你不难过吗？",
+            "STRV": "A: Nhìn họ ở bên nhau bạn không buồn sao?"
+        },
+        "19": {
+            "STRC": "B:一点也不啊，特别是当我遇到李明之后。",
+            "STRV": "B: Một chút cũng không, nhất là sau khi tôi gặp Lý Minh."
+        },
+        "20": {
+            "STRC": "A:李明是谁啊？",
+            "STRV": "A: Lý Minh là ai vậy?"
+        },
+        "21": {
+            "STRC": "A:你都瞒着我，快说来听听！",
+            "STRV": "A: Bạn giấu tôi đấy, mau kể cho tôi nghe đi!"
+        }
+    }
+}

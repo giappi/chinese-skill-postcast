@@ -1,0 +1,85 @@
+{
+    "ST": "买机票",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A:您好，请问有什么可以帮您？",
+            "STRV": "A: Xin chào, tôi có thể giúp gì cho bạn?"
+        },
+        "2": {
+            "STRC": "B:你好，我要三张去厦门的机票。",
+            "STRV": "B: Chào bạn, tôi muốn mua ba vé máy bay đi Hạ Môn."
+        },
+        "3": {
+            "STRC": "A:请问您从北京出发吗？",
+            "STRV": "A: Xin hỏi, bạn khởi hành từ Bắc Kinh phải không?"
+        },
+        "4": {
+            "STRC": "B:是的。",
+            "STRV": "B: Đúng vậy."
+        },
+        "5": {
+            "STRC": "A:您要买几号的票？",
+            "STRV": "A: Bạn muốn mua vé ngày mấy?"
+        },
+        "6": {
+            "STRC": "B:十月一号吧。",
+            "STRV": "B: Ngày 1 tháng 10 nhé."
+        },
+        "7": {
+            "STRC": "A:十月一号下午两点的可以吗？",
+            "STRV": "A: Ngày 1 tháng 10 lúc 2 giờ chiều được không?"
+        },
+        "8": {
+            "STRC": "B:可以。请问从北京到厦门要几个小时？",
+            "STRV": "B: Được. Xin hỏi từ Bắc Kinh đến Hạ Môn mất mấy tiếng?"
+        },
+        "9": {
+            "STRC": "A:大约两个半小时。",
+            "STRV": "A: Khoảng hai tiếng rưỡi."
+        },
+        "10": {
+            "STRC": "A:经济舱吗？",
+            "STRV": "A: Hạng phổ thông phải không?"
+        },
+        "11": {
+            "STRC": "B:是的，经济舱。",
+            "STRV": "B: Đúng rồi, hạng phổ thông."
+        },
+        "12": {
+            "STRC": "A:单程还是往返？",
+            "STRV": "A: Vé một chiều hay khứ hồi?"
+        },
+        "13": {
+            "STRC": "B:单程。",
+            "STRV": "B: Một chiều."
+        },
+        "14": {
+            "STRC": "A:十月一日下午两点，从北京到厦门，",
+            "STRV": "A: Ngày 1 tháng 10 lúc 2 giờ chiều, từ Bắc Kinh đến Hạ Môn,"
+        },
+        "15": {
+            "STRC": "A:三张经济舱单程票，对吗？",
+            "STRV": "A: Ba vé hạng phổ thông một chiều, đúng không?"
+        },
+        "16": {
+            "STRC": "B:对。",
+            "STRV": "B: Đúng rồi."
+        },
+        "17": {
+            "STRC": "A:这是您的机票请拿好。",
+            "STRV": "A: Đây là vé máy bay của bạn, xin giữ cẩn thận."
+        },
+        "18": {
+            "STRC": "A:一共三千六百元。",
+            "STRV": "A: Tổng cộng là 3.600 nhân dân tệ."
+        },
+        "19": {
+            "STRC": "B:好的，这是三千六百元，谢谢你。",
+            "STRV": "B: Được, đây là 3.600 nhân dân tệ, cảm ơn bạn."
+        }
+    }
+}

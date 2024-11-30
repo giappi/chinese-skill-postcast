@@ -1,0 +1,82 @@
+{
+    "ST": "致歉",
+    "TV": "Lời xin lỗi",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：高平，实在对不起，让你等了这么久。",
+            "STRV": "Cao Bình, thật sự xin lỗi, để bạn phải đợi lâu như vậy."
+        },
+        "2": {
+            "STRC": "B：你足足迟到了半个小时，",
+            "STRV": "Bạn đã trễ đến nửa tiếng rồi,"
+        },
+        "3": {
+            "STRC": "B：我还以为你不来了。",
+            "STRV": "Tôi còn tưởng bạn không đến nữa."
+        },
+        "4": {
+            "STRC": "A：刚才我临时有事，",
+            "STRV": "Vừa rồi tôi có việc đột xuất,"
+        },
+        "5": {
+            "STRC": "A：手机又没电了，没能给你打电话，",
+            "STRV": "Điện thoại lại hết pin, không thể gọi cho bạn được,"
+        },
+        "6": {
+            "STRC": "A：真是太不好意思了。",
+            "STRV": "Thật sự rất ngại."
+        },
+        "7": {
+            "STRC": "B：没事，这次就原谅你了，下不为例啊。",
+            "STRV": "Không sao, lần này tôi tha thứ cho bạn, nhưng đừng để có lần sau nhé."
+        },
+        "8": {
+            "STRC": "A：好，我下次一定准时到。",
+            "STRV": "Được, lần sau tôi nhất định sẽ đến đúng giờ."
+        },
+        "9": {
+            "STRC": "A：为了表示我的歉意，这顿饭我请吧。",
+            "STRV": "Để bày tỏ lời xin lỗi, bữa ăn này tôi mời nhé."
+        },
+        "10": {
+            "STRC": "B：好啊。不过，我有一个秘密要告诉你。",
+            "STRV": "Được thôi. Nhưng tôi có một bí mật muốn nói với bạn."
+        },
+        "11": {
+            "STRC": "A：什么秘密？",
+            "STRV": "Bí mật gì vậy?"
+        },
+        "12": {
+            "STRC": "B：其实我也迟到了，我刚来五分钟。",
+            "STRV": "Thật ra tôi cũng đến trễ, tôi mới đến được năm phút thôi."
+        },
+        "13": {
+            "STRC": "B：路上堵车，我一直打你电话，但是没有人接。",
+            "STRV": "Đường bị kẹt xe, tôi đã gọi điện cho bạn suốt nhưng không ai nghe máy."
+        },
+        "14": {
+            "STRC": "A：乐乐，你居然骗我！",
+            "STRV": "Lạc Lạc, bạn dám lừa tôi!"
+        },
+        "15": {
+            "STRC": "A：我以为你等了很长时间呢。",
+            "STRV": "Tôi cứ tưởng bạn đã chờ rất lâu rồi."
+        },
+        "16": {
+            "STRC": "B：跟你开个玩笑嘛，别生气。",
+            "STRV": "Đùa với bạn một chút thôi mà, đừng giận nhé."
+        },
+        "17": {
+            "STRC": "B：既然我们都迟到了，这顿饭就不用你请了，",
+            "STRV": "Vì cả hai chúng ta đều đến trễ, bữa này không cần bạn mời đâu,"
+        },
+        "18": {
+            "STRC": "B：我们还是AA吧。",
+            "STRV": "Chúng ta cứ chia đôi đi."
+        }
+    }
+}

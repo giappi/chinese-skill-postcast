@@ -1,0 +1,26 @@
+{
+    "ST": "你学英语多久了？",
+    "TV": "Bạn học tiếng Anh bao lâu rồi?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：高平，你学英语学了多久？",
+            "STRV": "Cao Bình, bạn học tiếng Anh bao lâu rồi?"
+        },
+        "2": {
+            "STRC": "B：差不多六年了。",
+            "STRV": "Gần 6 năm rồi."
+        },
+        "3": {
+            "STRC": "A：多长时间学一次？",
+            "STRV": "Bao lâu thì bạn học một lần?"
+        },
+        "4": {
+            "STRC": "B：以前每周学两次，现在每周一次。",
+            "STRV": "Trước đây mỗi tuần học hai lần, bây giờ mỗi tuần một lần."
+        }
+    }
+}

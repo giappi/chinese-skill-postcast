@@ -1,0 +1,110 @@
+{
+    "ST": "不同年龄的人",
+    "TV": "Những người thuộc các độ tuổi khác nhau",
+    "Sents": {
+        "1": {
+            "STRC": "A：高平，你发现没，",
+            "STRV": "Cao Bình, bạn có nhận ra không,"
+        },
+        "2": {
+            "STRC": "A：咱们这个旅行团里的团员都很特别。",
+            "STRV": "những thành viên trong đoàn du lịch của chúng ta đều rất đặc biệt."
+        },
+        "3": {
+            "STRC": "B：是嘛？我没注意。",
+            "STRV": "Thật sao? Mình không để ý."
+        },
+        "4": {
+            "STRC": "A：你看到那对三十多岁的夫妻了吗？",
+            "STRV": "Bạn có thấy cặp vợ chồng ngoài 30 kia không?"
+        },
+        "5": {
+            "STRC": "A：他们竟然带着不满一个月的小婴儿出来旅游！",
+            "STRV": "Họ lại dẫn theo một em bé chưa đầy một tháng tuổi đi du lịch!"
+        },
+        "6": {
+            "STRC": "B：那他们总不能自己出来旅游，",
+            "STRV": "Thì họ đâu thể tự đi du lịch,"
+        },
+        "7": {
+            "STRC": "B：把宝宝放在家里吧？",
+            "STRV": "để em bé ở nhà được chứ?"
+        },
+        "8": {
+            "STRC": "A：还有那几个老爷爷老奶奶，",
+            "STRV": "Còn mấy ông bà cụ kia nữa,"
+        },
+        "9": {
+            "STRC": "A：我看他们都有七八十岁了吧，",
+            "STRV": "mình đoán họ cũng phải 70, 80 tuổi rồi,"
+        },
+        "10": {
+            "STRC": "A：腿脚都不怎么利落了。",
+            "STRV": "chân tay cũng không còn nhanh nhẹn nữa."
+        },
+        "11": {
+            "STRC": "B：如果我到了七八十岁的时候，",
+            "STRV": "Nếu mình 70, 80 tuổi,"
+        },
+        "12": {
+            "STRC": "B：我也喜欢和朋友一起出去走走。",
+            "STRV": "mình cũng muốn đi chơi cùng bạn bè."
+        },
+        "13": {
+            "STRC": "A：我最受不了的是那对五十多岁的夫妻。",
+            "STRV": "Mình chịu không nổi cặp vợ chồng ngoài 50 kia."
+        },
+        "14": {
+            "STRC": "A：他们居然带了四个十来岁的孩子出来旅行。",
+            "STRV": "Họ dẫn theo bốn đứa trẻ khoảng mười mấy tuổi đi du lịch."
+        },
+        "15": {
+            "STRC": "A：这几个孩子，",
+            "STRV": "Mấy đứa này,"
+        },
+        "16": {
+            "STRC": "A：个个都是找麻烦的高手！",
+            "STRV": "đứa nào cũng là chuyên gia gây rắc rối!"
+        },
+        "17": {
+            "STRC": "B：十几岁的孩子都是这样，",
+            "STRV": "Trẻ mười mấy tuổi thì đều như vậy,"
+        },
+        "18": {
+            "STRC": "B：活泼好动。",
+            "STRV": "hiếu động và nghịch ngợm."
+        },
+        "19": {
+            "STRC": "A：唯一比较安静的是那个四十出头的女人，",
+            "STRV": "Người duy nhất khá yên tĩnh là người phụ nữ hơn 40 tuổi kia,"
+        },
+        "20": {
+            "STRC": "A：她是一个人出来旅游的。",
+            "STRV": "cô ấy đi du lịch một mình."
+        },
+        "21": {
+            "STRC": "A：可是她的样子看起来很难相处。",
+            "STRV": "Nhưng vẻ ngoài của cô ấy trông rất khó gần."
+        },
+        "22": {
+            "STRC": "B：她只是不大爱说话，也许人很好呢？",
+            "STRV": "Cô ấy chỉ ít nói thôi, có khi lại là người rất tốt đấy?"
+        },
+        "23": {
+            "STRC": "A：哎，要是这群人里有和我们一个年龄段的年轻人就好了。",
+            "STRV": "Chà, giá như trong đoàn có ai đó trẻ cùng độ tuổi với chúng ta thì hay quá."
+        },
+        "24": {
+            "STRC": "A：我还是喜欢和同龄人一起旅行。",
+            "STRV": "Mình vẫn thích đi du lịch với những người đồng trang lứa hơn."
+        },
+        "25": {
+            "STRC": "B：我觉得多接触不同年龄的人我们也会有不同的收获啊！",
+            "STRV": "Mình nghĩ tiếp xúc với những người ở độ tuổi khác nhau sẽ mang lại nhiều trải nghiệm thú vị!"
+        },
+        "26": {
+            "STRC": "B：你不觉得这也是旅行的乐趣所在吗？",
+            "STRV": "Bạn không thấy đó cũng là niềm vui của việc đi du lịch sao?"
+        }
+    }
+}

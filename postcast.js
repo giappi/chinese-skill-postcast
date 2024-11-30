@@ -16,6 +16,7 @@ function main(data)
     let spans           = [];
     let title_en        = data.TRE;
     let title_cn        = data.ST;
+    let title_vi        = data.TV;
 
     for(let lineId in lesson_content)
     {
@@ -26,7 +27,8 @@ function main(data)
         }
 
         let line            = lesson_content[lineId];
-        let sentence_en     = line.vi ? line.vi : line.STRE;
+        let sentence_en     = line.vi || line.STRV || line.STRE;
+        let sentence_py     = [];
         let sentenceHTML    = [];
         var playSentButton  = document.createElement("span");
         playSentButton.appendChild(document.createTextNode("[►]"));
@@ -34,7 +36,10 @@ function main(data)
         sentenceHTML.push(playSentButton);
         playSentButton.onclick = function(e)
         {
-            showDetail("", "", sentence_en, "podcast/" + lesson_id + "/audio/" + lesson_id + "-2-" + (lineId) + ".m4a");
+            showDetail("",
+                    sentence_py.join(' ').replace(/^(A|B)\s*(:|：)\s*/, ''),
+                    sentence_en.replace(/^(A|B)\s*(:|：)\s*/, ''),
+                    "podcast/" + lesson_id + "/audio/" + lesson_id + "-2-" + (lineId) + ".m4a");
             return false;
         };
         for(let wordId in line.Words)
@@ -50,7 +55,9 @@ function main(data)
             let _meanning   = word.EN;
             let text        = word.SW;
 
-            var span = document.createElement("span");
+            sentence_py.push(_pinyin || text.replace(/，|。/, m => ',.'['，。'.indexOf(m)] + ' '));
+
+            let span = document.createElement("span");
             span.appendChild(document.createTextNode(text));
 
             let _isWord     = _pinyin != "";
@@ -68,7 +75,7 @@ function main(data)
                 {
                     "class" :       _isWord ? "word" : "",
                     "href"  :       _isWord ? _audio : "",
-                    "title" :       _pinyin + " / " + _meanning
+                    "title" :       `[${_pinyin}]\n${_meanning}`
                 };
 
                 for(let attr in elementAttrs)
@@ -114,9 +121,9 @@ function main(data)
         }
     }
 
-    document.title = title_cn + " / " + title_en;
+    document.title = title_cn + " / " + (title_vi || title_en);
     titleElement.innerHTML = `<span class="chinese">${title_cn}</span>`;
-    titleMeaning.innerHTML = `<span>${title_en}</span>`;
+    titleMeaning.innerHTML = `<span>${(title_vi || title_en)}</span>`;
 
     /**
      * FUNCTION AREA
@@ -152,20 +159,29 @@ function main(data)
 }
 
 
-function loadData(url, callback)
+function loadData(url, callback, onDone)
 {
-    $.get(url, function(response)
+    return $.get(url, function(response)
     {
         callback(response);
-    });
+    }).always(onDone);
 }
 
 
 function loadLesson(id, callback)
 {
+    let merged = {};
     loadData("podcast/" + id + "/lesson.json", function(data)
     {
-        callback(data);
+        merged = data;
+        loadData("podcast/" + id + "/lesson.vi.json", function(data2)
+        {
+            merged = mergeDeep(data, data2);
+        }, function onDone()
+        {
+            console.log("onDone");
+            callback(merged);
+        });
     });
 }
 
@@ -176,4 +192,45 @@ function loadPodcastList(callback)
     {
         callback(data);
     });
+}
+
+/**
+ * Simple object check.
+ * @param item
+ * @returns {boolean}
+ */
+function isObject(item)
+{
+  return (item && typeof item === 'object' && !Array.isArray(item));
+}
+
+/**
+ * Deep merge two objects.
+ * @param target
+ * @param ...sources
+ */
+function mergeDeep(target, ...sources)
+{
+  if (!sources.length)
+    return target;
+  const source = sources.shift();
+
+  if (isObject(target) && isObject(source))
+  {
+    for (const key in source)
+    {
+      if (isObject(source[key]))
+      {
+        if (!target[key]) 
+          Object.assign(target, { [key]: {} });
+        mergeDeep(target[key], source[key]);
+      }
+      else
+      {
+        Object.assign(target, { [key]: source[key] });
+      }
+    }
+  }
+
+  return mergeDeep(target, ...sources);
 }

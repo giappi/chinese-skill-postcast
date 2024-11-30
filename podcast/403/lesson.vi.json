@@ -1,0 +1,258 @@
+{
+    "ST": "小费",
+    "TV": "Tiền boa",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：李丽，你要环球旅行呀，",
+            "STRV": "A: Lý Lệ, bạn định đi du lịch vòng quanh thế giới sao?"
+        },
+        "2": {
+            "STRC": "A：怎么满屋子都是各种各样吃的、穿的、用的？",
+            "STRV": "A: Sao trong nhà lại đầy đủ thứ đồ ăn, đồ mặc, đồ dùng thế này?"
+        },
+        "3": {
+            "STRC": "B：我后天要去美国看我妹妹，",
+            "STRV": "B: Ngày kia tôi sẽ sang Mỹ thăm em gái tôi."
+        },
+        "4": {
+            "STRC": "B：所以给她带一些国内的日用品过去。",
+            "STRV": "B: Vì vậy tôi mang một số đồ dùng hàng ngày ở trong nước qua cho cô ấy."
+        },
+        "5": {
+            "STRC": "A：看你这大包小包的，带的东西还真不少呢，",
+            "STRV": "A: Nhìn bạn mang theo nhiều túi lớn túi nhỏ thế này, thật không ít đồ nhỉ."
+        },
+        "6": {
+            "STRC": "A：需要我帮忙吗？",
+            "STRV": "A: Bạn có cần tôi giúp không?"
+        },
+        "7": {
+            "STRC": "B：没事，我马上就收拾好了。",
+            "STRV": "B: Không sao, tôi sắp xong ngay rồi."
+        },
+        "8": {
+            "STRC": "B：哦，对了，高平，听说你经常到美国出差？",
+            "STRV": "B: Ồ, đúng rồi, Cao Bình, nghe nói bạn thường xuyên đi công tác ở Mỹ?"
+        },
+        "9": {
+            "STRC": "A：谈不上经常，只是去过几次。",
+            "STRV": "A: Không thể nói là thường xuyên, chỉ là đã đi vài lần."
+        },
+        "10": {
+            "STRC": "B：太好了，那你一定对那边的情况很熟悉吧？",
+            "STRV": "B: Tốt quá, vậy bạn chắc chắn rất quen thuộc với tình hình bên đó rồi nhỉ?"
+        },
+        "11": {
+            "STRC": "A：马马虎虎吧。",
+            "STRV": "A: Cũng tàm tạm thôi."
+        },
+        "12": {
+            "STRC": "B：这是我第一次去美国。",
+            "STRV": "B: Đây là lần đầu tiên tôi đến Mỹ."
+        },
+        "13": {
+            "STRC": "B：听说在美国有付小费的习惯，",
+            "STRV": "B: Nghe nói ở Mỹ có thói quen trả tiền boa,"
+        },
+        "14": {
+            "STRC": "B：但是我对“付小费”只是一知半解，",
+            "STRV": "B: Nhưng tôi chỉ biết một chút về việc 'trả tiền boa',"
+        },
+        "15": {
+            "STRC": "B：你知道，我们国内也没有付小费的习惯。",
+            "STRV": "B: Bạn biết đấy, ở trong nước chúng ta không có thói quen trả tiền boa."
+        },
+        "16": {
+            "STRC": "B：你跟我说说具体情况呗，免得我到时候丢人现眼。",
+            "STRV": "B: Bạn nói rõ cho tôi biết nhé, để tránh lúc đó tôi bị mất mặt."
+        },
+        "17": {
+            "STRC": "A：呵呵，你平常出的丑还少吗？",
+            "STRV": "A: Haha, bạn bình thường không phải đã đủ làm trò cười rồi sao?"
+        },
+        "18": {
+            "STRC": "B：所以才要请教你嘛。",
+            "STRV": "B: Vì vậy tôi mới phải hỏi bạn mà."
+        },
+        "19": {
+            "STRC": "A：那好吧。小费其实也就是服务费，",
+            "STRV": "A: Vậy được thôi. Tiền boa thực ra chính là phí dịch vụ."
+        },
+        "20": {
+            "STRC": "A：付小费是对服务人员表示感谢的方式。",
+            "STRV": "A: Trả tiền boa là cách thể hiện sự cảm ơn đối với nhân viên phục vụ."
+        },
+        "21": {
+            "STRC": "A：在国外，付小费是一件很平常的事情，随时随地都有可能遇到。",
+            "STRV": "A: Ở nước ngoài, trả tiền boa là chuyện rất bình thường, có thể gặp bất cứ lúc nào."
+        },
+        "22": {
+            "STRC": "B：听上去付小费不像是一件简单的事情。",
+            "STRV": "B: Nghe có vẻ như trả tiền boa không phải là việc đơn giản."
+        },
+        "23": {
+            "STRC": "A：在中国古代有“给赏钱”的习惯，",
+            "STRV": "A: Trong lịch sử Trung Quốc cổ đại có thói quen 'cho tiền thưởng,'"
+        },
+        "24": {
+            "STRC": "A：这个“付小费”和“给赏钱”是一个意思。",
+            "STRV": "A: Việc 'trả tiền boa' và 'cho tiền thưởng' là giống nhau."
+        },
+        "25": {
+            "STRC": "B：给赏钱简单啊，有钱就多给点，没钱就少给点，",
+            "STRV": "B: Cho tiền thưởng thì đơn giản thôi, có tiền thì cho nhiều, không có thì cho ít,"
+        },
+        "26": {
+            "STRC": "B：想给就给，不想给是不是就可以不给了？",
+            "STRV": "B: Muốn cho thì cho, không muốn cho thì chẳng phải là không cần cho sao?"
+        },
+        "27": {
+            "STRC": "A：这“付小费”在国外是有标准的，",
+            "STRV": "A: Việc 'trả tiền boa' ở nước ngoài có tiêu chuẩn rõ ràng."
+        },
+        "28": {
+            "STRC": "A：各国、各地区的比例是不一样的。",
+            "STRV": "A: Ở mỗi quốc gia, mỗi khu vực thì tỷ lệ lại khác nhau."
+        },
+        "29": {
+            "STRC": "A：不是“能省就省”的，",
+            "STRV": "A: Không phải kiểu 'tiết kiệm được thì tiết kiệm',"
+        },
+        "30": {
+            "STRC": "A：不管到了哪个国家，都要向有经验的人了解情况，",
+            "STRV": "A: Bất kể đến quốc gia nào, bạn đều cần hỏi những người có kinh nghiệm để hiểu rõ tình hình."
+        },
+        "31": {
+            "STRC": "A：不能随便给，要“入乡随俗”。",
+            "STRV": "A: Không thể tùy tiện cho, cần phải 'nhập gia tùy tục'."
+        },
+        "32": {
+            "STRC": "B：那在美国，付小费有什么讲究吗？",
+            "STRV": "B: Vậy ở Mỹ, việc trả tiền boa có những điều gì cần lưu ý không?"
+        },
+        "33": {
+            "STRC": "A：我第一次去美国之前，",
+            "STRV": "A: Trước khi tôi lần đầu tiên đến Mỹ,"
+        },
+        "34": {
+            "STRC": "A：也像你一样，在“如何付小费”上面下了不少功夫，",
+            "STRV": "A: Tôi cũng giống bạn, đã bỏ không ít công sức để tìm hiểu về 'cách trả tiền boa'."
+        },
+        "35": {
+            "STRC": "A：其实真正到了美国之后，",
+            "STRV": "A: Nhưng thực ra sau khi tôi đến Mỹ,"
+        },
+        "36": {
+            "STRC": "A：才发现“付小费”真的是一门很高深的学问呢。",
+            "STRV": "A: Mới nhận ra rằng 'trả tiền boa' thực sự là một môn học sâu sắc."
+        },
+        "37": {
+            "STRC": "A：无论是在餐馆、旅店还是生活中的其他方方面面，",
+            "STRV": "A: Dù là ở nhà hàng, khách sạn hay trong các khía cạnh khác của cuộc sống,"
+        },
+        "38": {
+            "STRC": "A：只要是有人为你服务了，那都是需要付小费的。",
+            "STRV": "A: Chỉ cần có người phục vụ bạn, thì bạn đều cần trả tiền boa."
+        },
+        "39": {
+            "STRC": "B：那岂不是要花很多钱在付小费上啊，给多少才算合适呢？",
+            "STRV": "B: Vậy chẳng phải sẽ tốn rất nhiều tiền cho việc trả tiền boa sao? Cho bao nhiêu thì được xem là hợp lý?"
+        },
+        "40": {
+            "STRC": "A：美国的小费额度一般在消费额的15%～20%之间。",
+            "STRV": "A: Mức tiền boa ở Mỹ thường dao động trong khoảng 15%-20% của số tiền tiêu dùng."
+        },
+        "41": {
+            "STRC": "A：在机场的时候，如果有人帮你拿行李的话，",
+            "STRV": "A: Khi ở sân bay, nếu có người giúp bạn xách hành lý,"
+        },
+        "42": {
+            "STRC": "A：为了答谢别人，你最好也付小费。",
+            "STRV": "A: Để cảm ơn họ, tốt nhất bạn cũng nên trả tiền boa."
+        },
+        "43": {
+            "STRC": "A：小费一般在1-2美元即可，",
+            "STRV": "A: Tiền boa thường chỉ khoảng 1-2 đô là đủ."
+        },
+        "44": {
+            "STRC": "A：如果服务特别好的话，你可以多付一点。",
+            "STRV": "A: Nếu dịch vụ đặc biệt tốt, bạn có thể cho thêm một chút."
+        },
+        "45": {
+            "STRC": "A：住酒店的时候，要给帮忙拿行李的、打扫的服务员一些小费，",
+            "STRV": "A: Khi ở khách sạn, bạn cần trả tiền boa cho người giúp xách hành lý hoặc nhân viên dọn phòng."
+        },
+        "46": {
+            "STRC": "A：基本上也就2美元左右。",
+            "STRV": "A: Thường thì khoảng 2 đô la là đủ."
+        },
+        "47": {
+            "STRC": "A：早上出门前还需要在枕头上放上1美元小费，答谢别人的服务。",
+            "STRV": "A: Trước khi ra ngoài vào buổi sáng, bạn cũng nên để 1 đô la tiền boa trên gối để cảm ơn sự phục vụ của họ."
+        },
+        "48": {
+            "STRC": "A：如果你住的酒店是很高级的，那么就要给更多。",
+            "STRV": "A: Nếu bạn ở khách sạn cao cấp, thì bạn cần trả nhiều hơn."
+        },
+        "49": {
+            "STRC": "A：另外，我得提醒你了，绝不能给警察或者其他公务人员小费，",
+            "STRV": "A: Ngoài ra, tôi phải nhắc bạn rằng, tuyệt đối không được trả tiền boa cho cảnh sát hoặc các nhân viên công vụ khác."
+        },
+        "50": {
+            "STRC": "A：那可是要闹笑话的。",
+            "STRV": "A: Điều đó sẽ khiến bạn trở thành trò cười đấy."
+        },
+        "51": {
+            "STRC": "B：我觉得自己像“井底之蛙”，",
+            "STRV": "B: Tôi cảm thấy mình giống như 'ếch ngồi đáy giếng',"
+        },
+        "52": {
+            "STRC": "B：现在才知道“付小费”有这么多讲究。",
+            "STRV": "B: Bây giờ mới biết việc 'trả tiền boa' lại có nhiều điều cần lưu ý như vậy."
+        },
+        "53": {
+            "STRC": "A：这样说有点太夸张了，不过还有很多方面我还没有跟你说呢。",
+            "STRV": "A: Nói vậy thì hơi phóng đại, nhưng vẫn còn rất nhiều điều mà tôi chưa nói với bạn đâu."
+        },
+        "54": {
+            "STRC": "B：那有没有人假装不知道偷偷地不给小费呢？",
+            "STRV": "B: Vậy có người nào giả vờ không biết rồi lén lút không trả tiền boa không?"
+        },
+        "55": {
+            "STRC": "A：很多事情都是习惯成自然的，",
+            "STRV": "A: Nhiều chuyện là do thói quen mà thành tự nhiên thôi,"
+        },
+        "56": {
+            "STRC": "A：我在美国餐馆吃饭的时候观察过，",
+            "STRV": "A: Tôi đã từng quan sát khi ăn ở nhà hàng Mỹ,"
+        },
+        "57": {
+            "STRC": "A：每个顾客用完餐，都会自觉地留下足够的小费，才离桌。",
+            "STRV": "A: Mỗi khách hàng sau khi ăn xong đều tự giác để lại đủ tiền boa rồi mới rời bàn."
+        },
+        "58": {
+            "STRC": "B：听你这么一说，“付小费”也体现一个人的修养了。",
+            "STRV": "B: Nghe bạn nói vậy, việc 'trả tiền boa' cũng thể hiện sự lịch sự của một người."
+        },
+        "59": {
+            "STRC": "A：是啊，不过对于美国人来说，你是外国人，",
+            "STRV": "A: Đúng vậy, nhưng đối với người Mỹ, bạn là người nước ngoài,"
+        },
+        "60": {
+            "STRC": "A：就算你到时候闹笑话了，人家也会原谅你的，",
+            "STRV": "A: Cho dù bạn có gây ra trò cười, họ cũng sẽ tha thứ cho bạn."
+        },
+        "61": {
+            "STRC": "A：你也不必过分紧张。",
+            "STRV": "A: Bạn không cần quá căng thẳng đâu."
+        },
+        "62": {
+            "STRC": "B：那我也不能给中国人丢脸呀。",
+            "STRV": "B: Nhưng tôi cũng không thể làm mất mặt người Trung Quốc được."
+        }
+    }
+}

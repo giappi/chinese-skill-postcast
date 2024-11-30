@@ -1,0 +1,46 @@
+{
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：老鼠！",
+            "STRV": "A: Chuột!"
+        },
+        "2": {
+            "STRC": "B：在哪里？",
+            "STRV": "B: Ở đâu?"
+        },
+        "3": {
+            "STRC": "A：藏在冰箱旁边。",
+            "STRV": "A: Trốn ở bên cạnh cái tủ lạnh."
+        },
+        "4": {
+            "STRC": "A：啊！跑了，跑了，在餐桌下面。",
+            "STRV": "A: A! Chạy rồi! Chạy rồi! Đang ở dưới gầm bàn ăn."
+        },
+        "5": {
+            "STRC": "B：没有呀，没有老鼠。",
+            "STRV": "B: Không có! Không thấy có con chuột nào cả."
+        },
+        "6": {
+            "STRC": "A：它从下水道逃走了！",
+            "STRV": "A: Nó theo đường cống, đi mất rồi."
+        },
+        "7": {
+            "STRC": "B：我看到了。",
+            "STRV": "B: Ừ. Tôi thấy rồi."
+        },
+        "8": {
+            "STRC": "A：吓死我了！我最怕老鼠和蟑螂！",
+            "STRV": "A: Dọa chết tôi rồi! Tôi sợ nhất là chuột và gián."
+        },
+        "9": {
+            "STRC": "A：这房子里有老鼠，我要搬家！",
+            "STRV": "A: Trong ngôi nhà này có chuột, tôi muốn chuyển nhà."
+        }
+    },
+    "ST": "老鼠和蟑螂",
+    "TV": "Chuột và gián"
+}

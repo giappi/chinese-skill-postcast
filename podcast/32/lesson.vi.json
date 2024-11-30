@@ -1,0 +1,30 @@
+{
+    "ST": "你的职业是什么？",
+    "TV": "Nghề nghiệp của bạn là gì?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：高平，你的职业是什么？",
+            "STRV": "Cao Bình, nghề nghiệp của bạn là gì?"
+        },
+        "2": {
+            "STRC": "B：我是记者。你呢？你是医生吗？",
+            "STRV": "Tôi là nhà báo. Còn bạn? Bạn là bác sĩ phải không?"
+        },
+        "3": {
+            "STRC": "A：我不是医生，我是老师。",
+            "STRV": "Tôi không phải bác sĩ, tôi là giáo viên."
+        },
+        "4": {
+            "STRC": "A：我的丈夫是医生。",
+            "STRV": "Chồng tôi là bác sĩ."
+        },
+        "5": {
+            "STRC": "B：我的女朋友也是医生。",
+            "STRV": "Bạn gái tôi cũng là bác sĩ."
+        }
+    }
+}

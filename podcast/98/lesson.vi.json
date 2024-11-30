@@ -1,0 +1,42 @@
+{
+    "ST": "喝果汁吗？",
+    "TV": "Uống nước trái cây không?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：李丽，你喝果汁吗？",
+            "STRV": "A: Lý Lệ, bạn uống nước trái cây không?"
+        },
+        "2": {
+            "STRC": "B：我喝。黄色的是什么？",
+            "STRV": "B: Uống chứ. Màu vàng là gì vậy?"
+        },
+        "3": {
+            "STRC": "A：黄色的是橙汁。",
+            "STRV": "A: Màu vàng là nước cam."
+        },
+        "4": {
+            "STRC": "B：绿色的是什么？",
+            "STRV": "B: Màu xanh lá là gì vậy?"
+        },
+        "5": {
+            "STRC": "A：绿色的是猕猴桃汁。",
+            "STRV": "A: Màu xanh lá là nước kiwi."
+        },
+        "6": {
+            "STRC": "B：紫色的是什么？",
+            "STRV": "B: Màu tím là gì vậy?"
+        },
+        "7": {
+            "STRC": "A：紫色的是葡萄汁。",
+            "STRV": "A: Màu tím là nước nho."
+        },
+        "8": {
+            "STRC": "B：我想喝葡萄汁。",
+            "STRV": "B: Mình muốn uống nước nho."
+        }
+    }
+}

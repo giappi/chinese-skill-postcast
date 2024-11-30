@@ -1,0 +1,29 @@
+{
+    "ST": "你好",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A:你好！",
+            "STRV": "A: Xin chào!"
+        },
+        "2": {
+            "STRC": "B:你好！",
+            "STRV": "B: Xin chào!"
+        },
+        "3": {
+            "STRC": "A:我叫李丽，你叫什么名字？",
+            "STRV": "A: Tôi tên là Lý Lệ, bạn tên là gì?"
+        },
+        "4": {
+            "STRC": "B:我叫高平，很高兴认识你！",
+            "STRV": "B: Tôi tên là Cao Bình, rất vui được gặp bạn!"
+        },
+        "5": {
+            "STRC": "A:很高兴认识你！",
+            "STRV": "A: Rất vui được gặp bạn!"
+        }
+    }
+}

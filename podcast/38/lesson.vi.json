@@ -1,0 +1,42 @@
+{
+    "ST": "你学过日语吗？",
+    "TV": "Bạn đã học tiếng Nhật chưa?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：高平，你学过日语吗？",
+            "STRV": "A: Cao Bình, bạn đã học tiếng Nhật chưa?"
+        },
+        "2": {
+            "STRC": "B：我学过日语。",
+            "STRV": "B: Mình đã học tiếng Nhật."
+        },
+        "3": {
+            "STRC": "A：你的日语怎么样？",
+            "STRV": "A: Tiếng Nhật của bạn thế nào?"
+        },
+        "4": {
+            "STRC": "B：马马虎虎。李丽，你会说日语吗？",
+            "STRV": "B: Tàm tạm. Lý Lệ, bạn có biết nói tiếng Nhật không?"
+        },
+        "5": {
+            "STRC": "A：一点点，我只会说一点点日语。",
+            "STRV": "A: Một chút, mình chỉ biết nói một chút tiếng Nhật."
+        },
+        "6": {
+            "STRC": "A：我刚刚开始学日语。",
+            "STRV": "A: Mình vừa mới bắt đầu học tiếng Nhật."
+        },
+        "7": {
+            "STRC": "B：是吗？你学了多久日语？",
+            "STRV": "B: Vậy à? Bạn đã học tiếng Nhật bao lâu rồi?"
+        },
+        "8": {
+            "STRC": "A：两个月左右。",
+            "STRV": "A: Khoảng hai tháng."
+        }
+    }
+}

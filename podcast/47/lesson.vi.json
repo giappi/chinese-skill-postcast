@@ -1,0 +1,26 @@
+{
+    "ST": "兴趣爱好",
+    "TV": "Sở thích",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：李丽，你有什么兴趣爱好？",
+            "STRV": "Lý Lệ, bạn có sở thích gì không?"
+        },
+        "2": {
+            "STRC": "B：我喜欢看电影。你呢？",
+            "STRV": "Mình thích xem phim. Còn bạn thì sao?"
+        },
+        "3": {
+            "STRC": "A：我喜欢踢足球。你老公呢？",
+            "STRV": "Mình thích chơi bóng đá. Còn chồng bạn thì sao?"
+        },
+        "4": {
+            "STRC": "B：他喜欢打篮球。",
+            "STRV": "Anh ấy thích chơi bóng rổ."
+        }
+    }
+}

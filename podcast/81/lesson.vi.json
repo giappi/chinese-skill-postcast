@@ -1,0 +1,38 @@
+{
+    "ST": "你喜欢夏天吗？",
+    "TV": "Bạn có thích mùa hè không?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：高平，你喜欢夏天吗？",
+            "STRV": "A: Cao Bình, bạn có thích mùa hè không?"
+        },
+        "2": {
+            "STRC": "B：我不喜欢夏天。",
+            "STRV": "B: Mình không thích mùa hè."
+        },
+        "3": {
+            "STRC": "A：你最喜欢哪个季节？",
+            "STRV": "A: Bạn thích mùa nào nhất?"
+        },
+        "4": {
+            "STRC": "B：我最喜欢秋天。你呢？",
+            "STRV": "B: Mình thích mùa thu nhất. Còn bạn?"
+        },
+        "5": {
+            "STRC": "A：我最喜欢春天。你最讨厌哪个季节？",
+            "STRV": "A: Mình thích mùa xuân nhất. Bạn ghét mùa nào nhất?"
+        },
+        "6": {
+            "STRC": "B：我最讨厌冬天。",
+            "STRV": "B: Mình ghét mùa đông nhất."
+        },
+        "7": {
+            "STRC": "A：我也最讨厌冬天。",
+            "STRV": "A: Mình cũng ghét mùa đông nhất."
+        }
+    }
+}
