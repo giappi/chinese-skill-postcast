@@ -1,0 +1,34 @@
+{
+    "ST": "王丽比我大一岁",
+    "TV": "Vương Lệ lớn hơn tôi một tuổi",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：乐乐，你比王丽大吧？",
+            "STRV": "A: Lạc Lạc, bạn lớn hơn Vương Lệ phải không?"
+        },
+        "2": {
+            "STRC": "B：不，王丽比我大。",
+            "STRV": "B: Không, Vương Lệ lớn hơn tôi."
+        },
+        "3": {
+            "STRC": "B：她一九八三年出生，我一九八四年出生，",
+            "STRV": "B: Cô ấy sinh năm 1983, còn tôi sinh năm 1984,"
+        },
+        "4": {
+            "STRC": "B：她比我大一岁。",
+            "STRV": "B: Cô ấy lớn hơn tôi một tuổi."
+        },
+        "5": {
+            "STRC": "A：可是你看起来比王丽大。",
+            "STRV": "A: Nhưng bạn trông có vẻ lớn hơn Vương Lệ."
+        },
+        "6": {
+            "STRC": "B：你真讨厌！",
+            "STRV": "B: Bạn thật đáng ghét!"
+        }
+    }
+}

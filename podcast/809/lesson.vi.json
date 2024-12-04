@@ -1,0 +1,30 @@
+{
+    "ST": "天气",
+    "TV": "Thời tiết",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A:李丽，周末什么天气？",
+            "STRV": "A: Lý Lệ, cuối tuần thời tiết thế nào?"
+        },
+        "2": {
+            "STRC": "B:不知道，我看看天气预报。",
+            "STRV": "B: Không biết nữa, để mình xem dự báo thời tiết."
+        },
+        "3": {
+            "STRC": "A:如果周末天气好，我们一起去划船吧？",
+            "STRV": "A: Nếu cuối tuần thời tiết đẹp, chúng ta cùng đi chèo thuyền nhé?"
+        },
+        "4": {
+            "STRC": "B:你看，周末下雨啊！",
+            "STRV": "B: Bạn xem này, cuối tuần trời mưa đó!"
+        },
+        "5": {
+            "STRC": "A:雨中划船也很浪漫！",
+            "STRV": "A: Chèo thuyền dưới mưa cũng lãng mạn mà!"
+        }
+    }
+}

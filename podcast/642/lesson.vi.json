@@ -1,0 +1,158 @@
+{
+    "ST": "多大结婚不算晚？",
+    "TV": "Bao nhiêu tuổi kết hôn thì không được xem là muộn?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A:高平！我表姐总算要嫁出去啦！",
+            "STRV": "A: Cao Bình! Cuối cùng chị họ của mình cũng sắp lấy chồng rồi!"
+        },
+        "2": {
+            "STRC": "B:瞧你说的，什么叫“总算”啊？",
+            "STRV": "B: Nghe bạn nói kìa, 'cuối cùng' là sao chứ?"
+        },
+        "3": {
+            "STRC": "B:你表姐嫁人有那么难么？",
+            "STRV": "B: Chị họ bạn lấy chồng khó đến vậy sao?"
+        },
+        "4": {
+            "STRC": "A:我不是这个意思。只是我表姐今年整三十岁了，",
+            "STRV": "A: Mình không có ý đó. Chỉ là chị họ mình năm nay vừa tròn 30 tuổi,"
+        },
+        "5": {
+            "STRC": "A:之前一直没找男朋友，把家里人都急坏了。",
+            "STRV": "A: trước giờ chưa từng có bạn trai, làm cả nhà lo lắng đến phát hoảng."
+        },
+        "6": {
+            "STRC": "B:才三十岁着什么急啊！",
+            "STRV": "B: Mới 30 tuổi mà đã lo gì chứ!"
+        },
+        "7": {
+            "STRC": "B:现在三十多岁的单身男女很多，很正常。",
+            "STRV": "B: Bây giờ có rất nhiều người độc thân ngoài 30, chuyện bình thường thôi."
+        },
+        "8": {
+            "STRC": "A:父母可不这么想！",
+            "STRV": "A: Nhưng ba mẹ thì không nghĩ thế!"
+        },
+        "9": {
+            "STRC": "A:而且女人不像男人，如果到了三十岁还没结婚，",
+            "STRV": "A: Với lại phụ nữ không giống đàn ông, nếu đến 30 tuổi vẫn chưa kết hôn,"
+        },
+        "10": {
+            "STRC": "A:周围的人就都开始为你担心了。",
+            "STRV": "A: thì mọi người xung quanh sẽ bắt đầu lo lắng cho bạn."
+        },
+        "11": {
+            "STRC": "B:说的也是，这也是现实。哎，你今年也有二十五了吧？",
+            "STRV": "B: Cũng đúng, đó là thực tế mà. Này, bạn năm nay cũng 25 rồi đúng không?"
+        },
+        "12": {
+            "STRC": "A:没有！我有那么老么？我上个月刚满二十四！",
+            "STRV": "A: Không! Mình già đến thế sao? Tháng trước mình vừa tròn 24 thôi!"
+        },
+        "13": {
+            "STRC": "B:不过就多说了一岁，犯得着生那么大气么！",
+            "STRV": "B: Chỉ hơn có một tuổi thôi mà, có cần tức giận thế không!"
+        },
+        "14": {
+            "STRC": "A:当然了！二十四岁和二十五岁在我看来就是天壤之别！",
+            "STRV": "A: Tất nhiên rồi! Đối với mình, 24 tuổi và 25 tuổi khác nhau trời vực!"
+        },
+        "15": {
+            "STRC": "A:二十四岁，你还能说自己二十出头，",
+            "STRV": "A: 24 tuổi, bạn vẫn có thể nói mình vừa qua tuổi 20,"
+        },
+        "16": {
+            "STRC": "A:可过了二十五，我就是奔三的人了！",
+            "STRV": "A: nhưng qua 25 tuổi là mình bước vào tuổi 30 rồi!"
+        },
+        "17": {
+            "STRC": "B:你们女孩子对年龄可真够敏感的，",
+            "STRV": "B: Các bạn con gái nhạy cảm với tuổi tác thật đấy,"
+        },
+        "18": {
+            "STRC": "B:难怪人说，不要随便打听女孩子的年龄。",
+            "STRV": "B: chẳng trách người ta bảo đừng tùy tiện hỏi tuổi con gái."
+        },
+        "19": {
+            "STRC": "A:其实，对我来说，更大的压力来自家里人。",
+            "STRV": "A: Thực ra, với mình, áp lực lớn nhất là từ gia đình."
+        },
+        "20": {
+            "STRC": "A:女孩子年龄一大，如果还没有男朋友，",
+            "STRV": "A: Con gái mà lớn tuổi rồi vẫn chưa có bạn trai,"
+        },
+        "21": {
+            "STRC": "A:父母就会一天天地催，亲戚朋友也会不停地帮你介绍对象。",
+            "STRV": "A: ba mẹ sẽ ngày ngày giục giã, còn họ hàng bạn bè thì liên tục giới thiệu đối tượng."
+        },
+        "22": {
+            "STRC": "A:我表姐之前就没少向我抱怨，",
+            "STRV": "A: Trước đây chị họ mình thường xuyên phàn nàn với mình,"
+        },
+        "23": {
+            "STRC": "A:说不愿意回家，一回家就得听爸妈唠叨。",
+            "STRV": "A: nói rằng không muốn về nhà, vì mỗi lần về đều bị ba mẹ càm ràm."
+        },
+        "24": {
+            "STRC": "B:可怜天下父母心啊。",
+            "STRV": "B: Thật đáng thương cho tấm lòng cha mẹ trong thiên hạ."
+        },
+        "25": {
+            "STRC": "B:儿女的婚姻大事，永远都是他们最关心的事情。",
+            "STRV": "B: Chuyện hôn nhân của con cái mãi mãi là điều họ quan tâm nhất."
+        },
+        "26": {
+            "STRC": "A:是啊，我表姐的父亲，也就是我舅舅，上个月已经满六十岁了，",
+            "STRV": "A: Đúng vậy. Bố của chị họ mình, tức là cậu mình, tháng trước vừa tròn 60 tuổi,"
+        },
+        "27": {
+            "STRC": "A:我舅妈也五十多了，再有几年也成了花甲老人了。",
+            "STRV": "A: còn mợ mình thì hơn 50 tuổi rồi, vài năm nữa cũng thành người già hoa giáp."
+        },
+        "28": {
+            "STRC": "A:自己的女儿还不结婚，能不着急么？",
+            "STRV": "A: con gái mình còn chưa kết hôn, sao mà không lo lắng cho được?"
+        },
+        "29": {
+            "STRC": "B:像他们这么大年纪的人，有的早就抱上孙子了吧。",
+            "STRV": "B: Những người lớn tuổi như họ, có người đã bồng cháu từ lâu rồi nhỉ."
+        },
+        "30": {
+            "STRC": "A:是啊。像我叔叔的女儿，二十四岁不到就做了妈妈了，",
+            "STRV": "A: Đúng vậy. Như con gái chú mình, chưa đầy 24 tuổi đã làm mẹ rồi,"
+        },
+        "31": {
+            "STRC": "A:现在儿子都两周岁了。",
+            "STRV": "A: bây giờ con trai đã 2 tuổi rồi."
+        },
+        "32": {
+            "STRC": "A:我叔叔每次来我家串门，都会带着他的宝贝孙子，",
+            "STRV": "A: Chú mình mỗi lần ghé thăm nhà mình đều dắt theo cháu trai cưng,"
+        },
+        "33": {
+            "STRC": "A:把我爸我妈羡慕得……",
+            "STRV": "A: làm ba mẹ mình ghen tị đến nỗi…"
+        },
+        "34": {
+            "STRC": "B:二十四，那不和你一般大么？你父母没催过你？",
+            "STRV": "B: 24 tuổi, chẳng phải bằng tuổi bạn sao? Ba mẹ bạn chưa giục bạn à?"
+        },
+        "35": {
+            "STRC": "A:以前是顾不上催我，都在替我表姐操心呢，",
+            "STRV": "A: Trước đây họ không có thời gian giục mình, bận lo cho chị họ mình mà,"
+        },
+        "36": {
+            "STRC": "A:现在我姐出嫁了，就该轮到我啦！",
+            "STRV": "A: giờ chị mình đi lấy chồng rồi, chắc đến lượt mình thôi!"
+        },
+        "37": {
+            "STRC": "A:唉，苦日子就要来啦……",
+            "STRV": "A: Haizz, ngày khổ sắp đến rồi…"
+        }
+    }
+}

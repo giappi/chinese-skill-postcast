@@ -1,0 +1,30 @@
+{
+    "ST": "一共有几个苹果？",
+    "TV": "Tổng cộng có bao nhiêu quả táo?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：李丽，看，我买了苹果。",
+            "STRV": "A: Lý Lệ, nhìn này, mình vừa mua táo."
+        },
+        "2": {
+            "STRC": "B：哇，这么多苹果！",
+            "STRV": "B: Oa, nhiều táo thế!"
+        },
+        "3": {
+            "STRC": "A：你数数，一共有几个苹果？",
+            "STRV": "A: Bạn đếm thử xem, tổng cộng có bao nhiêu quả táo?"
+        },
+        "4": {
+            "STRC": "B：一、二、三、四、五、六、七、八、九、十！",
+            "STRV": "B: Một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười!"
+        },
+        "5": {
+            "STRC": "B：你买了十个苹果。",
+            "STRV": "B: Bạn mua mười quả táo."
+        }
+    }
+}

@@ -1,4 +1,6 @@
 
+var lessonData;
+var player = new Audio();
 
 function main(data)
 {
@@ -7,16 +9,18 @@ function main(data)
     let wordDetailPiny  = document.getElementById("detail-pinyin");
     let wordDetailMean  = document.getElementById("detail-meaning");
     let wordDetailClose = document.getElementById("detail-close");
-    let player          = new Audio();
+    
     let timeoutDetail   = 0;
     console.log(Object.keys(data.Sents));
-    let lesson_content  = Object.keys(data.Sents).map(e => data.Sents[e]);
+    var lesson_content  = Object.keys(data.Sents).map(e => data.Sents[e]);
     let lesson_id       = data.EID;
     console.log(lesson_content);
     let spans           = [];
     let title_en        = data.TRE;
     let title_cn        = data.ST;
     let title_vi        = data.TV;
+    lessonData = data;
+
 
     for(let lineId in lesson_content)
     {
@@ -37,7 +41,7 @@ function main(data)
         playSentButton.onclick = function(e)
         {
             showDetail("",
-                    sentence_py.join(' ').replace(/^(A|B)\s*(:|：)\s*/, ''),
+                    line.py,
                     sentence_en.replace(/^(A|B)\s*(:|：)\s*/, ''),
                     "podcast/" + lesson_id + "/audio/" + lesson_id + "-2-" + (lineId) + ".m4a");
             return false;
@@ -101,11 +105,13 @@ function main(data)
         }
         
         spans.push(sentenceHTML);
+        line.py = sentence_py.join(' ').replace(/^(A|B)\s*(:|：)\s*/, '');
     }
 
     var titleElement    = document.getElementById("title");
     var titleMeaning    = document.getElementById("title-meaning");
     var postcastElement = document.getElementById("postcast");
+    var playAllButton   = document.getElementById("button-play-all");
     var ul              = document.createElement("ul");
     ul.setAttribute("class", "postcast");
     postcastElement.appendChild(ul);
@@ -156,6 +162,47 @@ function main(data)
         wordDetailHTML.style.display = "none";
     }
 
+
+    function playAll(lines)
+    {
+        lines = lines === undefined
+                    ? Object.keys(lessonData.Sents).map(e => lessonData.Sents[e])
+                    : lines;
+        let lesson_id = lessonData.EID;
+
+        for(let lineId in lines)
+        {
+            if(lineId == "0")
+            {
+                continue;
+            }
+
+            // Play audio
+            let audio = "podcast/" + lesson_id + "/audio/" + lesson_id + "-2-" + (lineId) + ".m4a";
+            if(audio != player.src)
+            {
+                player.pause();
+                player.removeAttribute("src");
+                //player.load();
+                //player.src = audio;
+            }
+            //player.play();
+            let line        = lines[lineId];
+            let sentenceEn  = line.vi || line.STRV || line.STRE;
+            showDetail('', line.py, sentenceEn, audio);
+            player.onended = (function() 
+            {
+                delete lines[lineId];
+                setTimeout(() => playAll(lines), 300);
+                
+            });
+            player.onerror = (e) => console.log('[E] ' + player.src);
+            break;
+        }
+    }
+
+    playAllButton.onclick = (e) => playAll();
+
 }
 
 
@@ -193,6 +240,7 @@ function loadPodcastList(callback)
         callback(data);
     });
 }
+
 
 /**
  * Simple object check.

@@ -1,0 +1,34 @@
+{
+    "ST": "现在几点？",
+    "TV": "Bây giờ là mấy giờ?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：对不起，让你久等了。",
+            "STRV": "A: Xin lỗi, đã để bạn đợi lâu."
+        },
+        "2": {
+            "STRC": "B：没关系。我刚刚到五分钟。",
+            "STRV": "B: Không sao. Mình vừa mới đến được năm phút."
+        },
+        "3": {
+            "STRC": "A：现在几点？",
+            "STRV": "A: Bây giờ là mấy giờ?"
+        },
+        "4": {
+            "STRC": "B：现在七点十五。",
+            "STRV": "B: Bây giờ là 7 giờ 15."
+        },
+        "5": {
+            "STRC": "A：电影七点半开始，我们走吧。",
+            "STRV": "A: Phim bắt đầu lúc 7 giờ 30, chúng ta đi thôi."
+        },
+        "6": {
+            "STRC": "B：好的。",
+            "STRV": "B: Được thôi."
+        }
+    }
+}

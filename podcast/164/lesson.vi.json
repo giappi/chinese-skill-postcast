@@ -1,0 +1,34 @@
+{
+    "ST": "这是谁",
+    "TV": "Đây là ai?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：李丽，照片上这是谁？",
+            "STRV": "A: Lý Lệ, người trong ảnh này là ai?"
+        },
+        "2": {
+            "STRC": "B：这是我的爸爸。",
+            "STRV": "B: Đây là bố của mình."
+        },
+        "3": {
+            "STRC": "B：爸爸的右边是我的妈妈。",
+            "STRV": "B: Bên phải của bố là mẹ mình."
+        },
+        "4": {
+            "STRC": "A：你爸爸前面是谁？",
+            "STRV": "A: Phía trước bố bạn là ai?"
+        },
+        "5": {
+            "STRC": "B：爸爸的前边是爷爷。",
+            "STRV": "B: Phía trước bố là ông nội."
+        },
+        "6": {
+            "STRC": "B：爷爷的右边是我的奶奶。",
+            "STRV": "B: Bên phải của ông nội là bà nội mình."
+        }
+    }
+}

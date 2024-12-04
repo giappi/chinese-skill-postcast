@@ -1,6 +1,6 @@
-<!doctype html>
-
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8">
     <title>Postcast List</title>
@@ -21,19 +21,24 @@
             font-family: "Microsoft YaHei";
         }
         
-        ul.postcast
+        table.postcast
         {
             list-style-type: none;
             border: 1px solid #CCCCCC;
             padding-left: 1px;
             display: block;
-            font-size: normal;
+            font-size: 13pt;
             width: auto;
         }
         
-        ul.postcast > li
+        table.postcast > tr > td
         {
             border-bottom: 1px solid #EEEEEE;
+        }
+
+        a
+        {
+            text-decoration: none;
         }
 
     </style>
@@ -47,17 +52,18 @@
     window.onload = function(e)
     {
         var div = document.getElementById("postcast-list");
-        var ul           = document.createElement("ul");
+        var ul           = document.createElement("table");
         ul.setAttribute("class", "postcast");
         div.appendChild(ul);
 
         loadPodcastList(function(data)
         {
-            for(let lessionId in data)
+            let data1 = Object.keys(data).map(e => data[e]);
+            data1.sort((a, b) => a.LV > b.LV);
+            for(let lession of data1)
             {
-                let lessionMeta = data[lessionId];
-                var li = document.createElement("li");
-                li.innerHTML = `<a href="postcast.html?lession=${lessionMeta.Id}" >${lessionMeta.ST} / ${lessionMeta.ET}</a>`;
+                var li = document.createElement("tr");
+                li.innerHTML = `<td><a href="postcast.html?lession=${lession.Id}" >${lession.ST}</a></td> <td>${(lession.VT != lession.ST) ? lession.VT : lession.ET}</td> <td>${lession.LV}</td>`;
                 ul.appendChild(li);
             }
         });

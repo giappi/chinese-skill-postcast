@@ -1,0 +1,42 @@
+{
+    "ST": "全家福",
+    "TV": "Ảnh gia đình",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：李丽，这是你的全家福吗？",
+            "STRV": "A: Lý Lệ, đây có phải là ảnh gia đình của bạn không?"
+        },
+        "2": {
+            "STRC": "B：是啊，这是春节拍的全家福。",
+            "STRV": "B: Đúng vậy, đây là ảnh gia đình chụp vào dịp Tết."
+        },
+        "3": {
+            "STRC": "A：这两位是你的父母吧。",
+            "STRV": "A: Hai người này là bố mẹ bạn đúng không?"
+        },
+        "4": {
+            "STRC": "B：嗯，是的。",
+            "STRV": "B: Ừ, đúng rồi."
+        },
+        "5": {
+            "STRC": "B：看，我左边的是我大哥，",
+            "STRV": "B: Nhìn này, bên trái tôi là anh cả của tôi,"
+        },
+        "6": {
+            "STRC": "B：我右边的是我二哥。",
+            "STRV": "B: Còn bên phải tôi là anh hai của tôi."
+        },
+        "7": {
+            "STRC": "A：你和你大哥长得像你爸爸，",
+            "STRV": "A: Bạn và anh cả giống bố bạn,"
+        },
+        "8": {
+            "STRC": "A：你二哥长得像你妈妈。",
+            "STRV": "A: Còn anh hai bạn giống mẹ bạn."
+        }
+    }
+}

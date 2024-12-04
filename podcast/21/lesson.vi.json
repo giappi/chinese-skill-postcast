@@ -1,0 +1,26 @@
+{
+    "ST": "请问你是哪位？",
+    "TV": "Xin hỏi, bạn là ai?",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "A：有人在家吗？",
+            "STRV": "A: Có ai ở nhà không?"
+        },
+        "2": {
+            "STRC": "B：请问你是哪位？",
+            "STRV": "B: Xin hỏi, bạn là ai?"
+        },
+        "3": {
+            "STRC": "A：我是李丽。",
+            "STRV": "A: Tôi là Lý Lệ."
+        },
+        "4": {
+            "STRC": "B：李丽呀，请进！请进！",
+            "STRV": "B: Lý Lệ à, mời vào! Mời vào!"
+        }
+    }
+}
