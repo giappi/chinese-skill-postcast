@@ -1,0 +1,26 @@
+{
+    "ST": "我去过上海三次",
+    "TV": "Tôi đã đến Thượng Hải ba lần",
+    "Sents": {
+        "1": {
+            "STRC": "A：高平，你去过上海吗？",
+            "STRV": "A: Cao Bình, bạn đã từng đến Thượng Hải chưa?"
+        },
+        "2": {
+            "STRC": "B：我去过上海。",
+            "STRV": "B: Tôi đã đến Thượng Hải rồi."
+        },
+        "3": {
+            "STRC": "A：你去过上海几次？",
+            "STRV": "A: Bạn đã đến Thượng Hải mấy lần?"
+        },
+        "4": {
+            "STRC": "B：我去过上海三次，",
+            "STRV": "B: Tôi đã đến Thượng Hải ba lần,"
+        },
+        "5": {
+            "STRC": "B：去年去过一次，今年去过两次。",
+            "STRV": "B: Năm ngoái tôi đi một lần, năm nay đi hai lần."
+        }
+    }
+}

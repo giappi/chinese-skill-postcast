@@ -1,0 +1,22 @@
+{
+    "ST": "请坐",
+    "TV": "Mời ngồi",
+    "Sents": {
+        "1": {
+            "STRC": "A：李丽，请坐！",
+            "STRV": "A: Lý Lệ, mời ngồi!"
+        },
+        "2": {
+            "STRC": "B：谢谢！",
+            "STRV": "B: Cảm ơn!"
+        },
+        "3": {
+            "STRC": "A：你喝什么？果汁还是咖啡？",
+            "STRV": "A: Bạn uống gì? Nước ép hay cà phê?"
+        },
+        "4": {
+            "STRC": "B：咖啡，谢谢！",
+            "STRV": "B: Cà phê, cảm ơn!"
+        }
+    }
+}
