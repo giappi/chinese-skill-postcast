@@ -11,10 +11,8 @@ function main(data)
     let wordDetailClose = document.getElementById("detail-close");
     
     let timeoutDetail   = 0;
-    console.log(Object.keys(data.Sents));
     var lesson_content  = Object.keys(data.Sents).map(e => data.Sents[e]);
     let lesson_id       = data.EID;
-    console.log(lesson_content);
     let spans           = [];
     let title_en        = data.TRE;
     let title_cn        = data.ST;
@@ -63,6 +61,8 @@ function main(data)
 
             let span = document.createElement("span");
             span.appendChild(document.createTextNode(text));
+            let ruby = document.createElement("ruby");
+            ruby.appendChild(span);
 
             let _isWord     = _pinyin != "";
             
@@ -81,6 +81,13 @@ function main(data)
                     "href"  :       _isWord ? _audio : "",
                     "title" :       `[${_pinyin}]\n${_meanning}`
                 };
+
+                /* show pinyin above word */
+                {
+                    let rt = document.createElement("rt");
+                    rt.appendChild(document.createTextNode(_pinyin));
+                    ruby.appendChild(rt);
+                }
 
                 for(let attr in elementAttrs)
                 {
@@ -101,7 +108,7 @@ function main(data)
                     span.href = "#" + _audio;
                 }
             }
-            sentenceHTML.push(span);
+            sentenceHTML.push(ruby);
         }
         
         spans.push(sentenceHTML);
@@ -223,10 +230,23 @@ function loadLesson(id, callback)
         merged = data;
         loadData("podcast/" + id + "/lesson.vi.json", function(data2)
         {
-            merged = mergeDeep(data, data2);
+            if (data2.Sents)
+            {
+                merged = mergeDeep(data, data2);
+            }
+            else
+            {
+                if (data2["0"])
+                {
+                    merged.TV = data2["0"];
+                    for (let sentId in merged.Sents)
+                    {
+                        merged.Sents[sentId].STRV = data2[sentId];
+                    }
+                }
+            }
         }, function onDone()
         {
-            console.log("onDone");
             callback(merged);
         });
     });

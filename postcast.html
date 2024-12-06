@@ -110,6 +110,14 @@
             align-items: center;
         }
 
+        ruby > rt
+        {
+            font-family: 'Segoe UI', 'Roboto';
+            color: #808080;
+            margin-top: 5pt;
+            display: none;
+        }
+
     </style>
 </head>
 
@@ -117,6 +125,13 @@
     <h1 id="title" style="margin: 9px;">{{Podcast Title}}</h1>
     <h4 id="title-meaning" style="margin: 9px;" >{{Title Meaning}}</h4>
     <div id="postcast">
+        <li style="display:none">
+            <span class="clickable">[►]</span>
+            <ruby id="template-word">
+                <span class="word">请问</span>
+                <rt>qǐngwèn</rt>
+            </ruby>
+        </li>
     </div>
     <div id="word-detail" >
         <div class="column-left" style="height:100%; float:left;" >
@@ -134,6 +149,7 @@
     </div>
     <div>
         <button id="button-play-all">Phát</button>
+        <button id="btn-show-pinyin">Pinyin</button>
     </div>
     <script src="postcast.js"></script>
     <script type="text/javascript">
@@ -152,6 +168,12 @@
         }
         console.log(args);
         loadLesson(args.lession, main);
+        let enablePinyin = 0;
+        document.getElementById('btn-show-pinyin').onclick = function(e)
+        {
+            enablePinyin = +!enablePinyin;
+            document.querySelectorAll('ruby rt').forEach(e => e.style.display = ['none','revert'][enablePinyin]);
+        }
     };
 
     </script>
