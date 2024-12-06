@@ -59,7 +59,7 @@
         loadPodcastList(function(data)
         {
             let data1 = Object.keys(data).map(e => data[e]);
-            data1.sort((a, b) => a.LV > b.LV);
+            //data1.sort((a, b) => +a.LV > +b.LV);
             for(let lession of data1)
             {
                 var li = document.createElement("tr");
