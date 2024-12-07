@@ -57,6 +57,11 @@ function main(data)
             let _meanning   = word.EN;
             let text        = word.SW;
 
+            if (text == '：')
+            {
+                text = ':';
+            }
+
             sentence_py.push(_pinyin || text.replace(/，|。/, m => ',.'['，。'.indexOf(m)] + ' '));
 
             let span = document.createElement("span");

@@ -17,19 +17,19 @@
 
         .chinese
         {
-            font-family: "KaiTi";
-            font-weight: normal;
-            text-shadow: 0px 0px 1px #4400DD;
+            font-family:    "KaiTi";
+            font-weight:    normal;
+            text-shadow:    0px 0px 1px #4400DD;
         }
 
         .word
         {
-            color: #4400DD;
-            cursor: pointer;
-            border-bottom: 1pt dotted #000000;
-            font-family: "KaiTi";
-            text-shadow: 0px 0px 1px #4400DD;
-            /*position: relative;*/
+            color:          #4400DD;
+            cursor:         pointer;
+            border-bottom:  1pt dotted #000000;
+            font-family:    "KaiTi";
+            text-shadow:    0px 0px 1px #4400DD;
+            /* position: relative; -> word:hover::after */
         }
 
         .word:hover
@@ -38,21 +38,21 @@
         }
 
         /* span[title]:hover::after */
-        ._word::after
+        ._word:hover::after
         {
-            content: attr(py);
-            position: absolute;
-            bottom: 107%;
-            left: 0;
+            content:        attr(en);
+            position:       absolute;
+            bottom:         107%;
+            left:           0;
             background-color: #FFCCCC;
-            color: #000000;
-            font-family: "Times New Roman";
-            font-size: small;
-            text-shadow: none;
+            color:          #000000;
+            font-family:    "Times New Roman";
+            font-size:      small;
+            text-shadow:    none;
             /* box-shadow: 0px 0px 7px #000000; */
-            padding: 3px;
-            width: 100pt;
-            white-space: pre-wrap;
+            padding:        3px;
+            width:          100pt;
+            white-space:    pre-wrap;
         }
 
         .clickable
@@ -62,60 +62,61 @@
 
         ul.postcast
         {
-            list-style-type: none;
-            border: 1px solid #CCCCCC;
-            padding-left: 1px;
-            display: block;
-            font-size: 16pt;
-            width: auto;
+            /* border: 1px solid #CCCCCC; */
+            padding-left:   1px;
+            display:        block;
+            font-size:      19pt;
+            width:          auto;
+            list-style-type:none;
         }
 
         ul.postcast > li
         {
-            border-bottom: 1px solid #EEEEEE;
+            border-bottom:  1px solid #EEEEEE;
         }
 
         #word-detail
         {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
+            position:       fixed;
+            top:            0;
+            left:           0;
+            width:          100%;
             background-color: #EEEEFF;
-            display: none;
-            padding: 5px;
-            padding-left: 10px;
-            box-sizing: border-box;
+            display:        none;
+            padding:        5px;
+            padding-left:   10px;
+            box-sizing:     border-box;
         }
 
         #detail-headword
         {
-            font-size: 32pt;
-            display: flex;
-            align-items: center;
+            font-size:      32pt;
+            display:        flex;
+            align-items:    center;
         }
 
         #detail-pinyin
         {
-            display: flex;
-            align-items: center;
+            display:        flex;
+            align-items:    center;
             /*justify-content: center;*/
-            font-size: small;
+            font-size:      small;
             
         }
 
         #detail-meaning
         {
-            display: flex;
-            align-items: center;
+            display:        flex;
+            align-items:    center;
         }
 
         ruby > rt
         {
-            font-family: 'Segoe UI', 'Roboto';
-            color: #808080;
-            margin-top: 5pt;
-            display: none;
+            font-family:    "Segoe UI";
+            color:          #808080;
+            padding-top:     5pt;
+            display:        none;
+            vertical-align: bottom;
         }
 
     </style>
