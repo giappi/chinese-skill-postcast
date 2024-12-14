@@ -1,0 +1,177 @@
+{
+	"小": {
+		"py": "xiǎo",
+		"mn": [
+			[
+				"adj",
+				"nhỏ; bé; ít; thấp; kém | út; nhỏ nhất | chút; một chút ; một lát (thời gian) | nhỏ; bé; tiểu; em"
+			],
+			[
+				"n",
+				"thiếp; nàng hầu; vợ lẽ; vợ nhỏ | em nhỏ; trẻ nhỏ; trẻ em; trẻ con | tiểu | họ Tiểu"
+			],
+			[
+				"adv",
+				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"熊": {
+		"py": "xióng",
+		"mn": [
+			[
+				"n",
+				"con gấu; gấu | họ Hùng"
+			],
+			[
+				"v",
+				"trách mắng; trách móc; mắng; la rầy"
+			],
+			[
+				"adj",
+				"bất tài; hèn nhát"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"可爱": {
+		"py": "kěài",
+		"mn": [
+			[
+				"adj",
+				"đáng yêu; dễ thương; kháu khỉnh | thân yêu; thân thiết; gắn bó"
+			]
+		]
+	},
+	"这": {
+		"py": "zhèi",
+		"mn": [
+			[
+				"pro",
+				"âm khẩu ngữ của '这'"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"男朋友": {
+		"py": "nánpéngyǒu",
+		"mn": [
+			[
+				"n",
+				"bạn trai"
+			]
+		]
+	},
+	"送给": {
+		"py": "sònggěi",
+		"mn": [
+			[
+				"v",
+				"tặng; đưa cho; gửi cho; tặng cho"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"他": {
+		"py": "tā",
+		"mn": [
+			[
+				"pro",
+				"nó; anh ấy; hắn; người ấy; anh ta; y; cậu ấy (đàn ông) | khác; ngoài | hư chỉ (dùng giữa động từ hoặc số từ) | ai đó; nhiều người; mọi người"
+			]
+		]
+	},
+	"选": {
+		"py": "xuǎn",
+		"mn": [
+			[
+				"n",
+				"được tuyển; được chọn (người hoặc vật) | tập; bài; tác phẩm (được chọn)"
+			],
+			[
+				"v",
+				"chọn; tuyển chọn; lựa chọn | bầu; tuyển cử; bầu cử"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"久": {
+		"py": "jiǔ",
+		"mn": [
+			[
+				"adj",
+				"lâu; lâu dài | bao lâu; lâu dài (trong một khoảng thời gian xác định)"
+			]
+		]
+	}
+}

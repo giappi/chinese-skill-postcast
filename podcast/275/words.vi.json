@@ -1,0 +1,265 @@
+{
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"圣诞树": {
+		"py": "shèngdànshù",
+		"mn": [
+			[
+				"n",
+				"cây thông Nô-en"
+			]
+		]
+	},
+	"哇": {
+		"py": "wā",
+		"mn": [
+			[
+				"onom",
+				"oa oa; oe oe; óe óe; a a; á á"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"圣诞节": {
+		"py": "shèngdànjié",
+		"mn": [
+			[
+				"n",
+				"lễ Giáng Sinh; lễ Nô-en"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"对呀": {
+		"py": "duìya",
+		"mn": [
+			[
+				"sentence",
+				"hợp khẩu vị | hợp tính hợp nết; hợp (dùng với hình thức phủ định)"
+			]
+		]
+	},
+	"圣诞老人": {
+		"py": "shèngdànlǎorén",
+		"mn": [
+			[
+				"n",
+				"ông già Nô-en"
+			]
+		]
+	},
+	"来": {
+		"py": "lái",
+		"mn": [
+			[
+				"v",
+				"đến; tới (từ chỗ khác đến chỗ người nói) | tới; đến (dùng sau động từ, biểu thị động tác hướng về phía lời nói) | xảy đến; xảy ra (vấn đề, sự tình) | để (dùng giữa kết cấu động từ hoặc kết cấu giữa động từ và giới từ, biểu thị thành phần trước là phương pháp, phương hướng, thành phần sau là mục đích) | hãy; để (dùng trước một động từ khác, biểu thị làm một việc gì đó) | đánh; mở; làm (dùng thay cho một số động tác) | hợp; được"
+			],
+			[
+				"part",
+				"khoảng; chừng (đứng sau số từ hoặc số lượng từ để biểu thị số ước lượng) | dùng làm từ đệm trong thơ ca; tục ngữ hoặc lời rao hàng | ấy nhỉ | là (dùng sau số từ như \"一\"\"二\" \"三\", liệt kê lý do)"
+			],
+			[
+				"n",
+				"tới nay; từ trước tới nay (một thời điểm nhất định trong quá khứ cho đến hiện tại) | họ Lai"
+			],
+			[
+				"adj",
+				"tương lai; sau này"
+			]
+		]
+	},
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"收到": {
+		"py": "shōudào",
+		"mn": [
+			[
+				"v",
+				"nhận được; tiếp nhận"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"圣诞": {
+		"py": "shèngdàn",
+		"mn": [
+			[
+				"n",
+				"Noel; thánh đản; lễ Nô-en; ngày Chúa sinh ra đời"
+			]
+		]
+	},
+	"礼物": {
+		"py": "lǐwù",
+		"mn": [
+			[
+				"n",
+				"quà; quà cáp; quà biếu; lễ vật; tặng phẩm"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"已经": {
+		"py": "yǐjīng",
+		"mn": [
+			[
+				"adv",
+				"đã; rồi"
+			]
+		]
+	},
+	"偷偷地": {
+		"py": "tōutōude",
+		"mn": [
+			[
+				"adj",
+				"thầm vụng"
+			]
+		]
+	},
+	"告诉": {
+		"py": "gàosù",
+		"mn": [
+			[
+				"v",
+				"kể; bảo; nói cho; báo cho; chỉ bảo; mách; mách cho; dặn dò; nói với"
+			]
+		]
+	}
+}

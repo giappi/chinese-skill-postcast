@@ -1,0 +1,124 @@
+{
+	"恭喜": {
+		"py": "gōngxǐ",
+		"mn": [
+			[
+				"v",
+				"chúc mừng"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"真的": {
+		"py": "zhēnde",
+		"mn": [
+			[
+				"adv",
+				"có thật không; thật á; thật sự ư | quả thật; thật sự; đúng vậy; thật"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"当": {
+		"py": "dāng",
+		"mn": [
+			[
+				"v",
+				"nên; phải; cần | làm; đảm nhiệm | nhận; chịu; gánh; gánh vác; đảm đương | quản lý; đảm đương; chịu trách nhiệm | ngăn chặn; ngăn cản; ngăn lại; chống lại | trước mắt; hướng về"
+			],
+			[
+				"prep",
+				"khi; lúc | trước mặt; trực tiếp"
+			],
+			[
+				"n",
+				"đỉnh; mút; chót | thời gian; lúc rảnh | họ Đương"
+			],
+			[
+				"adj",
+				"xứng; tương xứng; tương đương"
+			],
+			[
+				"onom",
+				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"爸": {
+		"py": "bà",
+		"mn": [
+			[
+				"n",
+				"bố; ba; cha; tía; phụ thân"
+			]
+		]
+	}
+}

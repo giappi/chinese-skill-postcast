@@ -1,0 +1,162 @@
+{
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"星期": {
+		"py": "xīngqī",
+		"mn": [
+			[
+				"n",
+				"tuần lễ; tuần | thứ; ngày thứ (ghép liền với các ngày trong tuần) | chủ nhật (gọi tắt)"
+			]
+		]
+	},
+	"几": {
+		"py": "jǐ",
+		"mn": [
+			[
+				"numb",
+				"mấy (hỏi số lượng bao nhiêu) | mấy; vài (biểu thị một số không xác định từ hai đến chín) | mấy; vài (thay thế con số nhất định) | ngày nào"
+			]
+		]
+	},
+	"星期五": {
+		"py": "xīngqīwǔ",
+		"mn": [
+			[
+				"time, n",
+				"thứ sáu; ngày thứ 6"
+			]
+		]
+	},
+	"星期六": {
+		"py": "xīngqīliù",
+		"mn": [
+			[
+				"n, time",
+				"thứ bảy; ngày thứ 7"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"爬山": {
+		"py": "páshān",
+		"mn": [
+			[
+				"v, sv",
+				"leo núi"
+			]
+		]
+	},
+	"吧": {
+		"py": "ba",
+		"mn": [
+			[
+				"part",
+				"nhé; nhớ; được rồi | nào; nhé; chứ; thôi; đi | chắc; hẳn; chứ (suy đoán) | nhỉ, thì phải | ư; chăng"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"睡": {
+		"py": "shuì",
+		"mn": [
+			[
+				"v",
+				"ngủ | nằm; nằm dài; nằm thẳng cẳng"
+			]
+		]
+	},
+	"懒觉": {
+		"py": "lǎnjiào",
+		"mn": [
+			[
+				"v",
+				"Ngủ nướng"
+			]
+		]
+	},
+	"星期天": {
+		"py": "xīngqītiān",
+		"mn": [
+			[
+				"n, time",
+				"chủ nhật; ngày chủ nhật; cuối tuần"
+			]
+		]
+	},
+	"怎么样": {
+		"py": "zěnmeyàng",
+		"mn": [
+			[
+				"pro",
+				"thế nào; như thế nào | ra sao; ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)"
+			]
+		]
+	},
+	"好吧": {
+		"py": "hǎoba",
+		"mn": [
+			[
+				"sentence",
+				"thôi được; được rồi; được thôi"
+			]
+		]
+	},
+	"一起": {
+		"py": "yīqǐ",
+		"mn": [
+			[
+				"adv",
+				"cùng; cùng nhau làm gì | tổng cộng; cả thảy; tất cả; cộng lại"
+			],
+			[
+				"n",
+				"ở cùng một nơi, một chỗ."
+			]
+		]
+	}
+}

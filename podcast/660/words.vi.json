@@ -1,0 +1,147 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"听": {
+		"py": "tīng",
+		"mn": [
+			[
+				"v",
+				"nghe | nghe; nghe theo; vâng theo; tiếp thu | cai quản; phán quyết; xử lý; xét xử | mặc; mặc kệ; mặc cho; tùy ý"
+			],
+			[
+				"n",
+				"hộp; lon"
+			],
+			[
+				"measure",
+				"lon; hộp"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"哦": {
+		"py": "ó",
+		"mn": [
+			[
+				"onom, intj",
+				"hứ; há (biểu thị việc nửa tin nửa ngờ)"
+			]
+		]
+	},
+	"是呀": {
+		"py": "shìya",
+		"mn": [
+			[
+				"sentence",
+				"hợp khẩu vị; vừa miệng (thực phẩm) | thoải mái; dễ chịu (trong lòng cảm thấy)"
+			]
+		]
+	},
+	"不仅": {
+		"py": "bùjǐn",
+		"mn": [
+			[
+				"conj",
+				"không chỉ; không những; chẳng những"
+			],
+			[
+				"adv",
+				"không chỉ"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"音乐": {
+		"py": "yīnyuè",
+		"mn": [
+			[
+				"n",
+				"nhạc; âm nhạc"
+			]
+		]
+	}
+}

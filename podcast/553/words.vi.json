@@ -1,0 +1,171 @@
+{
+	"周末": {
+		"py": "zhōumò",
+		"mn": [
+			[
+				"n, time",
+				"cuối tuần"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"打算": {
+		"py": "dǎsuàn",
+		"mn": [
+			[
+				"v",
+				"dự định; định; tính toán; lo liệu"
+			],
+			[
+				"n",
+				"dự định; suy nghĩ; quan niệm; kế hoạch"
+			]
+		]
+	},
+	"干": {
+		"py": "gàn",
+		"mn": [
+			[
+				"n",
+				"cán; thân; mình | cán bộ | khả năng; năng lực (làm việc)"
+			],
+			[
+				"v",
+				"làm, làm việc | đảm nhiệm; làm"
+			],
+			[
+				"adj",
+				"có tài; tài cán; giỏi giang; có năng lực"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"包": {
+		"py": "bāo",
+		"mn": [
+			[
+				"v",
+				"bao; gói; đùm; bọc; quấn; gói ghém | ôm; bao vây; vây quanh; bao bọc; bao quanh | bao quát; bao gồm; ôm đồm | khoán; nhận; thầu; độc quyền | đảm bảo; cam đoan; chắc chắn; bảo đảm | bao; thuê; khoán; thuê cả; mua cả; bao hết"
+			],
+			[
+				"n",
+				"bao; túi; gói; đùm | cặp; túi; ví (đựng đồ) | lều (mái tròn) | cục; cái u; cái bướu | họ Bao"
+			],
+			[
+				"measure",
+				"bao; gói; túi; bọc"
+			]
+		]
+	},
+	"春节": {
+		"py": "chūnjié",
+		"mn": [
+			[
+				"n",
+				"Tết âm lịch; Tết nguyên đán; Tết ta"
+			]
+		]
+	},
+	"计划": {
+		"py": "jìhuà",
+		"mn": [
+			[
+				"n",
+				"kế hoạch; bàn tính; mưu tính"
+			],
+			[
+				"v",
+				"lập kế hoạch; tính toán; vạch kế hoạch; dự định"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"旅游": {
+		"py": "lǚyóu",
+		"mn": [
+			[
+				"v",
+				"du ngoạn; du lịch"
+			]
+		]
+	},
+	"没有": {
+		"py": "méiyǒu",
+		"mn": [
+			[
+				"v",
+				"không có (sở hữu) | không (tồn tại) | không bằng | không đủ; không tới; không đến"
+			],
+			[
+				"adv",
+				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"安排": {
+		"py": "ānpái",
+		"mn": [
+			[
+				"v",
+				"sắp đặt; sắp xếp; bố trí; thu xếp | sắp xếp; bố trí"
+			],
+			[
+				"n",
+				"kế hoạch; cách bố trí; sự trình bày; sự sắp đặt; sơ đồ bố trí"
+			]
+		]
+	}
+}

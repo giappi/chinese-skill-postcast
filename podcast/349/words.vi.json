@@ -1,0 +1,311 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你们": {
+		"py": "nǐmen",
+		"mn": [
+			[
+				"pro",
+				"mấy người; các cậu; các bạn; các ông; các bà; anh chị; các anh; các chị"
+			]
+		]
+	},
+	"一般": {
+		"py": "yībān",
+		"mn": [
+			[
+				"adj",
+				"như; giống nhau; như nhau | trung bình; bình thường; trình độ không cao"
+			],
+			[
+				"adv",
+				"thường; thông thường"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"哪儿": {
+		"py": "nǎr",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | bất kỳ đâu | đâu có (cách trả lời khiêm tốn khi được người khác khen ngợi)"
+			],
+			[
+				"adv",
+				"sao; nào; đâu; sao mà (thể hiện sự phủ định)"
+			]
+		]
+	},
+	"吃": {
+		"py": "chī",
+		"mn": [
+			[
+				"v",
+				"ăn; uống | nhờ; sống nhờ; ăn nhờ ở đậu | ăn; tiêu diệt (dùng trong quân sự,chơi cờ) | tốn; mất; tiêu thụ; hao phí | thấm; hút; hấp thu (chất lỏng) | chịu; bị; mắc; cam chịu; chịu đựng | tiếp thu; tìm hiểu | ngập; mớn; ăn vào (chỉ một vật thể đi vào một vật thể khác) | chấp nhận; đồng ý | ăn hàng; ăn quán; ăn nhà hàng"
+			],
+			[
+				"n",
+				"đồ ăn"
+			],
+			[
+				"adj",
+				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"午餐": {
+		"py": "wǔcān",
+		"mn": [
+			[
+				"n",
+				"bữa trưa"
+			]
+		]
+	},
+	"自己": {
+		"py": "zìjǐ",
+		"mn": [
+			[
+				"pro",
+				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"带": {
+		"py": "dài",
+		"mn": [
+			[
+				"v",
+				"đeo | dẫn; dắt; kèm; cặp; dẫn dắt | nuôi dưỡng; chăm; chăm sóc | tiện tay; nhân tiện (làm gì đó) | đưa, dẫn | có; bao gồm | mang theo; kèm theo | kéo; lôi kéo; tác động; thúc đẩy | mang; dắt; cầm; đem | xuất hiện; hiện ra"
+			],
+			[
+				"n",
+				"dây; băng; thắt lưng; cái đai | lốp; vỏ | vùng; miền; khu vực | bạch đới; khí hư (bệnh) | họ Đới"
+			]
+		]
+	},
+	"几": {
+		"py": "jǐ",
+		"mn": [
+			[
+				"numb",
+				"mấy (hỏi số lượng bao nhiêu) | mấy; vài (biểu thị một số không xác định từ hai đến chín) | mấy; vài (thay thế con số nhất định) | ngày nào"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"人": {
+		"py": "rén",
+		"mn": [
+			[
+				"n",
+				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"一起": {
+		"py": "yīqǐ",
+		"mn": [
+			[
+				"adv",
+				"cùng; cùng nhau làm gì | tổng cộng; cả thảy; tất cả; cộng lại"
+			],
+			[
+				"n",
+				"ở cùng một nơi, một chỗ."
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"食堂": {
+		"py": "shítáng",
+		"mn": [
+			[
+				"n",
+				"nhà ăn; căng tin"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"老婆": {
+		"py": "lǎopó",
+		"mn": [
+			[
+				"n",
+				"vợ; bà xã"
+			]
+		]
+	},
+	"亲手": {
+		"py": "qīnshǒu",
+		"mn": [
+			[
+				"adv",
+				"tự tay; chính tay"
+			]
+		]
+	},
+	"做": {
+		"py": "zuò",
+		"mn": [
+			[
+				"v",
+				"chế tạo | viết; sáng tác | làm; làm việc; thực hiện | làm; tổ chức; chúc mừng | đảm nhiệm; trở thành | làm; dùng làm; sử dụng làm | trở thành; kết thành; tạo thành (quan hệ) | giả vờ; giả trang"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"幸福": {
+		"py": "xìngfú",
+		"mn": [
+			[
+				"adj",
+				"hạnh phúc"
+			],
+			[
+				"n",
+				"hạnh phúc; niềm hạnh phúc; sự hạnh phúc"
+			]
+		]
+	}
+}

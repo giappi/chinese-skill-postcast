@@ -1,0 +1,314 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"结婚": {
+		"py": "jiéhūn",
+		"mn": [
+			[
+				"v",
+				"cưới; cưới xin; kết hôn; lấy nhau"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"时候": {
+		"py": "shíhou",
+		"mn": [
+			[
+				"n",
+				"lúc; khi | lúc; lúc đó; khi ấy( chỉ một khoảng thời gian nhất định)"
+			]
+		]
+	},
+	"拜天地": {
+		"py": "bàitiāndì",
+		"mn": [
+			[
+				"v",
+				"lạy trời đất; bái thiên địa"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"当然": {
+		"py": "dāngrán",
+		"mn": [
+			[
+				"adv",
+				"nên như thế; phải thế; tất nhiên; đương nhiên; dĩ nhiên | tất nhiên; hiển nhiên; đương nhiên | tất nhiên; không nghi ngờ gì; chắc chắn là"
+			],
+			[
+				"adj",
+				"điều đương nhiên; tất nhiên"
+			]
+		]
+	},
+	"拜": {
+		"py": "bài",
+		"mn": [
+			[
+				"v",
+				"bái; lạy; vái (nghi lễ biểu thị sự tôn kính) | đáp lễ; chúc mừng; chào mừng | thăm hỏi; chào hỏi; chào thăm hỏi | phong; tôn; kết nghĩa; cung kính nhận làm | bái; thờ; cung kính kết giao | bái; xin nhận (lời nói tôn kính, dùng trong giao tiếp) | họ Bái"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"天地": {
+		"py": "tiāndì",
+		"mn": [
+			[
+				"n",
+				"trời đất; thiên địa | thế giới | tình cảnh; nông nỗi"
+			]
+		]
+	},
+	"二": {
+		"py": "èr",
+		"mn": [
+			[
+				"numb",
+				"hai; số hai | thứ hai; hạng nhì"
+			],
+			[
+				"adj",
+				"khác nhau | ngốc | không chuyên tâm, không chung thủy"
+			]
+		]
+	},
+	"高堂": {
+		"py": "gāotáng",
+		"mn": [
+			[
+				"n",
+				"hội trường lớn | cha mẹ; cao đường"
+			]
+		]
+	},
+	"夫妻": {
+		"py": "fūqī",
+		"mn": [
+			[
+				"n",
+				"vợ chồng; phu thê"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"喝": {
+		"py": "hē",
+		"mn": [
+			[
+				"v",
+				"uống | nhậu; nhậu nhẹt; uống (rượu)"
+			],
+			[
+				"intj",
+				"ồ (biểu thị sự ngạc nhiên)"
+			],
+			[
+				"n",
+				"thức uống (đặc biệt là rượu)"
+			]
+		]
+	},
+	"交杯酒": {
+		"py": "jiāobēijiǔ",
+		"mn": [
+			[
+				"n",
+				"rượu giao bôi; giao bôi (theo phong tục cũ, hai cốc rượu buộc với nhau bằng sợi tơ hồng, khi cưới cô dâu chú rễ đổi chén mà uống); đổi chén"
+			]
+		]
+	},
+	"当着": {
+		"py": "dāngzhe",
+		"mn": [
+			[
+				"conj",
+				"ở đằng trước | với sự hiện diện của"
+			]
+		]
+	},
+	"那么": {
+		"py": "nàme",
+		"mn": [
+			[
+				"pro",
+				"như vậy; như thế; thế đó; thế đấy; như thế đấy | như thế (dùng trước số lượng từ)"
+			],
+			[
+				"conj",
+				"thì; vậy thì"
+			]
+		]
+	},
+	"多": {
+		"py": "duō",
+		"mn": [
+			[
+				"adj",
+				"đa; nhiều (quá mức; không cần thiết) | hơn nhiều; rất nhiều (mức chênh lệch) | nhiều; lắm"
+			],
+			[
+				"v",
+				"dư; thừa; thừa ra; dư ra | thêm"
+			],
+			[
+				"adv",
+				"bao nhiêu; thế nào; đến mức nào  (dùng trong câu hỏi) | bao nhiêu; thế nào; bấy nhiêu; đến đâu; cỡ nào | rất; lắm; quá; vô cùng; quả thật; biết mấy (dừng trong câu cảm thán) | đa số; hầu hết; phần nhiều; phần lớn; đa phần"
+			],
+			[
+				"numb",
+				"hơn; ngoài"
+			],
+			[
+				"n",
+				"họ Đa"
+			]
+		]
+	},
+	"朋友": {
+		"py": "péngyou",
+		"mn": [
+			[
+				"n",
+				"bạn bè; bạn; bằng hữu; anh em bạn; bạn hữu"
+			]
+		]
+	},
+	"新娘": {
+		"py": "xīnniáng",
+		"mn": [
+			[
+				"n",
+				"cô dâu; tân nương"
+			]
+		]
+	},
+	"不": {
+		"py": "bú",
+		"mn": [
+			[
+				"adv",
+				"\"不\" đứng trước một âm tiết mang thanh 4 thì biến điệu thành thanh 2 (bú)"
+			]
+		]
+	},
+	"害羞": {
+		"py": "hàixiū",
+		"mn": [
+			[
+				"adj",
+				"thẹn thùng; mắc cỡ; ngại ngùng; ngượng ngùng"
+			],
+			[
+				"v",
+				"ngại; xấu hổ; thẹn thùng; ngượng ngùng; bẽn lẽn; e lệ; mắc cỡ; ngại ngùng"
+			]
+		]
+	},
+	"大家": {
+		"py": "dàjiā",
+		"mn": [
+			[
+				"n",
+				"chuyên gia; người nổi tiếng; bậc thầy | nhà quyền quý; thế gia vọng tộc"
+			],
+			[
+				"pro",
+				"mọi người; cả nhà"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"这样": {
+		"py": "zhèyàng",
+		"mn": [
+			[
+				"pro",
+				"vậy; thế; như vậy; như thế; thế này; như vầy"
+			]
+		]
+	}
+}

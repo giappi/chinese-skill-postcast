@@ -1,0 +1,344 @@
+{
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"打算": {
+		"py": "dǎsuàn",
+		"mn": [
+			[
+				"v",
+				"dự định; định; tính toán; lo liệu"
+			],
+			[
+				"n",
+				"dự định; suy nghĩ; quan niệm; kế hoạch"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"哪里": {
+		"py": "nǎlǐ",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | ở đâu; nơi nào | đâu; đâu phải; đâu có phải(dùng trong câu hỏi vặn; có ý phủ định) | đâu có (lời nói khiêm tốn)"
+			]
+		]
+	},
+	"旅游": {
+		"py": "lǚyóu",
+		"mn": [
+			[
+				"v",
+				"du ngoạn; du lịch"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"故宫": {
+		"py": "gùgōng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Cố Cung"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"问题": {
+		"py": "wèntí",
+		"mn": [
+			[
+				"n",
+				"câu hỏi; đề hỏi | vấn đề (phải nghiên cứu, thảo luận, giải quyết) | chuyện; trở ngại; trắc trở; vấn đề | quan trọng; mấu chốt (điểm)"
+			],
+			[
+				"adj",
+				"có vấn đề; không bình thường"
+			]
+		]
+	},
+	"每": {
+		"py": "měi",
+		"mn": [
+			[
+				"pro",
+				"each,every | each,every"
+			],
+			[
+				"adv",
+				"mỗi khi; mỗi lần; mỗi dịp | thường; hay"
+			]
+		]
+	},
+	"人": {
+		"py": "rén",
+		"mn": [
+			[
+				"n",
+				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"块": {
+		"py": "kuài",
+		"mn": [
+			[
+				"measure",
+				"viên; bánh; đống; khối | tấm; mảnh; miếng; chiếc | tờ; đồng (tiền đồng hoặc tiền giấy)"
+			],
+			[
+				"n",
+				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"包含": {
+		"py": "bāohán",
+		"mn": [
+			[
+				"v",
+				"chứa; có; hàm chứa; bao hàm"
+			]
+		]
+	},
+	"往返": {
+		"py": "wǎngfǎn",
+		"mn": [
+			[
+				"v",
+				"khứ hồi; lặp đi lặp lại; đi đi lại lại; chạy đi chạy lại"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"帮": {
+		"py": "bāng",
+		"mn": [
+			[
+				"v",
+				"giúp; giúp đỡ; trợ giúp"
+			],
+			[
+				"n",
+				"thành; mép; bờ; mạn; bẹ | lá già (lớp ngoài của cây rau) | bọn; lũ; đàn; băng; tập đoàn; bè lũ | họ Bang"
+			],
+			[
+				"measure",
+				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"找": {
+		"py": "zhǎo",
+		"mn": [
+			[
+				"v",
+				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"会": {
+		"py": "huì",
+		"mn": [
+			[
+				"measure",
+				"một lát; một chút; một hồi; lát nữa; một lúc"
+			],
+			[
+				"v",
+				"sẽ; có thể; có khả năng | biết; hiểu; thông hiểu | hiểu; biết; lĩnh hội | nên; cần; phải | tiếp; gặp mặt; gặp nhau; gặp gỡ | hội họp; tụ họp; tụ tập; hợp lại | giỏi; khéo; chuyên; sở trường | trả tiền; thanh toán"
+			],
+			[
+				"n",
+				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	}
+}

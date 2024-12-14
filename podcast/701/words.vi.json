@@ -1,0 +1,169 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"饿": {
+		"py": "è",
+		"mn": [
+			[
+				"v",
+				"bỏ đói; để đói; chết đói; bị đói"
+			],
+			[
+				"adj",
+				"đói; đói bụng"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"中午": {
+		"py": "zhōngwǔ",
+		"mn": [
+			[
+				"n",
+				"buổi trưa"
+			]
+		]
+	},
+	"吃": {
+		"py": "chī",
+		"mn": [
+			[
+				"v",
+				"ăn; uống | nhờ; sống nhờ; ăn nhờ ở đậu | ăn; tiêu diệt (dùng trong quân sự,chơi cờ) | tốn; mất; tiêu thụ; hao phí | thấm; hút; hấp thu (chất lỏng) | chịu; bị; mắc; cam chịu; chịu đựng | tiếp thu; tìm hiểu | ngập; mớn; ăn vào (chỉ một vật thể đi vào một vật thể khác) | chấp nhận; đồng ý | ăn hàng; ăn quán; ăn nhà hàng"
+			],
+			[
+				"n",
+				"đồ ăn"
+			],
+			[
+				"adj",
+				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"觉得": {
+		"py": "juéde",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"更": {
+		"py": "gèng",
+		"mn": [
+			[
+				"adv",
+				"càng; lại | hơn"
+			]
+		]
+	},
+	"好吃": {
+		"py": "hǎochī",
+		"mn": [
+			[
+				"adj",
+				"ngon; ngon miệng; thơm ngon"
+			]
+		]
+	},
+	"好吧": {
+		"py": "hǎoba",
+		"mn": [
+			[
+				"sentence",
+				"thôi được; được rồi; được thôi"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	}
+}

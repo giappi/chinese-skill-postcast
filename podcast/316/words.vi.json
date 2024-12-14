@@ -1,0 +1,366 @@
+{
+	"最近": {
+		"py": "zuìjìn",
+		"mn": [
+			[
+				"n, time",
+				"gần đây; mới đây; vừa qua; dạo này"
+			],
+			[
+				"adj",
+				"gần nhất; gần đây"
+			]
+		]
+	},
+	"越来越": {
+		"py": "yuèláiyuè",
+		"mn": [
+			[
+				"adv",
+				"ngày càng; càng ngày càng;"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"猜": {
+		"py": "cāi",
+		"mn": [
+			[
+				"v",
+				"đoán; suy đoán; phỏng đoán | nghi ngờ; sinh nghi; hoài nghi"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"谁": {
+		"py": "shéi",
+		"mn": [
+			[
+				"pro",
+				"ai (câu hỏi đề cập đến người được hỏi) | ai (trong câu hỏi tu từ) | ai; ai đó; bất kì ai (không chắc chắn) | ai; mọi người; bất cứ ai (trong một phạm vi nhất định) | ai; bất kì ai (lặp lại trong câu, dùng để chỉ một người) | ai (làm cả chủ ngữ và tân ngữ)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"减肥": {
+		"py": "jiǎnféi",
+		"mn": [
+			[
+				"v",
+				"giảm cân; giảm béo"
+			]
+		]
+	},
+	"不是": {
+		"py": "bùshì",
+		"mn": [
+			[
+				"phrase",
+				"không phải; không đúng"
+			],
+			[
+				"n",
+				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"养": {
+		"py": "yǎng",
+		"mn": [
+			[
+				"v",
+				"nuôi; nuôi dưỡng; nuôi nấng (động vật) | nuôi; nuôi dưỡng | trồng; vun trồng | sinh; đẻ | bồi dưỡng; tu dưỡng; trau dồi; rèn luyện | dưỡng; nghỉ dưỡng | bảo dưỡng; tu bổ | để; nuôi (tóc) | giúp đỡ; hỗ trợ; nâng đỡ"
+			],
+			[
+				"adj",
+				"nuôi (người ngoài làm con)"
+			],
+			[
+				"n",
+				"năng lực; tố chất; phẩm hạnh; sự tu dưỡng | họ Dưỡng"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"只": {
+		"py": "zhī",
+		"mn": [
+			[
+				"measure",
+				"con (dùng cho động vật) | chiếc; cái | chiếc; con (thuyền, bè)"
+			],
+			[
+				"adj",
+				"đơn chiếc; lẻ loi; một mình; đơn độc"
+			]
+		]
+	},
+	"宠物": {
+		"py": "chǒngwù",
+		"mn": [
+			[
+				"n",
+				"thú cưng; vật nuôi"
+			]
+		]
+	},
+	"每天": {
+		"py": "měitiān",
+		"mn": [
+			[
+				"n, time",
+				"mỗi ngày; hằng ngày"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"遛狗": {
+		"py": "liùgǒu",
+		"mn": [
+			[
+				"v",
+				"dắt chó đi dạo"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"小时": {
+		"py": "xiǎoshí",
+		"mn": [
+			[
+				"n",
+				"giờ; tiếng; tiếng đồng hồ"
+			],
+			[
+				"measure",
+				"giờ; tiếng"
+			]
+		]
+	},
+	"看来": {
+		"py": "kànlái",
+		"mn": [
+			[
+				"adv",
+				"xem chừng; có vẻ; có vẻ như; xem ra thì (người nói đánh giá, phán đoán dựa trên tình hình thực tế)"
+			],
+			[
+				"v",
+				"theo cách nhìn của; theo góc nhìn của; theo quan điểm của"
+			]
+		]
+	},
+	"比": {
+		"py": "bǐ",
+		"mn": [
+			[
+				"prep",
+				"hơn; so; so với"
+			],
+			[
+				"v",
+				"sát; kề; kề sát; dựa sát | cấu kết; dựa vào; nương tựa; phụ thuộc | đọ; so sánh; so đo | như; tương tự; sánh bằng; ngang với | chia (toán học) | tỉ số | noi theo; phỏng theo; mô phỏng | ví; so; ví von | ra dấu; ra hiệu (diễn tả bằng điệu bộ) | nhắm vào; nhằm vào; hướng vào"
+			],
+			[
+				"n",
+				"tỷ lệ | nước Bỉ"
+			],
+			[
+				"adv",
+				"gần đây"
+			]
+		]
+	},
+	"办": {
+		"py": "bàn",
+		"mn": [
+			[
+				"v",
+				"làm; xử lý; lo liệu | mua; mở; mua sắm; bài trí | trừng phạt, nghiêm trị (theo pháp luật) | mở; lập; sáng lập; kinh doanh; tổ chức"
+			],
+			[
+				"n",
+				"phòng; văn phòng"
+			]
+		]
+	},
+	"健身卡": {
+		"py": "jiànshēnkǎ",
+		"mn": [
+			[
+				"n",
+				"thẻ gym"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	}
+}

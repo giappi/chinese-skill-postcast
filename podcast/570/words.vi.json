@@ -1,0 +1,115 @@
+{
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"坐": {
+		"py": "zuò",
+		"mn": [
+			[
+				"v",
+				"ngồi | ngồi; đi; đáp (phương tiện giao thông) | quay lưng; quay lưng về (hướng nào đó) | đặt; để (xoong, nồi, ấm lên bếp) | giật; lún; giật hậu | ra quả; kết quả; có quả | bị tội; định tội; kết tội; buộc tội | bị; mắc (bệnh tật) | nắm giữ; quản lý; chủ trì;  chịu trách nhiệm"
+			],
+			[
+				"prep",
+				"vì; bởi vì"
+			],
+			[
+				"n",
+				"chỗ ngồi; ghế ngồi | họ Tọa"
+			],
+			[
+				"adv",
+				"tự dưng; vô cớ; vô duyên vô cớ"
+			],
+			[
+				"adj",
+				"chắc; mẩy; mọng nước"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"这儿": {
+		"py": "zhèr",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; chỗ này | lúc này; từ đây"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"乘客": {
+		"py": "chéngkè",
+		"mn": [
+			[
+				"n",
+				"hành khách"
+			]
+		]
+	},
+	"当然": {
+		"py": "dāngrán",
+		"mn": [
+			[
+				"adv",
+				"nên như thế; phải thế; tất nhiên; đương nhiên; dĩ nhiên | tất nhiên; hiển nhiên; đương nhiên | tất nhiên; không nghi ngờ gì; chắc chắn là"
+			],
+			[
+				"adj",
+				"điều đương nhiên; tất nhiên"
+			]
+		]
+	}
+}

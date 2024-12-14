@@ -1,0 +1,498 @@
+{
+	"大家": {
+		"py": "dàjiā",
+		"mn": [
+			[
+				"n",
+				"chuyên gia; người nổi tiếng; bậc thầy | nhà quyền quý; thế gia vọng tộc"
+			],
+			[
+				"pro",
+				"mọi người; cả nhà"
+			]
+		]
+	},
+	"这次": {
+		"py": "zhècì",
+		"mn": [
+			[
+				"pro",
+				"lần này; dịp này"
+			]
+		]
+	},
+	"会议": {
+		"py": "huìyì",
+		"mn": [
+			[
+				"n",
+				"cuộc họp | hội nghị"
+			]
+		]
+	},
+	"最近": {
+		"py": "zuìjìn",
+		"mn": [
+			[
+				"n, time",
+				"gần đây; mới đây; vừa qua; dạo này"
+			],
+			[
+				"adj",
+				"gần nhất; gần đây"
+			]
+		]
+	},
+	"为了": {
+		"py": "wèile",
+		"mn": [
+			[
+				"prep",
+				"để; vì (biểu thị mục đích)."
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"安全": {
+		"py": "ānquán",
+		"mn": [
+			[
+				"adj",
+				"an toàn"
+			],
+			[
+				"n",
+				"sự an toàn"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"得": {
+		"py": "děi",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; phải | phải (biểu thị sự tất yếu về mặt ý chí hoặc sự thật) | nhất định (biểu thị điều tất nhiên của sự suy đoán) | thoải mái; vừa lòng; dễ chịu"
+			],
+			[
+				"adj",
+				"thoải mái; tự tại; tự do"
+			]
+		]
+	},
+	"认真": {
+		"py": "rènzhēn",
+		"mn": [
+			[
+				"sv, v",
+				"tưởng thật; tin thật; tin"
+			],
+			[
+				"adj",
+				"nghiêm túc; chăm chỉ; hẳn hoi; cẩn thận"
+			]
+		]
+	},
+	"学习": {
+		"py": "xuéxí",
+		"mn": [
+			[
+				"v",
+				"học tập; học; học hành; noi theo"
+			],
+			[
+				"n",
+				"việc học"
+			]
+		]
+	},
+	"一些": {
+		"py": "yīxiē",
+		"mn": [
+			[
+				"class",
+				"một vài; một số; một phần (chỉ số lượng không xác định) | một ít; một chút (chỉ số lượng rất ít) | mấy; một số | chút; một chút; một tý (đặt sau động từ hoặc tính từ)"
+			]
+		]
+	},
+	"公司": {
+		"py": "gōngsī",
+		"mn": [
+			[
+				"n",
+				"công ty"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"灭火": {
+		"py": "mièhuǒ",
+		"mn": [
+			[
+				"v",
+				"dập tắt lửa; tắt ngòi | chết máy"
+			]
+		]
+	},
+	"发现": {
+		"py": "fāxiàn",
+		"mn": [
+			[
+				"v",
+				"tìm ra; tìm tòi; khám phá; tìm thấy | phát giác; phát hiện"
+			],
+			[
+				"n",
+				"khám phá; sự phát hiện"
+			]
+		]
+	},
+	"着火点": {
+		"py": "zháohuǒdiǎn",
+		"mn": [
+			[
+				"n",
+				"điểm cháy; nguồn lửa (hoá học)"
+			]
+		]
+	},
+	"房间": {
+		"py": "fángjiān",
+		"mn": [
+			[
+				"n",
+				"gian phòng; phòng; buồng; căn phòng"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"新": {
+		"py": "xīn",
+		"mn": [
+			[
+				"adj",
+				"mới (bắt đầu, vừa xuất hiện) | mới (chưa dùng hoặc thời gian sử dụng ngắn) | mới kết hôn"
+			],
+			[
+				"adv",
+				"mới; vừa (đặt trước động từ)"
+			],
+			[
+				"n",
+				"triều đại nhà Tân | Tân Cương | họ Tân"
+			],
+			[
+				"v",
+				"Sửa đổi; cải tiến; làm mới; làm thay đổi"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"走廊": {
+		"py": "zǒuláng",
+		"mn": [
+			[
+				"n",
+				"hành lang | hành lang (nối liền hai khu vực lớn)"
+			]
+		]
+	},
+	"里": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"bên trong; phía trong | lót (bên trong, mặt trái của áo hoặc chăn) | xóm; làng | quê hương | trong; nội bộ | nơi; chỗ | họ Lí"
+			],
+			[
+				"measure",
+				"dặm (đơn vị đo chiều dài, bằng 1/2 km)"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"灭火器": {
+		"py": "mièhuǒqì",
+		"mn": [
+			[
+				"n",
+				"bình cứu hỏa; bình chữa cháy"
+			]
+		]
+	},
+	"稍后": {
+		"py": "shāohòu",
+		"mn": [
+			[
+				"n",
+				"một lát; lát nữa"
+			]
+		]
+	},
+	"需要": {
+		"py": "xūyào",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; nên có; cần có"
+			],
+			[
+				"n",
+				"sự đòi hỏi; yêu cầu; nhu cầu"
+			]
+		]
+	},
+	"如何": {
+		"py": "rúhé",
+		"mn": [
+			[
+				"pro",
+				"làm sao; như thế nào; thế nào; ra sao, làm thế nào (dùng để hỏi cách giải quyết vấn đề) | làm sao; như thế nào; thế nào; ra sao (hỏi tình hình hoặc ý kiến của người khác) | làm sao; như thế nào; thế nào; ra sao (hỏi tính chất, trạng thái, phương thức...)"
+			]
+		]
+	},
+	"使用": {
+		"py": "shǐyòng",
+		"mn": [
+			[
+				"v",
+				"dùng; sử dụng; áp dụng"
+			]
+		]
+	},
+	"要求": {
+		"py": "yāoqiú",
+		"mn": [
+			[
+				"v",
+				"yêu cầu; đòi hỏi"
+			],
+			[
+				"n",
+				"nguyện vọng; yêu cầu; đòi hỏi"
+			]
+		]
+	},
+	"必须": {
+		"py": "bìxū",
+		"mn": [
+			[
+				"adv",
+				"phải; nhất định phải | nhất thiết phải; nhất định phải (ngữ khí ra lệnh)"
+			]
+		]
+	},
+	"保证": {
+		"py": "bǎozhèng",
+		"mn": [
+			[
+				"v",
+				"hứa; cam đoan; bảo đảm | đảm bảo"
+			],
+			[
+				"n",
+				"vật bảo đảm; sự bảo đảm; vật làm tin; vật thế chấp"
+			]
+		]
+	},
+	"自己": {
+		"py": "zìjǐ",
+		"mn": [
+			[
+				"pro",
+				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"工作": {
+		"py": "gōngzuò",
+		"mn": [
+			[
+				"v",
+				"làm việc; làm"
+			],
+			[
+				"n",
+				"việc làm; nghề nghiệp; công việc; nghề ngỗng | nhiệm vụ; nghiệp vụ; công tác"
+			]
+		]
+	},
+	"不要": {
+		"py": "bùyào",
+		"mn": [
+			[
+				"adv",
+				"đừng; cấm; không được; chớ; không nên; không được | không cần"
+			]
+		]
+	},
+	"易燃品": {
+		"py": "yìránpǐn",
+		"mn": [
+			[
+				"n",
+				"Đồ dễ cháy"
+			]
+		]
+	},
+	"过度": {
+		"py": "guòdù",
+		"mn": [
+			[
+				"adj",
+				"quá; quá độ; quá mức; vượt quá"
+			]
+		]
+	},
+	"用": {
+		"py": "yòng",
+		"mn": [
+			[
+				"v",
+				"dùng; sử dụng | cần (dùng trong câu phủ định) | dùng; uống; ăn (lịch sự)"
+			],
+			[
+				"n",
+				"chi phí; chi tiêu | công hiệu; hiệu quả; công dụng | họ Dụng"
+			],
+			[
+				"prep",
+				"dùng; bằng; bằng cách"
+			],
+			[
+				"conj",
+				"vì; do; nhờ"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"问题": {
+		"py": "wèntí",
+		"mn": [
+			[
+				"n",
+				"câu hỏi; đề hỏi | vấn đề (phải nghiên cứu, thảo luận, giải quyết) | chuyện; trở ngại; trắc trở; vấn đề | quan trọng; mấu chốt (điểm)"
+			],
+			[
+				"adj",
+				"có vấn đề; không bình thường"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"如果": {
+		"py": "rúguǒ",
+		"mn": [
+			[
+				"conj",
+				"nếu; nếu như; nếu mà; lỡ như; giá mà"
+			]
+		]
+	},
+	"没有": {
+		"py": "méiyǒu",
+		"mn": [
+			[
+				"v",
+				"không có (sở hữu) | không (tồn tại) | không bằng | không đủ; không tới; không đến"
+			],
+			[
+				"adv",
+				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"准备": {
+		"py": "zhǔnbèi",
+		"mn": [
+			[
+				"v",
+				"chuẩn bị; sắp sửa; sẵn sàng | dự định; định; định bụng"
+			],
+			[
+				"n",
+				"sự chuẩn bị"
+			]
+		]
+	}
+}

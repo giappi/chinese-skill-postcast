@@ -1,0 +1,274 @@
+{
+	"由": {
+		"py": "yóu",
+		"mn": [
+			[
+				"prep",
+				"do; từ; bởi; bởi vì | do (trọng trách, trách nhiệm) | do; bởi; từ; căn cứ vào | từ; tự; khởi điểm (nơi chốn, thời gian) | qua; do; thông qua"
+			],
+			[
+				"v",
+				"qua; trải qua | thuận theo; nghe theo; tuỳ theo | tuân theo; nghe theo"
+			],
+			[
+				"n",
+				"do; nguyên do; lí do; nguyên nhân | họ Do"
+			]
+		]
+	},
+	"北京": {
+		"py": "běijīng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Bắc Kinh; Beijing (thủ đô Trung Quốc)"
+			]
+		]
+	},
+	"前往": {
+		"py": "qiánwǎng",
+		"mn": [
+			[
+				"v",
+				"đi; đến; tiến về phía trước"
+			]
+		]
+	},
+	"上海": {
+		"py": "shànghǎi",
+		"mn": [
+			[
+				"n, nlocal",
+				"Thượng Hải; thành phố Thượng Hải (Trung Quốc)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"旅客": {
+		"py": "lǚkè",
+		"mn": [
+			[
+				"n",
+				"lữ khách; hành khách; du khách"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"注意": {
+		"py": "zhùyì",
+		"mn": [
+			[
+				"v",
+				"để ý; chú ý"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"乘坐": {
+		"py": "chéngzuò",
+		"mn": [
+			[
+				"v",
+				"đi; ngồi; sử dụng (phương tiện giao thông)"
+			]
+		]
+	},
+	"次": {
+		"py": "cì",
+		"mn": [
+			[
+				"measure",
+				"lần; lượt; đợt"
+			],
+			[
+				"n",
+				"thứ tự | trọ; chỗ nghỉ trọ; điểm dừng chân | họ Thứ"
+			],
+			[
+				"adj",
+				"kém; tồi; tệ; xấu | thứ; sau; kế"
+			],
+			[
+				"v",
+				"xếp; xếp bày"
+			]
+		]
+	},
+	"航班": {
+		"py": "hángbān",
+		"mn": [
+			[
+				"n",
+				"chuyến bay"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"开始": {
+		"py": "kāishǐ",
+		"mn": [
+			[
+				"v",
+				"bắt đầu; khởi đầu; vào"
+			],
+			[
+				"n",
+				"giai đoạn đầu; lúc đầu"
+			]
+		]
+	},
+	"登机": {
+		"py": "dēngjī",
+		"mn": [
+			[
+				"v",
+				"lên máy bay"
+			]
+		]
+	},
+	"带": {
+		"py": "dài",
+		"mn": [
+			[
+				"v",
+				"đeo | dẫn; dắt; kèm; cặp; dẫn dắt | nuôi dưỡng; chăm; chăm sóc | tiện tay; nhân tiện (làm gì đó) | đưa, dẫn | có; bao gồm | mang theo; kèm theo | kéo; lôi kéo; tác động; thúc đẩy | mang; dắt; cầm; đem | xuất hiện; hiện ra"
+			],
+			[
+				"n",
+				"dây; băng; thắt lưng; cái đai | lốp; vỏ | vùng; miền; khu vực | bạch đới; khí hư (bệnh) | họ Đới"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"随身": {
+		"py": "suíshēn",
+		"mn": [
+			[
+				"adj",
+				"mang bên mình; theo bên người; tùy thân; mang theo"
+			]
+		]
+	},
+	"物品": {
+		"py": "wùpǐn",
+		"mn": [
+			[
+				"n",
+				"vật phẩm; đồ vật; đồ đạc (dùng trong sinh hoạt)"
+			]
+		]
+	},
+	"号": {
+		"py": "hào",
+		"mn": [
+			[
+				"n",
+				"hiệu; tên; tên hiệu; tên gọi | tên hiệu; bí danh; biệt hiệu (tên riêng ngoài tên chính thức) | hiệu; cửa hàng; cửa hiệu | tín hiệu; ký hiệu; dấu hiệu; ám hiệu | số; số thứ tự | cỡ; số cỡ | ngày; mồng; số ngày | người (có tình hình đặc biệt) | lệnh; hiệu lệnh | kèn đồng (kèn trumpet nhạc cụ của phương Tây) | kèn hiệu; kèn ốc | kèn; chuông (thông báo)"
+			],
+			[
+				"measure",
+				"người (lượng từ) | hạng; loại; loại hình | vụ (giao dịch mua bán)"
+			],
+			[
+				"v",
+				"xem; bắt (mạch) | ghi số; đánh dấu; đánh số; chấm điểm | gọi; hô; hô hoán | ra lệnh; ban hành; truyền đạt (mệnh lệnh)"
+			]
+		]
+	},
+	"登机口": {
+		"py": "dēngjīkǒu",
+		"mn": [
+			[
+				"n",
+				"Cửa lên máy bay"
+			]
+		]
+	},
+	"祝": {
+		"py": "zhù",
+		"mn": [
+			[
+				"v",
+				"chúc; cầu chúc | khấn; cầu khấn | đoạn tuyệt; cắt đứt; cắt; gọt"
+			],
+			[
+				"n",
+				"họ Chúc"
+			]
+		]
+	},
+	"旅途": {
+		"py": "lǚtú",
+		"mn": [
+			[
+				"n",
+				"đường đi; hành trình; chuyến đi"
+			]
+		]
+	},
+	"愉快": {
+		"py": "yúkuài",
+		"mn": [
+			[
+				"adj",
+				"vui sướng; vui mừng; hớn hở; vui thích; vui vẻ"
+			]
+		]
+	}
+}

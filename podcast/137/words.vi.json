@@ -1,0 +1,611 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"李": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"cây mận | quả mận; mận | hành lý | họ Lý"
+			]
+		]
+	},
+	"经理": {
+		"py": "jīnglǐ",
+		"mn": [
+			[
+				"n",
+				"giám đốc; quản lý"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"传真": {
+		"py": "chuánzhēn",
+		"mn": [
+			[
+				"n",
+				"fax; điện thư; điện sao"
+			],
+			[
+				"v",
+				"gửi fax; gửi điện thư | tái hiện; tả thực"
+			]
+		]
+	},
+	"号码": {
+		"py": "hàomǎ",
+		"mn": [
+			[
+				"n",
+				"số; chữ số; con số; số thứ tự"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"上海": {
+		"py": "shànghǎi",
+		"mn": [
+			[
+				"n, nlocal",
+				"Thượng Hải; thành phố Thượng Hải (Trung Quốc)"
+			]
+		]
+	},
+	"旅行社": {
+		"py": "lǚxíngshè",
+		"mn": [
+			[
+				"n",
+				"cơ quan du lịch; công ty du lịch"
+			]
+		]
+	},
+	"那个": {
+		"py": "nàgè",
+		"mn": [
+			[
+				"pro",
+				"cái đó; cái ấy | cái ấy; việc ấy | ghê lắm (dùng trước động từ, hình dung từ, biểu thị sự khoa trương) | ấy (dùng biểu thị điều khó nói ra, có ý uyển chuyển, khôi hài) | tê"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"找": {
+		"py": "zhǎo",
+		"mn": [
+			[
+				"v",
+				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"通讯录": {
+		"py": "tōngxùnlù",
+		"mn": [
+			[
+				"n",
+				"danh bạ; sổ địa chỉ; số liên lạc; sổ ghi thông tin"
+			]
+		]
+	},
+	"记得": {
+		"py": "jìde",
+		"mn": [
+			[
+				"v",
+				"nhớ; nhớ lại; nhớ được"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"他": {
+		"py": "tā",
+		"mn": [
+			[
+				"pro",
+				"nó; anh ấy; hắn; người ấy; anh ta; y; cậu ấy (đàn ông) | khác; ngoài | hư chỉ (dùng giữa động từ hoặc số từ) | ai đó; nhiều người; mọi người"
+			]
+		]
+	},
+	"交换": {
+		"py": "jiāohuàn",
+		"mn": [
+			[
+				"v",
+				"trao đổi; đổi; giao hoán"
+			]
+		]
+	},
+	"过": {
+		"py": "guo",
+		"mn": [
+			[
+				"part",
+				"xong; rồi | từng; đã từng ( biểu thị hành vi đã từng phát sinh, nhưng nay đã hết) | từng; đã từng (tính chất, trạng thái)"
+			]
+		]
+	},
+	"名片": {
+		"py": "míngpiàn",
+		"mn": [
+			[
+				"n",
+				"danh thiếp"
+			]
+		]
+	},
+	"死活": {
+		"py": "sǐhuó",
+		"mn": [
+			[
+				"n",
+				"sống chết | bất luận thế nào; nhất định | chết sống"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"着": {
+		"py": "zháo",
+		"mn": [
+			[
+				"v",
+				"chạm; kề; tiếp xúc | bị; phải; trúng; cảm (gió, lạnh, nắng,....) | sáng; cháy; bốc cháy | ngủ; ngủ say | đúng; trúng; được; thấy (đặt sau động từ tỏ sự việc đã đạt mục đích hay đã có kết quả)"
+			]
+		]
+	},
+	"这里": {
+		"py": "zhèlǐ",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; nơi đây; tại đây"
+			]
+		]
+	},
+	"紧急": {
+		"py": "jǐnjí",
+		"mn": [
+			[
+				"adj",
+				"khẩn cấp; cấp bách; hiểm nghèo; khẩn"
+			]
+		]
+	},
+	"文件": {
+		"py": "wénjiàn",
+		"mn": [
+			[
+				"n",
+				"văn kiện; giấy tờ"
+			]
+		]
+	},
+	"得": {
+		"py": "děi",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; phải | phải (biểu thị sự tất yếu về mặt ý chí hoặc sự thật) | nhất định (biểu thị điều tất nhiên của sự suy đoán) | thoải mái; vừa lòng; dễ chịu"
+			],
+			[
+				"adj",
+				"thoải mái; tự tại; tự do"
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"发": {
+		"py": "fā",
+		"mn": [
+			[
+				"v",
+				"bắn; phát | sản sinh; nảy mầm; nẩy mầm | khởi xướng; phát động; tấn công | biến; biến hoá; biến chất | cảm thấy; cảm giác (thường dùng cho tình huống không tốt) | phát; giao; gửi đi | bật; nổi; lộ ra (tình cảm) | biểu đạt; phát ra | phát, mở rộng, khai triển | phất lên; phất (giàu có vì được nhiều của cải) | nở ra (do lên men hoặc ngâm nước) | phát tán; bốc hơi; bay hơi; toả ra; tản | khai quật; vạch trần; tiết lộ; lộ ra | khởi hành; xuất phát; lên đường | làm cho; khiến; gợi mở | cử; phái"
+			],
+			[
+				"measure",
+				"viên, phát"
+			],
+			[
+				"n",
+				"họ Phát"
+			]
+		]
+	},
+	"别着急": {
+		"py": "biézháojí",
+		"mn": [
+			[
+				"sentence",
+				"đừng vội; đừng lo"
+			]
+		]
+	},
+	"让": {
+		"py": "ràng",
+		"mn": [
+			[
+				"v",
+				"nhường | mời | bảo; để cho | tránh; tránh ra; tránh đi | cùng nhau | bán lại; nhượng lại; để lại | khiến; khiến cho | kém; thua kém (dùng trong câu phủ định)"
+			],
+			[
+				"prep",
+				"bị | theo; theo như"
+			],
+			[
+				"n",
+				"họ Nhượng"
+			]
+		]
+	},
+	"仔细": {
+		"py": "zǐxì",
+		"mn": [
+			[
+				"adj",
+				"tỉ mỉ; kỹ lưỡng; kỹ càng, tinh vi; cặn kẽ | cẩn thận; thận trọng"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"联系": {
+		"py": "liánxì",
+		"mn": [
+			[
+				"v",
+				"liên hệ; gắn liền; liên lạc"
+			],
+			[
+				"n",
+				"mối liên hệ; sự liên kết; sự gắn kết"
+			]
+		]
+	},
+	"方式": {
+		"py": "fāngshì",
+		"mn": [
+			[
+				"n",
+				"cách; kiểu; phương thức; cách thức; phương pháp"
+			]
+		]
+	},
+	"咦": {
+		"py": "yí",
+		"mn": [
+			[
+				"intj",
+				"ơ; ô"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"只有": {
+		"py": "zhǐyǒu",
+		"mn": [
+			[
+				"conj",
+				"chỉ có; chỉ khi"
+			],
+			[
+				"adv",
+				"chỉ có"
+			]
+		]
+	},
+	"电话": {
+		"py": "diànhuà",
+		"mn": [
+			[
+				"n",
+				"điện thoại | điện thoại; cuộc điện thoại; cuộc gọi đến"
+			]
+		]
+	},
+	"没有": {
+		"py": "méiyǒu",
+		"mn": [
+			[
+				"v",
+				"không có (sở hữu) | không (tồn tại) | không bằng | không đủ; không tới; không đến"
+			],
+			[
+				"adv",
+				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"傻": {
+		"py": "shǎ",
+		"mn": [
+			[
+				"adj",
+				"ngu; dốt; ngốc; đần độn; ngớ ngẩn | máy móc; không linh hoạt"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"直接": {
+		"py": "zhíjiē",
+		"mn": [
+			[
+				"adj",
+				"trực tiếp; thẳng thắn; lập tức"
+			]
+		]
+	},
+	"打": {
+		"py": "dǎ",
+		"mn": [
+			[
+				"v",
+				"đánh; đập; gõ | vỡ; bể; đánh vỡ; đập vỡ | đánh; đánh nhau; tiến đánh | quan hệ; giao thiệp; giao tiếp | xây; xây dựng; kiến tạo | làm; chế tạo | đánh; quậy; trộn; khuấy | buộc; bó | đan; bện | vẽ; viết; in; bôi | mở; đào; đục | giương; nâng; xách; vén | phát; bắn; đánh | cấp; nhận (giấy tờ) | bỏ đi; vứt bỏ; tỉa bỏ | múc; lấy | mua | bắt; bẫy; đánh | hái; chặt; cắt; đốn | tính; nghĩ ra; định ra | làm; tiến hành | chơi; đánh | biểu thị một số động tác của cơ thể | nêu; đưa ra (phương pháp,phương thức) | gọi (xe taxi) | vực lại (tinh thần)"
+			],
+			[
+				"prep",
+				"từ | căn nguyên; nguyên do"
+			]
+		]
+	},
+	"问": {
+		"py": "wèn",
+		"mn": [
+			[
+				"v",
+				"hỏi | hỏi; thăm; thăm hỏi; thăm viếng | thẩm vấn; vặn hỏi; tra vấn; tra hỏi | can thiệp; quan tâm đến | trách móc; truy vấn; truy cứu"
+			],
+			[
+				"prep",
+				"hỏi (hướng tới)"
+			],
+			[
+				"n",
+				"họ Vấn"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"知道": {
+		"py": "zhīdào",
+		"mn": [
+			[
+				"v",
+				"biết; hiểu; rõ; hay biết; hiểu rõ"
+			]
+		]
+	},
+	"对": {
+		"py": "duì",
+		"mn": [
+			[
+				"prep",
+				"về; với; đối với"
+			],
+			[
+				"measure",
+				"đôi; cặp"
+			],
+			[
+				"adj",
+				"đúng; chính xác | đối diện; đối địch; bên kia"
+			],
+			[
+				"n",
+				"câu đối | cặp đôi (quan hệ hợp tác)"
+			],
+			[
+				"v",
+				"trả lời; đáp lời; đối đáp | đối đãi; đối xử; đối phó | hướng về; nhằm vào | đối; khớp; khép | so sánh; đối chiếu | chỉnh; điều chỉnh; sửa đổi | pha | chia đôi; chia hai | xứng; hợp; vừa; tương ứng; phù hợp"
+			],
+			[
+				"adv",
+				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	}
+}

@@ -1,0 +1,180 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"会": {
+		"py": "huì",
+		"mn": [
+			[
+				"measure",
+				"một lát; một chút; một hồi; lát nữa; một lúc"
+			],
+			[
+				"v",
+				"sẽ; có thể; có khả năng | biết; hiểu; thông hiểu | hiểu; biết; lĩnh hội | nên; cần; phải | tiếp; gặp mặt; gặp nhau; gặp gỡ | hội họp; tụ họp; tụ tập; hợp lại | giỏi; khéo; chuyên; sở trường | trả tiền; thanh toán"
+			],
+			[
+				"n",
+				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"说": {
+		"py": "shuō",
+		"mn": [
+			[
+				"v",
+				"nói; kể | giải thích; giảng giải | mắng; trách móc; chỉ trích; khuyên nhủ | giới thiệu; làm mối | nói; bàn; bàn luận | nói; biểu diễn (nghệ thuật)"
+			],
+			[
+				"n",
+				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"英语": {
+		"py": "yīngyǔ",
+		"mn": [
+			[
+				"n",
+				"tiếng Anh; Anh ngữ; Anh văn"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"汉语": {
+		"py": "hànyǔ",
+		"mn": [
+			[
+				"n",
+				"Hán ngữ; tiếng Hán; tiếng Hoa; tiếng Trung Quốc; hoa ngữ"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"一个": {
+		"py": "yīgè",
+		"mn": [
+			[
+				"numb",
+				"một"
+			]
+		]
+	},
+	"哪里哪里": {
+		"py": "nǎlǐnǎlǐ",
+		"mn": [
+			[
+				"sentence",
+				"bạn tâng bốc tôi | bạn quá tốt bụng | đâu có"
+			]
+		]
+	}
+}

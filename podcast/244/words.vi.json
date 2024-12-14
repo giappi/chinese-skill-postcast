@@ -1,0 +1,219 @@
+{
+	"早": {
+		"py": "zǎo",
+		"mn": [
+			[
+				"time, n",
+				"sáng sớm; sáng tinh mơ"
+			],
+			[
+				"adv",
+				"từ lâu; lâu (biểu thị trước đó)"
+			],
+			[
+				"adj",
+				"trước; sớm (so với thời gian quy định) | chào (lời chào lúc gặp mặt nhau vào buổi sáng) | đầu; sớm"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"昨天": {
+		"py": "zuótiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm qua; hôm qua; bữa qua | đã qua; trước kia; trước đây"
+			]
+		]
+	},
+	"晚上": {
+		"py": "wǎnshàng",
+		"mn": [
+			[
+				"n, time",
+				"tối; buổi tối; ban tối; tối muộn"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"睡": {
+		"py": "shuì",
+		"mn": [
+			[
+				"v",
+				"ngủ | nằm; nằm dài; nằm thẳng cẳng"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"干": {
+		"py": "gàn",
+		"mn": [
+			[
+				"n",
+				"cán; thân; mình | cán bộ | khả năng; năng lực (làm việc)"
+			],
+			[
+				"v",
+				"làm, làm việc | đảm nhiệm; làm"
+			],
+			[
+				"adj",
+				"có tài; tài cán; giỏi giang; có năng lực"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"就是": {
+		"py": "jiùshì",
+		"mn": [
+			[
+				"adv",
+				"thì; cứ; nhất định; chỉ là; chính là | thì là"
+			],
+			[
+				"conj",
+				"dù; dù cho; cho dù; dù rằng"
+			],
+			[
+				"part",
+				"được; được rồi; đúng rồi; không sai"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"得": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"忘": {
+		"py": "wàng",
+		"mn": [
+			[
+				"v",
+				"quên; bỏ quên"
+			]
+		]
+	},
+	"时间": {
+		"py": "shíjiān",
+		"mn": [
+			[
+				"n",
+				"thời gian; ngày giờ | khoảng thời gian | giờ (thời điểm cụ thể)"
+			]
+		]
+	}
+}

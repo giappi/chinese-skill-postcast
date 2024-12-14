@@ -1,0 +1,115 @@
+{
+	"哎呀": {
+		"py": "āiyā",
+		"mn": [
+			[
+				"intj",
+				"ôi; chao; ôi chao (thể hiện sự ngạc nhiên) | trời ơi; ối giời ơi (tỏ ý trách móc, sốt ruột)"
+			]
+		]
+	},
+	"被": {
+		"py": "bèi",
+		"mn": [
+			[
+				"n",
+				"mền; chăn"
+			],
+			[
+				"v",
+				"che; che đậy | gặp; gặp phải; bị"
+			],
+			[
+				"prep",
+				"bị; được (dùng trong câu biểu thị sự bị động, chủ ngữ là vật (người) chịu tác động); được"
+			],
+			[
+				"part",
+				"bị (dùng trước động từ tạo thành nhóm từ biểu thị sự bị động)"
+			]
+		]
+	},
+	"踩": {
+		"py": "cǎi",
+		"mn": [
+			[
+				"v",
+				"giẫm; đạp; đứng | hạ thấp; đánh giá thấp; chà đạp | theo vết; theo dấu; lần theo dấu vết; truy xét"
+			]
+		]
+	},
+	"疼": {
+		"py": "téng",
+		"mn": [
+			[
+				"adj",
+				"đau; buốt; nhức"
+			],
+			[
+				"v",
+				"cưng; thương; yêu thương"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"怎么样": {
+		"py": "zěnmeyàng",
+		"mn": [
+			[
+				"pro",
+				"thế nào; như thế nào | ra sao; ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"没事": {
+		"py": "méishì",
+		"mn": [
+			[
+				"v",
+				"ổn; không sao; không sao cả | rảnh; rảnh rỗi; không có gì làm"
+			]
+		]
+	}
+}

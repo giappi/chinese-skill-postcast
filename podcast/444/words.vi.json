@@ -1,0 +1,412 @@
+{
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"来": {
+		"py": "lái",
+		"mn": [
+			[
+				"v",
+				"đến; tới (từ chỗ khác đến chỗ người nói) | tới; đến (dùng sau động từ, biểu thị động tác hướng về phía lời nói) | xảy đến; xảy ra (vấn đề, sự tình) | để (dùng giữa kết cấu động từ hoặc kết cấu giữa động từ và giới từ, biểu thị thành phần trước là phương pháp, phương hướng, thành phần sau là mục đích) | hãy; để (dùng trước một động từ khác, biểu thị làm một việc gì đó) | đánh; mở; làm (dùng thay cho một số động tác) | hợp; được"
+			],
+			[
+				"part",
+				"khoảng; chừng (đứng sau số từ hoặc số lượng từ để biểu thị số ước lượng) | dùng làm từ đệm trong thơ ca; tục ngữ hoặc lời rao hàng | ấy nhỉ | là (dùng sau số từ như \"一\"\"二\" \"三\", liệt kê lý do)"
+			],
+			[
+				"n",
+				"tới nay; từ trước tới nay (một thời điểm nhất định trong quá khứ cho đến hiện tại) | họ Lai"
+			],
+			[
+				"adj",
+				"tương lai; sau này"
+			]
+		]
+	},
+	"参加": {
+		"py": "cānjiā",
+		"mn": [
+			[
+				"v",
+				"tham gia; gia nhập; tham dự; dự; nhập cuộc | đề xuất; đưa ra; cho; góp (ý kiến)"
+			],
+			[
+				"n",
+				"sự tham gia; sự tham dự; sự góp mặt"
+			]
+		]
+	},
+	"面试": {
+		"py": "miànshì",
+		"mn": [
+			[
+				"v",
+				"phỏng vấn"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"带": {
+		"py": "dài",
+		"mn": [
+			[
+				"v",
+				"đeo | dẫn; dắt; kèm; cặp; dẫn dắt | nuôi dưỡng; chăm; chăm sóc | tiện tay; nhân tiện (làm gì đó) | đưa, dẫn | có; bao gồm | mang theo; kèm theo | kéo; lôi kéo; tác động; thúc đẩy | mang; dắt; cầm; đem | xuất hiện; hiện ra"
+			],
+			[
+				"n",
+				"dây; băng; thắt lưng; cái đai | lốp; vỏ | vùng; miền; khu vực | bạch đới; khí hư (bệnh) | họ Đới"
+			]
+		]
+	},
+	"简历": {
+		"py": "jiǎnlì",
+		"mn": [
+			[
+				"n",
+				"lý lịch sơ lược; lý lịch tóm tắt; sơ yếu lí lịch; CV"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"过目": {
+		"py": "guòmù",
+		"mn": [
+			[
+				"v",
+				"xem qua; xem lướt qua; đọc qua"
+			]
+		]
+	},
+	"以前": {
+		"py": "yǐqián",
+		"mn": [
+			[
+				"n",
+				"trước đây; trước kia; ngày trước; khi trước; ngày xưa; hồi xưa"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"秘书": {
+		"py": "mìshū",
+		"mn": [
+			[
+				"n",
+				"thư ký; bí thư | công việc thư kí"
+			]
+		]
+	},
+	"对": {
+		"py": "duì",
+		"mn": [
+			[
+				"prep",
+				"về; với; đối với"
+			],
+			[
+				"measure",
+				"đôi; cặp"
+			],
+			[
+				"adj",
+				"đúng; chính xác | đối diện; đối địch; bên kia"
+			],
+			[
+				"n",
+				"câu đối | cặp đôi (quan hệ hợp tác)"
+			],
+			[
+				"v",
+				"trả lời; đáp lời; đối đáp | đối đãi; đối xử; đối phó | hướng về; nhằm vào | đối; khớp; khép | so sánh; đối chiếu | chỉnh; điều chỉnh; sửa đổi | pha | chia đôi; chia hai | xứng; hợp; vừa; tương ứng; phù hợp"
+			],
+			[
+				"adv",
+				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"当": {
+		"py": "dāng",
+		"mn": [
+			[
+				"v",
+				"nên; phải; cần | làm; đảm nhiệm | nhận; chịu; gánh; gánh vác; đảm đương | quản lý; đảm đương; chịu trách nhiệm | ngăn chặn; ngăn cản; ngăn lại; chống lại | trước mắt; hướng về"
+			],
+			[
+				"prep",
+				"khi; lúc | trước mặt; trực tiếp"
+			],
+			[
+				"n",
+				"đỉnh; mút; chót | thời gian; lúc rảnh | họ Đương"
+			],
+			[
+				"adj",
+				"xứng; tương xứng; tương đương"
+			],
+			[
+				"onom",
+				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"过": {
+		"py": "guò",
+		"mn": [
+			[
+				"v",
+				"qua; đi qua; chảy qua | qua; hơn; vượt qua | quá; hơn; vượt (phạm vi hoặc giới hạn) | trải qua (một khoảng thời gian) | ăn; đón | chuyển; chuyền; đưa qua | qua; cho qua (xử lý, giải quyết) | đi thăm; đến thăm; viếng thăm | chết; qua đời | lây; truyền nhiễm | vượt; hơn | sống | xem qua; hồi tưởng"
+			],
+			[
+				"adv",
+				"rất; quá"
+			],
+			[
+				"measure",
+				"lần; lượt"
+			],
+			[
+				"n",
+				"lỗi; sai lầm; sai sót"
+			]
+		]
+	},
+	"三": {
+		"py": "sān",
+		"mn": [
+			[
+				"numb",
+				"ba; số ba | nhiều lần | vài; một vài; không nhiều | thứ ba; hạng ba"
+			],
+			[
+				"n",
+				"họ Tam"
+			]
+		]
+	},
+	"年": {
+		"py": "nián",
+		"mn": [
+			[
+				"n",
+				"năm; niên | tuổi | năm tháng; thời kỳ; thời đại | mùa màng | Tết | đồ Tết | niên (các giai đoạn trong cuộc đời) | hằng năm; mỗi năm; thường niên | họ Niên"
+			],
+			[
+				"measure",
+				"số năm (chỉ số lượng)"
+			]
+		]
+	},
+	"经验": {
+		"py": "jīngyàn",
+		"mn": [
+			[
+				"n",
+				"kinh nghiệm"
+			],
+			[
+				"v",
+				"trải qua; gặp qua; trải nghiệm"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"下": {
+		"py": "xià",
+		"mn": [
+			[
+				"n",
+				"dưới; phía dưới | xuống (sau một giới từ) | dưới (sau một danh từ) | thấp (thứ bậc, vị trí, chất lượng) | sau (thứ tự hoặc thời gian) | xuống; hướng xuống (trước một động từ) | dưới; trong (một phạm vi, điều kiện nào đó) | đương; đang (trong thời gian, thời tiết nào đó) | bên; phía (dùng sau số từ)"
+			],
+			[
+				"v",
+				"xuống; hạ (từ cao đến thấp) | rơi (từ trên xuống) | hạ; ra (ban phát, trao) | xuống (thường là từ thành phố xuống nông thôn) | ra khỏi vị trí; rời khỏi; xuống | xuống (thả; gieo) | hạ; đi đến; đưa ra (kết luận, phán đoán...) | tan (kết thúc công việc hàng ngày theo thời gian quy định) | dùng; đặt; bỏ | đẻ; sinh (động vật) | hạ; chiếm (đánh lấy) | lui nhường; nhân nhượng; nhượng bộ | dưới (thấp hơn, ít hơn) | thi đấu; chơi (thi đấu cờ hoặc vui chơi giải trí) | dỡ xuống; lấy xuống; hạ xuống | được; đủ (biểu thị có đủ không gian chứa đựng) | đặt (biểu thị sự hoàn thành hoặc kết quả của động tác) | xuống (hướng từ cao xuống thấp)"
+			],
+			[
+				"measure",
+				"tiếng; cái; lần (chỉ số lần của động tác) | chỉ dung lượng của vật chứa | ngón; chiêu (dùng sau 两、几 để chỉ bản lĩnh, kỹ năng)"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"星期": {
+		"py": "xīngqī",
+		"mn": [
+			[
+				"n",
+				"tuần lễ; tuần | thứ; ngày thứ (ghép liền với các ngày trong tuần) | chủ nhật (gọi tắt)"
+			]
+		]
+	},
+	"开始": {
+		"py": "kāishǐ",
+		"mn": [
+			[
+				"v",
+				"bắt đầu; khởi đầu; vào"
+			],
+			[
+				"n",
+				"giai đoạn đầu; lúc đầu"
+			]
+		]
+	},
+	"上班": {
+		"py": "shàngbān",
+		"mn": [
+			[
+				"sv, v",
+				"đi làm"
+			]
+		]
+	}
+}

@@ -1,0 +1,459 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"哪里": {
+		"py": "nǎlǐ",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | ở đâu; nơi nào | đâu; đâu phải; đâu có phải(dùng trong câu hỏi vặn; có ý phủ định) | đâu có (lời nói khiêm tốn)"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"乘坐": {
+		"py": "chéngzuò",
+		"mn": [
+			[
+				"v",
+				"đi; ngồi; sử dụng (phương tiện giao thông)"
+			]
+		]
+	},
+	"这里": {
+		"py": "zhèlǐ",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; nơi đây; tại đây"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"二": {
+		"py": "èr",
+		"mn": [
+			[
+				"numb",
+				"hai; số hai | thứ hai; hạng nhì"
+			],
+			[
+				"adj",
+				"khác nhau | ngốc | không chuyên tâm, không chung thủy"
+			]
+		]
+	},
+	"层": {
+		"py": "céng",
+		"mn": [
+			[
+				"measure",
+				"tầng | tầng; bước (mô tả những sự việc có thể chia thành các bước, ý nghĩa hoặc phần khác nhau) | lớp (chỉ những thứ bao phủ lên bề mặt vật thể)"
+			],
+			[
+				"n",
+				"tầng | cấp; lớp; tầng lớp; lớp bề mặt"
+			],
+			[
+				"v",
+				"xếp chồng; chồng chất"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"国际": {
+		"py": "guójì",
+		"mn": [
+			[
+				"adj",
+				"quốc tế (quan hệ giữa các nước)"
+			],
+			[
+				"n",
+				"quốc tế"
+			]
+		]
+	},
+	"到达": {
+		"py": "dàodá",
+		"mn": [
+			[
+				"v",
+				"đến; tới (một địa điểm, một giai đoạn nào đó)"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"国内": {
+		"py": "guónèi",
+		"mn": [
+			[
+				"n",
+				"quốc nội; nội địa; trong nước"
+			]
+		]
+	},
+	"出门": {
+		"py": "chūmén",
+		"mn": [
+			[
+				"v",
+				"đi ra; ra ngoài | đi vắng; đi xa; xa nhà"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"条": {
+		"py": "tiáo",
+		"mn": [
+			[
+				"measure",
+				"sợi; cái; con, dòng | mẩu; mục"
+			],
+			[
+				"n",
+				"cành; nhánh (cây) | mảnh; sợi | điều; mục; điều mục | thứ tự; trật tự; ngăn nắp | lời nhắn; ghi chú; giấy nhắn; giấy ghi chú"
+			]
+		]
+	},
+	"线": {
+		"py": "xiàn",
+		"mn": [
+			[
+				"n",
+				"sợi; chỉ; dây nhỏ | dây | đường (hình học) | đường; tuyến (giao thông) | đường lối | tuyến; đường (biên giới) | bờ; rìa; mép (ví với sự gần kề một tình cảnh nào đó) | manh mối; tuyến | tuyến; đường dây; mạng lưới"
+			],
+			[
+				"measure",
+				"tia (trừu tượng)"
+			]
+		]
+	},
+	"能": {
+		"py": "néng",
+		"mn": [
+			[
+				"v",
+				"có thể (thể hiện có đủ năng lực và điều kiện thực hiện hành động.) | có thể (có hiệu quả, công dụng nào đó) | biết; có thể (giỏi về việc gì) | có thể (thể hiện khả năng; dùng để suy đoán) | có thể (thể hiện sự cho phép)"
+			],
+			[
+				"n",
+				"năng lực; tài cán; tài năng | năng lượng"
+			],
+			[
+				"adj",
+				"có tài; có năng lực"
+			]
+		]
+	},
+	"王府井": {
+		"py": "wángfǔjǐng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Vương Phủ Tỉnh"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"售票处": {
+		"py": "shòupiàochù",
+		"mn": [
+			[
+				"n",
+				"quầy vé; chỗ bán vé; nơi bán vé; phòng bán vé"
+			]
+		]
+	},
+	"咨询": {
+		"py": "zīxún",
+		"mn": [
+			[
+				"v",
+				"tư vấn; trưng cầu; hỏi ý kiến"
+			]
+		]
+	},
+	"台": {
+		"py": "tái",
+		"mn": [
+			[
+				"measure",
+				"buổi diễn | cái; cỗ (máy móc)"
+			],
+			[
+				"n",
+				"cái đài; đài | bệ (vật giống đài) | bục; sân khấu; bàn | đài (lời nói kính trọng, thời xưa gọi người đối diện) | Đài Loan | họ Đài"
+			]
+		]
+	},
+	"问": {
+		"py": "wèn",
+		"mn": [
+			[
+				"v",
+				"hỏi | hỏi; thăm; thăm hỏi; thăm viếng | thẩm vấn; vặn hỏi; tra vấn; tra hỏi | can thiệp; quan tâm đến | trách móc; truy vấn; truy cứu"
+			],
+			[
+				"prep",
+				"hỏi (hướng tới)"
+			],
+			[
+				"n",
+				"họ Vấn"
+			]
+		]
+	},
+	"一下": {
+		"py": "yīxià",
+		"mn": [
+			[
+				"class",
+				"một tý; một lúc; thử xem; một cái"
+			],
+			[
+				"adv",
+				"bỗng chốc; thoáng cái; một chốc; một lát"
+			]
+		]
+	},
+	"票价": {
+		"py": "piàojià",
+		"mn": [
+			[
+				"n",
+				"Giá vé"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"每": {
+		"py": "měi",
+		"mn": [
+			[
+				"pro",
+				"each,every | each,every"
+			],
+			[
+				"adv",
+				"mỗi khi; mỗi lần; mỗi dịp | thường; hay"
+			]
+		]
+	},
+	"人": {
+		"py": "rén",
+		"mn": [
+			[
+				"n",
+				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"元": {
+		"py": "yuán",
+		"mn": [
+			[
+				"measure",
+				"đồng tiền (đơn vị tiền tệ)"
+			],
+			[
+				"n",
+				"đầu người | yếu tố; nguyên tố | bộ phận cấu thành một chỉnh thể | nhà Nguyên | tên tiền kim loại thời cổ | họ Nguyên"
+			],
+			[
+				"adj",
+				"đầu tiên; thứ nhất; bắt đầu | đứng đầu | chủ yếu; cơ bản"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	}
+}

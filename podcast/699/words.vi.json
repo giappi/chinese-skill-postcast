@@ -1,0 +1,440 @@
+{
+	"老板": {
+		"py": "lǎobǎn",
+		"mn": [
+			[
+				"n",
+				"chủ tiệm; ông chủ | ông bầu; bà bầu; bầu gánh (hát; kịch; tuồng...)"
+			]
+		]
+	},
+	"胡萝卜": {
+		"py": "húluóbo",
+		"mn": [
+			[
+				"n",
+				"cà rốt; cây cà-rốt"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshǎo",
+		"mn": [
+			[
+				"adv",
+				"Ít nhiều, hơi hơi, có phần (mức độ nhất định nhưng không cao)"
+			],
+			[
+				"n",
+				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"钱": {
+		"py": "qián",
+		"mn": [
+			[
+				"n",
+				"tiền tài; tiền bạc; tiền của | tiền; tiền đồng | giống tiền; những vật có hình dạng giống đồng tiền | khoản; khoản tiền | tiền; tiền tệ; tiền mặt | món tiền; số tiền | họ Tiền"
+			],
+			[
+				"measure",
+				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"斤": {
+		"py": "jīn",
+		"mn": [
+			[
+				"n",
+				"rìu (dụng cụ chặt cây thời xưa)"
+			],
+			[
+				"measure",
+				"cân (tương đương nửa cân Việt Nam)"
+			]
+		]
+	},
+	"五": {
+		"py": "wǔ",
+		"mn": [
+			[
+				"numb",
+				"năm (số năm)"
+			],
+			[
+				"n",
+				"nốt của thang âm trong công xích phổ | họ Ngũ"
+			]
+		]
+	},
+	"块": {
+		"py": "kuài",
+		"mn": [
+			[
+				"measure",
+				"viên; bánh; đống; khối | tấm; mảnh; miếng; chiếc | tờ; đồng (tiền đồng hoặc tiền giấy)"
+			],
+			[
+				"n",
+				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"不会": {
+		"py": "bùhuì",
+		"mn": [
+			[
+				"v",
+				"sẽ không | không biết | không phải; không đâu"
+			]
+		]
+	},
+	"吧": {
+		"py": "ba",
+		"mn": [
+			[
+				"part",
+				"nhé; nhớ; được rồi | nào; nhé; chứ; thôi; đi | chắc; hẳn; chứ (suy đoán) | nhỉ, thì phải | ư; chăng"
+			]
+		]
+	},
+	"菜市场": {
+		"py": "càishìchǎng",
+		"mn": [
+			[
+				"n",
+				"chợ rau; chợ thực phẩm"
+			]
+		]
+	},
+	"只": {
+		"py": "zhǐ",
+		"mn": [
+			[
+				"adv",
+				"chỉ (trong phạm vi)"
+			]
+		]
+	},
+	"卖": {
+		"py": "mài",
+		"mn": [
+			[
+				"v",
+				"bán | bán nước, bán bạn; bán đứng | ra sức; dốc sức; gắng sức | khoe; phô trương; khoe tài | bán sức lao động"
+			],
+			[
+				"measure",
+				"món (thức ăn)"
+			]
+		]
+	},
+	"毛": {
+		"py": "máo",
+		"mn": [
+			[
+				"n",
+				"lông; tóc | lông; râu; tóc (cơ thể người) | cây; cây cỏ | len | nấm; mốc; nấm mốc | họ Mao"
+			],
+			[
+				"adj",
+				"hoảng loạn; sợ hãi; lo lắng | bừa; ẩu; cẩu thả | tức giận; phát cáu; phát bực | thô; gộp; thô ráp (chưa qua gia công) | thô; thô lỗ; thô tục | nhỏ; bé; trẻ; nhóc con; nhỏ ranh | phức tạp"
+			],
+			[
+				"v",
+				"sụt giá; mất giá; giảm giá (tiền tệ) | sợ; kinh hoàng; hoảng sợ; ghê rợn; rợn tóc gáy"
+			],
+			[
+				"measure",
+				"hào (đơn vị tiền tệ Trung Quốc)"
+			],
+			[
+				"adv",
+				"sơ qua; sơ lược; sơ bộ"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"这里": {
+		"py": "zhèlǐ",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; nơi đây; tại đây"
+			]
+		]
+	},
+	"居然": {
+		"py": "jūrán",
+		"mn": [
+			[
+				"adv",
+				"lại; lại có thể; bỗng nhiên; tự nhiên lại; thế mà lại; vậy mà lại; không ngờ; không ngờ lại"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"十": {
+		"py": "shí",
+		"mn": [
+			[
+				"numb",
+				"mười; số mười | rất; hết sức; vô cùng; hoàn toàn | nhiều; rất nhiều"
+			],
+			[
+				"n",
+				"họ Thập."
+			]
+		]
+	},
+	"倍": {
+		"py": "bèi",
+		"mn": [
+			[
+				"measure",
+				"lần; đôi"
+			],
+			[
+				"adv",
+				"gấp bội; bội phần; rất; cực kì"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"全": {
+		"py": "quán",
+		"mn": [
+			[
+				"adj",
+				"đầy đủ; xong xuôi; sẵn sàng | cả; toàn; toàn bộ"
+			],
+			[
+				"v",
+				"hoàn thành; bảo toàn; trọn vẹn"
+			],
+			[
+				"adv",
+				"toàn bộ; hoàn toàn; tất cả | đều; cả"
+			],
+			[
+				"n",
+				"họ Toàn"
+			]
+		]
+	},
+	"所以": {
+		"py": "suǒyǐ",
+		"mn": [
+			[
+				"conj",
+				"cho nên; nên; vậy nên; thành thử ra"
+			],
+			[
+				"n",
+				"nguyên cớ; nguyên do; nguyên nhân"
+			]
+		]
+	},
+	"价格": {
+		"py": "jiàgé",
+		"mn": [
+			[
+				"n",
+				"giá; giá cả; giá tiền"
+			]
+		]
+	},
+	"贵": {
+		"py": "guì",
+		"mn": [
+			[
+				"adj",
+				"đắt; mắc | quý; quý giá | cao quý; sang trọng; quý tộc; địa vị cao | quý (xưng hô lễ phép, tôn trọng)"
+			],
+			[
+				"n",
+				"Quý Châu | họ Quý"
+			],
+			[
+				"v",
+				"coi trọng; xem trọng; quý trọng"
+			]
+		]
+	},
+	"一些": {
+		"py": "yīxiē",
+		"mn": [
+			[
+				"class",
+				"một vài; một số; một phần (chỉ số lượng không xác định) | một ít; một chút (chỉ số lượng rất ít) | mấy; một số | chút; một chút; một tý (đặt sau động từ hoặc tính từ)"
+			]
+		]
+	},
+	"哦": {
+		"py": "ò",
+		"mn": [
+			[
+				"onom, intj",
+				"à; ồ (biểu thị bất chợt hiểu ra; nhận ra điều gì đó)"
+			]
+		]
+	},
+	"需要": {
+		"py": "xūyào",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; nên có; cần có"
+			],
+			[
+				"n",
+				"sự đòi hỏi; yêu cầu; nhu cầu"
+			]
+		]
+	},
+	"买": {
+		"py": "mǎi",
+		"mn": [
+			[
+				"v",
+				"mua; sắm; tậu | mua chuộc"
+			],
+			[
+				"n",
+				"họ Mãi"
+			]
+		]
+	},
+	"普通": {
+		"py": "pǔtōng",
+		"mn": [
+			[
+				"adj",
+				"phổ thông; bình thường; nói chung; thông thường"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"行": {
+		"py": "xíng",
+		"mn": [
+			[
+				"v",
+				"đi | đi xa; du lịch | lưu thông; lưu hành | làm | được; đồng ý | tiến hành; thực hiện | ngấm (thuốc)"
+			],
+			[
+				"adj",
+				"hành (du lịch) | lâm thời; lưu động | tài giỏi; có năng lực"
+			],
+			[
+				"n",
+				"hành vi; hành động | hành thư | họ Hành"
+			],
+			[
+				"adv",
+				"sắp sửa; sẽ"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	}
+}

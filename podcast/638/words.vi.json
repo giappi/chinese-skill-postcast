@@ -1,0 +1,146 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"女朋友": {
+		"py": "nǚpéngyǒu",
+		"mn": [
+			[
+				"n",
+				"bạn gái; người yêu"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"当然": {
+		"py": "dāngrán",
+		"mn": [
+			[
+				"adv",
+				"nên như thế; phải thế; tất nhiên; đương nhiên; dĩ nhiên | tất nhiên; hiển nhiên; đương nhiên | tất nhiên; không nghi ngờ gì; chắc chắn là"
+			],
+			[
+				"adj",
+				"điều đương nhiên; tất nhiên"
+			]
+		]
+	},
+	"啦": {
+		"py": "la",
+		"mn": [
+			[
+				"part",
+				"đấy; nhé; nhá; à (hợp âm của \"了\"， \"啊\")"
+			]
+		]
+	},
+	"她": {
+		"py": "tā",
+		"mn": [
+			[
+				"pro",
+				"cô ấy; chị ấy; bà ấy (phái nữ) | cô ấy (chỉ những sự vật đáng kính trọng và yêu quý)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"大": {
+		"py": "dà",
+		"mn": [
+			[
+				"adj",
+				"to; lớn; rộng | đại; quý (lời nói kính trọng khi nói về người khác) | cả; lớn; đầu; trưởng | lớn; cao; nhiều (trình độ, mức độ) | bức; nhất (tỏ ý nhấn mạnh) | trước hoặc sau cấp kế cận (thời gian)"
+			],
+			[
+				"adv",
+				"rất; lắm; vô cùng | hay; thường; lắm"
+			],
+			[
+				"n",
+				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"白": {
+		"py": "bái",
+		"mn": [
+			[
+				"adj",
+				"bạc; trắng; màu trắng | sáng; ánh sáng; ban ngày | trống rỗng; không có gì | lộ rõ; rõ ràng; sáng tỏ | phản động; bảo thủ | sai; nhầm; lộn"
+			],
+			[
+				"n",
+				"tiếng bạch thoại; tiếng Phổ thông | lời thoại | họ Bạch"
+			],
+			[
+				"v",
+				"nói rõ; trình bày; bày tỏ; giãi bày | liếc; lườm; nguýt; xem thường"
+			],
+			[
+				"adv",
+				"mất công; công toi; uổng công; vô ích | không mất tiền; miễn phí"
+			]
+		]
+	}
+}

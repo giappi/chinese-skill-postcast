@@ -1,0 +1,468 @@
+{
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"问": {
+		"py": "wèn",
+		"mn": [
+			[
+				"v",
+				"hỏi | hỏi; thăm; thăm hỏi; thăm viếng | thẩm vấn; vặn hỏi; tra vấn; tra hỏi | can thiệp; quan tâm đến | trách móc; truy vấn; truy cứu"
+			],
+			[
+				"prep",
+				"hỏi (hướng tới)"
+			],
+			[
+				"n",
+				"họ Vấn"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"一个": {
+		"py": "yīgè",
+		"mn": [
+			[
+				"numb",
+				"một"
+			]
+		]
+	},
+	"问题": {
+		"py": "wèntí",
+		"mn": [
+			[
+				"n",
+				"câu hỏi; đề hỏi | vấn đề (phải nghiên cứu, thảo luận, giải quyết) | chuyện; trở ngại; trắc trở; vấn đề | quan trọng; mấu chốt (điểm)"
+			],
+			[
+				"adj",
+				"có vấn đề; không bình thường"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"啊": {
+		"py": "a",
+		"mn": [
+			[
+				"part",
+				"quá (dùng ở cuối câu, tỏ ý ca ngợi) | nhỉ; nhá; nhé; đấy; đi thôi (dùng cuối câu, tỏ ý khẳng định, thúc giục, dặn dò) | hả; chứ (dùng ở cuối câu, tỏ ý nghi vấn) | đấy; ư; đó (dùng giữa câu, dừng một chút để người nghe chú ý đến lời nói tiếp theo) | này; nào; a (dùng sau những vật được liệt kê) | nha; nhá; ư (thể hiện sự thiếu kiên nhẫn; hoặc điều hiển nhiên)"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"谈": {
+		"py": "tán",
+		"mn": [
+			[
+				"v",
+				"nói; nói chuyện; trò chuyện; thảo luận; bày tỏ"
+			],
+			[
+				"n",
+				"lời nói; câu chuyện; chuyện | họ Đàm"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"着急": {
+		"py": "zháojí",
+		"mn": [
+			[
+				"v, sv",
+				"sốt ruột; lo lắng; cuống cuồng; vội vàng; gấp gáp; nôn nóng; vội vã"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"遇到": {
+		"py": "yùdào",
+		"mn": [
+			[
+				"v",
+				"gặp; gặp phải; đụng phải; chạm mặt"
+			]
+		]
+	},
+	"合适": {
+		"py": "héshì",
+		"mn": [
+			[
+				"adj",
+				"hợp; thích hợp; vừa; vừa vặn"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"人": {
+		"py": "rén",
+		"mn": [
+			[
+				"n",
+				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"什么样": {
+		"py": "shénmeyàng",
+		"mn": [
+			[
+				"pro",
+				"như thế nào (hỏi về hình thức, trạng thái, hoặc đặc điểm của một sự vật hay hiện tượng) | sao rồi; thế nào (mô tả trạng thái, tình hình hoặc yêu cầu về cái gì đó, thường dùng để yêu cầu thông tin cụ thể về tình huống)"
+			]
+		]
+	},
+	"才": {
+		"py": "cái",
+		"mn": [
+			[
+				"n",
+				"tài; tài năng | nhân tài; người tài; người có tài | họ Tài"
+			],
+			[
+				"adv",
+				"mới, vừa mới (cách đây không lâu) | mới, mới chịu (chuyện xảy ra muộn, trễ) | mới (lý do hoặc điều kiện) | chỉ; chỉ mới; chỉ có | mới (nhấn mạnh chuyện muốn nói) | mới (thay đổi tình trạng từ trước đến nay) | mới (diễn tả sự nhấn mạnh)"
+			]
+		]
+	},
+	"觉得": {
+		"py": "juéde",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"最": {
+		"py": "zuì",
+		"mn": [
+			[
+				"adv",
+				"nhất"
+			],
+			[
+				"n",
+				"nhất; đứng đầu; số một"
+			]
+		]
+	},
+	"重要": {
+		"py": "zhòngyào",
+		"mn": [
+			[
+				"adj",
+				"quan trọng; tầm lớn; hệ trọng"
+			]
+		]
+	},
+	"一点": {
+		"py": "yīdiǎn",
+		"mn": [
+			[
+				"adv",
+				"một chút; chút nào"
+			],
+			[
+				"n",
+				"1:00 (một giờ)"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"互相": {
+		"py": "hùxiāng",
+		"mn": [
+			[
+				"adv",
+				"tương hỗ; lẫn nhau; với nhau; cùng nhau"
+			]
+		]
+	},
+	"然后": {
+		"py": "ránhòu",
+		"mn": [
+			[
+				"conj",
+				"sau đó; tiếp đó; rồi"
+			]
+		]
+	},
+	"他": {
+		"py": "tā",
+		"mn": [
+			[
+				"pro",
+				"nó; anh ấy; hắn; người ấy; anh ta; y; cậu ấy (đàn ông) | khác; ngoài | hư chỉ (dùng giữa động từ hoặc số từ) | ai đó; nhiều người; mọi người"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"责任心": {
+		"py": "zérènxīn",
+		"mn": [
+			[
+				"n",
+				"tinh thần trách nhiệm"
+			]
+		]
+	},
+	"这些": {
+		"py": "zhèxiē",
+		"mn": [
+			[
+				"pro",
+				"những ... này; mấy ... này"
+			]
+		]
+	},
+	"个人": {
+		"py": "gèrén",
+		"mn": [
+			[
+				"n",
+				"cá nhân"
+			],
+			[
+				"pro",
+				"bản thân; riêng tôi; cá nhân tôi"
+			]
+		]
+	},
+	"难道": {
+		"py": "nándào",
+		"mn": [
+			[
+				"adv",
+				"lẽ nào; chẳng lẽ; chẳng nhẽ"
+			]
+		]
+	},
+	"在意": {
+		"py": "zàiyì",
+		"mn": [
+			[
+				"v, sv",
+				"lưu ý; lưu tâm; để ý; để tâm"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"当然": {
+		"py": "dāngrán",
+		"mn": [
+			[
+				"adv",
+				"nên như thế; phải thế; tất nhiên; đương nhiên; dĩ nhiên | tất nhiên; hiển nhiên; đương nhiên | tất nhiên; không nghi ngờ gì; chắc chắn là"
+			],
+			[
+				"adj",
+				"điều đương nhiên; tất nhiên"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"考虑": {
+		"py": "kǎolǜ",
+		"mn": [
+			[
+				"v",
+				"suy nghĩ; suy xét; cân nhắc; xem xét"
+			],
+			[
+				"n",
+				"quá trình xem xét; sự cân nhắc; suy nghĩ"
+			]
+		]
+	}
+}

@@ -1,0 +1,194 @@
+{
+	"听说": {
+		"py": "tīngshuō",
+		"mn": [
+			[
+				"v",
+				"nghe nói | nghe nói (kỹ năng nghe và nói)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"恭喜": {
+		"py": "gōngxǐ",
+		"mn": [
+			[
+				"v",
+				"chúc mừng"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"离": {
+		"py": "lí",
+		"mn": [
+			[
+				"v",
+				"cách | xa; rời xa; xa cách; rời đi; chia li | thiếu | phản bội; đi ngược; làm trái; không tuân theo"
+			],
+			[
+				"n",
+				"Ly (một trong tám quẻ bát quái)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"律师": {
+		"py": "lǜshī",
+		"mn": [
+			[
+				"n",
+				"luật sư"
+			]
+		]
+	},
+	"梦": {
+		"py": "mèng",
+		"mn": [
+			[
+				"v",
+				"nằm mê; ngủ mơ; nằm mơ; mơ"
+			],
+			[
+				"n",
+				"giấc mơ | ảo tưởng; hoang tưởng"
+			]
+		]
+	},
+	"又": {
+		"py": "yòu",
+		"mn": [
+			[
+				"adv",
+				"lại (biểu thị lặp lại hoặc tiếp tục) | vừa...vừa.... | lại; lại thêm; lại còn (biểu thị tăng thêm) | nhưng; lại (biểu thị chuyển ý) | còn; thêm (biểu thị bổ sung) | thêm; cộng; với | vừa... lại; vừa... vừa (biểu thị hai sự việc có mâu thuẫn) | đâu (biểu thị nhấn mạnh)"
+			]
+		]
+	},
+	"近": {
+		"py": "jìn",
+		"mn": [
+			[
+				"adj",
+				"gần; bên; cận; kề; kế | thân mật; thân thiết; thân cận; gần gũi; thân thiết | dễ hiểu"
+			],
+			[
+				"v",
+				"gần; tiếp cận; đến gần; xấp xỉ; sát gần"
+			]
+		]
+	},
+	"当": {
+		"py": "dāng",
+		"mn": [
+			[
+				"v",
+				"nên; phải; cần | làm; đảm nhiệm | nhận; chịu; gánh; gánh vác; đảm đương | quản lý; đảm đương; chịu trách nhiệm | ngăn chặn; ngăn cản; ngăn lại; chống lại | trước mắt; hướng về"
+			],
+			[
+				"prep",
+				"khi; lúc | trước mặt; trực tiếp"
+			],
+			[
+				"n",
+				"đỉnh; mút; chót | thời gian; lúc rảnh | họ Đương"
+			],
+			[
+				"adj",
+				"xứng; tương xứng; tương đương"
+			],
+			[
+				"onom",
+				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"从小": {
+		"py": "cóngxiǎo",
+		"mn": [
+			[
+				"adv",
+				"từ nhỏ; từ bé"
+			]
+		]
+	},
+	"祝": {
+		"py": "zhù",
+		"mn": [
+			[
+				"v",
+				"chúc; cầu chúc | khấn; cầu khấn | đoạn tuyệt; cắt đứt; cắt; gọt"
+			],
+			[
+				"n",
+				"họ Chúc"
+			]
+		]
+	}
+}

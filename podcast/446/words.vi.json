@@ -1,0 +1,224 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"银行": {
+		"py": "yínháng",
+		"mn": [
+			[
+				"n",
+				"ngân hàng; nhà băng"
+			]
+		]
+	},
+	"周末": {
+		"py": "zhōumò",
+		"mn": [
+			[
+				"n, time",
+				"cuối tuần"
+			]
+		]
+	},
+	"上班": {
+		"py": "shàngbān",
+		"mn": [
+			[
+				"sv, v",
+				"đi làm"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"应该": {
+		"py": "yīnggāi",
+		"mn": [
+			[
+				"part",
+				"nên; cần phải; phải; cần | có lẽ; chắc; hẳn là"
+			]
+		]
+	},
+	"吧": {
+		"py": "ba",
+		"mn": [
+			[
+				"part",
+				"nhé; nhớ; được rồi | nào; nhé; chứ; thôi; đi | chắc; hẳn; chứ (suy đoán) | nhỉ, thì phải | ư; chăng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"对": {
+		"py": "duì",
+		"mn": [
+			[
+				"prep",
+				"về; với; đối với"
+			],
+			[
+				"measure",
+				"đôi; cặp"
+			],
+			[
+				"adj",
+				"đúng; chính xác | đối diện; đối địch; bên kia"
+			],
+			[
+				"n",
+				"câu đối | cặp đôi (quan hệ hợp tác)"
+			],
+			[
+				"v",
+				"trả lời; đáp lời; đối đáp | đối đãi; đối xử; đối phó | hướng về; nhằm vào | đối; khớp; khép | so sánh; đối chiếu | chỉnh; điều chỉnh; sửa đổi | pha | chia đôi; chia hai | xứng; hợp; vừa; tương ứng; phù hợp"
+			],
+			[
+				"adv",
+				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"取钱": {
+		"py": "qǔqián",
+		"mn": [
+			[
+				"v",
+				"rút tiền"
+			]
+		]
+	},
+	"正好": {
+		"py": "zhènghǎo",
+		"mn": [
+			[
+				"adj",
+				"vừa đủ; vừa vặn; đúng lúc"
+			],
+			[
+				"adv",
+				"vừa hay; vừa tầm; tình cờ; đúng dịp; đúng lúc"
+			]
+		]
+	},
+	"顺路": {
+		"py": "shùnlù",
+		"mn": [
+			[
+				"adv",
+				"tiện đường"
+			],
+			[
+				"adj",
+				"tiện; thuận tiện; thuận lợi; trôi chảy"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"一起": {
+		"py": "yīqǐ",
+		"mn": [
+			[
+				"adv",
+				"cùng; cùng nhau làm gì | tổng cộng; cả thảy; tất cả; cộng lại"
+			],
+			[
+				"n",
+				"ở cùng một nơi, một chỗ."
+			]
+		]
+	},
+	"走": {
+		"py": "zǒu",
+		"mn": [
+			[
+				"v",
+				"đi; đi bộ; đi qua | chạy | di chuyển; di động; chuyển động (xe, thuyền) | qua; đi qua; vượt qua | đi; lên đường; rời khỏi; rời đi; tách khỏi | đi; mất; chết; qua đời | thăm viếng; qua lại; đi lại | lộ ra; tiết lộ; để hở; lọt ra; để lộ ra | lạc; sai; chệch; phai; thay đổi | nước đi (đánh cờ) | trở nên (xuất hiện xu thế)"
+			]
+		]
+	}
+}

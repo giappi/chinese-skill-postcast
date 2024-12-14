@@ -1,0 +1,166 @@
+{
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshǎo",
+		"mn": [
+			[
+				"adv",
+				"Ít nhiều, hơi hơi, có phần (mức độ nhất định nhưng không cao)"
+			],
+			[
+				"n",
+				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"当家": {
+		"py": "dāngjiā",
+		"mn": [
+			[
+				"v",
+				"quản gia; lo liệu việc nhà; quản lý việc nhà"
+			],
+			[
+				"adj",
+				"chính; chủ đạo; chủ yếu"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"老公": {
+		"py": "lǎogōng",
+		"mn": [
+			[
+				"n",
+				"chồng; anh xã; anh nhà"
+			]
+		]
+	},
+	"块": {
+		"py": "kuài",
+		"mn": [
+			[
+				"measure",
+				"viên; bánh; đống; khối | tấm; mảnh; miếng; chiếc | tờ; đồng (tiền đồng hoặc tiền giấy)"
+			],
+			[
+				"n",
+				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"比": {
+		"py": "bǐ",
+		"mn": [
+			[
+				"prep",
+				"hơn; so; so với"
+			],
+			[
+				"v",
+				"sát; kề; kề sát; dựa sát | cấu kết; dựa vào; nương tựa; phụ thuộc | đọ; so sánh; so đo | như; tương tự; sánh bằng; ngang với | chia (toán học) | tỉ số | noi theo; phỏng theo; mô phỏng | ví; so; ví von | ra dấu; ra hiệu (diễn tả bằng điệu bộ) | nhắm vào; nhằm vào; hướng vào"
+			],
+			[
+				"n",
+				"tỷ lệ | nước Bỉ"
+			],
+			[
+				"adv",
+				"gần đây"
+			]
+		]
+	},
+	"老婆": {
+		"py": "lǎopó",
+		"mn": [
+			[
+				"n",
+				"vợ; bà xã"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	}
+}

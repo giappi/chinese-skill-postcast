@@ -1,0 +1,231 @@
+{
+	"三": {
+		"py": "sān",
+		"mn": [
+			[
+				"numb",
+				"ba; số ba | nhiều lần | vài; một vài; không nhiều | thứ ba; hạng ba"
+			],
+			[
+				"n",
+				"họ Tam"
+			]
+		]
+	},
+	"天": {
+		"py": "tiān",
+		"mn": [
+			[
+				"n",
+				"trời; không trung; bầu trời | thời gian | mùa; tiết | thời tiết; tiết trời | tự nhiên; thiên nhiên | thiên; trời | thiên; thiên đàng; thiên đường | ngày; hôm | họ Thiên"
+			],
+			[
+				"measure",
+				"ngày"
+			],
+			[
+				"adj",
+				"trên nóc; trên đỉnh | bẩm sinh; thiên phú"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"哪儿": {
+		"py": "nǎr",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | bất kỳ đâu | đâu có (cách trả lời khiêm tốn khi được người khác khen ngợi)"
+			],
+			[
+				"adv",
+				"sao; nào; đâu; sao mà (thể hiện sự phủ định)"
+			]
+		]
+	},
+	"玩": {
+		"py": "wán",
+		"mn": [
+			[
+				"v",
+				"đùa; chơi; nghịch; chơi đùa | chơi (thể thao) | giở; giở trò (thủ đoạn, mánh khoé) | khinh; xem nhẹ; đùa giỡn | ngắm; ngắm nhìn; thưởng ngoạn | cảm nhận; nghiền ngẫm; suy ngẫm"
+			],
+			[
+				"n",
+				"đồ; đồ vật; đồ chơi | họ Ngoạn"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"家里": {
+		"py": "jiālǐ",
+		"mn": [
+			[
+				"n",
+				"trong nhà; trong gia đình | bà xã; bà nhà; vợ"
+			]
+		]
+	},
+	"当": {
+		"py": "dāng",
+		"mn": [
+			[
+				"v",
+				"nên; phải; cần | làm; đảm nhiệm | nhận; chịu; gánh; gánh vác; đảm đương | quản lý; đảm đương; chịu trách nhiệm | ngăn chặn; ngăn cản; ngăn lại; chống lại | trước mắt; hướng về"
+			],
+			[
+				"prep",
+				"khi; lúc | trước mặt; trực tiếp"
+			],
+			[
+				"n",
+				"đỉnh; mút; chót | thời gian; lúc rảnh | họ Đương"
+			],
+			[
+				"adj",
+				"xứng; tương xứng; tương đương"
+			],
+			[
+				"onom",
+				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"应该": {
+		"py": "yīnggāi",
+		"mn": [
+			[
+				"part",
+				"nên; cần phải; phải; cần | có lẽ; chắc; hẳn là"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	}
+}

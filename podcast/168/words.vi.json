@@ -1,0 +1,64 @@
+{
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"几": {
+		"py": "jǐ",
+		"mn": [
+			[
+				"numb",
+				"mấy (hỏi số lượng bao nhiêu) | mấy; vài (biểu thị một số không xác định từ hai đến chín) | mấy; vài (thay thế con số nhất định) | ngày nào"
+			]
+		]
+	},
+	"号": {
+		"py": "hào",
+		"mn": [
+			[
+				"n",
+				"hiệu; tên; tên hiệu; tên gọi | tên hiệu; bí danh; biệt hiệu (tên riêng ngoài tên chính thức) | hiệu; cửa hàng; cửa hiệu | tín hiệu; ký hiệu; dấu hiệu; ám hiệu | số; số thứ tự | cỡ; số cỡ | ngày; mồng; số ngày | người (có tình hình đặc biệt) | lệnh; hiệu lệnh | kèn đồng (kèn trumpet nhạc cụ của phương Tây) | kèn hiệu; kèn ốc | kèn; chuông (thông báo)"
+			],
+			[
+				"measure",
+				"người (lượng từ) | hạng; loại; loại hình | vụ (giao dịch mua bán)"
+			],
+			[
+				"v",
+				"xem; bắt (mạch) | ghi số; đánh dấu; đánh số; chấm điểm | gọi; hô; hô hoán | ra lệnh; ban hành; truyền đạt (mệnh lệnh)"
+			]
+		]
+	},
+	"十一月": {
+		"py": "shíyīyuè",
+		"mn": [
+			[
+				"",
+				"Tháng 11"
+			]
+		]
+	},
+	"昨天": {
+		"py": "zuótiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm qua; hôm qua; bữa qua | đã qua; trước kia; trước đây"
+			]
+		]
+	},
+	"明天": {
+		"py": "míngtiān",
+		"mn": [
+			[
+				"n",
+				"mai; ngày mai; bữa mai | mai đây; mai kia; tương lai"
+			]
+		]
+	}
+}

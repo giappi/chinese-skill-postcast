@@ -1,0 +1,390 @@
+{
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"又": {
+		"py": "yòu",
+		"mn": [
+			[
+				"adv",
+				"lại (biểu thị lặp lại hoặc tiếp tục) | vừa...vừa.... | lại; lại thêm; lại còn (biểu thị tăng thêm) | nhưng; lại (biểu thị chuyển ý) | còn; thêm (biểu thị bổ sung) | thêm; cộng; với | vừa... lại; vừa... vừa (biểu thị hai sự việc có mâu thuẫn) | đâu (biểu thị nhấn mạnh)"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"臭美": {
+		"py": "chòuměi",
+		"mn": [
+			[
+				"v",
+				"trang điểm; làm đẹp; làm dáng; làm điệu; ngắm nghía"
+			],
+			[
+				"adj",
+				"đỏm; bảnh choẹ; đỏm dáng; tự luyến; tự sướng; tự tin thái quá"
+			]
+		]
+	},
+	"啦": {
+		"py": "la",
+		"mn": [
+			[
+				"part",
+				"đấy; nhé; nhá; à (hợp âm của \"了\"， \"啊\")"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"毁容": {
+		"py": "huǐróng",
+		"mn": [
+			[
+				"v",
+				"huỷ hoại dung nhan; huỷ hoại nhan sắc; tàn phá nhan sắc"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"怪": {
+		"py": "guài",
+		"mn": [
+			[
+				"adj",
+				"kỳ quái; quái dị; quái đản; quái lạ | ngạc nhiên (thắc mắc về cái gì đó)"
+			],
+			[
+				"adv",
+				"rất; cực kỳ; vô cùng; lắm; quá"
+			],
+			[
+				"n",
+				"quái vật; yêu quái (mê tín)"
+			],
+			[
+				"v",
+				"trách; trách mắng; trách móc"
+			]
+		]
+	},
+	"昨天": {
+		"py": "zuótiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm qua; hôm qua; bữa qua | đã qua; trước kia; trước đây"
+			]
+		]
+	},
+	"引诱": {
+		"py": "yǐnyòu",
+		"mn": [
+			[
+				"v",
+				"dụ; dụ dỗ; câu dụ; dụ dẫn"
+			]
+		]
+	},
+	"吃": {
+		"py": "chī",
+		"mn": [
+			[
+				"v",
+				"ăn; uống | nhờ; sống nhờ; ăn nhờ ở đậu | ăn; tiêu diệt (dùng trong quân sự,chơi cờ) | tốn; mất; tiêu thụ; hao phí | thấm; hút; hấp thu (chất lỏng) | chịu; bị; mắc; cam chịu; chịu đựng | tiếp thu; tìm hiểu | ngập; mớn; ăn vào (chỉ một vật thể đi vào một vật thể khác) | chấp nhận; đồng ý | ăn hàng; ăn quán; ăn nhà hàng"
+			],
+			[
+				"n",
+				"đồ ăn"
+			],
+			[
+				"adj",
+				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"烤": {
+		"py": "kǎo",
+		"mn": [
+			[
+				"v",
+				"nướng; sưởi; hơ; thui; quay | sưởi ấm; hơ lửa sưởi ấm"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"大": {
+		"py": "dà",
+		"mn": [
+			[
+				"adj",
+				"to; lớn; rộng | đại; quý (lời nói kính trọng khi nói về người khác) | cả; lớn; đầu; trưởng | lớn; cao; nhiều (trình độ, mức độ) | bức; nhất (tỏ ý nhấn mạnh) | trước hoặc sau cấp kế cận (thời gian)"
+			],
+			[
+				"adv",
+				"rất; lắm; vô cùng | hay; thường; lắm"
+			],
+			[
+				"n",
+				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"颗": {
+		"py": "kē",
+		"mn": [
+			[
+				"measure",
+				"hạt; hòn; viên; chiếc; tép"
+			]
+		]
+	},
+	"痘痘": {
+		"py": "dòudòu",
+		"mn": [
+			[
+				"n",
+				"mụn; nhọt"
+			]
+		]
+	},
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"约": {
+		"py": "yuē",
+		"mn": [
+			[
+				"v",
+				"hẹn; ước hẹn; sắp xếp; thu xếp | hẹn; mời; ước | rút gọn (phân số)"
+			],
+			[
+				"n",
+				"hẹn ước; đính ước; hiệp ước; sắc lệnh; hợp đồng"
+			],
+			[
+				"adj",
+				"tiết kiệm | giản đơn; rút gọn"
+			],
+			[
+				"adv",
+				"khoảng; đại khái; ước tính; dự tính"
+			]
+		]
+	},
+	"同学": {
+		"py": "tóngxué",
+		"mn": [
+			[
+				"n",
+				"bạn học; bạn cùng lớp; đồng môn"
+			]
+		]
+	},
+	"见面": {
+		"py": "jiànmiàn",
+		"mn": [
+			[
+				"v",
+				"gặp mặt; gặp; gặp nhau; giáp mặt"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"样": {
+		"py": "yàng",
+		"mn": [
+			[
+				"n",
+				"hình dáng; kiểu dáng; hình thức | có vẻ; có vẻ như; tình hình | mẫu; mẫu vật | dáng; dáng vẻ"
+			],
+			[
+				"measure",
+				"loại; kiểu"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"见": {
+		"py": "jiàn",
+		"mn": [
+			[
+				"v",
+				"thấy; trông thấy; nhìn thấy | gặp; tiếp xúc; gặp phải | thấy; hiện ra; lộ ra; hiện lên | xem; đọc | gặp mặt; gặp gỡ | nghe | thấy; nghe thấy"
+			],
+			[
+				"part",
+				"bị; được | (bày tỏ lời đề nghị lịch sự)"
+			],
+			[
+				"n",
+				"quan điểm; cách nhìn; ý kiến; nhận định | họ Kiến"
+			]
+		]
+	},
+	"人": {
+		"py": "rén",
+		"mn": [
+			[
+				"n",
+				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	}
+}

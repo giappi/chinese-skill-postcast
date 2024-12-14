@@ -1,0 +1,280 @@
+{
+	"服务员": {
+		"py": "fúwùyuán",
+		"mn": [
+			[
+				"n",
+				"người phục vụ; nhân viên phục vụ"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"里": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"bên trong; phía trong | lót (bên trong, mặt trái của áo hoặc chăn) | xóm; làng | quê hương | trong; nội bộ | nơi; chỗ | họ Lí"
+			],
+			[
+				"measure",
+				"dặm (đơn vị đo chiều dài, bằng 1/2 km)"
+			]
+		]
+	},
+	"能": {
+		"py": "néng",
+		"mn": [
+			[
+				"v",
+				"có thể (thể hiện có đủ năng lực và điều kiện thực hiện hành động.) | có thể (có hiệu quả, công dụng nào đó) | biết; có thể (giỏi về việc gì) | có thể (thể hiện khả năng; dùng để suy đoán) | có thể (thể hiện sự cho phép)"
+			],
+			[
+				"n",
+				"năng lực; tài cán; tài năng | năng lượng"
+			],
+			[
+				"adj",
+				"có tài; có năng lực"
+			]
+		]
+	},
+	"兑换": {
+		"py": "duìhuàn",
+		"mn": [
+			[
+				"v",
+				"đổi; trao đổi; hối đoái"
+			]
+		]
+	},
+	"人民币": {
+		"py": "rénmínbì",
+		"mn": [
+			[
+				"n",
+				"nhân dân tệ (tiền Trung Quốc)"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"需要": {
+		"py": "xūyào",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; nên có; cần có"
+			],
+			[
+				"n",
+				"sự đòi hỏi; yêu cầu; nhu cầu"
+			]
+		]
+	},
+	"用": {
+		"py": "yòng",
+		"mn": [
+			[
+				"v",
+				"dùng; sử dụng | cần (dùng trong câu phủ định) | dùng; uống; ăn (lịch sự)"
+			],
+			[
+				"n",
+				"chi phí; chi tiêu | công hiệu; hiệu quả; công dụng | họ Dụng"
+			],
+			[
+				"prep",
+				"dùng; bằng; bằng cách"
+			],
+			[
+				"conj",
+				"vì; do; nhờ"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"把": {
+		"py": "bǎ",
+		"mn": [
+			[
+				"v",
+				"cầm; nắm; bám | xi (bế em bé cho đại tiện, tiểu) | ôm khư khư; độc chiếm; ôm đồm | nép; sát; cạnh; kề; dựa sát | canh gác; canh giữ"
+			],
+			[
+				"measure",
+				"cây; chiếc (dùng cho vật có tay cầm, có cán) | vốc; nắm | tí; chút (dùng cho sự vật trừu tượng) | cái; phát (dùng cho động tác tay) | trận; ván"
+			],
+			[
+				"prep",
+				"mang; đem; lấy | làm; làm cho; khiến cho (chỉ người)"
+			],
+			[
+				"adj",
+				"kết nghĩa; nuôi (quan hệ anh em kết nghĩa)"
+			],
+			[
+				"part",
+				"khoảng; gần; độ chừng; ước chừng; chừng; ngót"
+			],
+			[
+				"n",
+				"tay; tay cầm | bó; nắm"
+			]
+		]
+	},
+	"成": {
+		"py": "chéng",
+		"mn": [
+			[
+				"v",
+				"hoàn thành; thành công; làm xong; làm trọn | thành đạt; giúp cho thành công; giúp ... đạt ước nguyện | trở thành; biến thành; trở nên; hình thành | lớn; trưởng thành | hàng (nhấn mạnh số lượng nhiều) | được; xong | khá; được; khá lắm; có năng lực"
+			],
+			[
+				"adj",
+				"có sẵn; làm sẵn; may sẵn; đã cố định | phát triển; trưởng thành"
+			],
+			[
+				"n",
+				"kết quả; thành tựu; thành quả | họ Thành"
+			],
+			[
+				"measure",
+				"phần"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshǎo",
+		"mn": [
+			[
+				"adv",
+				"Ít nhiều, hơi hơi, có phần (mức độ nhất định nhưng không cao)"
+			],
+			[
+				"n",
+				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"十万": {
+		"py": "shíwàn",
+		"mn": [
+			[
+				"numb",
+				"trăm ngàn; một trăm nghìn; 100 nghìn"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"汇率": {
+		"py": "huìlǜ",
+		"mn": [
+			[
+				"n",
+				"tỷ giá; tỉ giá hối đoái"
+			]
+		]
+	},
+	"一百": {
+		"py": "yībǎi",
+		"mn": [
+			[
+				"numb",
+				"một trăm"
+			]
+		]
+	},
+	"元": {
+		"py": "yuán",
+		"mn": [
+			[
+				"measure",
+				"đồng tiền (đơn vị tiền tệ)"
+			],
+			[
+				"n",
+				"đầu người | yếu tố; nguyên tố | bộ phận cấu thành một chỉnh thể | nhà Nguyên | tên tiền kim loại thời cổ | họ Nguyên"
+			],
+			[
+				"adj",
+				"đầu tiên; thứ nhất; bắt đầu | đứng đầu | chủ yếu; cơ bản"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	}
+}

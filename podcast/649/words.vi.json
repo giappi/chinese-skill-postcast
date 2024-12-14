@@ -1,0 +1,99 @@
+{
+	"哥哥": {
+		"py": "gēge",
+		"mn": [
+			[
+				"n",
+				"anh; anh trai; huynh | anh họ"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"叫": {
+		"py": "jiào",
+		"mn": [
+			[
+				"v",
+				"kêu; gáy; hú; sủa; rống; gầm | tên là; gọi là | gọi; hô hoán | chào; chào hỏi | sai; bảo; sai khiến; yêu cầu | cho phép; đáp ứng | gọi; đặt; thuê; mua (gọi mang tận nơi)"
+			],
+			[
+				"adj",
+				"trống; giống đực"
+			],
+			[
+				"prep",
+				"bị | theo; theo như; cho rằng"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"那么": {
+		"py": "nàme",
+		"mn": [
+			[
+				"pro",
+				"như vậy; như thế; thế đó; thế đấy; như thế đấy | như thế (dùng trước số lượng từ)"
+			],
+			[
+				"conj",
+				"thì; vậy thì"
+			]
+		]
+	},
+	"妹妹": {
+		"py": "mèimei",
+		"mn": [
+			[
+				"n",
+				"em; em gái"
+			]
+		]
+	},
+	"丈夫": {
+		"py": "zhàngfu",
+		"mn": [
+			[
+				"n",
+				"chồng"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	}
+}

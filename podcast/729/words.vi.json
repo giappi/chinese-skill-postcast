@@ -1,0 +1,324 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"猜": {
+		"py": "cāi",
+		"mn": [
+			[
+				"v",
+				"đoán; suy đoán; phỏng đoán | nghi ngờ; sinh nghi; hoài nghi"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"捐": {
+		"py": "juān",
+		"mn": [
+			[
+				"v",
+				"vứt bỏ; bỏ đi; hy sinh; quyên sinh; từ bỏ | quyên góp; quyên; hiến"
+			],
+			[
+				"n",
+				"thuế má; thuế"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"人民币": {
+		"py": "rénmínbì",
+		"mn": [
+			[
+				"n",
+				"nhân dân tệ (tiền Trung Quốc)"
+			]
+		]
+	},
+	"美元": {
+		"py": "měiyuán",
+		"mn": [
+			[
+				"n",
+				"đô la mỹ"
+			]
+		]
+	},
+	"除": {
+		"py": "chú",
+		"mn": [
+			[
+				"prep",
+				"trừ; ngoại trừ | ngoài; bên cạnh; ngoại lệ"
+			],
+			[
+				"n",
+				"bậc thềm; nấc thang; bậc thang"
+			],
+			[
+				"v",
+				"loại bỏ; trừ; khử; tiêu diệt | phép chia; chia; phân chia | bổ nhiệm; ban cho"
+			]
+		]
+	},
+	"款": {
+		"py": "kuǎn",
+		"mn": [
+			[
+				"adj",
+				"chân thành; khẩn thiết | chầm chậm; chậm; hoãn | giả dối; không chân thật; trống rỗng"
+			],
+			[
+				"measure",
+				"cái; chiếc | khoản"
+			],
+			[
+				"v",
+				"chiêu đãi; tiếp đãi | gõ"
+			],
+			[
+				"n",
+				"kiểu; kiểu dáng; mẫu mã | lời đề tặng; chữ kí | món tiền; số tiền; khoản tiền | điều khoản; điều mục"
+			]
+		]
+	},
+	"觉得": {
+		"py": "juéde",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"一些": {
+		"py": "yīxiē",
+		"mn": [
+			[
+				"class",
+				"một vài; một số; một phần (chỉ số lượng không xác định) | một ít; một chút (chỉ số lượng rất ít) | mấy; một số | chút; một chút; một tý (đặt sau động từ hoặc tính từ)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"东西": {
+		"py": "dōngxi",
+		"mn": [
+			[
+				"n",
+				"đồ; vật; thứ; đồ ăn; đồ đạc | đồ; thứ; thá (cảm xúc yêu, ghét)"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"必要": {
+		"py": "bìyào",
+		"mn": [
+			[
+				"adj",
+				"cần thiết; thiết yếu; không thể thiếu; không thể khác"
+			],
+			[
+				"n",
+				"vật cần thiết; điều thiết yếu; vật thiết yếu; điều cần thiết (vật không thể thiếu)"
+			]
+		]
+	},
+	"到底": {
+		"py": "dàodǐ",
+		"mn": [
+			[
+				"adv",
+				"suy cho cùng; rốt cuộc (dùng trong câu hỏi) | thì ra; vẫn là; tóm lại; rốt cuộc; nói cho cùng | cuối cùng; rốt cuộc"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"等": {
+		"py": "děng",
+		"mn": [
+			[
+				"v",
+				"đợi; chờ; chờ đợi | đợi đến; đến lúc; chờ tới; đợi tới"
+			],
+			[
+				"part",
+				"vân vân; v.v (liệt kê) | được sử dụng để kết thúc danh sách sau khi liệt kê; thường theo sau là tổng số mục trước đó"
+			],
+			[
+				"adj",
+				"ngang bằng; ngang nhau; tương đương"
+			],
+			[
+				"measure",
+				"thứ; hạng; loại; chủng loại"
+			],
+			[
+				"n",
+				"bậc; loại; hạng; đẳng cấp; thứ tự | cân tiểu ly | họ Đẳng"
+			],
+			[
+				"pro",
+				"bọn; lũ; các; chúng; những (dùng sau đại từ nhân xưng hoặc danh từ chỉ người để chỉ số nhiều)"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"这些": {
+		"py": "zhèxiē",
+		"mn": [
+			[
+				"pro",
+				"những ... này; mấy ... này"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	}
+}

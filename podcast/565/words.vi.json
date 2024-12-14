@@ -1,0 +1,362 @@
+{
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"彩虹": {
+		"py": "cǎihóng",
+		"mn": [
+			[
+				"n",
+				"cầu vồng"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"好看": {
+		"py": "hǎokàn",
+		"mn": [
+			[
+				"adj",
+				"đẹp; coi được; xinh; xinh đẹp; đẹp đẽ; đẹp mắt | hay"
+			]
+		]
+	},
+	"五颜六色": {
+		"py": "wǔyánliùsè",
+		"mn": [
+			[
+				"idioms",
+				"đủ loại màu sắc"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"啊": {
+		"py": "a",
+		"mn": [
+			[
+				"part",
+				"quá (dùng ở cuối câu, tỏ ý ca ngợi) | nhỉ; nhá; nhé; đấy; đi thôi (dùng cuối câu, tỏ ý khẳng định, thúc giục, dặn dò) | hả; chứ (dùng ở cuối câu, tỏ ý nghi vấn) | đấy; ư; đó (dùng giữa câu, dừng một chút để người nghe chú ý đến lời nói tiếp theo) | này; nào; a (dùng sau những vật được liệt kê) | nha; nhá; ư (thể hiện sự thiếu kiên nhẫn; hoặc điều hiển nhiên)"
+			]
+		]
+	},
+	"颜色": {
+		"py": "yánsè",
+		"mn": [
+			[
+				"n",
+				"màu; màu sắc | nhan sắc | một bài học; biết mặt | sắc mặt; vẻ mặt"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"说": {
+		"py": "shuō",
+		"mn": [
+			[
+				"v",
+				"nói; kể | giải thích; giảng giải | mắng; trách móc; chỉ trích; khuyên nhủ | giới thiệu; làm mối | nói; bàn; bàn luận | nói; biểu diễn (nghệ thuật)"
+			],
+			[
+				"n",
+				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"红色": {
+		"py": "hóngsè",
+		"mn": [
+			[
+				"n",
+				"đỏ; màu đỏ"
+			],
+			[
+				"adj",
+				"đỏ; cách mạng (tượng trưng cho cách mạng)"
+			]
+		]
+	},
+	"蓝色": {
+		"py": "lánsè",
+		"mn": [
+			[
+				"n",
+				"xanh; màu xanh da trời; xanh lam"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"黄色": {
+		"py": "huángsè",
+		"mn": [
+			[
+				"n",
+				"màu vàng; vàng"
+			],
+			[
+				"adj",
+				"18+; người lớn; đồi truỵ; hủ bại (nội dung)"
+			]
+		]
+	},
+	"再": {
+		"py": "zài",
+		"mn": [
+			[
+				"adv",
+				"nữa; lại (biểu thị lại lần nữa) | nữa; hơn | sẽ (hành động tiếp theo sẽ xảy ra) | thêm; nữa; ngoài ra | lại; tiếp tục; lại xuất hiện | lại; thêm"
+			],
+			[
+				"v",
+				"lại; tiếp tục"
+			],
+			[
+				"n",
+				"họ Tái"
+			]
+		]
+	},
+	"加上": {
+		"py": "jiāshàng",
+		"mn": [
+			[
+				"v",
+				"cho; thêm vào"
+			],
+			[
+				"conj",
+				"hơn nữa; ngoài ra"
+			]
+		]
+	},
+	"白色": {
+		"py": "báisè",
+		"mn": [
+			[
+				"n",
+				"màu trắng; trắng"
+			],
+			[
+				"adj",
+				"phản cách mạng"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"由": {
+		"py": "yóu",
+		"mn": [
+			[
+				"prep",
+				"do; từ; bởi; bởi vì | do (trọng trách, trách nhiệm) | do; bởi; từ; căn cứ vào | từ; tự; khởi điểm (nơi chốn, thời gian) | qua; do; thông qua"
+			],
+			[
+				"v",
+				"qua; trải qua | thuận theo; nghe theo; tuỳ theo | tuân theo; nghe theo"
+			],
+			[
+				"n",
+				"do; nguyên do; lí do; nguyên nhân | họ Do"
+			]
+		]
+	},
+	"这些": {
+		"py": "zhèxiē",
+		"mn": [
+			[
+				"pro",
+				"những ... này; mấy ... này"
+			]
+		]
+	},
+	"成": {
+		"py": "chéng",
+		"mn": [
+			[
+				"v",
+				"hoàn thành; thành công; làm xong; làm trọn | thành đạt; giúp cho thành công; giúp ... đạt ước nguyện | trở thành; biến thành; trở nên; hình thành | lớn; trưởng thành | hàng (nhấn mạnh số lượng nhiều) | được; xong | khá; được; khá lắm; có năng lực"
+			],
+			[
+				"adj",
+				"có sẵn; làm sẵn; may sẵn; đã cố định | phát triển; trưởng thành"
+			],
+			[
+				"n",
+				"kết quả; thành tựu; thành quả | họ Thành"
+			],
+			[
+				"measure",
+				"phần"
+			]
+		]
+	},
+	"加": {
+		"py": "jiā",
+		"mn": [
+			[
+				"v",
+				"cộng; cộng với | tăng; gia; thêm; gia tăng; tăng lên; tăng thêm | thêm; đặt | hơn; thêm; hơn nữa; thêm nữa | đặt; chất thêm; thêm lên trên | áp đặt"
+			],
+			[
+				"n",
+				"họ Gia"
+			]
+		]
+	},
+	"绿色": {
+		"py": "lǜsè",
+		"mn": [
+			[
+				"n",
+				"màu xanh lá; xanh lá cây; xanh lục"
+			],
+			[
+				"adj",
+				"xanh; sạch"
+			]
+		]
+	},
+	"紫色": {
+		"py": "zǐsè",
+		"mn": [
+			[
+				"n",
+				"màu tím; tím"
+			]
+		]
+	},
+	"黑色": {
+		"py": "hēisè",
+		"mn": [
+			[
+				"n",
+				"màu đen; đen"
+			]
+		]
+	}
+}

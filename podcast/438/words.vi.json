@@ -1,0 +1,322 @@
+{
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"套": {
+		"py": "tào",
+		"mn": [
+			[
+				"n",
+				"bao; bọc; túi | chăn; vỏ chăn | chỗ uốn cong; nơi uốn khúc (của núi sông, thường dùng làm tên đất) | dây chão (buộc ở ách súc vật và xe) | thòng lọng | bộ | khuôn khổ; lề lối;  lề lối có sẵn | bẫy; cái bẫy; cạm bẫy"
+			],
+			[
+				"measure",
+				"bộ; tổ; hồi"
+			],
+			[
+				"v",
+				"trùm; mặc; khoác; mặc thêm; mặc ngoài | lồng; nối ghép | cắt ren (ốc vít) | mô phỏng; bắt chước | lôi kéo | buộc; đóng | nhử; lừa; đưa vào tròng | lậu; buôn lậu; moi hàng nhà nước"
+			]
+		]
+	},
+	"西装": {
+		"py": "xīzhuāng",
+		"mn": [
+			[
+				"n",
+				"âu phục; đồ âu; đồ tây"
+			]
+		]
+	},
+	"怎么样": {
+		"py": "zěnmeyàng",
+		"mn": [
+			[
+				"pro",
+				"thế nào; như thế nào | ra sao; ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)"
+			]
+		]
+	},
+	"挺": {
+		"py": "tǐng",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm"
+			],
+			[
+				"v",
+				"ưỡn; ngửa | gắng gượng; cố gắng | ủng hộ"
+			],
+			[
+				"measure",
+				"khẩu; cây"
+			],
+			[
+				"adj",
+				"thẳng; ngay | vượt trội; đặc sắc; xuất sắc; kiệt xuất"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"不过": {
+		"py": "bùguò",
+		"mn": [
+			[
+				"adv",
+				"chỉ; chỉ là; chỉ có; chỉ mới; chẳng qua là; chẳng qua chỉ là | hết sức; trên hết; vô cùng; quá là"
+			],
+			[
+				"conj",
+				"song; nhưng; nhưng mà; có điều là; chỉ có điều; có điều; cơ mà"
+			]
+		]
+	},
+	"这么": {
+		"py": "zhème",
+		"mn": [
+			[
+				"pro",
+				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"热": {
+		"py": "rè",
+		"mn": [
+			[
+				"adj",
+				"nóng | tình cảm nồng nàn | nóng lòng; mong mỏi | hoan nghênh; ưa chuộng | sôi động; nhộn nhịp | tính phóng xạ mạnh"
+			],
+			[
+				"v",
+				"làm nóng; hâm nóng"
+			],
+			[
+				"n",
+				"sốt | cơn sốt; trào lưu | nhiệt năng | nhiệt tà"
+			]
+		]
+	},
+	"为什么": {
+		"py": "wèishénme",
+		"mn": [
+			[
+				"pro",
+				"vì sao; tại sao; vì cái gì; hà cớ gì"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"穿": {
+		"py": "chuān",
+		"mn": [
+			[
+				"v",
+				"mặc; đi; mang; đeo (giày, tất) | chọc; xuyên; dùi | xỏ; xâu; xiên; xâu chuỗi | qua; đi qua; xuyên qua; lách qua"
+			],
+			[
+				"adj",
+				"thấu suốt; rõ ràng"
+			],
+			[
+				"n",
+				"quần áo; giày dép"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"参加": {
+		"py": "cānjiā",
+		"mn": [
+			[
+				"v",
+				"tham gia; gia nhập; tham dự; dự; nhập cuộc | đề xuất; đưa ra; cho; góp (ý kiến)"
+			],
+			[
+				"n",
+				"sự tham gia; sự tham dự; sự góp mặt"
+			]
+		]
+	},
+	"一个": {
+		"py": "yīgè",
+		"mn": [
+			[
+				"numb",
+				"một"
+			]
+		]
+	},
+	"哦": {
+		"py": "ò",
+		"mn": [
+			[
+				"onom, intj",
+				"à; ồ (biểu thị bất chợt hiểu ra; nhận ra điều gì đó)"
+			]
+		]
+	},
+	"原来": {
+		"py": "yuánlái",
+		"mn": [
+			[
+				"adj",
+				"cũ; ban đầu; lúc đầu"
+			],
+			[
+				"adv",
+				"hoá ra; thì ra; té ra"
+			],
+			[
+				"n",
+				"trước đây"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"这样": {
+		"py": "zhèyàng",
+		"mn": [
+			[
+				"pro",
+				"vậy; thế; như vậy; như thế; thế này; như vầy"
+			]
+		]
+	},
+	"祝": {
+		"py": "zhù",
+		"mn": [
+			[
+				"v",
+				"chúc; cầu chúc | khấn; cầu khấn | đoạn tuyệt; cắt đứt; cắt; gọt"
+			],
+			[
+				"n",
+				"họ Chúc"
+			]
+		]
+	},
+	"成功": {
+		"py": "chénggōng",
+		"mn": [
+			[
+				"v",
+				"thành công"
+			],
+			[
+				"adj",
+				"thành công"
+			]
+		]
+	}
+}

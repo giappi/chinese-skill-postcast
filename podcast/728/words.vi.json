@@ -1,0 +1,255 @@
+{
+	"警察": {
+		"py": "jǐngchá",
+		"mn": [
+			[
+				"n",
+				"cảnh sát; cảnh binh; chú cảnh sát"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"包": {
+		"py": "bāo",
+		"mn": [
+			[
+				"v",
+				"bao; gói; đùm; bọc; quấn; gói ghém | ôm; bao vây; vây quanh; bao bọc; bao quanh | bao quát; bao gồm; ôm đồm | khoán; nhận; thầu; độc quyền | đảm bảo; cam đoan; chắc chắn; bảo đảm | bao; thuê; khoán; thuê cả; mua cả; bao hết"
+			],
+			[
+				"n",
+				"bao; túi; gói; đùm | cặp; túi; ví (đựng đồ) | lều (mái tròn) | cục; cái u; cái bướu | họ Bao"
+			],
+			[
+				"measure",
+				"bao; gói; túi; bọc"
+			]
+		]
+	},
+	"丢": {
+		"py": "diū",
+		"mn": [
+			[
+				"v",
+				"mất; thất lạc | ném; vứt; quăng | bỏ; gác lại; không tiến hành nữa | bỏ quên"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"里": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"bên trong; phía trong | lót (bên trong, mặt trái của áo hoặc chăn) | xóm; làng | quê hương | trong; nội bộ | nơi; chỗ | họ Lí"
+			],
+			[
+				"measure",
+				"dặm (đơn vị đo chiều dài, bằng 1/2 km)"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"部": {
+		"py": "bù",
+		"mn": [
+			[
+				"n",
+				"phần; bộ; bộ phận | nhóm; tổ; bộ; phòng ban; bộ phận | đơn vị; quân đội (một bộ phận của quân đội) | phần; bộ (thường chỉ các phân loại của văn bản, sách vở) | bộ; bộ chỉ huy (chỉ cơ quan lãnh đạo từ cấp liên trở lên trong quân đội)"
+			],
+			[
+				"measure",
+				"cái; chiếc; cỗ; bộ (lượng từ dùng cho máy móc hoặc phương tiện) | bộ; cuốn (lượng từ dùng cho sách, phim...)"
+			],
+			[
+				"v",
+				"chỉ huy; thống lĩnh"
+			]
+		]
+	},
+	"手机": {
+		"py": "shǒujī",
+		"mn": [
+			[
+				"n",
+				"điện thoại di động; điện thoại"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"本": {
+		"py": "běn",
+		"mn": [
+			[
+				"n",
+				"gốc; thân; cội; rễ; củ (cây cỏ) | gốc; cội nguồn; căn nguyên; nguồn gốc; căn bản (sự vật) | vốn; vốn liếng; tiền vốn | bản gốc; bản chính; kịch bản (lĩnh vực sân khấu, điện ảnh) | tập; vở; sổ | bản (in; khắc; viết) | tấu chương; bài tấu; lời tấu; sớ tấu (thời phong kiến) | họ Bản"
+			],
+			[
+				"adj",
+				"chính; chủ yếu; quan trọng; trọng tâm | gốc; lúc đầu; vốn có"
+			],
+			[
+				"adv",
+				"vốn; ban đầu; vốn là; lúc đầu; vốn dĩ"
+			],
+			[
+				"pro",
+				"tôi; phía mình; chúng tôi; thuộc về mình | nay; này; hiện nay; bây giờ"
+			],
+			[
+				"prep",
+				"theo; căn cứ; dựa vào"
+			],
+			[
+				"measure",
+				"cuốn; vở; quyển; tập (dùng cho sách vở sổ sách) | vở; bản (dùng trong hí khúc; kịch) | tập (dùng cho phim dài nhiều tập)"
+			]
+		]
+	},
+	"书": {
+		"py": "shū",
+		"mn": [
+			[
+				"n",
+				"sách | thư | đơn; giấy; văn kiện; giấy tờ | chữ; thể chữ; kiểu chữ | họ Thư"
+			],
+			[
+				"v",
+				"viết; viết chữ; ghi chép"
+			]
+		]
+	}
+}

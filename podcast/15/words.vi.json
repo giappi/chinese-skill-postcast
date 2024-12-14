@@ -1,0 +1,220 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"圣诞节": {
+		"py": "shèngdànjié",
+		"mn": [
+			[
+				"n",
+				"lễ Giáng Sinh; lễ Nô-en"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"这么": {
+		"py": "zhème",
+		"mn": [
+			[
+				"pro",
+				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"贺卡": {
+		"py": "hèkǎ",
+		"mn": [
+			[
+				"n",
+				"thiệp chúc mừng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"亲手": {
+		"py": "qīnshǒu",
+		"mn": [
+			[
+				"adv",
+				"tự tay; chính tay"
+			]
+		]
+	},
+	"做": {
+		"py": "zuò",
+		"mn": [
+			[
+				"v",
+				"chế tạo | viết; sáng tác | làm; làm việc; thực hiện | làm; tổ chức; chúc mừng | đảm nhiệm; trở thành | làm; dùng làm; sử dụng làm | trở thành; kết thành; tạo thành (quan hệ) | giả vờ; giả trang"
+			]
+		]
+	},
+	"每年": {
+		"py": "měinián",
+		"mn": [
+			[
+				"",
+				"hằng năm; mỗi năm | năm qua | năm một; năm năm"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"买": {
+		"py": "mǎi",
+		"mn": [
+			[
+				"v",
+				"mua; sắm; tậu | mua chuộc"
+			],
+			[
+				"n",
+				"họ Mãi"
+			]
+		]
+	},
+	"今年": {
+		"py": "jīnnián",
+		"mn": [
+			[
+				"n, time",
+				"năm nay"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"只好": {
+		"py": "zhǐhǎo",
+		"mn": [
+			[
+				"adv",
+				"đành; đành phải; chỉ đành; chỉ còn cách"
+			]
+		]
+	},
+	"自己": {
+		"py": "zìjǐ",
+		"mn": [
+			[
+				"pro",
+				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"动手": {
+		"py": "dòngshǒu",
+		"mn": [
+			[
+				"v",
+				"bắt đầu làm; bắt tay vào làm | sờ vào; chạm vào | đánh nhau; động thủ"
+			]
+		]
+	},
+	"原来如此": {
+		"py": "yuánláirúcǐ",
+		"mn": [
+			[
+				"idioms",
+				"ra là vậy; thì ra là vậy"
+			]
+		]
+	}
+}

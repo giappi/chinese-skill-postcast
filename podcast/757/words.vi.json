@@ -1,0 +1,379 @@
+{
+	"昨天": {
+		"py": "zuótiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm qua; hôm qua; bữa qua | đã qua; trước kia; trước đây"
+			]
+		]
+	},
+	"老公": {
+		"py": "lǎogōng",
+		"mn": [
+			[
+				"n",
+				"chồng; anh xã; anh nhà"
+			]
+		]
+	},
+	"出差": {
+		"py": "chūchāi",
+		"mn": [
+			[
+				"sv",
+				"đi công tác; đi công vụ | phụ việc; làm việc vặt; làm công việc tạm thời"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"人": {
+		"py": "rén",
+		"mn": [
+			[
+				"n",
+				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"家": {
+		"py": "jiā",
+		"mn": [
+			[
+				"n",
+				"nhà; gia đình | nhà; nơi ở; chỗ ở | nhà; dân; tay | nhà; chuyên gia; chuyên viên | nhà; gia; phái | nhà; gia (lời nói khiêm tốn, xưng hô với người trên bậc của mình) | bên; đối thủ; đối phương | dân tộc | nhà; gia (gia đình hoặc cá nhân có mối quan hệ) | họ Gia"
+			],
+			[
+				"adj",
+				"nuôi quen; đã thuần phục (động vật)"
+			],
+			[
+				"measure",
+				"ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)"
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"自己": {
+		"py": "zìjǐ",
+		"mn": [
+			[
+				"pro",
+				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"做": {
+		"py": "zuò",
+		"mn": [
+			[
+				"v",
+				"chế tạo | viết; sáng tác | làm; làm việc; thực hiện | làm; tổ chức; chúc mừng | đảm nhiệm; trở thành | làm; dùng làm; sử dụng làm | trở thành; kết thành; tạo thành (quan hệ) | giả vờ; giả trang"
+			]
+		]
+	},
+	"顿": {
+		"py": "dùn",
+		"mn": [
+			[
+				"v",
+				"ngừng; tạm ngừng; dừng lại | nhấn (cách viết chữ Hán) | cúi đầu | xử lý; sắp xếp; chỉnh đốn; sửa sang | giậm chân | đóng quân; nghỉ lại"
+			],
+			[
+				"measure",
+				"bữa; bữa ăn | hồi; trận"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc; khốn khổ"
+			],
+			[
+				"adv",
+				"liền; lập tức; bỗng nhiên; bỗng chốc; ngay lập tức"
+			],
+			[
+				"n",
+				"nơi; chỗ (nghỉ ngơi; ăn uống) | họ Đốn"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"晚餐": {
+		"py": "wǎncān",
+		"mn": [
+			[
+				"n",
+				"bữa tối"
+			]
+		]
+	},
+	"用": {
+		"py": "yòng",
+		"mn": [
+			[
+				"v",
+				"dùng; sử dụng | cần (dùng trong câu phủ định) | dùng; uống; ăn (lịch sự)"
+			],
+			[
+				"n",
+				"chi phí; chi tiêu | công hiệu; hiệu quả; công dụng | họ Dụng"
+			],
+			[
+				"prep",
+				"dùng; bằng; bằng cách"
+			],
+			[
+				"conj",
+				"vì; do; nhờ"
+			]
+		]
+	},
+	"烤": {
+		"py": "kǎo",
+		"mn": [
+			[
+				"v",
+				"nướng; sưởi; hơ; thui; quay | sưởi ấm; hơ lửa sưởi ấm"
+			]
+		]
+	},
+	"按照": {
+		"py": "ànzhào",
+		"mn": [
+			[
+				"prep",
+				"theo; dựa theo; chiếu theo; dựa vào; căn cứ vào"
+			]
+		]
+	},
+	"辣": {
+		"py": "là",
+		"mn": [
+			[
+				"adj",
+				"cay; cay nồng | cay độc; độc ác; tàn nhẫn"
+			],
+			[
+				"v",
+				"cay xè; cay cay; bỏng (mùi cay kích thích mũi hoặc mắt)"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"道": {
+		"py": "dào",
+		"mn": [
+			[
+				"n",
+				"đường; con đường; lối đi | dòng; tia; dòng chảy | phương pháp; cách làm; quy luật | đạo đức | tài; kỹ thuật; tay nghề; nghệ thuật; kỹ nghệ | đạo; học thuật; giáo lý (hệ thống tư tưởng tôn giáo) | đạo gia | đạo giáo; đạo sĩ; tín đồ đạo giáo (thuộc về đạo giáo) | đạo (tổ chức mê tín trong xã hội phong kiến) | đạo (đơn vị hành chánh đời Đường, tương đương với tỉnh ngày nay, thời Thanh, đạo là đơn vị dưới tỉnh) | vết; đường nét | họ Đạo"
+			],
+			[
+				"v",
+				"nói; bàn; ăn nói | tỏ ý; bày tỏ; ngỏ lời | tưởng; cho rằng; cho là; tưởng là"
+			],
+			[
+				"measure",
+				"món (lượng từ của món ăn) | dòng; vết; vệt; đạo; sợi; tia (dùng trước từ chỉ sông ngòi, vật có hình dài) | bức; cánh (dùng để chỉ cửa, tường) | câu; lệnh (chỉ mệnh lệnh, câu hỏi, đề bài)"
+			]
+		]
+	},
+	"西红柿": {
+		"py": "xīhóngshì",
+		"mn": [
+			[
+				"n",
+				"cà chua"
+			]
+		]
+	},
+	"鸡蛋": {
+		"py": "jīdàn",
+		"mn": [
+			[
+				"n",
+				"trứng; trứng gà; quả trứng gà"
+			]
+		]
+	},
+	"汤": {
+		"py": "tāng",
+		"mn": [
+			[
+				"n",
+				"canh | nước nóng; nước sôi | suối nước nóng (thường dùng làm địa danh) | nước dùng; nước lèo còn dư | thuốc nước; thuốc thang | họ Thang"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"棒": {
+		"py": "bàng",
+		"mn": [
+			[
+				"n",
+				"cây gậy; gậy; thỏi"
+			],
+			[
+				"adj",
+				"giỏi; cao; tốt; cao; cừ khôi; xịn, đỉnh (thành tích) | khoẻ; vâm; đô; tốt (thể lực hoặc năng lực)"
+			]
+		]
+	}
+}

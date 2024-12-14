@@ -1,0 +1,153 @@
+{
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"安排": {
+		"py": "ānpái",
+		"mn": [
+			[
+				"v",
+				"sắp đặt; sắp xếp; bố trí; thu xếp | sắp xếp; bố trí"
+			],
+			[
+				"n",
+				"kế hoạch; cách bố trí; sự trình bày; sự sắp đặt; sơ đồ bố trí"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"打算": {
+		"py": "dǎsuàn",
+		"mn": [
+			[
+				"v",
+				"dự định; định; tính toán; lo liệu"
+			],
+			[
+				"n",
+				"dự định; suy nghĩ; quan niệm; kế hoạch"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"跟": {
+		"py": "gēn",
+		"mn": [
+			[
+				"n",
+				"gót; gót chân | gót; đế (đồ vật)"
+			],
+			[
+				"v",
+				"theo; đi theo; theo chân | gả; theo; lấy; gả cho"
+			],
+			[
+				"prep",
+				"cùng; với | hướng; về; cho; với | so; so với | giống; cùng; như"
+			],
+			[
+				"conj",
+				"và; cùng"
+			]
+		]
+	},
+	"妈妈": {
+		"py": "māma",
+		"mn": [
+			[
+				"n",
+				"mẹ; má; me; u; bầm; mẫu thân"
+			]
+		]
+	},
+	"学": {
+		"py": "xué",
+		"mn": [
+			[
+				"v",
+				"học; học tập | học; bắt chước; mô phỏng"
+			],
+			[
+				"n",
+				"học vấn; kiến thức | học (chỉ ngành học) | trường học; trường | học thuật; học thuyết"
+			]
+		]
+	}
+}

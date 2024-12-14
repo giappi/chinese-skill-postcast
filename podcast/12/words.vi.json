@@ -1,0 +1,530 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"租房": {
+		"py": "zūfáng",
+		"mn": [
+			[
+				"v",
+				"thuê phòng; thuê nhà; thuê trọ"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"租": {
+		"py": "zū",
+		"mn": [
+			[
+				"v",
+				"thuê; mướn | cho thuê; cho mướn"
+			],
+			[
+				"n",
+				"tiền thuê | tô thuế; thuế má; thuế ruộng"
+			]
+		]
+	},
+	"怎样": {
+		"py": "zěnyàng",
+		"mn": [
+			[
+				"pro",
+				"thế nào (hỏi về tính chất, tình trạng hoặc cách thức) | thế nào; ra sao (biểu thị một sự vật, sự việc không xác định cụ thể) | thế nào (biểu thị chỉ định ngẫu nhiên) | thế nào (làm vị ngữ, tân ngữ hoặc bổ ngữ để hỏi về tình trạng)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"房子": {
+		"py": "fángzi",
+		"mn": [
+			[
+				"n",
+				"nhà; nhà cửa; cái nhà"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"套": {
+		"py": "tào",
+		"mn": [
+			[
+				"n",
+				"bao; bọc; túi | chăn; vỏ chăn | chỗ uốn cong; nơi uốn khúc (của núi sông, thường dùng làm tên đất) | dây chão (buộc ở ách súc vật và xe) | thòng lọng | bộ | khuôn khổ; lề lối;  lề lối có sẵn | bẫy; cái bẫy; cạm bẫy"
+			],
+			[
+				"measure",
+				"bộ; tổ; hồi"
+			],
+			[
+				"v",
+				"trùm; mặc; khoác; mặc thêm; mặc ngoài | lồng; nối ghép | cắt ren (ốc vít) | mô phỏng; bắt chước | lôi kéo | buộc; đóng | nhử; lừa; đưa vào tròng | lậu; buôn lậu; moi hàng nhà nước"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"室": {
+		"py": "shì",
+		"mn": [
+			[
+				"n",
+				"buồng; phòng | phòng (đơn vị công tác) | vợ | nhà; gia; gia đình; gia tộc | thất (nội tạng giống buồng) | sao Thất (một chòm sao trong nhị thập bát tú) | họ Thất"
+			]
+		]
+	},
+	"厅": {
+		"py": "tīng",
+		"mn": [
+			[
+				"n",
+				"phòng; phòng làm việc | ty; sở"
+			]
+		]
+	},
+	"最好": {
+		"py": "zuìhǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt nhất; cực tốt; hay nhất; giỏi nhất; đỉnh nhất"
+			],
+			[
+				"adv",
+				"tốt hơn là; tốt nhất là"
+			]
+		]
+	},
+	"离": {
+		"py": "lí",
+		"mn": [
+			[
+				"v",
+				"cách | xa; rời xa; xa cách; rời đi; chia li | thiếu | phản bội; đi ngược; làm trái; không tuân theo"
+			],
+			[
+				"n",
+				"Ly (một trong tám quẻ bát quái)"
+			]
+		]
+	},
+	"地铁": {
+		"py": "dìtiě",
+		"mn": [
+			[
+				"n",
+				"tàu điện ngầm"
+			]
+		]
+	},
+	"站": {
+		"py": "zhàn",
+		"mn": [
+			[
+				"v",
+				"đứng | dừng lại; đứng lại"
+			],
+			[
+				"n",
+				"trạm; ga | họ Trạm | trạm; nhà trạm; nhà trọ | cơ quan tổ chức dùng để liên lạc; đơn vị nhỏ đặt ra cho một dịch vụ nào đó"
+			]
+		]
+	},
+	"近": {
+		"py": "jìn",
+		"mn": [
+			[
+				"adj",
+				"gần; bên; cận; kề; kế | thân mật; thân thiết; thân cận; gần gũi; thân thiết | dễ hiểu"
+			],
+			[
+				"v",
+				"gần; tiếp cận; đến gần; xấp xỉ; sát gần"
+			]
+		]
+	},
+	"一些": {
+		"py": "yīxiē",
+		"mn": [
+			[
+				"class",
+				"một vài; một số; một phần (chỉ số lượng không xác định) | một ít; một chút (chỉ số lượng rất ít) | mấy; một số | chút; một chút; một tý (đặt sau động từ hoặc tính từ)"
+			]
+		]
+	},
+	"周围": {
+		"py": "zhōuwéi",
+		"mn": [
+			[
+				"n",
+				"xung quanh; chu vi; chung quanh"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"超市": {
+		"py": "chāoshì",
+		"mn": [
+			[
+				"n",
+				"siêu thị"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"菜市场": {
+		"py": "càishìchǎng",
+		"mn": [
+			[
+				"n",
+				"chợ rau; chợ thực phẩm"
+			]
+		]
+	},
+	"这样": {
+		"py": "zhèyàng",
+		"mn": [
+			[
+				"pro",
+				"vậy; thế; như vậy; như thế; thế này; như vầy"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"便宜": {
+		"py": "piányi",
+		"mn": [
+			[
+				"adj",
+				"rẻ; hời; giá rẻ"
+			],
+			[
+				"n",
+				"lợi; ưu thế | lợi; hời; bở (nghĩa xấu)"
+			],
+			[
+				"v",
+				"hên; hời cho; lợi cho"
+			]
+		]
+	},
+	"一个": {
+		"py": "yīgè",
+		"mn": [
+			[
+				"numb",
+				"một"
+			]
+		]
+	},
+	"月": {
+		"py": "yuè",
+		"mn": [
+			[
+				"n",
+				"tháng | mỗi tháng; hàng tháng | trăng; mặt trăng"
+			],
+			[
+				"adj",
+				"nguyệt; hình tròn; tròn như mặt trăng"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshǎo",
+		"mn": [
+			[
+				"adv",
+				"Ít nhiều, hơi hơi, có phần (mức độ nhất định nhưng không cao)"
+			],
+			[
+				"n",
+				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"钱": {
+		"py": "qián",
+		"mn": [
+			[
+				"n",
+				"tiền tài; tiền bạc; tiền của | tiền; tiền đồng | giống tiền; những vật có hình dạng giống đồng tiền | khoản; khoản tiền | tiền; tiền tệ; tiền mặt | món tiền; số tiền | họ Tiền"
+			],
+			[
+				"measure",
+				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"块": {
+		"py": "kuài",
+		"mn": [
+			[
+				"measure",
+				"viên; bánh; đống; khối | tấm; mảnh; miếng; chiếc | tờ; đồng (tiền đồng hoặc tiền giấy)"
+			],
+			[
+				"n",
+				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"能": {
+		"py": "néng",
+		"mn": [
+			[
+				"v",
+				"có thể (thể hiện có đủ năng lực và điều kiện thực hiện hành động.) | có thể (có hiệu quả, công dụng nào đó) | biết; có thể (giỏi về việc gì) | có thể (thể hiện khả năng; dùng để suy đoán) | có thể (thể hiện sự cho phép)"
+			],
+			[
+				"n",
+				"năng lực; tài cán; tài năng | năng lượng"
+			],
+			[
+				"adj",
+				"có tài; có năng lực"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"没问题": {
+		"py": "méiwèntí",
+		"mn": [
+			[
+				"n",
+				"ổn; không sao; không vấn đề"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"跟": {
+		"py": "gēn",
+		"mn": [
+			[
+				"n",
+				"gót; gót chân | gót; đế (đồ vật)"
+			],
+			[
+				"v",
+				"theo; đi theo; theo chân | gả; theo; lấy; gả cho"
+			],
+			[
+				"prep",
+				"cùng; với | hướng; về; cho; với | so; so với | giống; cùng; như"
+			],
+			[
+				"conj",
+				"và; cùng"
+			]
+		]
+	},
+	"来": {
+		"py": "lái",
+		"mn": [
+			[
+				"v",
+				"đến; tới (từ chỗ khác đến chỗ người nói) | tới; đến (dùng sau động từ, biểu thị động tác hướng về phía lời nói) | xảy đến; xảy ra (vấn đề, sự tình) | để (dùng giữa kết cấu động từ hoặc kết cấu giữa động từ và giới từ, biểu thị thành phần trước là phương pháp, phương hướng, thành phần sau là mục đích) | hãy; để (dùng trước một động từ khác, biểu thị làm một việc gì đó) | đánh; mở; làm (dùng thay cho một số động tác) | hợp; được"
+			],
+			[
+				"part",
+				"khoảng; chừng (đứng sau số từ hoặc số lượng từ để biểu thị số ước lượng) | dùng làm từ đệm trong thơ ca; tục ngữ hoặc lời rao hàng | ấy nhỉ | là (dùng sau số từ như \"一\"\"二\" \"三\", liệt kê lý do)"
+			],
+			[
+				"n",
+				"tới nay; từ trước tới nay (một thời điểm nhất định trong quá khứ cho đến hiện tại) | họ Lai"
+			],
+			[
+				"adj",
+				"tương lai; sau này"
+			]
+		]
+	}
+}

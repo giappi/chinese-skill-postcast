@@ -1,0 +1,298 @@
+{
+	"师傅": {
+		"py": "shīfu",
+		"mn": [
+			[
+				"n",
+				"thầy dạy, sư phụ | thợ cả, tài xế"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"剪": {
+		"py": "jiǎn",
+		"mn": [
+			[
+				"v",
+				"cắt; xén | cắt bỏ; loại bỏ | cắt đứt"
+			],
+			[
+				"n",
+				"cái kéo | cái kẹp; cái cặp (có hình dạng như cái kéo)"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"样": {
+		"py": "yàng",
+		"mn": [
+			[
+				"n",
+				"hình dáng; kiểu dáng; hình thức | có vẻ; có vẻ như; tình hình | mẫu; mẫu vật | dáng; dáng vẻ"
+			],
+			[
+				"measure",
+				"loại; kiểu"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"天气": {
+		"py": "tiānqì",
+		"mn": [
+			[
+				"n",
+				"thời tiết | thời gian"
+			]
+		]
+	},
+	"太": {
+		"py": "tài",
+		"mn": [
+			[
+				"adv",
+				"rất; quá (khen ngợi) | quá (không đạt yêu cầu) | lắm (nhấn mạnh sự phủ định)"
+			],
+			[
+				"adj",
+				"cao; lớn; to lớn | tối; cực; quá lâu | thái (thân phận, vai vế cao hơn)"
+			],
+			[
+				"n",
+				"họ Thái"
+			]
+		]
+	},
+	"热": {
+		"py": "rè",
+		"mn": [
+			[
+				"adj",
+				"nóng | tình cảm nồng nàn | nóng lòng; mong mỏi | hoan nghênh; ưa chuộng | sôi động; nhộn nhịp | tính phóng xạ mạnh"
+			],
+			[
+				"v",
+				"làm nóng; hâm nóng"
+			],
+			[
+				"n",
+				"sốt | cơn sốt; trào lưu | nhiệt năng | nhiệt tà"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"点儿": {
+		"py": "diǎnr",
+		"mn": [
+			[
+				"",
+				"Một chút | phẩy | nét chấm | vặt; nhỏ | vết; vệt"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"行": {
+		"py": "xíng",
+		"mn": [
+			[
+				"v",
+				"đi | đi xa; du lịch | lưu thông; lưu hành | làm | được; đồng ý | tiến hành; thực hiện | ngấm (thuốc)"
+			],
+			[
+				"adj",
+				"hành (du lịch) | lâm thời; lưu động | tài giỏi; có năng lực"
+			],
+			[
+				"n",
+				"hành vi; hành động | hành thư | họ Hành"
+			],
+			[
+				"adv",
+				"sắp sửa; sẽ"
+			]
+		]
+	},
+	"不过": {
+		"py": "bùguò",
+		"mn": [
+			[
+				"adv",
+				"chỉ; chỉ là; chỉ có; chỉ mới; chẳng qua là; chẳng qua chỉ là | hết sức; trên hết; vô cùng; quá là"
+			],
+			[
+				"conj",
+				"song; nhưng; nhưng mà; có điều là; chỉ có điều; có điều; cơ mà"
+			]
+		]
+	},
+	"觉得": {
+		"py": "juéde",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"颜色": {
+		"py": "yánsè",
+		"mn": [
+			[
+				"n",
+				"màu; màu sắc | nhan sắc | một bài học; biết mặt | sắc mặt; vẻ mặt"
+			]
+		]
+	},
+	"或者": {
+		"py": "huòzhě",
+		"mn": [
+			[
+				"conj",
+				"hoặc; hoặc là; hay; hay là"
+			],
+			[
+				"adv",
+				"có lẽ; có thể; chắc là"
+			]
+		]
+	},
+	"烫": {
+		"py": "tàng",
+		"mn": [
+			[
+				"v",
+				"bỏng; phỏng | sấy; hâm; là; ủi | uốn tóc"
+			],
+			[
+				"adj",
+				"nóng; nóng bỏng"
+			]
+		]
+	},
+	"比较": {
+		"py": "bǐjiào",
+		"mn": [
+			[
+				"v",
+				"so với; hơn | so sánh; so đo; sánh cùng"
+			],
+			[
+				"adv",
+				"tương đối; khá; khá là"
+			]
+		]
+	},
+	"吧": {
+		"py": "ba",
+		"mn": [
+			[
+				"part",
+				"nhé; nhớ; được rồi | nào; nhé; chứ; thôi; đi | chắc; hẳn; chứ (suy đoán) | nhỉ, thì phải | ư; chăng"
+			]
+		]
+	},
+	"不用": {
+		"py": "bùyòng",
+		"mn": [
+			[
+				"adv",
+				"không cần; khỏi cần; khỏi phải"
+			]
+		]
+	}
+}

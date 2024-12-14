@@ -1,0 +1,252 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"拿到": {
+		"py": "nádào",
+		"mn": [
+			[
+				"v",
+				"cầm được; tới tay"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"太": {
+		"py": "tài",
+		"mn": [
+			[
+				"adv",
+				"rất; quá (khen ngợi) | quá (không đạt yêu cầu) | lắm (nhấn mạnh sự phủ định)"
+			],
+			[
+				"adj",
+				"cao; lớn; to lớn | tối; cực; quá lâu | thái (thân phận, vai vế cao hơn)"
+			],
+			[
+				"n",
+				"họ Thái"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"恭喜": {
+		"py": "gōngxǐ",
+		"mn": [
+			[
+				"v",
+				"chúc mừng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"时候": {
+		"py": "shíhou",
+		"mn": [
+			[
+				"n",
+				"lúc; khi | lúc; lúc đó; khi ấy( chỉ một khoảng thời gian nhất định)"
+			]
+		]
+	},
+	"能": {
+		"py": "néng",
+		"mn": [
+			[
+				"v",
+				"có thể (thể hiện có đủ năng lực và điều kiện thực hiện hành động.) | có thể (có hiệu quả, công dụng nào đó) | biết; có thể (giỏi về việc gì) | có thể (thể hiện khả năng; dùng để suy đoán) | có thể (thể hiện sự cho phép)"
+			],
+			[
+				"n",
+				"năng lực; tài cán; tài năng | năng lượng"
+			],
+			[
+				"adj",
+				"có tài; có năng lực"
+			]
+		]
+	},
+	"哎": {
+		"py": "āi",
+		"mn": [
+			[
+				"intj",
+				"ôi; chao ôi; ơ kìa; trời ơi (tỏ ý kinh ngạc hoặc không hài lòng) | này; nè; ê (tỏ ý nhắc nhở)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"忘": {
+		"py": "wàng",
+		"mn": [
+			[
+				"v",
+				"quên; bỏ quên"
+			]
+		]
+	},
+	"安全带": {
+		"py": "ānquándài",
+		"mn": [
+			[
+				"n",
+				"Dây an toàn | dây an toàn"
+			]
+		]
+	},
+	"月": {
+		"py": "yuè",
+		"mn": [
+			[
+				"n",
+				"tháng | mỗi tháng; hàng tháng | trăng; mặt trăng"
+			],
+			[
+				"adj",
+				"nguyệt; hình tròn; tròn như mặt trăng"
+			]
+		]
+	},
+	"后": {
+		"py": "hòu",
+		"mn": [
+			[
+				"n",
+				"sau; phía sau; mặt sau | sau; cuối (vị trí, thứ tự) | sau (chỉ thời gian) | hậu thế; hậu duệ; con cháu; thế hệ sau | Hoàng hậu; Vương hậu | Vua | họ Hậu"
+			]
+		]
+	},
+	"才": {
+		"py": "cái",
+		"mn": [
+			[
+				"n",
+				"tài; tài năng | nhân tài; người tài; người có tài | họ Tài"
+			],
+			[
+				"adv",
+				"mới, vừa mới (cách đây không lâu) | mới, mới chịu (chuyện xảy ra muộn, trễ) | mới (lý do hoặc điều kiện) | chỉ; chỉ mới; chỉ có | mới (nhấn mạnh chuyện muốn nói) | mới (thay đổi tình trạng từ trước đến nay) | mới (diễn tả sự nhấn mạnh)"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"预祝": {
+		"py": "yùzhù",
+		"mn": [
+			[
+				"v",
+				"chúc; chúc trước; chúc mừng trước"
+			]
+		]
+	},
+	"顺利": {
+		"py": "shùnlì",
+		"mn": [
+			[
+				"adj",
+				"thuận lợi; suôn sẻ; trơn tru"
+			]
+		]
+	},
+	"托": {
+		"py": "tuō",
+		"mn": [
+			[
+				"v",
+				"nâng; đỡ; đựng; chống | nhờ; gửi; nhờ gửi; uỷ thác; ký thác | vin; thác; từ chối; tìm cớ; mượn cớ | nhờ; nương nhờ | lót; đệm; nổi bật"
+			],
+			[
+				"n",
+				"đài; khay; bệ; đế | cò; cò mồi; tên cò"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	}
+}

@@ -1,0 +1,147 @@
+{
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"下雨": {
+		"py": "xiàyǔ",
+		"mn": [
+			[
+				"v, sv",
+				"mưa; mưa rơi; trời mưa"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"最好": {
+		"py": "zuìhǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt nhất; cực tốt; hay nhất; giỏi nhất; đỉnh nhất"
+			],
+			[
+				"adv",
+				"tốt hơn là; tốt nhất là"
+			]
+		]
+	},
+	"带": {
+		"py": "dài",
+		"mn": [
+			[
+				"v",
+				"đeo | dẫn; dắt; kèm; cặp; dẫn dắt | nuôi dưỡng; chăm; chăm sóc | tiện tay; nhân tiện (làm gì đó) | đưa, dẫn | có; bao gồm | mang theo; kèm theo | kéo; lôi kéo; tác động; thúc đẩy | mang; dắt; cầm; đem | xuất hiện; hiện ra"
+			],
+			[
+				"n",
+				"dây; băng; thắt lưng; cái đai | lốp; vỏ | vùng; miền; khu vực | bạch đới; khí hư (bệnh) | họ Đới"
+			]
+		]
+	},
+	"雨伞": {
+		"py": "yǔsǎn",
+		"mn": [
+			[
+				"n",
+				"ô; dù; dù che mưa; ô che mưa"
+			]
+		]
+	},
+	"出门": {
+		"py": "chūmén",
+		"mn": [
+			[
+				"v",
+				"đi ra; ra ngoài | đi vắng; đi xa; xa nhà"
+			]
+		]
+	},
+	"不要": {
+		"py": "bùyào",
+		"mn": [
+			[
+				"adv",
+				"đừng; cấm; không được; chớ; không nên; không được | không cần"
+			]
+		]
+	},
+	"穿": {
+		"py": "chuān",
+		"mn": [
+			[
+				"v",
+				"mặc; đi; mang; đeo (giày, tất) | chọc; xuyên; dùi | xỏ; xâu; xiên; xâu chuỗi | qua; đi qua; xuyên qua; lách qua"
+			],
+			[
+				"adj",
+				"thấu suốt; rõ ràng"
+			],
+			[
+				"n",
+				"quần áo; giày dép"
+			]
+		]
+	},
+	"皮鞋": {
+		"py": "píxié",
+		"mn": [
+			[
+				"n",
+				"giày da"
+			]
+		]
+	},
+	"下雪": {
+		"py": "xiàxuě",
+		"mn": [
+			[
+				"v, sv",
+				"tuyết rơi"
+			]
+		]
+	},
+	"裙子": {
+		"py": "qúnzi",
+		"mn": [
+			[
+				"n",
+				"váy"
+			]
+		]
+	}
+}

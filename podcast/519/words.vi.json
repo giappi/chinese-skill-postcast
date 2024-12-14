@@ -1,0 +1,157 @@
+{
+	"歌": {
+		"py": "gē",
+		"mn": [
+			[
+				"n",
+				"ca khúc; bài hát; bài ca"
+			],
+			[
+				"v",
+				"ca; hát"
+			]
+		]
+	},
+	"祝": {
+		"py": "zhù",
+		"mn": [
+			[
+				"v",
+				"chúc; cầu chúc | khấn; cầu khấn | đoạn tuyệt; cắt đứt; cắt; gọt"
+			],
+			[
+				"n",
+				"họ Chúc"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"生日": {
+		"py": "shēngrì",
+		"mn": [
+			[
+				"n",
+				"ngày sinh; ngày ra đời; sinh nhật"
+			]
+		]
+	},
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"许": {
+		"py": "xǔ",
+		"mn": [
+			[
+				"v",
+				"cho phép; đồng ý | hứa; hẹn; hứa hẹn | khen; khen ngợi; tán dương; ca ngợi | gả; đính hôn; hứa hôn"
+			],
+			[
+				"adv",
+				"có lẽ; có thể"
+			],
+			[
+				"part",
+				"khoảng; độ chừng"
+			],
+			[
+				"n",
+				"họ Hứa"
+			],
+			[
+				"pro",
+				"biểu thị mức độ"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"愿": {
+		"py": "yuàn",
+		"mn": [
+			[
+				"n",
+				"nguyện vọng; mong muốn; mong ước | ý nguyện; ý muốn"
+			],
+			[
+				"v",
+				"mong; mong muốn; mong muốn | sẵn lòng"
+			],
+			[
+				"adj",
+				"thật thà; cẩn thận; cẩn trọng"
+			]
+		]
+	},
+	"然后": {
+		"py": "ránhòu",
+		"mn": [
+			[
+				"conj",
+				"sau đó; tiếp đó; rồi"
+			]
+		]
+	},
+	"吹": {
+		"py": "chuī",
+		"mn": [
+			[
+				"v",
+				"thổi; hà hơi | thổi; gió thổi | khoác lác; khoe khoang; chém gió; bốc phét | hỏng; tan vỡ; chia tay; rạn nứt; thất bại (công việc; tình cảm) | thổi (nhạc cụ)"
+			]
+		]
+	}
+}

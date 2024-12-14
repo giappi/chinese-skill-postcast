@@ -1,0 +1,252 @@
+{
+	"哇": {
+		"py": "wā",
+		"mn": [
+			[
+				"onom",
+				"oa oa; oe oe; óe óe; a a; á á"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"谁": {
+		"py": "shéi",
+		"mn": [
+			[
+				"pro",
+				"ai (câu hỏi đề cập đến người được hỏi) | ai (trong câu hỏi tu từ) | ai; ai đó; bất kì ai (không chắc chắn) | ai; mọi người; bất cứ ai (trong một phạm vi nhất định) | ai; bất kì ai (lặp lại trong câu, dùng để chỉ một người) | ai (làm cả chủ ngữ và tân ngữ)"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"老婆": {
+		"py": "lǎopó",
+		"mn": [
+			[
+				"n",
+				"vợ; bà xã"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"太": {
+		"py": "tài",
+		"mn": [
+			[
+				"adv",
+				"rất; quá (khen ngợi) | quá (không đạt yêu cầu) | lắm (nhấn mạnh sự phủ định)"
+			],
+			[
+				"adj",
+				"cao; lớn; to lớn | tối; cực; quá lâu | thái (thân phận, vai vế cao hơn)"
+			],
+			[
+				"n",
+				"họ Thái"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"就是": {
+		"py": "jiùshì",
+		"mn": [
+			[
+				"adv",
+				"thì; cứ; nhất định; chỉ là; chính là | thì là"
+			],
+			[
+				"conj",
+				"dù; dù cho; cho dù; dù rằng"
+			],
+			[
+				"part",
+				"được; được rồi; đúng rồi; không sai"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"脸": {
+		"py": "liǎn",
+		"mn": [
+			[
+				"n",
+				"mặt | phía mặt; phía trên; bề mặt | mặt; mặt mũi (lòng tự trọng) | vẻ mặt; nét mặt; biểu cảm"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"没有": {
+		"py": "méiyǒu",
+		"mn": [
+			[
+				"v",
+				"không có (sở hữu) | không (tồn tại) | không bằng | không đủ; không tới; không đến"
+			],
+			[
+				"adv",
+				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"她": {
+		"py": "tā",
+		"mn": [
+			[
+				"pro",
+				"cô ấy; chị ấy; bà ấy (phái nữ) | cô ấy (chỉ những sự vật đáng kính trọng và yêu quý)"
+			]
+		]
+	},
+	"最近": {
+		"py": "zuìjìn",
+		"mn": [
+			[
+				"n, time",
+				"gần đây; mới đây; vừa qua; dạo này"
+			],
+			[
+				"adj",
+				"gần nhất; gần đây"
+			]
+		]
+	},
+	"成功": {
+		"py": "chénggōng",
+		"mn": [
+			[
+				"v",
+				"thành công"
+			],
+			[
+				"adj",
+				"thành công"
+			]
+		]
+	},
+	"减肥": {
+		"py": "jiǎnféi",
+		"mn": [
+			[
+				"v",
+				"giảm cân; giảm béo"
+			]
+		]
+	},
+	"记得": {
+		"py": "jìde",
+		"mn": [
+			[
+				"v",
+				"nhớ; nhớ lại; nhớ được"
+			]
+		]
+	},
+	"以前": {
+		"py": "yǐqián",
+		"mn": [
+			[
+				"n",
+				"trước đây; trước kia; ngày trước; khi trước; ngày xưa; hồi xưa"
+			]
+		]
+	},
+	"大": {
+		"py": "dà",
+		"mn": [
+			[
+				"adj",
+				"to; lớn; rộng | đại; quý (lời nói kính trọng khi nói về người khác) | cả; lớn; đầu; trưởng | lớn; cao; nhiều (trình độ, mức độ) | bức; nhất (tỏ ý nhấn mạnh) | trước hoặc sau cấp kế cận (thời gian)"
+			],
+			[
+				"adv",
+				"rất; lắm; vô cùng | hay; thường; lắm"
+			],
+			[
+				"n",
+				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	}
+}

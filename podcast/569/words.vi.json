@@ -1,0 +1,180 @@
+{
+	"中国": {
+		"py": "zhōngguó",
+		"mn": [
+			[
+				"n, nlocal",
+				"Trung Hoa; Trung Quốc; nước cộng hoà nhân dân Trung Hoa"
+			]
+		]
+	},
+	"怎么样": {
+		"py": "zěnmeyàng",
+		"mn": [
+			[
+				"pro",
+				"thế nào; như thế nào | ra sao; ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"晚上": {
+		"py": "wǎnshàng",
+		"mn": [
+			[
+				"n, time",
+				"tối; buổi tối; ban tối; tối muộn"
+			]
+		]
+	},
+	"点": {
+		"py": "diǎn",
+		"mn": [
+			[
+				"n",
+				"giọt; hạt | chấm; vết; vệt | nét chấm (chữ Hán) | điểm (hình học) | cái kẻng; đánh kẻng (để báo giờ) | phẩy; dấu phẩy (trong số lẻ) | nơi; chỗ; điểm | bánh; điểm tâm; ăn sáng | điểm (không gian hoặc cấp độ) | lúc; giờ (quy định) | điểm; điều; việc | nhịp; nhịp điệu"
+			],
+			[
+				"v",
+				"nhón chân | nhắc; gợi ý; nhằm vào; nói đến | đạp; chạm; đẩy; đáp; chấm | gật; vẫy | nhỏ; tra (thuốc) | trồng; tra; gieo; trỉa hạt | điểm; kiểm; xét; đếm; gọi; điểm danh; gọi tên | chấm; điểm | nhắc; bảo; gợi ý; dạy bảo | điểm; điểm xuyết; tô điểm; trang điểm | chọn; chấm; chỉ định | thắp; điểm; đốt; châm | ăn; ăn lót dạ"
+			],
+			[
+				"measure",
+				"giờ (đơn vị chỉ thời gian) | điểm (một phần năm của canh) | ít; tí; chút; vặt; nhỏ (số lượng nhỏ) | điều; điểm; việc"
+			]
+		]
+	},
+	"上": {
+		"py": "shàng",
+		"mn": [
+			[
+				"v",
+				"lên; đi lên | đến; đi; lên; ra | đi; lên; vào (ca; học) | tiến lên; tiếp tục đi | tăng; tăng thêm; cải thiện | ra; lên (trường đấu, sân khấu) | bù thêm; lên; mang lên; đem lên (món ăn) | lắp; vặn; sửa chữa | bôi; quét; phết; tô | đăng; lên; lọt vào | đạt đến; đủ; có | lên | được; đậu (biểu thị có kết quả hoặc đạt mục tiêu) | bắt đầu (sau động từ biểu thị động tác bắt đầu và tiếp tục) | dâng lên; gửi lên; đưa lên | lên dây (đàn, dây cót) | lên mạng | vướng phải; mắc phải"
+			],
+			[
+				"n",
+				"trên; bên trên; phía trên; phía trước | trên (sau danh từ) | trong; tại (sau nơi chốn) | về; về mặt; trên phương diện | Đức Vua; Thánh Thượng; Hoàng Đế | khi (dùng sau tuổi tác) | họ Thượng | âm giai thượng"
+			],
+			[
+				"adj",
+				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"亮": {
+		"py": "liàng",
+		"mn": [
+			[
+				"adj",
+				"sáng; bóng | vang; vang dội; kêu vang | rõ; rộng mở; cởi mở; sáng rõ; sáng suốt (tấm lòng, tư tưởng)"
+			],
+			[
+				"v",
+				"phát sáng; sáng lên; lóe sáng | công bố; ra mắt; bày tỏ; lộ ra; bày ra; hiện ra; xuất trình | lên giọng; to tiếng; gào thét"
+			],
+			[
+				"n",
+				"ánh sáng | họ Lượng"
+			]
+		]
+	},
+	"饭店": {
+		"py": "fàndiàn",
+		"mn": [
+			[
+				"n",
+				"quán ăn; tiệm cơm; quán cơm; hiệu ăn | khách sạn"
+			]
+		]
+	},
+	"等": {
+		"py": "děng",
+		"mn": [
+			[
+				"v",
+				"đợi; chờ; chờ đợi | đợi đến; đến lúc; chờ tới; đợi tới"
+			],
+			[
+				"part",
+				"vân vân; v.v (liệt kê) | được sử dụng để kết thúc danh sách sau khi liệt kê; thường theo sau là tổng số mục trước đó"
+			],
+			[
+				"adj",
+				"ngang bằng; ngang nhau; tương đương"
+			],
+			[
+				"measure",
+				"thứ; hạng; loại; chủng loại"
+			],
+			[
+				"n",
+				"bậc; loại; hạng; đẳng cấp; thứ tự | cân tiểu ly | họ Đẳng"
+			],
+			[
+				"pro",
+				"bọn; lũ; các; chúng; những (dùng sau đại từ nhân xưng hoặc danh từ chỉ người để chỉ số nhiều)"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"咖啡厅": {
+		"py": "kāfēitīng",
+		"mn": [
+			[
+				"n",
+				"quán cà phê; tiệm cà phê"
+			]
+		]
+	},
+	"店": {
+		"py": "diàn",
+		"mn": [
+			[
+				"n",
+				"cửa hàng; cửa hiệu; cửa tiệm | nhà nghỉ; khách sạn"
+			]
+		]
+	},
+	"酒吧": {
+		"py": "jiǔbā",
+		"mn": [
+			[
+				"n",
+				"quán bar; bar"
+			]
+		]
+	}
+}

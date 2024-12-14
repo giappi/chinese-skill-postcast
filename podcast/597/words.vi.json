@@ -1,0 +1,335 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"换": {
+		"py": "huàn",
+		"mn": [
+			[
+				"v",
+				"đổi; trao đổi; tráo đổi | thay; đổi; thay đổi; thay thế | đổi; chuyển đổi; chuyển thành (tiền) | truyền máu | cấy ghép (bộ phận trên cơ thể)"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"副": {
+		"py": "fù",
+		"mn": [
+			[
+				"adj",
+				"phó; thứ; phụ"
+			],
+			[
+				"measure",
+				"bộ; đôi | khuôn; gương; bộ (mặt)"
+			],
+			[
+				"v",
+				"phù hợp; cân xứng; đúng với; xứng; xứng đáng"
+			],
+			[
+				"n",
+				"trợ lý"
+			]
+		]
+	},
+	"新": {
+		"py": "xīn",
+		"mn": [
+			[
+				"adj",
+				"mới (bắt đầu, vừa xuất hiện) | mới (chưa dùng hoặc thời gian sử dụng ngắn) | mới kết hôn"
+			],
+			[
+				"adv",
+				"mới; vừa (đặt trước động từ)"
+			],
+			[
+				"n",
+				"triều đại nhà Tân | Tân Cương | họ Tân"
+			],
+			[
+				"v",
+				"Sửa đổi; cải tiến; làm mới; làm thay đổi"
+			]
+		]
+	},
+	"眼镜": {
+		"py": "yǎnjìng",
+		"mn": [
+			[
+				"n",
+				"mắt kính; kính mắt; kính đeo mắt"
+			]
+		]
+	},
+	"为什么": {
+		"py": "wèishénme",
+		"mn": [
+			[
+				"pro",
+				"vì sao; tại sao; vì cái gì; hà cớ gì"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"对": {
+		"py": "duì",
+		"mn": [
+			[
+				"prep",
+				"về; với; đối với"
+			],
+			[
+				"measure",
+				"đôi; cặp"
+			],
+			[
+				"adj",
+				"đúng; chính xác | đối diện; đối địch; bên kia"
+			],
+			[
+				"n",
+				"câu đối | cặp đôi (quan hệ hợp tác)"
+			],
+			[
+				"v",
+				"trả lời; đáp lời; đối đáp | đối đãi; đối xử; đối phó | hướng về; nhằm vào | đối; khớp; khép | so sánh; đối chiếu | chỉnh; điều chỉnh; sửa đổi | pha | chia đôi; chia hai | xứng; hợp; vừa; tương ứng; phù hợp"
+			],
+			[
+				"adv",
+				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"戴": {
+		"py": "dài",
+		"mn": [
+			[
+				"v",
+				"đội, đeo, cài, mang (trang sức, mũ mão)"
+			],
+			[
+				"n",
+				"họ Đới"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"看不清": {
+		"py": "kànbùqīng",
+		"mn": [
+			[
+				"v",
+				"không thể nhìn rõ"
+			]
+		]
+	},
+	"东西": {
+		"py": "dōngxi",
+		"mn": [
+			[
+				"n",
+				"đồ; vật; thứ; đồ ăn; đồ đạc | đồ; thứ; thá (cảm xúc yêu, ghét)"
+			]
+		]
+	},
+	"尤其": {
+		"py": "yóuqí",
+		"mn": [
+			[
+				"adv",
+				"nhất là; đặc biệt là; đặc biệt"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"上": {
+		"py": "shàng",
+		"mn": [
+			[
+				"v",
+				"lên; đi lên | đến; đi; lên; ra | đi; lên; vào (ca; học) | tiến lên; tiếp tục đi | tăng; tăng thêm; cải thiện | ra; lên (trường đấu, sân khấu) | bù thêm; lên; mang lên; đem lên (món ăn) | lắp; vặn; sửa chữa | bôi; quét; phết; tô | đăng; lên; lọt vào | đạt đến; đủ; có | lên | được; đậu (biểu thị có kết quả hoặc đạt mục tiêu) | bắt đầu (sau động từ biểu thị động tác bắt đầu và tiếp tục) | dâng lên; gửi lên; đưa lên | lên dây (đàn, dây cót) | lên mạng | vướng phải; mắc phải"
+			],
+			[
+				"n",
+				"trên; bên trên; phía trên; phía trước | trên (sau danh từ) | trong; tại (sau nơi chốn) | về; về mặt; trên phương diện | Đức Vua; Thánh Thượng; Hoàng Đế | khi (dùng sau tuổi tác) | họ Thượng | âm giai thượng"
+			],
+			[
+				"adj",
+				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"字": {
+		"py": "zì",
+		"mn": [
+			[
+				"n",
+				"chữ; từ; chữ viết; văn tự | chữ; âm chữ (âm) | kiểu chữ; thể chữ | tranh chữ (tác phẩm thư pháp) | từ; chữ | giấy tờ; văn tự; chứng từ | tự; tên tự; tên chữ | Kw; mét khối (số điện, số nước)"
+			],
+			[
+				"v",
+				"hứa hôn"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"连": {
+		"py": "lián",
+		"mn": [
+			[
+				"prep",
+				"cả; bao gồm | ngay cả; đến cả"
+			],
+			[
+				"adv",
+				"liền; suốt; liên tục"
+			],
+			[
+				"v",
+				"gắn bó; nối liền"
+			],
+			[
+				"n",
+				"đại đội (sử dụng trong quân đội) | họ Liên"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	}
+}

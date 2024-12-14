@@ -1,0 +1,85 @@
+{
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"那个": {
+		"py": "nàgè",
+		"mn": [
+			[
+				"pro",
+				"cái đó; cái ấy | cái ấy; việc ấy | ghê lắm (dùng trước động từ, hình dung từ, biểu thị sự khoa trương) | ấy (dùng biểu thị điều khó nói ra, có ý uyển chuyển, khôi hài) | tê"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"饿": {
+		"py": "è",
+		"mn": [
+			[
+				"v",
+				"bỏ đói; để đói; chết đói; bị đói"
+			],
+			[
+				"adj",
+				"đói; đói bụng"
+			]
+		]
+	},
+	"汉语": {
+		"py": "hànyǔ",
+		"mn": [
+			[
+				"n",
+				"Hán ngữ; tiếng Hán; tiếng Hoa; tiếng Trung Quốc; hoa ngữ"
+			]
+		]
+	},
+	"难": {
+		"py": "nán",
+		"mn": [
+			[
+				"adj",
+				"khó; khó khăn; gay go | khó (không hay)"
+			],
+			[
+				"v",
+				"làm khó; vặn vẹo; khiển trách"
+			]
+		]
+	}
+}

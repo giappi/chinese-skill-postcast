@@ -1,0 +1,225 @@
+{
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"结婚": {
+		"py": "jiéhūn",
+		"mn": [
+			[
+				"v",
+				"cưới; cưới xin; kết hôn; lấy nhau"
+			]
+		]
+	},
+	"以后": {
+		"py": "yǐhòu",
+		"mn": [
+			[
+				"n",
+				"sau đó; sau này; sau khi; về sau"
+			]
+		]
+	},
+	"老公": {
+		"py": "lǎogōng",
+		"mn": [
+			[
+				"n",
+				"chồng; anh xã; anh nhà"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"妈妈": {
+		"py": "māma",
+		"mn": [
+			[
+				"n",
+				"mẹ; má; me; u; bầm; mẫu thân"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"当然": {
+		"py": "dāngrán",
+		"mn": [
+			[
+				"adv",
+				"nên như thế; phải thế; tất nhiên; đương nhiên; dĩ nhiên | tất nhiên; hiển nhiên; đương nhiên | tất nhiên; không nghi ngờ gì; chắc chắn là"
+			],
+			[
+				"adj",
+				"điều đương nhiên; tất nhiên"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"叫": {
+		"py": "jiào",
+		"mn": [
+			[
+				"v",
+				"kêu; gáy; hú; sủa; rống; gầm | tên là; gọi là | gọi; hô hoán | chào; chào hỏi | sai; bảo; sai khiến; yêu cầu | cho phép; đáp ứng | gọi; đặt; thuê; mua (gọi mang tận nơi)"
+			],
+			[
+				"adj",
+				"trống; giống đực"
+			],
+			[
+				"prep",
+				"bị | theo; theo như; cho rằng"
+			]
+		]
+	},
+	"老婆": {
+		"py": "lǎopó",
+		"mn": [
+			[
+				"n",
+				"vợ; bà xã"
+			]
+		]
+	},
+	"她": {
+		"py": "tā",
+		"mn": [
+			[
+				"pro",
+				"cô ấy; chị ấy; bà ấy (phái nữ) | cô ấy (chỉ những sự vật đáng kính trọng và yêu quý)"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"生气": {
+		"py": "shēngqì",
+		"mn": [
+			[
+				"v",
+				"giận; tức; tức giận"
+			],
+			[
+				"n",
+				"sức sống; sinh khí"
+			]
+		]
+	},
+	"他们": {
+		"py": "tāmen",
+		"mn": [
+			[
+				"pro",
+				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"觉得": {
+		"py": "juéde",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"才": {
+		"py": "cái",
+		"mn": [
+			[
+				"n",
+				"tài; tài năng | nhân tài; người tài; người có tài | họ Tài"
+			],
+			[
+				"adv",
+				"mới, vừa mới (cách đây không lâu) | mới, mới chịu (chuyện xảy ra muộn, trễ) | mới (lý do hoặc điều kiện) | chỉ; chỉ mới; chỉ có | mới (nhấn mạnh chuyện muốn nói) | mới (thay đổi tình trạng từ trước đến nay) | mới (diễn tả sự nhấn mạnh)"
+			]
+		]
+	}
+}

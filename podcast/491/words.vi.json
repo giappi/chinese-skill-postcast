@@ -1,0 +1,151 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"周末": {
+		"py": "zhōumò",
+		"mn": [
+			[
+				"n, time",
+				"cuối tuần"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"哪儿": {
+		"py": "nǎr",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | bất kỳ đâu | đâu có (cách trả lời khiêm tốn khi được người khác khen ngợi)"
+			],
+			[
+				"adv",
+				"sao; nào; đâu; sao mà (thể hiện sự phủ định)"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"先": {
+		"py": "xiān",
+		"mn": [
+			[
+				"adv",
+				"trước (hành động xảy ra trước) | tạm; tạm thời | trước đó; trước kia; trước đây"
+			],
+			[
+				"adj",
+				"người quá cố (tôn xưng người đã chết)"
+			],
+			[
+				"n",
+				"trước; tiên (thời gian, thứ tự) | đời trước; tổ tiên | lúc đầu; ban đầu | họ Tiên"
+			],
+			[
+				"v",
+				"đi trước"
+			]
+		]
+	},
+	"故宫": {
+		"py": "gùgōng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Cố Cung"
+			]
+		]
+	},
+	"然后": {
+		"py": "ránhòu",
+		"mn": [
+			[
+				"conj",
+				"sau đó; tiếp đó; rồi"
+			]
+		]
+	},
+	"觉得": {
+		"py": "juéde",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"好玩": {
+		"py": "hǎowán",
+		"mn": [
+			[
+				"adj",
+				"vui; thú vị"
+			]
+		]
+	},
+	"它们": {
+		"py": "tāmen",
+		"mn": [
+			[
+				"pro",
+				"chúng; chúng nó (đại từ chỉ con vật hoặc đồ vật số nhiều)"
+			]
+		]
+	}
+}

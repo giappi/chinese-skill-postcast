@@ -1,0 +1,222 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"拜年": {
+		"py": "bàinián",
+		"mn": [
+			[
+				"v",
+				"chúc tết; đi chúc tết; mừng năm mới"
+			]
+		]
+	},
+	"恭喜发财": {
+		"py": "gōngxǐfācái",
+		"mn": [
+			[
+				"v",
+				"chúc thịnh vượng; cung hỉ phát tài (lời chúc mừng năm mới)"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"乖": {
+		"py": "guāi",
+		"mn": [
+			[
+				"adj",
+				"ngoan; ngoan ngoãn; nghe lời | nhanh; lanh lợi; lém lỉnh; tinh khôn"
+			],
+			[
+				"v",
+				"làm trái lại; đi ngược lại với"
+			]
+		]
+	},
+	"这": {
+		"py": "zhèi",
+		"mn": [
+			[
+				"pro",
+				"âm khẩu ngữ của '这'"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"压岁钱": {
+		"py": "yāsuìqián",
+		"mn": [
+			[
+				"n",
+				"tiền mừng tuổi; tiền lì xì"
+			]
+		]
+	},
+	"祝": {
+		"py": "zhù",
+		"mn": [
+			[
+				"v",
+				"chúc; cầu chúc | khấn; cầu khấn | đoạn tuyệt; cắt đứt; cắt; gọt"
+			],
+			[
+				"n",
+				"họ Chúc"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"新年": {
+		"py": "xīnnián",
+		"mn": [
+			[
+				"n, time",
+				"năm mới; Tết Dương lịch"
+			]
+		]
+	},
+	"心想事成": {
+		"py": "xīnxiǎngshìchéng",
+		"mn": [
+			[
+				"idioms",
+				"cầu được ước thấy; muốn sao được vậy; cầu gì được nấy"
+			]
+		]
+	},
+	"万事如意": {
+		"py": "wànshìrúyì",
+		"mn": [
+			[
+				"idioms",
+				"vạn sự như ý"
+			]
+		]
+	},
+	"孩子": {
+		"py": "háizi",
+		"mn": [
+			[
+				"n",
+				"trẻ em; em bé; bọn trẻ | con; cháu; con cái; đứa bé"
+			]
+		]
+	},
+	"嘴": {
+		"py": "zuǐ",
+		"mn": [
+			[
+				"n",
+				"miệng; mồm; mõm; mỏ | miệng (vật giống miệng) | lời nói | đồ ăn"
+			]
+		]
+	},
+	"甜": {
+		"py": "tián",
+		"mn": [
+			[
+				"adj",
+				"ngọt (vị) | ngọt, ngọt ngào (giọng, nụ cười, miệng...) | say, ngon (giấc ngủ)"
+			]
+		]
+	},
+	"讨人喜欢": {
+		"py": "tǎorénxǐhuān",
+		"mn": [
+			[
+				"phrase",
+				"quyến rũ | thú vị | thu hút tình cảm của mọi người"
+			]
+		]
+	}
+}

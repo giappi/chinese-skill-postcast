@@ -1,0 +1,350 @@
+{
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"拿": {
+		"py": "ná",
+		"mn": [
+			[
+				"v",
+				"cầm; đưa; lấy | đoạt; tóm; hạ; bắt | nắm bắt; nắm được | làm khó; gây khó dễ; làm khó dễ | nhận; giành; đạt | làm hỏng; làm hư hại | giả vờ; ra vẻ; tỏ ra; làm bộ làm tịch | quyết định; đưa ra quyết định"
+			],
+			[
+				"prep",
+				"lấy; đem ( theo cách tương tự như 把） | dùng; bằng"
+			]
+		]
+	},
+	"着": {
+		"py": "zhe",
+		"mn": [
+			[
+				"part",
+				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"吃": {
+		"py": "chī",
+		"mn": [
+			[
+				"v",
+				"ăn; uống | nhờ; sống nhờ; ăn nhờ ở đậu | ăn; tiêu diệt (dùng trong quân sự,chơi cờ) | tốn; mất; tiêu thụ; hao phí | thấm; hút; hấp thu (chất lỏng) | chịu; bị; mắc; cam chịu; chịu đựng | tiếp thu; tìm hiểu | ngập; mớn; ăn vào (chỉ một vật thể đi vào một vật thể khác) | chấp nhận; đồng ý | ăn hàng; ăn quán; ăn nhà hàng"
+			],
+			[
+				"n",
+				"đồ ăn"
+			],
+			[
+				"adj",
+				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"完": {
+		"py": "wán",
+		"mn": [
+			[
+				"v",
+				"xong; hoàn thành; hoàn tất | giao; nộp; đóng | hỏng; thua; thất bại | hết; kết thúc | hết; trọn (dùng hết, sử dụng hết)"
+			],
+			[
+				"adj",
+				"hoàn chỉnh; toàn vẹn; đầy đủ; nguyên vẹn; hoàn hảo"
+			],
+			[
+				"n",
+				"họ Hoàn"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"跟": {
+		"py": "gēn",
+		"mn": [
+			[
+				"n",
+				"gót; gót chân | gót; đế (đồ vật)"
+			],
+			[
+				"v",
+				"theo; đi theo; theo chân | gả; theo; lấy; gả cho"
+			],
+			[
+				"prep",
+				"cùng; với | hướng; về; cho; với | so; so với | giống; cùng; như"
+			],
+			[
+				"conj",
+				"và; cùng"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"说": {
+		"py": "shuō",
+		"mn": [
+			[
+				"v",
+				"nói; kể | giải thích; giảng giải | mắng; trách móc; chỉ trích; khuyên nhủ | giới thiệu; làm mối | nói; bàn; bàn luận | nói; biểu diễn (nghệ thuật)"
+			],
+			[
+				"n",
+				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"妈妈": {
+		"py": "māma",
+		"mn": [
+			[
+				"n",
+				"mẹ; má; me; u; bầm; mẫu thân"
+			]
+		]
+	},
+	"饱": {
+		"py": "bǎo",
+		"mn": [
+			[
+				"adj",
+				"no; ngang dạ; ngang bụng; no nê | mẩy; chắc; chắc nịch"
+			],
+			[
+				"v",
+				"đã; mãn; thoả mãn; thoả thuê"
+			],
+			[
+				"adv",
+				"đầy đủ; sung túc; phong phú; dồi dào"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"接": {
+		"py": "jiē",
+		"mn": [
+			[
+				"v",
+				"gần; chạm; tiếp xúc | nối; nối tiếp; nối lại; kết nối | liên tiếp; tiếp tục | thay; nhận; tiếp nhận; thay thế (công việc) | nhận; đỡ; bắt; đón lấy; nhận lấy | đón; nhận; tiếp nhận; chấp nhận | đón; gặp; đón tiếp"
+			],
+			[
+				"n",
+				"họ Tiếp"
+			]
+		]
+	},
+	"过": {
+		"py": "guò",
+		"mn": [
+			[
+				"v",
+				"qua; đi qua; chảy qua | qua; hơn; vượt qua | quá; hơn; vượt (phạm vi hoặc giới hạn) | trải qua (một khoảng thời gian) | ăn; đón | chuyển; chuyền; đưa qua | qua; cho qua (xử lý, giải quyết) | đi thăm; đến thăm; viếng thăm | chết; qua đời | lây; truyền nhiễm | vượt; hơn | sống | xem qua; hồi tưởng"
+			],
+			[
+				"adv",
+				"rất; quá"
+			],
+			[
+				"measure",
+				"lần; lượt"
+			],
+			[
+				"n",
+				"lỗi; sai lầm; sai sót"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"把": {
+		"py": "bǎ",
+		"mn": [
+			[
+				"v",
+				"cầm; nắm; bám | xi (bế em bé cho đại tiện, tiểu) | ôm khư khư; độc chiếm; ôm đồm | nép; sát; cạnh; kề; dựa sát | canh gác; canh giữ"
+			],
+			[
+				"measure",
+				"cây; chiếc (dùng cho vật có tay cầm, có cán) | vốc; nắm | tí; chút (dùng cho sự vật trừu tượng) | cái; phát (dùng cho động tác tay) | trận; ván"
+			],
+			[
+				"prep",
+				"mang; đem; lấy | làm; làm cho; khiến cho (chỉ người)"
+			],
+			[
+				"adj",
+				"kết nghĩa; nuôi (quan hệ anh em kết nghĩa)"
+			],
+			[
+				"part",
+				"khoảng; gần; độ chừng; ước chừng; chừng; ngót"
+			],
+			[
+				"n",
+				"tay; tay cầm | bó; nắm"
+			]
+		]
+	},
+	"每": {
+		"py": "měi",
+		"mn": [
+			[
+				"pro",
+				"each,every | each,every"
+			],
+			[
+				"adv",
+				"mỗi khi; mỗi lần; mỗi dịp | thường; hay"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"口": {
+		"py": "kǒu",
+		"mn": [
+			[
+				"n",
+				"miệng; mồm; mõm | miệng (miệng đồ vật) | cửa; cổng | khẩu vị; vị giác | miệng vết thương | lưỡi (dao, kiếm, kéo) | tuổi (ngựa, la, lừa) | nhân khẩu | bộ phận | khẩu; nói năng; giọng nói | bến; cảng | khẩu; cửa khẩu của Trường Thành"
+			],
+			[
+				"measure",
+				"miếng; ngụm; hơi | người; thành viên | con (chủ yếu là lợn) | cái; chiếc; con (vật có lưỡi, giống như cái miệng) | câu"
+			]
+		]
+	}
+}

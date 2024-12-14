@@ -1,0 +1,273 @@
+{
+	"中国": {
+		"py": "zhōngguó",
+		"mn": [
+			[
+				"n, nlocal",
+				"Trung Hoa; Trung Quốc; nước cộng hoà nhân dân Trung Hoa"
+			]
+		]
+	},
+	"队": {
+		"py": "duì",
+		"mn": [
+			[
+				"n",
+				"đội; nhóm; hàng ngũ; đội ngũ | đội thiếu niên tiền phong | đội; đoàn (đơn vị hoặc tổ chức) | đội; đội sản xuất"
+			],
+			[
+				"measure",
+				"đoàn"
+			]
+		]
+	},
+	"加油": {
+		"py": "jiāyóu",
+		"mn": [
+			[
+				"v",
+				"thêm dầu; châm dầu; đổ xăng | cố gắng; cố lên; hăng hái hơn; gắng lên"
+			]
+		]
+	},
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"比赛": {
+		"py": "bǐsài",
+		"mn": [
+			[
+				"v",
+				"thi đấu; đấu"
+			],
+			[
+				"n",
+				"trận thi đấu; cuộc đấu; cuộc thi"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"美国": {
+		"py": "měiguó",
+		"mn": [
+			[
+				"n, nlocal",
+				"Mỹ; nước Mỹ; Hoa kỳ; United States (US); Hiệp chủng quốc Hoa Kỳ"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"篮球": {
+		"py": "lánqiú",
+		"mn": [
+			[
+				"n",
+				"bóng rổ | quả bóng rổ; banh bóng rổ"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"比分": {
+		"py": "bǐfēn",
+		"mn": [
+			[
+				"n",
+				"điểm số; tỷ số"
+			]
+		]
+	},
+	"怎样": {
+		"py": "zěnyàng",
+		"mn": [
+			[
+				"pro",
+				"thế nào (hỏi về tính chất, tình trạng hoặc cách thức) | thế nào; ra sao (biểu thị một sự vật, sự việc không xác định cụ thể) | thế nào (biểu thị chỉ định ngẫu nhiên) | thế nào (làm vị ngữ, tân ngữ hoặc bổ ngữ để hỏi về tình trạng)"
+			]
+		]
+	},
+	"谁": {
+		"py": "shéi",
+		"mn": [
+			[
+				"pro",
+				"ai (câu hỏi đề cập đến người được hỏi) | ai (trong câu hỏi tu từ) | ai; ai đó; bất kì ai (không chắc chắn) | ai; mọi người; bất cứ ai (trong một phạm vi nhất định) | ai; bất kì ai (lặp lại trong câu, dùng để chỉ một người) | ai (làm cả chủ ngữ và tân ngữ)"
+			]
+		]
+	},
+	"领先": {
+		"py": "lǐngxiān",
+		"mn": [
+			[
+				"v",
+				"dẫn đầu; đi đầu; dẫn bước; tiên phong; vượt lên đầu"
+			]
+		]
+	},
+	"不相上下": {
+		"py": "bùxiāngshàngxià",
+		"mn": [
+			[
+				"idioms",
+				"ngang nhau; ngang tài; ngang sức; không phân cao thấp"
+			]
+		]
+	},
+	"三": {
+		"py": "sān",
+		"mn": [
+			[
+				"numb",
+				"ba; số ba | nhiều lần | vài; một vài; không nhiều | thứ ba; hạng ba"
+			],
+			[
+				"n",
+				"họ Tam"
+			]
+		]
+	},
+	"分": {
+		"py": "fēn",
+		"mn": [
+			[
+				"v",
+				"chia; phân; chia cho | phân; phân phối; phân công; phân chia | phân; phân rõ; phân biệt"
+			],
+			[
+				"adj",
+				"chi nhánh; bộ phận (tổ chức)"
+			],
+			[
+				"measure",
+				"phần | phân (đơn vị đo chiều dài) | sào (đơn vị đo diện tích) | điểm (đơn vị đo thành tích) | phân (đơn vị đo trọng lượng) | một phần mười (của một đơn vị đo lường nào đó) | xu (đơn vị tiền tệ) | phút (đơn vị đo thời gian) | phút (đơn vị kinh tuyến, vĩ tuyến) | phân (đơn vị đo lãi suất)"
+			],
+			[
+				"n",
+				"phân số"
+			],
+			[
+				"numb",
+				"phân (đơn vị đo chiều dài)"
+			]
+		]
+	}
+}

@@ -1,0 +1,295 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"姐姐": {
+		"py": "jiějie",
+		"mn": [
+			[
+				"n",
+				"chị; chị gái; chị ruột"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"五": {
+		"py": "wǔ",
+		"mn": [
+			[
+				"numb",
+				"năm (số năm)"
+			],
+			[
+				"n",
+				"nốt của thang âm trong công xích phổ | họ Ngũ"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"孩子": {
+		"py": "háizi",
+		"mn": [
+			[
+				"n",
+				"trẻ em; em bé; bọn trẻ | con; cháu; con cái; đứa bé"
+			]
+		]
+	},
+	"三": {
+		"py": "sān",
+		"mn": [
+			[
+				"numb",
+				"ba; số ba | nhiều lần | vài; một vài; không nhiều | thứ ba; hạng ba"
+			],
+			[
+				"n",
+				"họ Tam"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"女孩儿": {
+		"py": "nǚháir",
+		"mn": [
+			[
+				"n",
+				"cô gái; cô bé; bé gái; thiếu nữ (chỉ các bé gái hoặc thiếu nữ, thường có tính cách ngây thơ, dễ thương) | con gái (được dùng trong gia đình để nhắc đến con gái một cách thân mật và gần gũi)"
+			]
+		]
+	},
+	"哇": {
+		"py": "wā",
+		"mn": [
+			[
+				"onom",
+				"oa oa; oe oe; óe óe; a a; á á"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"多": {
+		"py": "duō",
+		"mn": [
+			[
+				"adj",
+				"đa; nhiều (quá mức; không cần thiết) | hơn nhiều; rất nhiều (mức chênh lệch) | nhiều; lắm"
+			],
+			[
+				"v",
+				"dư; thừa; thừa ra; dư ra | thêm"
+			],
+			[
+				"adv",
+				"bao nhiêu; thế nào; đến mức nào  (dùng trong câu hỏi) | bao nhiêu; thế nào; bấy nhiêu; đến đâu; cỡ nào | rất; lắm; quá; vô cùng; quả thật; biết mấy (dừng trong câu cảm thán) | đa số; hầu hết; phần nhiều; phần lớn; đa phần"
+			],
+			[
+				"numb",
+				"hơn; ngoài"
+			],
+			[
+				"n",
+				"họ Đa"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"还有": {
+		"py": "háiyǒu",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn còn; còn có"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"下": {
+		"py": "xià",
+		"mn": [
+			[
+				"n",
+				"dưới; phía dưới | xuống (sau một giới từ) | dưới (sau một danh từ) | thấp (thứ bậc, vị trí, chất lượng) | sau (thứ tự hoặc thời gian) | xuống; hướng xuống (trước một động từ) | dưới; trong (một phạm vi, điều kiện nào đó) | đương; đang (trong thời gian, thời tiết nào đó) | bên; phía (dùng sau số từ)"
+			],
+			[
+				"v",
+				"xuống; hạ (từ cao đến thấp) | rơi (từ trên xuống) | hạ; ra (ban phát, trao) | xuống (thường là từ thành phố xuống nông thôn) | ra khỏi vị trí; rời khỏi; xuống | xuống (thả; gieo) | hạ; đi đến; đưa ra (kết luận, phán đoán...) | tan (kết thúc công việc hàng ngày theo thời gian quy định) | dùng; đặt; bỏ | đẻ; sinh (động vật) | hạ; chiếm (đánh lấy) | lui nhường; nhân nhượng; nhượng bộ | dưới (thấp hơn, ít hơn) | thi đấu; chơi (thi đấu cờ hoặc vui chơi giải trí) | dỡ xuống; lấy xuống; hạ xuống | được; đủ (biểu thị có đủ không gian chứa đựng) | đặt (biểu thị sự hoàn thành hoặc kết quả của động tác) | xuống (hướng từ cao xuống thấp)"
+			],
+			[
+				"measure",
+				"tiếng; cái; lần (chỉ số lần của động tác) | chỉ dung lượng của vật chứa | ngón; chiêu (dùng sau 两、几 để chỉ bản lĩnh, kỹ năng)"
+			]
+		]
+	},
+	"月": {
+		"py": "yuè",
+		"mn": [
+			[
+				"n",
+				"tháng | mỗi tháng; hàng tháng | trăng; mặt trăng"
+			],
+			[
+				"adj",
+				"nguyệt; hình tròn; tròn như mặt trăng"
+			]
+		]
+	},
+	"生": {
+		"py": "shēng",
+		"mn": [
+			[
+				"v",
+				"sinh; đẻ; sanh; sinh nở | mọc; lớn; sinh trưởng; phát triển | sống; sinh tồn | sản sinh; phát sinh | đốt; nhóm | sinh ra"
+			],
+			[
+				"adj",
+				"xanh; chưa chín | sống; còn sống; chưa chín (thức ăn) | sống; thô; tươi (chưa qua chế biến, gia công) | mới; lạ; không thân thuộc | cứng nhắc; miễn cưỡng; gượng gạo"
+			],
+			[
+				"n",
+				"học trò; học sinh | thư sinh; môn sinh; học trò (thời xưa) | vai (trong hí kịch) | sinh kế; sinh sống; mưu sinh | sinh mệnh | kiếp; cuộc đời | bác sĩ; ca sĩ (làm một công việc cụ thể) | người lạ | họ Sinh"
+			],
+			[
+				"adv",
+				"rất | thật sự; thật là; chính là; quả thực là"
+			]
+		]
+	},
+	"女儿": {
+		"py": "nǚér",
+		"mn": [
+			[
+				"n",
+				"con gái; nữ nhi"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"幸福": {
+		"py": "xìngfú",
+		"mn": [
+			[
+				"adj",
+				"hạnh phúc"
+			],
+			[
+				"n",
+				"hạnh phúc; niềm hạnh phúc; sự hạnh phúc"
+			]
+		]
+	}
+}

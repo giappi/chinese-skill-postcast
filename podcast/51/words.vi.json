@@ -1,0 +1,235 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"打": {
+		"py": "dǎ",
+		"mn": [
+			[
+				"v",
+				"đánh; đập; gõ | vỡ; bể; đánh vỡ; đập vỡ | đánh; đánh nhau; tiến đánh | quan hệ; giao thiệp; giao tiếp | xây; xây dựng; kiến tạo | làm; chế tạo | đánh; quậy; trộn; khuấy | buộc; bó | đan; bện | vẽ; viết; in; bôi | mở; đào; đục | giương; nâng; xách; vén | phát; bắn; đánh | cấp; nhận (giấy tờ) | bỏ đi; vứt bỏ; tỉa bỏ | múc; lấy | mua | bắt; bẫy; đánh | hái; chặt; cắt; đốn | tính; nghĩ ra; định ra | làm; tiến hành | chơi; đánh | biểu thị một số động tác của cơ thể | nêu; đưa ra (phương pháp,phương thức) | gọi (xe taxi) | vực lại (tinh thần)"
+			],
+			[
+				"prep",
+				"từ | căn nguyên; nguyên do"
+			]
+		]
+	},
+	"电话": {
+		"py": "diànhuà",
+		"mn": [
+			[
+				"n",
+				"điện thoại | điện thoại; cuộc điện thoại; cuộc gọi đến"
+			]
+		]
+	},
+	"叫": {
+		"py": "jiào",
+		"mn": [
+			[
+				"v",
+				"kêu; gáy; hú; sủa; rống; gầm | tên là; gọi là | gọi; hô hoán | chào; chào hỏi | sai; bảo; sai khiến; yêu cầu | cho phép; đáp ứng | gọi; đặt; thuê; mua (gọi mang tận nơi)"
+			],
+			[
+				"adj",
+				"trống; giống đực"
+			],
+			[
+				"prep",
+				"bị | theo; theo như; cho rằng"
+			]
+		]
+	},
+	"救护车": {
+		"py": "jiùhùchē",
+		"mn": [
+			[
+				"n",
+				"xe cứu thương; xe cấp cứu; xe hồng thập tự"
+			]
+		]
+	},
+	"怎么了": {
+		"py": "zěnmele",
+		"mn": [
+			[
+				"sentence",
+				"sao vậy; sao thế; có chuyện gì sao"
+			]
+		]
+	},
+	"出": {
+		"py": "chū",
+		"mn": [
+			[
+				"v",
+				"ra; xuất; từ trong ra ngoài | đến; tới nơi; có mặt | hơn; vượt; ra ngoài; vượt quá; trội hơn; siêu việt | đưa ra | nảy sinh; xảy ra | nảy; đổ; tiết; phát ra; tiết ra | lộ; nổi; lòi; hiện ra | chi; chi tiêu; chi ra; tiêu ra | xuất bản; ban bố; công bố | rời bỏ; li khai | sản xuất; làm ra | đẻ; sinh; sinh nở; sinh sản | bỏ; đuổi; li dị | giết; hành quyết; xử trảm"
+			],
+			[
+				"measure",
+				"vở; tấn; lớp; hồi (kịch, tuồng)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"事": {
+		"py": "shì",
+		"mn": [
+			[
+				"n",
+				"việc; công việc; sự tình | sự cố; tai nạn | công việc; công tác; việc làm | quan hệ; trách nhiệm"
+			],
+			[
+				"v",
+				"phụng dưỡng | làm; tham gia"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"经理": {
+		"py": "jīnglǐ",
+		"mn": [
+			[
+				"n",
+				"giám đốc; quản lý"
+			]
+		]
+	},
+	"心脏病": {
+		"py": "xīnzàngbìng",
+		"mn": [
+			[
+				"n",
+				"bệnh tim"
+			]
+		]
+	},
+	"发作": {
+		"py": "fāzuò",
+		"mn": [
+			[
+				"v",
+				"phát ra; phát tác; lên cơn; nổi cơn | phát cáu; nổi giận; tức giận"
+			]
+		]
+	},
+	"晕倒": {
+		"py": "yūndǎo",
+		"mn": [
+			[
+				"v",
+				"ngất; ngất xỉu"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"冷静": {
+		"py": "lěngjìng",
+		"mn": [
+			[
+				"adj",
+				"vắng vẻ; yên tĩnh; vắng lặng | bình tĩnh; điềm đạm"
+			]
+		]
+	},
+	"点": {
+		"py": "diǎn",
+		"mn": [
+			[
+				"n",
+				"giọt; hạt | chấm; vết; vệt | nét chấm (chữ Hán) | điểm (hình học) | cái kẻng; đánh kẻng (để báo giờ) | phẩy; dấu phẩy (trong số lẻ) | nơi; chỗ; điểm | bánh; điểm tâm; ăn sáng | điểm (không gian hoặc cấp độ) | lúc; giờ (quy định) | điểm; điều; việc | nhịp; nhịp điệu"
+			],
+			[
+				"v",
+				"nhón chân | nhắc; gợi ý; nhằm vào; nói đến | đạp; chạm; đẩy; đáp; chấm | gật; vẫy | nhỏ; tra (thuốc) | trồng; tra; gieo; trỉa hạt | điểm; kiểm; xét; đếm; gọi; điểm danh; gọi tên | chấm; điểm | nhắc; bảo; gợi ý; dạy bảo | điểm; điểm xuyết; tô điểm; trang điểm | chọn; chấm; chỉ định | thắp; điểm; đốt; châm | ăn; ăn lót dạ"
+			],
+			[
+				"measure",
+				"giờ (đơn vị chỉ thời gian) | điểm (một phần năm của canh) | ít; tí; chút; vặt; nhỏ (số lượng nhỏ) | điều; điểm; việc"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"马上": {
+		"py": "mǎshàng",
+		"mn": [
+			[
+				"adv",
+				"ngay; lập tức; tức khắc; liền lập tức; ngay lập tức"
+			]
+		]
+	}
+}

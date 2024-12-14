@@ -1,0 +1,72 @@
+{
+	"请坐": {
+		"py": "qǐngzuò",
+		"mn": [
+			[
+				"v",
+				"mời ngồi"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"喝": {
+		"py": "hē",
+		"mn": [
+			[
+				"v",
+				"uống | nhậu; nhậu nhẹt; uống (rượu)"
+			],
+			[
+				"intj",
+				"ồ (biểu thị sự ngạc nhiên)"
+			],
+			[
+				"n",
+				"thức uống (đặc biệt là rượu)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"果汁": {
+		"py": "guǒzhī",
+		"mn": [
+			[
+				"n",
+				"nước trái cây; nước hoa quả; nước ép hoa quả"
+			]
+		]
+	},
+	"咖啡": {
+		"py": "kāfēi",
+		"mn": [
+			[
+				"n",
+				"cà phê"
+			]
+		]
+	}
+}

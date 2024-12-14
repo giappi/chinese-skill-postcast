@@ -105,7 +105,11 @@ function main(data)
                 // convert href to onclick
                 span.onclick = function(e)
                 {
-                    showDetail(text, _pinyin, _meanning, _audio);
+
+                    let _meanningVi = window.words[text]?.mn
+                                            .map(mn => `- [${kindName(mn[0])}] ${mn[1]}`)
+                                            .join('\n');
+                    showDetail(text, _pinyin, _meanningVi || _meanning, _audio);
                     return false;
                 };
                 if(span.href)
@@ -255,6 +259,10 @@ function loadLesson(id, callback)
             callback(merged);
         });
     });
+    loadData("podcast/" + id + "/words.vi.json", function(data)
+    {
+        window.words = data;
+    });
 }
 
 
@@ -264,6 +272,24 @@ function loadPodcastList(callback)
     {
         callback(data);
     });
+}
+
+
+function kindName(k)
+{
+    return (
+    {
+            "v":    "động từ",
+            "n":    "danh từ",
+            "adj":  "tính từ",
+            "pro":  "đại từ",
+            "prep": "giới từ",
+            "av":   "trợ động từ",
+            "intj": "thán từ",
+            "numb": "số đếm",
+            "measure":  "lượng từ",
+            "sentence": "cụm từ",
+    })[k] || k;
 }
 
 

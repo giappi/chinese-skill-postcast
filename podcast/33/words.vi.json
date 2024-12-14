@@ -1,0 +1,259 @@
+{
+	"大卫": {
+		"py": "dàwèi",
+		"mn": [
+			[
+				"n",
+				"David (tên) | Jacques-Louis David (1748-1825) (họa sĩ tân cổ điển người Pháp)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"美国人": {
+		"py": "měiguórén",
+		"mn": [
+			[
+				"n",
+				"người Mỹ"
+			]
+		]
+	},
+	"英国人": {
+		"py": "yīngguórén",
+		"mn": [
+			[
+				"n",
+				"người Anh"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"不好意思": {
+		"py": "bùhǎoyìsi",
+		"mn": [
+			[
+				"phrase",
+				"xin lỗi; ngại quá | không nỡ; không tiện; ngại nói | ngại; xấu hổ; mắc cỡ; thẹn thùng; lúng túng"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"看来": {
+		"py": "kànlái",
+		"mn": [
+			[
+				"adv",
+				"xem chừng; có vẻ; có vẻ như; xem ra thì (người nói đánh giá, phán đoán dựa trên tình hình thực tế)"
+			],
+			[
+				"v",
+				"theo cách nhìn của; theo góc nhìn của; theo quan điểm của"
+			]
+		]
+	},
+	"长": {
+		"py": "zhǎng",
+		"mn": [
+			[
+				"adj",
+				"lớn; nhiều tuổi; lớn tuổi"
+			],
+			[
+				"v",
+				"trông; nom; sinh trưởng; trưởng thành; lớn lên; phát triển | mọc; sinh ra | tăng; thêm; tăng trưởng; gia tăng; mở rộng; nâng cao"
+			],
+			[
+				"n",
+				"người lớn (người lớn tuổi hoặc có bậc cao trong gia đình) | trưởng; lãnh đạo"
+			]
+		]
+	},
+	"得": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"一样": {
+		"py": "yīyàng",
+		"mn": [
+			[
+				"part",
+				"như; tựa; tựa như; giống như"
+			],
+			[
+				"adj",
+				"như nhau; y hệt; giống hệt"
+			]
+		]
+	},
+	"其实": {
+		"py": "qíshí",
+		"mn": [
+			[
+				"adv",
+				"kỳ thực; thực ra | quả thực; thực ra"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"中国人": {
+		"py": "zhōngguórén",
+		"mn": [
+			[
+				"n",
+				"người Trung Quốc"
+			]
+		]
+	},
+	"韩国人": {
+		"py": "hánguórén",
+		"mn": [
+			[
+				"n",
+				"Người Hàn Quốc"
+			]
+		]
+	},
+	"日本人": {
+		"py": "rìběnrén",
+		"mn": [
+			[
+				"n",
+				"Người nhật"
+			]
+		]
+	},
+	"亚洲人": {
+		"py": "yàzhōurén",
+		"mn": [
+			[
+				"",
+				"người châu Á"
+			]
+		]
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"会": {
+		"py": "huì",
+		"mn": [
+			[
+				"measure",
+				"một lát; một chút; một hồi; lát nữa; một lúc"
+			],
+			[
+				"v",
+				"sẽ; có thể; có khả năng | biết; hiểu; thông hiểu | hiểu; biết; lĩnh hội | nên; cần; phải | tiếp; gặp mặt; gặp nhau; gặp gỡ | hội họp; tụ họp; tụ tập; hợp lại | giỏi; khéo; chuyên; sở trường | trả tiền; thanh toán"
+			],
+			[
+				"n",
+				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"游泳": {
+		"py": "yóuyǒng",
+		"mn": [
+			[
+				"v, sv",
+				"bơi; bơi lội"
+			],
+			[
+				"n",
+				"bơi lội (môn thi đấu thể thao)"
+			]
+		]
+	},
+	"唱歌": {
+		"py": "chànggē",
+		"mn": [
+			[
+				"v, sv",
+				"hát; ca hát; hát xướng"
+			]
+		]
+	},
+	"小": {
+		"py": "xiǎo",
+		"mn": [
+			[
+				"adj",
+				"nhỏ; bé; ít; thấp; kém | út; nhỏ nhất | chút; một chút ; một lát (thời gian) | nhỏ; bé; tiểu; em"
+			],
+			[
+				"n",
+				"thiếp; nàng hầu; vợ lẽ; vợ nhỏ | em nhỏ; trẻ nhỏ; trẻ em; trẻ con | tiểu | họ Tiểu"
+			],
+			[
+				"adv",
+				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"蛇": {
+		"py": "shé",
+		"mn": [
+			[
+				"n",
+				"rắn; con rắn; xà"
+			]
+		]
+	},
+	"狗": {
+		"py": "gǒu",
+		"mn": [
+			[
+				"n",
+				"chó; cầy; con chó | chó đẻ; chó má; đồ chó chết (chửi mắng)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	}
+}

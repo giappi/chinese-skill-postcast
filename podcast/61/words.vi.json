@@ -1,0 +1,290 @@
+{
+	"您好": {
+		"py": "nínhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào; chào ngài (lễ phép, kính trọng)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"办理": {
+		"py": "bànlǐ",
+		"mn": [
+			[
+				"v",
+				"làm; giải quyết; thực hiện; tiến hành"
+			]
+		]
+	},
+	"入住": {
+		"py": "rùzhù",
+		"mn": [
+			[
+				"v",
+				"nhận; nhận phòng; check-in | vào ở"
+			]
+		]
+	},
+	"手续": {
+		"py": "shǒuxù",
+		"mn": [
+			[
+				"n",
+				"thủ tục"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"出示": {
+		"py": "chūshì",
+		"mn": [
+			[
+				"v",
+				"đưa ra; xuất trình"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"有效": {
+		"py": "yǒuxiào",
+		"mn": [
+			[
+				"adj",
+				"hiệu quả; có hiệu quả; có hiệu lực"
+			]
+		]
+	},
+	"证件": {
+		"py": "zhèngjiàn",
+		"mn": [
+			[
+				"n",
+				"giấy chứng nhận; giấy tờ chứng nhận; giấy tờ tùy thân; chứng từ; chứng minh thư; giấy tờ"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"护照": {
+		"py": "hùzhào",
+		"mn": [
+			[
+				"n",
+				"hộ chiếu"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"需要": {
+		"py": "xūyào",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; nên có; cần có"
+			],
+			[
+				"n",
+				"sự đòi hỏi; yêu cầu; nhu cầu"
+			]
+		]
+	},
+	"标准间": {
+		"py": "biāozhǔnjiān",
+		"mn": [
+			[
+				"n",
+				"phòng tiêu chuẩn"
+			]
+		]
+	},
+	"单人间": {
+		"py": "dānrénjiān",
+		"mn": [
+			[
+				"n",
+				"phòng đơn (khách sạn)"
+			]
+		]
+	},
+	"住": {
+		"py": "zhù",
+		"mn": [
+			[
+				"v",
+				"ở; sống; trọ; cư trú | dừng; ngưng; dừng lại | được; nổi; đủ sức; đảm nhiệm được; chịu đựng được | chắc; chặt"
+			]
+		]
+	},
+	"时间": {
+		"py": "shíjiān",
+		"mn": [
+			[
+				"n",
+				"thời gian; ngày giờ | khoảng thời gian | giờ (thời điểm cụ thể)"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"间": {
+		"py": "jiān",
+		"mn": [
+			[
+				"n",
+				"giữa; ở giữa | tại; trên; trong; khoảng; gian; vào lúc(trong khoảng thời gian hoặc không gian nhất định) | phòng"
+			],
+			[
+				"measure",
+				"gian; buồng; phòng (đơn vị nhỏ nhất của nhà)"
+			]
+		]
+	},
+	"后天": {
+		"py": "hòutiān",
+		"mn": [
+			[
+				"n, time",
+				"ngày kia; ngày mốt; bữa mốt | lớn lên; sau này"
+			]
+		]
+	},
+	"上午": {
+		"py": "shàngwǔ",
+		"mn": [
+			[
+				"n, time",
+				"buổi sáng"
+			]
+		]
+	},
+	"退房": {
+		"py": "tuìfáng",
+		"mn": [
+			[
+				"v",
+				"trả phòng"
+			]
+		]
+	},
+	"稍候": {
+		"py": "shāohòu",
+		"mn": [
+			[
+				"v",
+				"đợi; chờ; chờ đợi; đợi chờ"
+			]
+		]
+	}
+}

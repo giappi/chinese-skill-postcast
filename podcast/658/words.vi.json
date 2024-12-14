@@ -1,0 +1,336 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"干": {
+		"py": "gàn",
+		"mn": [
+			[
+				"n",
+				"cán; thân; mình | cán bộ | khả năng; năng lực (làm việc)"
+			],
+			[
+				"v",
+				"làm, làm việc | đảm nhiệm; làm"
+			],
+			[
+				"adj",
+				"có tài; tài cán; giỏi giang; có năng lực"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"刚": {
+		"py": "gāng",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mạnh mẽ; cứng rắn; kiên cường; cứng cỏi; kiên quyết (tính cách; thái độ) | cứng"
+			],
+			[
+				"adv",
+				"vừa; vừa vặn; chính xác; đúng đắn | vừa; vừa mới | chỉ; chỉ mới; vừa đủ; vừa mới"
+			],
+			[
+				"n",
+				"họ Cương"
+			]
+		]
+	},
+	"打": {
+		"py": "dǎ",
+		"mn": [
+			[
+				"v",
+				"đánh; đập; gõ | vỡ; bể; đánh vỡ; đập vỡ | đánh; đánh nhau; tiến đánh | quan hệ; giao thiệp; giao tiếp | xây; xây dựng; kiến tạo | làm; chế tạo | đánh; quậy; trộn; khuấy | buộc; bó | đan; bện | vẽ; viết; in; bôi | mở; đào; đục | giương; nâng; xách; vén | phát; bắn; đánh | cấp; nhận (giấy tờ) | bỏ đi; vứt bỏ; tỉa bỏ | múc; lấy | mua | bắt; bẫy; đánh | hái; chặt; cắt; đốn | tính; nghĩ ra; định ra | làm; tiến hành | chơi; đánh | biểu thị một số động tác của cơ thể | nêu; đưa ra (phương pháp,phương thức) | gọi (xe taxi) | vực lại (tinh thần)"
+			],
+			[
+				"prep",
+				"từ | căn nguyên; nguyên do"
+			]
+		]
+	},
+	"完": {
+		"py": "wán",
+		"mn": [
+			[
+				"v",
+				"xong; hoàn thành; hoàn tất | giao; nộp; đóng | hỏng; thua; thất bại | hết; kết thúc | hết; trọn (dùng hết, sử dụng hết)"
+			],
+			[
+				"adj",
+				"hoàn chỉnh; toàn vẹn; đầy đủ; nguyên vẹn; hoàn hảo"
+			],
+			[
+				"n",
+				"họ Hoàn"
+			]
+		]
+	},
+	"篮球": {
+		"py": "lánqiú",
+		"mn": [
+			[
+				"n",
+				"bóng rổ | quả bóng rổ; banh bóng rổ"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"正在": {
+		"py": "zhèngzài",
+		"mn": [
+			[
+				"adv",
+				"đang; đương; còn đang; vẫn đang"
+			]
+		]
+	},
+	"麻将": {
+		"py": "májiàng",
+		"mn": [
+			[
+				"n",
+				"mạt chược; bài mạt chược"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"不过": {
+		"py": "bùguò",
+		"mn": [
+			[
+				"adv",
+				"chỉ; chỉ là; chỉ có; chỉ mới; chẳng qua là; chẳng qua chỉ là | hết sức; trên hết; vô cùng; quá là"
+			],
+			[
+				"conj",
+				"song; nhưng; nhưng mà; có điều là; chỉ có điều; có điều; cơ mà"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"谁": {
+		"py": "shéi",
+		"mn": [
+			[
+				"pro",
+				"ai (câu hỏi đề cập đến người được hỏi) | ai (trong câu hỏi tu từ) | ai; ai đó; bất kì ai (không chắc chắn) | ai; mọi người; bất cứ ai (trong một phạm vi nhất định) | ai; bất kì ai (lặp lại trong câu, dùng để chỉ một người) | ai (làm cả chủ ngữ và tân ngữ)"
+			]
+		]
+	},
+	"还有": {
+		"py": "háiyǒu",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn còn; còn có"
+			]
+		]
+	},
+	"一起": {
+		"py": "yīqǐ",
+		"mn": [
+			[
+				"adv",
+				"cùng; cùng nhau làm gì | tổng cộng; cả thảy; tất cả; cộng lại"
+			],
+			[
+				"n",
+				"ở cùng một nơi, một chỗ."
+			]
+		]
+	},
+	"别": {
+		"py": "bié",
+		"mn": [
+			[
+				"v",
+				"phân ly; chia lìa; xa cách; chia ly; biệt ly | phân tách; phân biệt; chia ra | cắm; giắt; cài; chốt; gài; kẹt | cài; kẹp; đính; ghim; cặp | quay; chuyển biến; xoay chuyển; chuyển động | chặn; ngáng"
+			],
+			[
+				"pro",
+				"khác; cái khác"
+			],
+			[
+				"n",
+				"sự khác biệt | thứ; loại; hạng; phái | họ Biệt"
+			],
+			[
+				"adj",
+				"đặc biệt; độc đáo | chữ sai; chữ đọc sai; chữ viết sai"
+			],
+			[
+				"adv",
+				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"忘": {
+		"py": "wàng",
+		"mn": [
+			[
+				"v",
+				"quên; bỏ quên"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"通知": {
+		"py": "tōngzhī",
+		"mn": [
+			[
+				"v",
+				"báo tin; báo cho biết; thông tri"
+			],
+			[
+				"n",
+				"thông báo; thông cáo"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"一定": {
+		"py": "yīdìng",
+		"mn": [
+			[
+				"adv",
+				"phải; nhất định; cần phải; chắc chắn (biểu thị kiên quyết hoặc xác định)"
+			],
+			[
+				"adj",
+				"nhất định (nào đó) | nhất định (không thay đổi) | nhất định (về cách làm; số lượng)"
+			]
+		]
+	},
+	"叫": {
+		"py": "jiào",
+		"mn": [
+			[
+				"v",
+				"kêu; gáy; hú; sủa; rống; gầm | tên là; gọi là | gọi; hô hoán | chào; chào hỏi | sai; bảo; sai khiến; yêu cầu | cho phép; đáp ứng | gọi; đặt; thuê; mua (gọi mang tận nơi)"
+			],
+			[
+				"adj",
+				"trống; giống đực"
+			],
+			[
+				"prep",
+				"bị | theo; theo như; cho rằng"
+			]
+		]
+	}
+}

@@ -1,0 +1,168 @@
+{
+	"出生": {
+		"py": "chūshēng",
+		"mn": [
+			[
+				"v",
+				"sinh ra; ra đời; chào đời; sinh đẻ; lọt lòng"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"怎么样": {
+		"py": "zěnmeyàng",
+		"mn": [
+			[
+				"pro",
+				"thế nào; như thế nào | ra sao; ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"长": {
+		"py": "zhǎng",
+		"mn": [
+			[
+				"adj",
+				"lớn; nhiều tuổi; lớn tuổi"
+			],
+			[
+				"v",
+				"trông; nom; sinh trưởng; trưởng thành; lớn lên; phát triển | mọc; sinh ra | tăng; thêm; tăng trưởng; gia tăng; mở rộng; nâng cao"
+			],
+			[
+				"n",
+				"người lớn (người lớn tuổi hoặc có bậc cao trong gia đình) | trưởng; lãnh đạo"
+			]
+		]
+	},
+	"得": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"非常": {
+		"py": "fēicháng",
+		"mn": [
+			[
+				"adj",
+				"không bình thường; đặc biệt; bất thường"
+			],
+			[
+				"adv",
+				"rất; vô cùng; cực kỳ; hết sức"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"那么": {
+		"py": "nàme",
+		"mn": [
+			[
+				"pro",
+				"như vậy; như thế; thế đó; thế đấy; như thế đấy | như thế (dùng trước số lượng từ)"
+			],
+			[
+				"conj",
+				"thì; vậy thì"
+			]
+		]
+	},
+	"高": {
+		"py": "gāo",
+		"mn": [
+			[
+				"adj",
+				"cao | cao; giỏi; hay; quý báu (lời nói kính trọng gọi sự vật của người khác) | cao độ | đắt; giá cao; tốn kém | cao; ở mước độ cao; trên mức trung bình"
+			],
+			[
+				"n",
+				"độ cao | họ Cao"
+			]
+		]
+	},
+	"肯定": {
+		"py": "kěndìng",
+		"mn": [
+			[
+				"v",
+				"xác định; chắc chắn | tất yếu; chắc chắn"
+			],
+			[
+				"adj",
+				"chắc chắn; rõ ràng | tích cực; quyết đoán; quả quyết"
+			],
+			[
+				"adv",
+				"chắc chắn; nhất định; không nghi ngờ"
+			]
+		]
+	},
+	"啊": {
+		"py": "a",
+		"mn": [
+			[
+				"part",
+				"quá (dùng ở cuối câu, tỏ ý ca ngợi) | nhỉ; nhá; nhé; đấy; đi thôi (dùng cuối câu, tỏ ý khẳng định, thúc giục, dặn dò) | hả; chứ (dùng ở cuối câu, tỏ ý nghi vấn) | đấy; ư; đó (dùng giữa câu, dừng một chút để người nghe chú ý đến lời nói tiếp theo) | này; nào; a (dùng sau những vật được liệt kê) | nha; nhá; ư (thể hiện sự thiếu kiên nhẫn; hoặc điều hiển nhiên)"
+			]
+		]
+	}
+}

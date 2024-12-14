@@ -1,0 +1,187 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"买": {
+		"py": "mǎi",
+		"mn": [
+			[
+				"v",
+				"mua; sắm; tậu | mua chuộc"
+			],
+			[
+				"n",
+				"họ Mãi"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"张": {
+		"py": "zhāng",
+		"mn": [
+			[
+				"v",
+				"mở; mở ra; dang rộng | bày ra; trưng bày | khai trương | nhìn; xem; ngó | khoa trương; khuếch đại; mở rộng | giương; căng"
+			],
+			[
+				"measure",
+				"tờ; trang; tấm; bức (lượng từ dùng cho giấy, da) | chiếc; cái (lượng từ dùng cho giường, bàn) | cái; gương; khuôn (lượng từ dùng cho miệng, mặt) | cây; cái (lượng từ dùng cho cung nỏ)"
+			],
+			[
+				"n",
+				"sao Trương (một chòm sao trong Nhị thập bát tú) | họ Trương"
+			],
+			[
+				"adj",
+				"phóng túng; phóng đãng; thái quá; tùy tiện"
+			]
+		]
+	},
+	"今晚": {
+		"py": "jīnwǎn",
+		"mn": [
+			[
+				"n",
+				"tối nay; đêm nay"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"电影票": {
+		"py": "diànyǐngpiào",
+		"mn": [
+			[
+				"n",
+				"vé xem phim"
+			]
+		]
+	},
+	"已经": {
+		"py": "yǐjīng",
+		"mn": [
+			[
+				"adv",
+				"đã; rồi"
+			]
+		]
+	},
+	"全部": {
+		"py": "quánbù",
+		"mn": [
+			[
+				"n",
+				"toàn bộ; tất cả"
+			],
+			[
+				"adv",
+				"hết thảy; hoàn toàn"
+			]
+		]
+	},
+	"卖完": {
+		"py": "màiwán",
+		"mn": [
+			[
+				"v",
+				"được bán hết"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"啊": {
+		"py": "á",
+		"mn": [
+			[
+				"intj",
+				"hả (hỏi dồn)"
+			]
+		]
+	},
+	"明天": {
+		"py": "míngtiān",
+		"mn": [
+			[
+				"n",
+				"mai; ngày mai; bữa mai | mai đây; mai kia; tương lai"
+			]
+		]
+	},
+	"晚上": {
+		"py": "wǎnshàng",
+		"mn": [
+			[
+				"n, time",
+				"tối; buổi tối; ban tối; tối muộn"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"只有": {
+		"py": "zhǐyǒu",
+		"mn": [
+			[
+				"conj",
+				"chỉ có; chỉ khi"
+			],
+			[
+				"adv",
+				"chỉ có"
+			]
+		]
+	}
+}

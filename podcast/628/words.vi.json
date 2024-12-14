@@ -1,0 +1,846 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"周末": {
+		"py": "zhōumò",
+		"mn": [
+			[
+				"n, time",
+				"cuối tuần"
+			]
+		]
+	},
+	"打算": {
+		"py": "dǎsuàn",
+		"mn": [
+			[
+				"v",
+				"dự định; định; tính toán; lo liệu"
+			],
+			[
+				"n",
+				"dự định; suy nghĩ; quan niệm; kế hoạch"
+			]
+		]
+	},
+	"干": {
+		"py": "gàn",
+		"mn": [
+			[
+				"n",
+				"cán; thân; mình | cán bộ | khả năng; năng lực (làm việc)"
+			],
+			[
+				"v",
+				"làm, làm việc | đảm nhiệm; làm"
+			],
+			[
+				"adj",
+				"có tài; tài cán; giỏi giang; có năng lực"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"没有": {
+		"py": "méiyǒu",
+		"mn": [
+			[
+				"v",
+				"không có (sở hữu) | không (tồn tại) | không bằng | không đủ; không tới; không đến"
+			],
+			[
+				"adv",
+				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"如果": {
+		"py": "rúguǒ",
+		"mn": [
+			[
+				"conj",
+				"nếu; nếu như; nếu mà; lỡ như; giá mà"
+			]
+		]
+	},
+	"天气": {
+		"py": "tiānqì",
+		"mn": [
+			[
+				"n",
+				"thời tiết | thời gian"
+			]
+		]
+	},
+	"咱们": {
+		"py": "zánmen",
+		"mn": [
+			[
+				"pro",
+				"tụi mình; chúng ta; chúng mình (cả người nói và người nghe) | bạn; cậu; các bạn | tôi; tớ; mình"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"去": {
+		"py": "qù",
+		"mn": [
+			[
+				"v",
+				"đi; rời; rời bỏ; rời khỏi; rời đi | cách; chênh lệch; khoảng cách | mất; mất đi; không còn | loại trừ; gạt bỏ | đi, đến | hãy; cứ; phải (dùng trước một động từ khác; biểu thị sự cần làm) | đi (dùng sau kết cấu động tân, biểu thị đi làm một việc gì đó) | để; mà | đi (dùng sau động từ biểu thị động tác rời xa người nói) | diễn; đóng vai | rất; quá; lắm (biểu thị số lượng nhiều)"
+			],
+			[
+				"adv",
+				"rất; quá; lắm"
+			],
+			[
+				"n",
+				"thanh tư; khứ thanh"
+			],
+			[
+				"adj",
+				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"玩": {
+		"py": "wán",
+		"mn": [
+			[
+				"v",
+				"đùa; chơi; nghịch; chơi đùa | chơi (thể thao) | giở; giở trò (thủ đoạn, mánh khoé) | khinh; xem nhẹ; đùa giỡn | ngắm; ngắm nhìn; thưởng ngoạn | cảm nhận; nghiền ngẫm; suy ngẫm"
+			],
+			[
+				"n",
+				"đồ; đồ vật; đồ chơi | họ Ngoạn"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"一下": {
+		"py": "yīxià",
+		"mn": [
+			[
+				"class",
+				"một tý; một lúc; thử xem; một cái"
+			],
+			[
+				"adv",
+				"bỗng chốc; thoáng cái; một chốc; một lát"
+			]
+		]
+	},
+	"怎么样": {
+		"py": "zěnmeyàng",
+		"mn": [
+			[
+				"pro",
+				"thế nào; như thế nào | ra sao; ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)"
+			]
+		]
+	},
+	"倒": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"rót; đổ; trút | lùi; lùi lại | đảo; đảo lại (làm đảo vị trí trên dưới hoặc trước sau)"
+			],
+			[
+				"adj",
+				"ngược; đảo; đảo ngược | trở lại; trái lại; ngược lại; tương phản"
+			],
+			[
+				"adv",
+				"lại; nhưng; nào ngờ; ngược lại | đi chứ; hay không (biểu thị sự gạn hỏi, tỏ ý sốt ruột) | nhưng (có ý trách móc) | nhưng; nhưng mà (chuyển ngoặt) | thật sự (nhượng bộ) | đâu; đấy (mang ý nghĩa làm dịu ngữ khí)"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"不过": {
+		"py": "bùguò",
+		"mn": [
+			[
+				"adv",
+				"chỉ; chỉ là; chỉ có; chỉ mới; chẳng qua là; chẳng qua chỉ là | hết sức; trên hết; vô cùng; quá là"
+			],
+			[
+				"conj",
+				"song; nhưng; nhưng mà; có điều là; chỉ có điều; có điều; cơ mà"
+			]
+		]
+	},
+	"有点": {
+		"py": "yǒudiǎn",
+		"mn": [
+			[
+				"adv",
+				"hơi; có phần; khá là"
+			],
+			[
+				"v",
+				"có ít; có chút"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"太": {
+		"py": "tài",
+		"mn": [
+			[
+				"adv",
+				"rất; quá (khen ngợi) | quá (không đạt yêu cầu) | lắm (nhấn mạnh sự phủ định)"
+			],
+			[
+				"adj",
+				"cao; lớn; to lớn | tối; cực; quá lâu | thái (thân phận, vai vế cao hơn)"
+			],
+			[
+				"n",
+				"họ Thái"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"虽然": {
+		"py": "suīrán",
+		"mn": [
+			[
+				"conj",
+				"tuy; dù; tuy rằng; mặc dù; tuy là; đành rằng"
+			]
+		]
+	},
+	"已经": {
+		"py": "yǐjīng",
+		"mn": [
+			[
+				"adv",
+				"đã; rồi"
+			]
+		]
+	},
+	"获得": {
+		"py": "huòdé",
+		"mn": [
+			[
+				"v",
+				"được; thu được; giành được; đạt được; nhận được"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"可是": {
+		"py": "kěshì",
+		"mn": [
+			[
+				"conj",
+				"nhưng; thế nhưng; nhưng mà"
+			],
+			[
+				"adv",
+				"thực là; đúng là; thật là; có điều; chẳng qua là"
+			]
+		]
+	},
+	"车": {
+		"py": "chē",
+		"mn": [
+			[
+				"n",
+				"xe; xe cộ | xa; xe; guồng; cái guồng | máy; máy móc | họ Xa"
+			],
+			[
+				"v",
+				"tiện; gọt; gia công (máy móc) | tưới; đạp nước; tưới nước"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"嘛": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"đi; mà | thế; nữa; đi (bày tỏ hy vọng hoặc đưa ra lời khuyên) | sao; à; thôi (tạm dừng trong câu, để thu hút sự chú ý của người nghe)"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"租": {
+		"py": "zū",
+		"mn": [
+			[
+				"v",
+				"thuê; mướn | cho thuê; cho mướn"
+			],
+			[
+				"n",
+				"tiền thuê | tô thuế; thuế má; thuế ruộng"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"辆": {
+		"py": "liàng",
+		"mn": [
+			[
+				"measure",
+				"chiếc (chỉ xe cộ, trừ tàu hỏa)"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"租车": {
+		"py": "zūchē",
+		"mn": [
+			[
+				"",
+				"Thuê xe"
+			]
+		]
+	},
+	"别": {
+		"py": "bié",
+		"mn": [
+			[
+				"v",
+				"phân ly; chia lìa; xa cách; chia ly; biệt ly | phân tách; phân biệt; chia ra | cắm; giắt; cài; chốt; gài; kẹt | cài; kẹp; đính; ghim; cặp | quay; chuyển biến; xoay chuyển; chuyển động | chặn; ngáng"
+			],
+			[
+				"pro",
+				"khác; cái khác"
+			],
+			[
+				"n",
+				"sự khác biệt | thứ; loại; hạng; phái | họ Biệt"
+			],
+			[
+				"adj",
+				"đặc biệt; độc đáo | chữ sai; chữ đọc sai; chữ viết sai"
+			],
+			[
+				"adv",
+				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"说": {
+		"py": "shuō",
+		"mn": [
+			[
+				"v",
+				"nói; kể | giải thích; giảng giải | mắng; trách móc; chỉ trích; khuyên nhủ | giới thiệu; làm mối | nói; bàn; bàn luận | nói; biểu diễn (nghệ thuật)"
+			],
+			[
+				"n",
+				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"办法": {
+		"py": "bànfǎ",
+		"mn": [
+			[
+				"n",
+				"cách; biện pháp; phương pháp; cách làm"
+			]
+		]
+	},
+	"件": {
+		"py": "jiàn",
+		"mn": [
+			[
+				"measure",
+				"chiếc; kiện; cái; bộ"
+			],
+			[
+				"n",
+				"cái; phần; kiện (những thứ có thể tính được từng cái) | văn kiện; công văn | họ Kiện"
+			]
+		]
+	},
+	"容易": {
+		"py": "róngyì",
+		"mn": [
+			[
+				"adj",
+				"dễ; dễ dàng"
+			],
+			[
+				"adj",
+				"có thể; dễ bị làm sao (khả năng xảy ra cao)"
+			],
+			[
+				"",
+				"好（不）容易 + V"
+			]
+		]
+	},
+	"事": {
+		"py": "shì",
+		"mn": [
+			[
+				"n",
+				"việc; công việc; sự tình | sự cố; tai nạn | công việc; công tác; việc làm | quan hệ; trách nhiệm"
+			],
+			[
+				"v",
+				"phụng dưỡng | làm; tham gia"
+			]
+		]
+	},
+	"保险": {
+		"py": "bǎoxiǎn",
+		"mn": [
+			[
+				"n",
+				"bảo hiểm"
+			],
+			[
+				"adj",
+				"đáng tin; an toàn"
+			],
+			[
+				"v",
+				"đảm bảo; chắc chắn"
+			]
+		]
+	},
+	"各": {
+		"py": "gè",
+		"mn": [
+			[
+				"pro",
+				"các; mỗi; tất cả; khắp | các; những (số nhiều) | các; mọi (nhiều cái, nhiều người khác nhau)"
+			],
+			[
+				"adv",
+				"mỗi; mỗi cái; mỗi bên"
+			]
+		]
+	},
+	"家": {
+		"py": "jiā",
+		"mn": [
+			[
+				"n",
+				"nhà; gia đình | nhà; nơi ở; chỗ ở | nhà; dân; tay | nhà; chuyên gia; chuyên viên | nhà; gia; phái | nhà; gia (lời nói khiêm tốn, xưng hô với người trên bậc của mình) | bên; đối thủ; đối phương | dân tộc | nhà; gia (gia đình hoặc cá nhân có mối quan hệ) | họ Gia"
+			],
+			[
+				"adj",
+				"nuôi quen; đã thuần phục (động vật)"
+			],
+			[
+				"measure",
+				"ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)"
+			]
+		]
+	},
+	"公司": {
+		"py": "gōngsī",
+		"mn": [
+			[
+				"n",
+				"công ty"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"不同": {
+		"py": "bùtóng",
+		"mn": [
+			[
+				"adj",
+				"khác nhau; không giống"
+			]
+		]
+	},
+	"规定": {
+		"py": "guīdìng",
+		"mn": [
+			[
+				"n",
+				"quy định; phép tắc; điều lệ; nội quy"
+			],
+			[
+				"v",
+				"quy định; bắt buộc; yêu cầu"
+			]
+		]
+	},
+	"需要": {
+		"py": "xūyào",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; nên có; cần có"
+			],
+			[
+				"n",
+				"sự đòi hỏi; yêu cầu; nhu cầu"
+			]
+		]
+	},
+	"找": {
+		"py": "zhǎo",
+		"mn": [
+			[
+				"v",
+				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"好好": {
+		"py": "hǎohǎo",
+		"mn": [
+			[
+				"adv",
+				"quá"
+			]
+		]
+	},
+	"他们": {
+		"py": "tāmen",
+		"mn": [
+			[
+				"pro",
+				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"问题": {
+		"py": "wèntí",
+		"mn": [
+			[
+				"n",
+				"câu hỏi; đề hỏi | vấn đề (phải nghiên cứu, thảo luận, giải quyết) | chuyện; trở ngại; trắc trở; vấn đề | quan trọng; mấu chốt (điểm)"
+			],
+			[
+				"adj",
+				"có vấn đề; không bình thường"
+			]
+		]
+	},
+	"时间": {
+		"py": "shíjiān",
+		"mn": [
+			[
+				"n",
+				"thời gian; ngày giờ | khoảng thời gian | giờ (thời điểm cụ thể)"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	}
+}

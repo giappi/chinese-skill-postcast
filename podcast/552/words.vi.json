@@ -1,0 +1,185 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"中午": {
+		"py": "zhōngwǔ",
+		"mn": [
+			[
+				"n",
+				"buổi trưa"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"一般": {
+		"py": "yībān",
+		"mn": [
+			[
+				"adj",
+				"như; giống nhau; như nhau | trung bình; bình thường; trình độ không cao"
+			],
+			[
+				"adv",
+				"thường; thông thường"
+			]
+		]
+	},
+	"点": {
+		"py": "diǎn",
+		"mn": [
+			[
+				"n",
+				"giọt; hạt | chấm; vết; vệt | nét chấm (chữ Hán) | điểm (hình học) | cái kẻng; đánh kẻng (để báo giờ) | phẩy; dấu phẩy (trong số lẻ) | nơi; chỗ; điểm | bánh; điểm tâm; ăn sáng | điểm (không gian hoặc cấp độ) | lúc; giờ (quy định) | điểm; điều; việc | nhịp; nhịp điệu"
+			],
+			[
+				"v",
+				"nhón chân | nhắc; gợi ý; nhằm vào; nói đến | đạp; chạm; đẩy; đáp; chấm | gật; vẫy | nhỏ; tra (thuốc) | trồng; tra; gieo; trỉa hạt | điểm; kiểm; xét; đếm; gọi; điểm danh; gọi tên | chấm; điểm | nhắc; bảo; gợi ý; dạy bảo | điểm; điểm xuyết; tô điểm; trang điểm | chọn; chấm; chỉ định | thắp; điểm; đốt; châm | ăn; ăn lót dạ"
+			],
+			[
+				"measure",
+				"giờ (đơn vị chỉ thời gian) | điểm (một phần năm của canh) | ít; tí; chút; vặt; nhỏ (số lượng nhỏ) | điều; điểm; việc"
+			]
+		]
+	},
+	"半": {
+		"py": "bàn",
+		"mn": [
+			[
+				"numb",
+				"rưỡi; một nửa | giữa; trung gian | chút; rất ít; tí xíu"
+			],
+			[
+				"adv",
+				"nửa; hé; hờ; hơi hơi; không hoàn toàn"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"时间": {
+		"py": "shíjiān",
+		"mn": [
+			[
+				"n",
+				"thời gian; ngày giờ | khoảng thời gian | giờ (thời điểm cụ thể)"
+			]
+		]
+	},
+	"这么": {
+		"py": "zhème",
+		"mn": [
+			[
+				"pro",
+				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"长": {
+		"py": "cháng",
+		"mn": [
+			[
+				"adj",
+				"dài; xa | lâu; dài; lâu dài | dư thừa; còn lại"
+			],
+			[
+				"n",
+				"chiều dài; độ dài; trường độ | sở trường; điểm mạnh; thế mạnh; ưu điểm | họ Trường"
+			],
+			[
+				"v",
+				"giỏi về; chuyên về; sở trường về"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"会": {
+		"py": "huì",
+		"mn": [
+			[
+				"measure",
+				"một lát; một chút; một hồi; lát nữa; một lúc"
+			],
+			[
+				"v",
+				"sẽ; có thể; có khả năng | biết; hiểu; thông hiểu | hiểu; biết; lĩnh hội | nên; cần; phải | tiếp; gặp mặt; gặp nhau; gặp gỡ | hội họp; tụ họp; tụ tập; hợp lại | giỏi; khéo; chuyên; sở trường | trả tiền; thanh toán"
+			],
+			[
+				"n",
+				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"更": {
+		"py": "gèng",
+		"mn": [
+			[
+				"adv",
+				"càng; lại | hơn"
+			]
+		]
+	}
+}

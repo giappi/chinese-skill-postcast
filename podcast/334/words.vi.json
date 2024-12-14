@@ -1,0 +1,364 @@
+{
+	"来": {
+		"py": "lái",
+		"mn": [
+			[
+				"v",
+				"đến; tới (từ chỗ khác đến chỗ người nói) | tới; đến (dùng sau động từ, biểu thị động tác hướng về phía lời nói) | xảy đến; xảy ra (vấn đề, sự tình) | để (dùng giữa kết cấu động từ hoặc kết cấu giữa động từ và giới từ, biểu thị thành phần trước là phương pháp, phương hướng, thành phần sau là mục đích) | hãy; để (dùng trước một động từ khác, biểu thị làm một việc gì đó) | đánh; mở; làm (dùng thay cho một số động tác) | hợp; được"
+			],
+			[
+				"part",
+				"khoảng; chừng (đứng sau số từ hoặc số lượng từ để biểu thị số ước lượng) | dùng làm từ đệm trong thơ ca; tục ngữ hoặc lời rao hàng | ấy nhỉ | là (dùng sau số từ như \"一\"\"二\" \"三\", liệt kê lý do)"
+			],
+			[
+				"n",
+				"tới nay; từ trước tới nay (một thời điểm nhất định trong quá khứ cho đến hiện tại) | họ Lai"
+			],
+			[
+				"adj",
+				"tương lai; sau này"
+			]
+		]
+	},
+	"再": {
+		"py": "zài",
+		"mn": [
+			[
+				"adv",
+				"nữa; lại (biểu thị lại lần nữa) | nữa; hơn | sẽ (hành động tiếp theo sẽ xảy ra) | thêm; nữa; ngoài ra | lại; tiếp tục; lại xuất hiện | lại; thêm"
+			],
+			[
+				"v",
+				"lại; tiếp tục"
+			],
+			[
+				"n",
+				"họ Tái"
+			]
+		]
+	},
+	"喝": {
+		"py": "hē",
+		"mn": [
+			[
+				"v",
+				"uống | nhậu; nhậu nhẹt; uống (rượu)"
+			],
+			[
+				"intj",
+				"ồ (biểu thị sự ngạc nhiên)"
+			],
+			[
+				"n",
+				"thức uống (đặc biệt là rượu)"
+			]
+		]
+	},
+	"点": {
+		"py": "diǎn",
+		"mn": [
+			[
+				"n",
+				"giọt; hạt | chấm; vết; vệt | nét chấm (chữ Hán) | điểm (hình học) | cái kẻng; đánh kẻng (để báo giờ) | phẩy; dấu phẩy (trong số lẻ) | nơi; chỗ; điểm | bánh; điểm tâm; ăn sáng | điểm (không gian hoặc cấp độ) | lúc; giờ (quy định) | điểm; điều; việc | nhịp; nhịp điệu"
+			],
+			[
+				"v",
+				"nhón chân | nhắc; gợi ý; nhằm vào; nói đến | đạp; chạm; đẩy; đáp; chấm | gật; vẫy | nhỏ; tra (thuốc) | trồng; tra; gieo; trỉa hạt | điểm; kiểm; xét; đếm; gọi; điểm danh; gọi tên | chấm; điểm | nhắc; bảo; gợi ý; dạy bảo | điểm; điểm xuyết; tô điểm; trang điểm | chọn; chấm; chỉ định | thắp; điểm; đốt; châm | ăn; ăn lót dạ"
+			],
+			[
+				"measure",
+				"giờ (đơn vị chỉ thời gian) | điểm (một phần năm của canh) | ít; tí; chút; vặt; nhỏ (số lượng nhỏ) | điều; điểm; việc"
+			]
+		]
+	},
+	"汤": {
+		"py": "tāng",
+		"mn": [
+			[
+				"n",
+				"canh | nước nóng; nước sôi | suối nước nóng (thường dùng làm địa danh) | nước dùng; nước lèo còn dư | thuốc nước; thuốc thang | họ Thang"
+			]
+		]
+	},
+	"不行": {
+		"py": "bùxíng",
+		"mn": [
+			[
+				"v",
+				"không được; không thể; không được phép | sắp đi; sắp mất; sắp chết; không xong (gần chết) | rất; cực kỳ; vô cùng; khủng khiếp; quá xá"
+			],
+			[
+				"adj",
+				"không rành; không giỏi; không trong ngành; không được việc; không có tay nghề"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"非常": {
+		"py": "fēicháng",
+		"mn": [
+			[
+				"adj",
+				"không bình thường; đặc biệt; bất thường"
+			],
+			[
+				"adv",
+				"rất; vô cùng; cực kỳ; hết sức"
+			]
+		]
+	},
+	"饱": {
+		"py": "bǎo",
+		"mn": [
+			[
+				"adj",
+				"no; ngang dạ; ngang bụng; no nê | mẩy; chắc; chắc nịch"
+			],
+			[
+				"v",
+				"đã; mãn; thoả mãn; thoả thuê"
+			],
+			[
+				"adv",
+				"đầy đủ; sung túc; phong phú; dồi dào"
+			]
+		]
+	},
+	"把": {
+		"py": "bǎ",
+		"mn": [
+			[
+				"v",
+				"cầm; nắm; bám | xi (bế em bé cho đại tiện, tiểu) | ôm khư khư; độc chiếm; ôm đồm | nép; sát; cạnh; kề; dựa sát | canh gác; canh giữ"
+			],
+			[
+				"measure",
+				"cây; chiếc (dùng cho vật có tay cầm, có cán) | vốc; nắm | tí; chút (dùng cho sự vật trừu tượng) | cái; phát (dùng cho động tác tay) | trận; ván"
+			],
+			[
+				"prep",
+				"mang; đem; lấy | làm; làm cho; khiến cho (chỉ người)"
+			],
+			[
+				"adj",
+				"kết nghĩa; nuôi (quan hệ anh em kết nghĩa)"
+			],
+			[
+				"part",
+				"khoảng; gần; độ chừng; ước chừng; chừng; ngót"
+			],
+			[
+				"n",
+				"tay; tay cầm | bó; nắm"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"条": {
+		"py": "tiáo",
+		"mn": [
+			[
+				"measure",
+				"sợi; cái; con, dòng | mẩu; mục"
+			],
+			[
+				"n",
+				"cành; nhánh (cây) | mảnh; sợi | điều; mục; điều mục | thứ tự; trật tự; ngăn nắp | lời nhắn; ghi chú; giấy nhắn; giấy ghi chú"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"吃完": {
+		"py": "chīwán",
+		"mn": [
+			[
+				"v",
+				"ăn xong"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"刚才": {
+		"py": "gāngcái",
+		"mn": [
+			[
+				"n",
+				"vừa; vừa mới; vừa rồi; ban nãy"
+			]
+		]
+	},
+	"不是": {
+		"py": "bùshì",
+		"mn": [
+			[
+				"phrase",
+				"không phải; không đúng"
+			],
+			[
+				"n",
+				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"饿死": {
+		"py": "èsǐ",
+		"mn": [
+			[
+				"v",
+				"rất đói | chết đói"
+			]
+		]
+	},
+	"嘛": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"đi; mà | thế; nữa; đi (bày tỏ hy vọng hoặc đưa ra lời khuyên) | sao; à; thôi (tạm dừng trong câu, để thu hút sự chú ý của người nghe)"
+			]
+		]
+	},
+	"多": {
+		"py": "duō",
+		"mn": [
+			[
+				"adj",
+				"đa; nhiều (quá mức; không cần thiết) | hơn nhiều; rất nhiều (mức chênh lệch) | nhiều; lắm"
+			],
+			[
+				"v",
+				"dư; thừa; thừa ra; dư ra | thêm"
+			],
+			[
+				"adv",
+				"bao nhiêu; thế nào; đến mức nào  (dùng trong câu hỏi) | bao nhiêu; thế nào; bấy nhiêu; đến đâu; cỡ nào | rất; lắm; quá; vô cùng; quả thật; biết mấy (dừng trong câu cảm thán) | đa số; hầu hết; phần nhiều; phần lớn; đa phần"
+			],
+			[
+				"numb",
+				"hơn; ngoài"
+			],
+			[
+				"n",
+				"họ Đa"
+			]
+		]
+	},
+	"吃": {
+		"py": "chī",
+		"mn": [
+			[
+				"v",
+				"ăn; uống | nhờ; sống nhờ; ăn nhờ ở đậu | ăn; tiêu diệt (dùng trong quân sự,chơi cờ) | tốn; mất; tiêu thụ; hao phí | thấm; hút; hấp thu (chất lỏng) | chịu; bị; mắc; cam chịu; chịu đựng | tiếp thu; tìm hiểu | ngập; mớn; ăn vào (chỉ một vật thể đi vào một vật thể khác) | chấp nhận; đồng ý | ăn hàng; ăn quán; ăn nhà hàng"
+			],
+			[
+				"n",
+				"đồ ăn"
+			],
+			[
+				"adj",
+				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"真的": {
+		"py": "zhēnde",
+		"mn": [
+			[
+				"adv",
+				"có thật không; thật á; thật sự ư | quả thật; thật sự; đúng vậy; thật"
+			]
+		]
+	},
+	"吃不下": {
+		"py": "chībùxià",
+		"mn": [
+			[
+				"v",
+				"không thể ăn được nữa | không cảm thấy muốn ăn"
+			]
+		]
+	},
+	"已经": {
+		"py": "yǐjīng",
+		"mn": [
+			[
+				"adv",
+				"đã; rồi"
+			]
+		]
+	}
+}

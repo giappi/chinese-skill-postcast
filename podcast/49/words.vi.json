@@ -1,0 +1,204 @@
+{
+	"着火": {
+		"py": "zháohuǒ",
+		"mn": [
+			[
+				"v",
+				"cháy; bốc cháy; bắt lửa; bén lửa"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"来": {
+		"py": "lái",
+		"mn": [
+			[
+				"v",
+				"đến; tới (từ chỗ khác đến chỗ người nói) | tới; đến (dùng sau động từ, biểu thị động tác hướng về phía lời nói) | xảy đến; xảy ra (vấn đề, sự tình) | để (dùng giữa kết cấu động từ hoặc kết cấu giữa động từ và giới từ, biểu thị thành phần trước là phương pháp, phương hướng, thành phần sau là mục đích) | hãy; để (dùng trước một động từ khác, biểu thị làm một việc gì đó) | đánh; mở; làm (dùng thay cho một số động tác) | hợp; được"
+			],
+			[
+				"part",
+				"khoảng; chừng (đứng sau số từ hoặc số lượng từ để biểu thị số ước lượng) | dùng làm từ đệm trong thơ ca; tục ngữ hoặc lời rao hàng | ấy nhỉ | là (dùng sau số từ như \"一\"\"二\" \"三\", liệt kê lý do)"
+			],
+			[
+				"n",
+				"tới nay; từ trước tới nay (một thời điểm nhất định trong quá khứ cho đến hiện tại) | họ Lai"
+			],
+			[
+				"adj",
+				"tương lai; sau này"
+			]
+		]
+	},
+	"救火": {
+		"py": "jiùhuǒ",
+		"mn": [
+			[
+				"v",
+				"cứu hoả; chữa cháy"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"打": {
+		"py": "dǎ",
+		"mn": [
+			[
+				"v",
+				"đánh; đập; gõ | vỡ; bể; đánh vỡ; đập vỡ | đánh; đánh nhau; tiến đánh | quan hệ; giao thiệp; giao tiếp | xây; xây dựng; kiến tạo | làm; chế tạo | đánh; quậy; trộn; khuấy | buộc; bó | đan; bện | vẽ; viết; in; bôi | mở; đào; đục | giương; nâng; xách; vén | phát; bắn; đánh | cấp; nhận (giấy tờ) | bỏ đi; vứt bỏ; tỉa bỏ | múc; lấy | mua | bắt; bẫy; đánh | hái; chặt; cắt; đốn | tính; nghĩ ra; định ra | làm; tiến hành | chơi; đánh | biểu thị một số động tác của cơ thể | nêu; đưa ra (phương pháp,phương thức) | gọi (xe taxi) | vực lại (tinh thần)"
+			],
+			[
+				"prep",
+				"từ | căn nguyên; nguyên do"
+			]
+		]
+	},
+	"灭火器": {
+		"py": "mièhuǒqì",
+		"mn": [
+			[
+				"n",
+				"bình cứu hỏa; bình chữa cháy"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"哪里": {
+		"py": "nǎlǐ",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | ở đâu; nơi nào | đâu; đâu phải; đâu có phải(dùng trong câu hỏi vặn; có ý phủ định) | đâu có (lời nói khiêm tốn)"
+			]
+		]
+	},
+	"楼梯": {
+		"py": "lóutī",
+		"mn": [
+			[
+				"n",
+				"cầu thang; thang bộ"
+			]
+		]
+	},
+	"那儿": {
+		"py": "nàr",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; nơi ấy; đằng kia; đằng ấy | lúc ấy; bấy giờ"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"这儿": {
+		"py": "zhèr",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; chỗ này | lúc này; từ đây"
+			]
+		]
+	},
+	"有人": {
+		"py": "yǒurén",
+		"mn": [
+			[
+				"v",
+				"bất cứ ai | bị chiếm đóng (như trong phòng vệ sinh) | Mọi người | người nào | Có ai đó ở đó"
+			]
+		]
+	},
+	"晕倒": {
+		"py": "yūndǎo",
+		"mn": [
+			[
+				"v",
+				"ngất; ngất xỉu"
+			]
+		]
+	},
+	"救人": {
+		"py": "jiùrén",
+		"mn": [
+			[
+				"v",
+				"cứu nhân"
+			]
+		]
+	},
+	"要紧": {
+		"py": "yàojǐn",
+		"mn": [
+			[
+				"adj",
+				"quan trọng; trọng yếu | nghiêm trọng; hề chi"
+			],
+			[
+				"adv",
+				"vội vàng; gấp rút"
+			]
+		]
+	}
+}

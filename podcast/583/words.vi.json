@@ -1,0 +1,272 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"第二": {
+		"py": "dìèr",
+		"mn": [
+			[
+				"numb",
+				"thứ hai (chỉ thứ tự đứng ở vị trí thứ hai trong một dãy hoặc danh sách)"
+			]
+		]
+	},
+	"会议室": {
+		"py": "huìyìshì",
+		"mn": [
+			[
+				"n",
+				"phòng họp; phòng hội nghị"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"几": {
+		"py": "jǐ",
+		"mn": [
+			[
+				"numb",
+				"mấy (hỏi số lượng bao nhiêu) | mấy; vài (biểu thị một số không xác định từ hai đến chín) | mấy; vài (thay thế con số nhất định) | ngày nào"
+			]
+		]
+	},
+	"楼": {
+		"py": "lóu",
+		"mn": [
+			[
+				"n",
+				"nhà lầu; tòa nhà | tiệm; quán | cổng | lầu; tháp | tầng; lầu | họ Lâu"
+			]
+		]
+	},
+	"八": {
+		"py": "bā",
+		"mn": [
+			[
+				"numb",
+				"tám; số tám"
+			]
+		]
+	},
+	"哪里": {
+		"py": "nǎlǐ",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | ở đâu; nơi nào | đâu; đâu phải; đâu có phải(dùng trong câu hỏi vặn; có ý phủ định) | đâu có (lời nói khiêm tốn)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"右边": {
+		"py": "yòubiān",
+		"mn": [
+			[
+				"n",
+				"bên phải; phía hữu"
+			]
+		]
+	},
+	"但是": {
+		"py": "dànshì",
+		"mn": [
+			[
+				"conj",
+				"nhưng; nhưng mà; song (biểu thị sự chuyển ý ngược lại) | mà; nhưng (nối kết từ có ý chuyển nghịch nhưng lại thống nhất, cách dùng như liên từ 而)"
+			]
+		]
+	},
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"坏": {
+		"py": "huài",
+		"mn": [
+			[
+				"adj",
+				"xấu; không tốt | quá; hết sức"
+			],
+			[
+				"n",
+				"ý nghĩ xấu; ý tưởng xấu xa; thủ đoạn bẩn thỉu"
+			],
+			[
+				"v",
+				"hỏng; vỡ; hư; hại | làm hỏng; làm hư hỏng; làm tổn hại"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"啊": {
+		"py": "á",
+		"mn": [
+			[
+				"intj",
+				"hả (hỏi dồn)"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"怎么办": {
+		"py": "zěnmebàn",
+		"mn": [
+			[
+				"v",
+				"phải làm sao; làm thế nào"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"走": {
+		"py": "zǒu",
+		"mn": [
+			[
+				"v",
+				"đi; đi bộ; đi qua | chạy | di chuyển; di động; chuyển động (xe, thuyền) | qua; đi qua; vượt qua | đi; lên đường; rời khỏi; rời đi; tách khỏi | đi; mất; chết; qua đời | thăm viếng; qua lại; đi lại | lộ ra; tiết lộ; để hở; lọt ra; để lộ ra | lạc; sai; chệch; phai; thay đổi | nước đi (đánh cờ) | trở nên (xuất hiện xu thế)"
+			]
+		]
+	},
+	"楼梯": {
+		"py": "lóutī",
+		"mn": [
+			[
+				"n",
+				"cầu thang; thang bộ"
+			]
+		]
+	},
+	"左边": {
+		"py": "zuǒbiān",
+		"mn": [
+			[
+				"n",
+				"bên trái"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"爬": {
+		"py": "pá",
+		"mn": [
+			[
+				"v",
+				"trèo; leo; leo trèo | bò | dậy, đứng dậy"
+			]
+		]
+	}
+}

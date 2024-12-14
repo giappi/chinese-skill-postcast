@@ -1,0 +1,184 @@
+{
+	"您好": {
+		"py": "nínhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào; chào ngài (lễ phép, kính trọng)"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"张": {
+		"py": "zhāng",
+		"mn": [
+			[
+				"v",
+				"mở; mở ra; dang rộng | bày ra; trưng bày | khai trương | nhìn; xem; ngó | khoa trương; khuếch đại; mở rộng | giương; căng"
+			],
+			[
+				"measure",
+				"tờ; trang; tấm; bức (lượng từ dùng cho giấy, da) | chiếc; cái (lượng từ dùng cho giường, bàn) | cái; gương; khuôn (lượng từ dùng cho miệng, mặt) | cây; cái (lượng từ dùng cho cung nỏ)"
+			],
+			[
+				"n",
+				"sao Trương (một chòm sao trong Nhị thập bát tú) | họ Trương"
+			],
+			[
+				"adj",
+				"phóng túng; phóng đãng; thái quá; tùy tiện"
+			]
+		]
+	},
+	"地铁": {
+		"py": "dìtiě",
+		"mn": [
+			[
+				"n",
+				"tàu điện ngầm"
+			]
+		]
+	},
+	"票": {
+		"py": "piào",
+		"mn": [
+			[
+				"n",
+				"vé; phiếu; thẻ; hoá đơn | tiền; tiền giấy | con tin"
+			],
+			[
+				"measure",
+				"món; chuyến; cuộc; vụ"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"钱": {
+		"py": "qián",
+		"mn": [
+			[
+				"n",
+				"tiền tài; tiền bạc; tiền của | tiền; tiền đồng | giống tiền; những vật có hình dạng giống đồng tiền | khoản; khoản tiền | tiền; tiền tệ; tiền mặt | món tiền; số tiền | họ Tiền"
+			],
+			[
+				"measure",
+				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"收": {
+		"py": "shōu",
+		"mn": [
+			[
+				"v",
+				"gom góp; góp nhặt; co lại; xếp lại; cất giữ | thu; nhận; lấy | thu; nhận; đạt được (lợi ích kinh tế) | thu hoạch; gặt hái | nạp; nhận; tiếp nhận; dung nạp | kiềm chế; kiểm soát; dằn lòng | kết thúc; chấm dứt | bắt; bắt giữ; bắt giam"
+			]
+		]
+	},
+	"五": {
+		"py": "wǔ",
+		"mn": [
+			[
+				"numb",
+				"năm (số năm)"
+			],
+			[
+				"n",
+				"nốt của thang âm trong công xích phổ | họ Ngũ"
+			]
+		]
+	},
+	"元": {
+		"py": "yuán",
+		"mn": [
+			[
+				"measure",
+				"đồng tiền (đơn vị tiền tệ)"
+			],
+			[
+				"n",
+				"đầu người | yếu tố; nguyên tố | bộ phận cấu thành một chỉnh thể | nhà Nguyên | tên tiền kim loại thời cổ | họ Nguyên"
+			],
+			[
+				"adj",
+				"đầu tiên; thứ nhất; bắt đầu | đứng đầu | chủ yếu; cơ bản"
+			]
+		]
+	},
+	"找": {
+		"py": "zhǎo",
+		"mn": [
+			[
+				"v",
+				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"不客气": {
+		"py": "bùkèqì",
+		"mn": [
+			[
+				"adj",
+				"thẳng thắn; thoải mái; không giữ kẽ; không kiêng dè | mất lịch sự; thô lỗ; vô duyên"
+			],
+			[
+				"phrase",
+				"đừng khách sáo; đừng khách khí; không có gì"
+			]
+		]
+	}
+}

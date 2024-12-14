@@ -1,0 +1,329 @@
+{
+	"昨天": {
+		"py": "zuótiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm qua; hôm qua; bữa qua | đã qua; trước kia; trước đây"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"参加": {
+		"py": "cānjiā",
+		"mn": [
+			[
+				"v",
+				"tham gia; gia nhập; tham dự; dự; nhập cuộc | đề xuất; đưa ra; cho; góp (ý kiến)"
+			],
+			[
+				"n",
+				"sự tham gia; sự tham dự; sự góp mặt"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"高中": {
+		"py": "gāozhōng",
+		"mn": [
+			[
+				"n",
+				"cấp 3; trung học phổ thông"
+			]
+		]
+	},
+	"同学": {
+		"py": "tóngxué",
+		"mn": [
+			[
+				"n",
+				"bạn học; bạn cùng lớp; đồng môn"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"大家": {
+		"py": "dàjiā",
+		"mn": [
+			[
+				"n",
+				"chuyên gia; người nổi tiếng; bậc thầy | nhà quyền quý; thế gia vọng tộc"
+			],
+			[
+				"pro",
+				"mọi người; cả nhà"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"大": {
+		"py": "dà",
+		"mn": [
+			[
+				"adj",
+				"to; lớn; rộng | đại; quý (lời nói kính trọng khi nói về người khác) | cả; lớn; đầu; trưởng | lớn; cao; nhiều (trình độ, mức độ) | bức; nhất (tỏ ý nhấn mạnh) | trước hoặc sau cấp kế cận (thời gian)"
+			],
+			[
+				"adv",
+				"rất; lắm; vô cùng | hay; thường; lắm"
+			],
+			[
+				"n",
+				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"班": {
+		"py": "bān",
+		"mn": [
+			[
+				"n",
+				"lớp; lớp học | ca; ban; kíp | gánh; đoàn (cách gọi các đoàn kịch ngày xưa) | tiểu đội | ca; buổi làm | họ Ban"
+			],
+			[
+				"measure",
+				"tốp; nhóm; đám; lớp | chuyến"
+			],
+			[
+				"v",
+				"rút; rút về (quân đội) | chia; chia cho; ban phát"
+			],
+			[
+				"adj",
+				"thường xuyên; theo tuyến"
+			]
+		]
+	},
+	"得": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"认": {
+		"py": "rèn",
+		"mn": [
+			[
+				"v",
+				"nhận thức; phân biệt | thừa nhận; đồng ý | nhận (thiết đặt quan hệ) | chịu; chịu thiệt thòi | nhận lời; nhận làm; tự làm một việc gì đó"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"出来": {
+		"py": "chūlái",
+		"mn": [
+			[
+				"v",
+				"ra; đi ra; ra đây (từ trong ra ngoài) | xuất hiện; nảy ra; bộc lộ | có; hoàn thành"
+			]
+		]
+	},
+	"里": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"bên trong; phía trong | lót (bên trong, mặt trái của áo hoặc chăn) | xóm; làng | quê hương | trong; nội bộ | nơi; chỗ | họ Lí"
+			],
+			[
+				"measure",
+				"dặm (đơn vị đo chiều dài, bằng 1/2 km)"
+			]
+		]
+	},
+	"最": {
+		"py": "zuì",
+		"mn": [
+			[
+				"adv",
+				"nhất"
+			],
+			[
+				"n",
+				"nhất; đứng đầu; số một"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"变": {
+		"py": "biàn",
+		"mn": [
+			[
+				"v",
+				"thay đổi; đổi khác; biến hoá | đổi; biến; trở thành; biến thành; làm thay đổi | bán; bán lấy tiền"
+			],
+			[
+				"n",
+				"biến cố; rối loạn"
+			],
+			[
+				"adj",
+				"biến; đã thay đổi; có thể biến hoá"
+			]
+		]
+	},
+	"说": {
+		"py": "shuō",
+		"mn": [
+			[
+				"v",
+				"nói; kể | giải thích; giảng giải | mắng; trách móc; chỉ trích; khuyên nhủ | giới thiệu; làm mối | nói; bàn; bàn luận | nói; biểu diễn (nghệ thuật)"
+			],
+			[
+				"n",
+				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"老": {
+		"py": "lǎo",
+		"mn": [
+			[
+				"adj",
+				"già | già dặn; kinh nghiệm | cũ; xưa; cổ | cũ; cũ kỹ; cũ mèm; cũ rích | cũ; xưa; vốn có; lúc trước (có gốc gác từ lâu) | sẫm (màu) | rau quả (già) | quá lứa; quá chín (thức ăn) | lão hoá; biến chất | út"
+			],
+			[
+				"n",
+				"cụ; lão; người già; người cao tuổi | ông cụ (cách xưng hô tôn kính) | họ Lão"
+			],
+			[
+				"v",
+				"chết; mất (phần nhiều chỉ người già)"
+			],
+			[
+				"adv",
+				"luôn; luôn luôn | thường thường; thường hay; thường xuyên | rất; lắm"
+			],
+			[
+				"pref",
+				"cậu; bác; con (dùng trước danh từ chỉ người hoặc một số động thực vật)"
+			]
+		]
+	},
+	"样子": {
+		"py": "yàngzi",
+		"mn": [
+			[
+				"n",
+				"hình dạng; kiểu dáng; hình dáng | vẻ; thần sắc; dáng vẻ | có vẻ; xu hướng; trông có vẻ | mẫu; kiểu mẫu; hình mẫu"
+			]
+		]
+	},
+	"听": {
+		"py": "tīng",
+		"mn": [
+			[
+				"v",
+				"nghe | nghe; nghe theo; vâng theo; tiếp thu | cai quản; phán quyết; xử lý; xét xử | mặc; mặc kệ; mặc cho; tùy ý"
+			],
+			[
+				"n",
+				"hộp; lon"
+			],
+			[
+				"measure",
+				"lon; hộp"
+			]
+		]
+	}
+}

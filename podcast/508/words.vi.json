@@ -1,0 +1,181 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"家": {
+		"py": "jiā",
+		"mn": [
+			[
+				"n",
+				"nhà; gia đình | nhà; nơi ở; chỗ ở | nhà; dân; tay | nhà; chuyên gia; chuyên viên | nhà; gia; phái | nhà; gia (lời nói khiêm tốn, xưng hô với người trên bậc của mình) | bên; đối thủ; đối phương | dân tộc | nhà; gia (gia đình hoặc cá nhân có mối quan hệ) | họ Gia"
+			],
+			[
+				"adj",
+				"nuôi quen; đã thuần phục (động vật)"
+			],
+			[
+				"measure",
+				"ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"三": {
+		"py": "sān",
+		"mn": [
+			[
+				"numb",
+				"ba; số ba | nhiều lần | vài; một vài; không nhiều | thứ ba; hạng ba"
+			],
+			[
+				"n",
+				"họ Tam"
+			]
+		]
+	},
+	"口": {
+		"py": "kǒu",
+		"mn": [
+			[
+				"n",
+				"miệng; mồm; mõm | miệng (miệng đồ vật) | cửa; cổng | khẩu vị; vị giác | miệng vết thương | lưỡi (dao, kiếm, kéo) | tuổi (ngựa, la, lừa) | nhân khẩu | bộ phận | khẩu; nói năng; giọng nói | bến; cảng | khẩu; cửa khẩu của Trường Thành"
+			],
+			[
+				"measure",
+				"miếng; ngụm; hơi | người; thành viên | con (chủ yếu là lợn) | cái; chiếc; con (vật có lưỡi, giống như cái miệng) | câu"
+			]
+		]
+	},
+	"人": {
+		"py": "rén",
+		"mn": [
+			[
+				"n",
+				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"爸爸": {
+		"py": "bàba",
+		"mn": [
+			[
+				"n",
+				"bố; ba; cha; thầy"
+			]
+		]
+	},
+	"妈妈": {
+		"py": "māma",
+		"mn": [
+			[
+				"n",
+				"mẹ; má; me; u; bầm; mẫu thân"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"四": {
+		"py": "sì",
+		"mn": [
+			[
+				"numb",
+				"4; bốn; số bốn"
+			],
+			[
+				"n",
+				"tứ (nốt nhạc trong nhạc dân tộc tương đương với số 6 trong giản phổ) | họ Tứ"
+			]
+		]
+	},
+	"妹妹": {
+		"py": "mèimei",
+		"mn": [
+			[
+				"n",
+				"em; em gái"
+			]
+		]
+	},
+	"一个": {
+		"py": "yīgè",
+		"mn": [
+			[
+				"numb",
+				"một"
+			]
+		]
+	},
+	"哥哥": {
+		"py": "gēge",
+		"mn": [
+			[
+				"n",
+				"anh; anh trai; huynh | anh họ"
+			]
+		]
+	},
+	"弟弟": {
+		"py": "dìdi",
+		"mn": [
+			[
+				"n",
+				"em trai | em; đệ (họ)"
+			]
+		]
+	},
+	"姐姐": {
+		"py": "jiějie",
+		"mn": [
+			[
+				"n",
+				"chị; chị gái; chị ruột"
+			]
+		]
+	}
+}

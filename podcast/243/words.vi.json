@@ -1,0 +1,182 @@
+{
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"晚上": {
+		"py": "wǎnshàng",
+		"mn": [
+			[
+				"n, time",
+				"tối; buổi tối; ban tối; tối muộn"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"贵姓": {
+		"py": "guìxìng",
+		"mn": [
+			[
+				"n",
+				"quý danh; quý tính; quý tánh (hỏi họ người khác)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"姓": {
+		"py": "xìng",
+		"mn": [
+			[
+				"n",
+				"họ"
+			],
+			[
+				"v",
+				"họ là"
+			]
+		]
+	},
+	"高": {
+		"py": "gāo",
+		"mn": [
+			[
+				"adj",
+				"cao | cao; giỏi; hay; quý báu (lời nói kính trọng gọi sự vật của người khác) | cao độ | đắt; giá cao; tốn kém | cao; ở mước độ cao; trên mức trung bình"
+			],
+			[
+				"n",
+				"độ cao | họ Cao"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"李": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"cây mận | quả mận; mận | hành lý | họ Lý"
+			]
+		]
+	},
+	"先生": {
+		"py": "xiānshēng",
+		"mn": [
+			[
+				"n",
+				"ngài; thầy; ông (cách gọi tôn trọng đối với những người trí thức) | chồng; ông nhà; anh xã | thầy giáo; giáo viên; nhà giáo | tài phú; thầy ký | thầy (gọi theo nghề nghiệp)"
+			]
+		]
+	},
+	"幸会": {
+		"py": "xìnghuì",
+		"mn": [
+			[
+				"v",
+				"hân hạnh; rất vui (được gặp)"
+			]
+		]
+	},
+	"女士": {
+		"py": "nǚshì",
+		"mn": [
+			[
+				"n",
+				"quý bà; bà; phu nhân (thường dùng trong trường hợp ngoại giao)"
+			]
+		]
+	},
+	"一会儿": {
+		"py": "yīhuìr",
+		"mn": [
+			[
+				"n",
+				"một lúc; một lát; một chút | lát nữa; trong chốc lát | một lát; một lúc"
+			],
+			[
+				"adv",
+				"lúc thì... lúc thì (đặt trước hai từ trái nghĩa biểu thị hai tình huống xen kẽ nhau)"
+			]
+		]
+	},
+	"见": {
+		"py": "jiàn",
+		"mn": [
+			[
+				"v",
+				"thấy; trông thấy; nhìn thấy | gặp; tiếp xúc; gặp phải | thấy; hiện ra; lộ ra; hiện lên | xem; đọc | gặp mặt; gặp gỡ | nghe | thấy; nghe thấy"
+			],
+			[
+				"part",
+				"bị; được | (bày tỏ lời đề nghị lịch sự)"
+			],
+			[
+				"n",
+				"quan điểm; cách nhìn; ý kiến; nhận định | họ Kiến"
+			]
+		]
+	}
+}

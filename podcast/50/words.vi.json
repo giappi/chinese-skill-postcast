@@ -1,0 +1,120 @@
+{
+	"小心": {
+		"py": "xiǎoxīn",
+		"mn": [
+			[
+				"v",
+				"cẩn thận; chú ý; coi chừng"
+			],
+			[
+				"adj",
+				"tỉ mỉ, cẩn thận"
+			]
+		]
+	},
+	"怎么了": {
+		"py": "zěnmele",
+		"mn": [
+			[
+				"sentence",
+				"sao vậy; sao thế; có chuyện gì sao"
+			]
+		]
+	},
+	"刚才": {
+		"py": "gāngcái",
+		"mn": [
+			[
+				"n",
+				"vừa; vừa mới; vừa rồi; ban nãy"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"辆": {
+		"py": "liàng",
+		"mn": [
+			[
+				"measure",
+				"chiếc (chỉ xe cộ, trừ tàu hỏa)"
+			]
+		]
+	},
+	"车": {
+		"py": "chē",
+		"mn": [
+			[
+				"n",
+				"xe; xe cộ | xa; xe; guồng; cái guồng | máy; máy móc | họ Xa"
+			],
+			[
+				"v",
+				"tiện; gọt; gia công (máy móc) | tưới; đạp nước; tưới nước"
+			]
+		]
+	},
+	"差点儿": {
+		"py": "chàdiǎnr",
+		"mn": [
+			[
+				"adj",
+				"hơi kém; hơi dở; hơi tệ; kém một chút"
+			],
+			[
+				"adv",
+				"gần như; suýt nữa thì; tý nữa thì"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"危险": {
+		"py": "wēixiǎn",
+		"mn": [
+			[
+				"adj",
+				"nguy hiểm; nguy cơ; tổn thất; mối nguy; có khả năng thất bại"
+			]
+		]
+	}
+}

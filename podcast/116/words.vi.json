@@ -1,0 +1,486 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"位": {
+		"py": "wèi",
+		"mn": [
+			[
+				"n",
+				"chỗ; nơi; vị trí | địa vị; chức vị | vị; ngôi (ngôi vua) | hàng (trong con số) | họ Vị"
+			],
+			[
+				"measure",
+				"vị; ngài; bạn (lượng từ chỉ người, tỏ ý tôn kính)"
+			]
+		]
+	},
+	"朋友": {
+		"py": "péngyou",
+		"mn": [
+			[
+				"n",
+				"bạn bè; bạn; bằng hữu; anh em bạn; bạn hữu"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"学": {
+		"py": "xué",
+		"mn": [
+			[
+				"v",
+				"học; học tập | học; bắt chước; mô phỏng"
+			],
+			[
+				"n",
+				"học vấn; kiến thức | học (chỉ ngành học) | trường học; trường | học thuật; học thuyết"
+			]
+		]
+	},
+	"汉语": {
+		"py": "hànyǔ",
+		"mn": [
+			[
+				"n",
+				"Hán ngữ; tiếng Hán; tiếng Hoa; tiếng Trung Quốc; hoa ngữ"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"能不能": {
+		"py": "néngbùnéng",
+		"mn": [
+			[
+				"adv",
+				"Có thể hay không"
+			]
+		]
+	},
+	"帮忙": {
+		"py": "bāngmáng",
+		"mn": [
+			[
+				"sv, v",
+				"giúp; giúp đỡ"
+			]
+		]
+	},
+	"找": {
+		"py": "zhǎo",
+		"mn": [
+			[
+				"v",
+				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"家教": {
+		"py": "jiājiào",
+		"mn": [
+			[
+				"n",
+				"gia sư | gia giáo (có giáo dục; có lễ nghi)"
+			]
+		]
+	},
+	"没问题": {
+		"py": "méiwèntí",
+		"mn": [
+			[
+				"n",
+				"ổn; không sao; không vấn đề"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"一个": {
+		"py": "yīgè",
+		"mn": [
+			[
+				"numb",
+				"một"
+			]
+		]
+	},
+	"韩国": {
+		"py": "hánguó",
+		"mn": [
+			[
+				"n, nlocal",
+				"Hàn quốc"
+			]
+		]
+	},
+	"女孩": {
+		"py": "nǚhái",
+		"mn": [
+			[
+				"n",
+				"cô gái"
+			]
+		]
+	},
+	"对": {
+		"py": "duì",
+		"mn": [
+			[
+				"prep",
+				"về; với; đối với"
+			],
+			[
+				"measure",
+				"đôi; cặp"
+			],
+			[
+				"adj",
+				"đúng; chính xác | đối diện; đối địch; bên kia"
+			],
+			[
+				"n",
+				"câu đối | cặp đôi (quan hệ hợp tác)"
+			],
+			[
+				"v",
+				"trả lời; đáp lời; đối đáp | đối đãi; đối xử; đối phó | hướng về; nhằm vào | đối; khớp; khép | so sánh; đối chiếu | chỉnh; điều chỉnh; sửa đổi | pha | chia đôi; chia hai | xứng; hợp; vừa; tương ứng; phù hợp"
+			],
+			[
+				"adv",
+				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"特别": {
+		"py": "tèbié",
+		"mn": [
+			[
+				"adv",
+				"vô cùng; rất; đặc biệt | càng; đặc biệt; nhất là"
+			],
+			[
+				"adj",
+				"đặc biệt"
+			]
+		]
+	},
+	"要求": {
+		"py": "yāoqiú",
+		"mn": [
+			[
+				"v",
+				"yêu cầu; đòi hỏi"
+			],
+			[
+				"n",
+				"nguyện vọng; yêu cầu; đòi hỏi"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"比如": {
+		"py": "bǐrú",
+		"mn": [
+			[
+				"conj",
+				"ví dụ như; thí dụ như; chẳng hạn như"
+			]
+		]
+	},
+	"性别": {
+		"py": "xìngbié",
+		"mn": [
+			[
+				"n",
+				"giới tính"
+			]
+		]
+	},
+	"上课": {
+		"py": "shàngkè",
+		"mn": [
+			[
+				"v, sv",
+				"lên lớp; vào học; đi học; đến lớp"
+			]
+		]
+	},
+	"频率": {
+		"py": "pínlǜ",
+		"mn": [
+			[
+				"n",
+				"tần số | tần suất"
+			]
+		]
+	},
+	"最好": {
+		"py": "zuìhǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt nhất; cực tốt; hay nhất; giỏi nhất; đỉnh nhất"
+			],
+			[
+				"adv",
+				"tốt hơn là; tốt nhất là"
+			]
+		]
+	},
+	"女性": {
+		"py": "nǚxìng",
+		"mn": [
+			[
+				"n",
+				"phái nữ; phụ nữ; giới tính nữ"
+			]
+		]
+	},
+	"北京人": {
+		"py": "běijīngrén",
+		"mn": [
+			[
+				"n",
+				"Cư dân bắc kinh | Loài vượn người Bắc Kinh, Homo erectus pekinensis (khoảng 600.000 năm trước Công nguyên), được phát hiện vào năm 1921 tại Zhoukoudian 周口店, Bắc Kinh"
+			]
+		]
+	},
+	"没有": {
+		"py": "méiyǒu",
+		"mn": [
+			[
+				"v",
+				"không có (sở hữu) | không (tồn tại) | không bằng | không đủ; không tới; không đến"
+			],
+			[
+				"adv",
+				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"口音": {
+		"py": "kǒuyīn",
+		"mn": [
+			[
+				"n",
+				"giọng; giọng nói (đặc điểm của một người khi nói) | giọng; giọng nói (phương ngữ) | giọng điệu"
+			]
+		]
+	},
+	"教学": {
+		"py": "jiàoxué",
+		"mn": [
+			[
+				"",
+				"dạy học; dạy; giáo học | bảo học"
+			]
+		]
+	},
+	"经验": {
+		"py": "jīngyàn",
+		"mn": [
+			[
+				"n",
+				"kinh nghiệm"
+			],
+			[
+				"v",
+				"trải qua; gặp qua; trải nghiệm"
+			]
+		]
+	},
+	"一周": {
+		"py": "yīzhōu",
+		"mn": [
+			[
+				"n",
+				"cả một chu kỳ | Mọi con đường xung quanh | một tuần"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"那个": {
+		"py": "nàge",
+		"mn": [
+			[
+				"pro",
+				"cái kia; cái đó; cái đấy; người đó; người đấy; người kia | việc đấy; việc đó; việc kia; chuyện đó; chuyện đấy | quá; lắm; hết sức; đến mức | ấy (dùng biểu thị điều khó nói ra, có ý uyển chuyển, khôi hài)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"联系": {
+		"py": "liánxì",
+		"mn": [
+			[
+				"v",
+				"liên hệ; gắn liền; liên lạc"
+			],
+			[
+				"n",
+				"mối liên hệ; sự liên kết; sự gắn kết"
+			]
+		]
+	},
+	"方式": {
+		"py": "fāngshì",
+		"mn": [
+			[
+				"n",
+				"cách; kiểu; phương thức; cách thức; phương pháp"
+			]
+		]
+	},
+	"让": {
+		"py": "ràng",
+		"mn": [
+			[
+				"v",
+				"nhường | mời | bảo; để cho | tránh; tránh ra; tránh đi | cùng nhau | bán lại; nhượng lại; để lại | khiến; khiến cho | kém; thua kém (dùng trong câu phủ định)"
+			],
+			[
+				"prep",
+				"bị | theo; theo như"
+			],
+			[
+				"n",
+				"họ Nhượng"
+			]
+		]
+	},
+	"他们": {
+		"py": "tāmen",
+		"mn": [
+			[
+				"pro",
+				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"直接": {
+		"py": "zhíjiē",
+		"mn": [
+			[
+				"adj",
+				"trực tiếp; thẳng thắn; lập tức"
+			]
+		]
+	},
+	"吧": {
+		"py": "ba",
+		"mn": [
+			[
+				"part",
+				"nhé; nhớ; được rồi | nào; nhé; chứ; thôi; đi | chắc; hẳn; chứ (suy đoán) | nhỉ, thì phải | ư; chăng"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	}
+}

@@ -1,0 +1,242 @@
+{
+	"们": {
+		"py": "men",
+		"mn": [
+			[
+				"suff",
+				"chúng; các (đặt sau một đại từ hay danh từ để chỉ số nhiều) | những (đặt sau một danh từ chỉ đồ vật hoặc động vật để tạo thành số nhiều.)"
+			]
+		]
+	},
+	"晚上好": {
+		"py": "wǎnshànghǎo",
+		"mn": [
+			[
+				"sentence",
+				"Chào buổi tối"
+			]
+		]
+	},
+	"下面": {
+		"py": "xiàmiàn",
+		"mn": [
+			[
+				"n, nlocal",
+				"phía dưới; ở dưới | phần dưới; dưới đây | cấp dưới; bên dưới"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"北京": {
+		"py": "běijīng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Bắc Kinh; Beijing (thủ đô Trung Quốc)"
+			]
+		]
+	},
+	"小时": {
+		"py": "xiǎoshí",
+		"mn": [
+			[
+				"n",
+				"giờ; tiếng; tiếng đồng hồ"
+			],
+			[
+				"measure",
+				"giờ; tiếng"
+			]
+		]
+	},
+	"天气": {
+		"py": "tiānqì",
+		"mn": [
+			[
+				"n",
+				"thời tiết | thời gian"
+			]
+		]
+	},
+	"预报": {
+		"py": "yùbào",
+		"mn": [
+			[
+				"v",
+				"dự báo; báo trước"
+			],
+			[
+				"n",
+				"sự dự đoán trước; sự dự báo trước"
+			]
+		]
+	},
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"西风": {
+		"py": "xīfēng",
+		"mn": [
+			[
+				"n",
+				"gió tây; gió mùa thu | thế lực suy tàn | gió đức"
+			]
+		]
+	},
+	"三": {
+		"py": "sān",
+		"mn": [
+			[
+				"numb",
+				"ba; số ba | nhiều lần | vài; một vài; không nhiều | thứ ba; hạng ba"
+			],
+			[
+				"n",
+				"họ Tam"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"四": {
+		"py": "sì",
+		"mn": [
+			[
+				"numb",
+				"4; bốn; số bốn"
+			],
+			[
+				"n",
+				"tứ (nốt nhạc trong nhạc dân tộc tương đương với số 6 trong giản phổ) | họ Tứ"
+			]
+		]
+	},
+	"级": {
+		"py": "jí",
+		"mn": [
+			[
+				"n",
+				"cấp; bậc; đẳng cấp | cấp; khối; ban; lớp | bậc; bậc thềm; bậc thang"
+			],
+			[
+				"measure",
+				"bậc (bậc thang); cấp; tầng"
+			]
+		]
+	},
+	"最低": {
+		"py": "zuìdī",
+		"mn": [
+			[
+				"n",
+				"thấp nhất, dưới cùng"
+			]
+		]
+	},
+	"十七": {
+		"py": "shíqī",
+		"mn": [
+			[
+				"",
+				"mười bảy"
+			]
+		]
+	},
+	"度": {
+		"py": "dù",
+		"mn": [
+			[
+				"n",
+				"công cụ; tiêu chuẩn đo lường | độ (độ cứng, độ ẩm...) | độ; trình độ; mức độ | hạn độ; độ; giới hạn; mức | điều lệ; chuẩn mực hành vi | độ lượng; bao dung | độ (tư thế hoặc khí chất của con người) | trong; nội | họ Độ | cân nhắc; suy nghĩ; tính toán; để ý đến"
+			],
+			[
+				"measure",
+				"lần; chuyến (lượng từ) | độ; góc | nhiệt độ (độ C) | độ (lượng nhiệt, 1 độ bằng 1 Kw/h) | kinh độ; vĩ độ | độ cồn (rượu; bia) | độ (kính)"
+			],
+			[
+				"v",
+				"vượt qua | qua; trôi qua (chỉ thời gian) | độ (Phật giáo,Đạo giáo)"
+			]
+		]
+	},
+	"明天": {
+		"py": "míngtiān",
+		"mn": [
+			[
+				"n",
+				"mai; ngày mai; bữa mai | mai đây; mai kia; tương lai"
+			]
+		]
+	},
+	"五": {
+		"py": "wǔ",
+		"mn": [
+			[
+				"numb",
+				"năm (số năm)"
+			],
+			[
+				"n",
+				"nốt của thang âm trong công xích phổ | họ Ngũ"
+			]
+		]
+	},
+	"六": {
+		"py": "liù",
+		"mn": [
+			[
+				"numb",
+				"số sáu; sáu"
+			],
+			[
+				"n",
+				"lục (một âm trong nhạc cổ, tương đương với số 5 trong giản phổ) | họ Lục"
+			]
+		]
+	}
+}

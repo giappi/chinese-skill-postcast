@@ -1,0 +1,90 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"喝": {
+		"py": "hē",
+		"mn": [
+			[
+				"v",
+				"uống | nhậu; nhậu nhẹt; uống (rượu)"
+			],
+			[
+				"intj",
+				"ồ (biểu thị sự ngạc nhiên)"
+			],
+			[
+				"n",
+				"thức uống (đặc biệt là rượu)"
+			]
+		]
+	},
+	"茶": {
+		"py": "chá",
+		"mn": [
+			[
+				"n",
+				"trà (đồ uống) | cây chè | dầu trà | hoa trà"
+			],
+			[
+				"adj",
+				"màu nâu đậm"
+			]
+		]
+	},
+	"咖啡": {
+		"py": "kāfēi",
+		"mn": [
+			[
+				"n",
+				"cà phê"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"糖": {
+		"py": "táng",
+		"mn": [
+			[
+				"n",
+				"đường; chất đường | đường; đường ăn | kẹo | cacbohydrat"
+			]
+		]
+	},
+	"不要": {
+		"py": "bùyào",
+		"mn": [
+			[
+				"adv",
+				"đừng; cấm; không được; chớ; không nên; không được | không cần"
+			]
+		]
+	}
+}

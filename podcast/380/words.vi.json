@@ -1,0 +1,526 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"预订": {
+		"py": "yùdìng",
+		"mn": [
+			[
+				"v",
+				"đặt trước; đặt chỗ; đặt mua"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"张": {
+		"py": "zhāng",
+		"mn": [
+			[
+				"v",
+				"mở; mở ra; dang rộng | bày ra; trưng bày | khai trương | nhìn; xem; ngó | khoa trương; khuếch đại; mở rộng | giương; căng"
+			],
+			[
+				"measure",
+				"tờ; trang; tấm; bức (lượng từ dùng cho giấy, da) | chiếc; cái (lượng từ dùng cho giường, bàn) | cái; gương; khuôn (lượng từ dùng cho miệng, mặt) | cây; cái (lượng từ dùng cho cung nỏ)"
+			],
+			[
+				"n",
+				"sao Trương (một chòm sao trong Nhị thập bát tú) | họ Trương"
+			],
+			[
+				"adj",
+				"phóng túng; phóng đãng; thái quá; tùy tiện"
+			]
+		]
+	},
+	"周五": {
+		"py": "zhōuwǔ",
+		"mn": [
+			[
+				"n",
+				"thứ sáu"
+			]
+		]
+	},
+	"从": {
+		"py": "cóng",
+		"mn": [
+			[
+				"prep",
+				"từ; khởi đầu từ; khởi điểm từ | từ; qua | từ (căn cứ vào hành vi hành động)"
+			],
+			[
+				"v",
+				"tòng; theo; đi theo; theo đuổi; tiếp theo; kế theo | nghe theo; thuận theo; vâng lời; tuân theo; tuân lệnh; chiều theo; làm theo | làm; tham gia; lao vào; dấn thân; bắt tay vào | theo; dựa vào; dựa trên (một số nguyên tắc hoặc thái độ)"
+			],
+			[
+				"n",
+				"người hầu; tuỳ tùng; môn đệ; môn đồ; người bắt chước; người đi theo; người theo gót"
+			],
+			[
+				"adj",
+				"phụ; tay sai; nhân vật thứ yếu | họ; họ hàng; người trong gia đình; bà con anh em; họ hàng thân thích"
+			],
+			[
+				"adv",
+				"chưa bao giờ; từ trước tới giờ; từ trước đến nay (phó từ dùng trước từ phủ định)"
+			]
+		]
+	},
+	"北京": {
+		"py": "běijīng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Bắc Kinh; Beijing (thủ đô Trung Quốc)"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"上海": {
+		"py": "shànghǎi",
+		"mn": [
+			[
+				"n, nlocal",
+				"Thượng Hải; thành phố Thượng Hải (Trung Quốc)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"机票": {
+		"py": "jīpiào",
+		"mn": [
+			[
+				"n",
+				"vé máy bay"
+			]
+		]
+	},
+	"您好": {
+		"py": "nínhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào; chào ngài (lễ phép, kính trọng)"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"订": {
+		"py": "dìng",
+		"mn": [
+			[
+				"v",
+				"lập; ký kết; đính ước; đính | đặt trước; đặt | sửa; sửa chữa; cải chính; hiệu đính | đóng; đính"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"时段": {
+		"py": "shíduàn",
+		"mn": [
+			[
+				"n",
+				"khung giờ; khoảng thời gian"
+			]
+		]
+	},
+	"航班": {
+		"py": "hángbān",
+		"mn": [
+			[
+				"n",
+				"chuyến bay"
+			]
+		]
+	},
+	"最好": {
+		"py": "zuìhǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt nhất; cực tốt; hay nhất; giỏi nhất; đỉnh nhất"
+			],
+			[
+				"adv",
+				"tốt hơn là; tốt nhất là"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"上午": {
+		"py": "shàngwǔ",
+		"mn": [
+			[
+				"n, time",
+				"buổi sáng"
+			]
+		]
+	},
+	"左右": {
+		"py": "zuǒyòu",
+		"mn": [
+			[
+				"n",
+				"trái và phải; hai bên; xung quanh | tả hữu; tuỳ tùng; người đi theo | khoảng; chừng; vào khoảng; trên dưới"
+			],
+			[
+				"v",
+				"chi phối; thao túng; ảnh hưởng"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"问题": {
+		"py": "wèntí",
+		"mn": [
+			[
+				"n",
+				"câu hỏi; đề hỏi | vấn đề (phải nghiên cứu, thảo luận, giải quyết) | chuyện; trở ngại; trắc trở; vấn đề | quan trọng; mấu chốt (điểm)"
+			],
+			[
+				"adj",
+				"có vấn đề; không bình thường"
+			]
+		]
+	},
+	"经济舱": {
+		"py": "jīngjìcāng",
+		"mn": [
+			[
+				"n",
+				"hạng phổ thông (máy bay)"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"先生": {
+		"py": "xiānshēng",
+		"mn": [
+			[
+				"n",
+				"ngài; thầy; ông (cách gọi tôn trọng đối với những người trí thức) | chồng; ông nhà; anh xã | thầy giáo; giáo viên; nhà giáo | tài phú; thầy ký | thầy (gọi theo nghề nghiệp)"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"需要": {
+		"py": "xūyào",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; nên có; cần có"
+			],
+			[
+				"n",
+				"sự đòi hỏi; yêu cầu; nhu cầu"
+			]
+		]
+	},
+	"身份证": {
+		"py": "shēnfènzhèng",
+		"mn": [
+			[
+				"n",
+				"chứng minh thư; thẻ căn cước; căn cước công dân"
+			]
+		]
+	},
+	"或者": {
+		"py": "huòzhě",
+		"mn": [
+			[
+				"conj",
+				"hoặc; hoặc là; hay; hay là"
+			],
+			[
+				"adv",
+				"có lẽ; có thể; chắc là"
+			]
+		]
+	},
+	"护照": {
+		"py": "hùzhào",
+		"mn": [
+			[
+				"n",
+				"hộ chiếu"
+			]
+		]
+	},
+	"号码": {
+		"py": "hàomǎ",
+		"mn": [
+			[
+				"n",
+				"số; chữ số; con số; số thứ tự"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"飞": {
+		"py": "fēi",
+		"mn": [
+			[
+				"v",
+				"bay (chim, côn trùng) | bay | bay; bay bay; lơ lửng; bập bềnh (trên không trung) | nhanh; vọt; như bay; nhanh như bay; nhanh như tên bắn | bốc hơi; toả hơi; bay hơi"
+			],
+			[
+				"adv",
+				"rất; cực kỳ"
+			],
+			[
+				"n",
+				"bánh đà (xe đạp)"
+			],
+			[
+				"adj",
+				"không ngờ; bất ngờ; vô căn cứ"
+			]
+		]
+	},
+	"已经": {
+		"py": "yǐjīng",
+		"mn": [
+			[
+				"adv",
+				"đã; rồi"
+			]
+		]
+	},
+	"帮": {
+		"py": "bāng",
+		"mn": [
+			[
+				"v",
+				"giúp; giúp đỡ; trợ giúp"
+			],
+			[
+				"n",
+				"thành; mép; bờ; mạn; bẹ | lá già (lớp ngoài của cây rau) | bọn; lũ; đàn; băng; tập đoàn; bè lũ | họ Bang"
+			],
+			[
+				"measure",
+				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	}
+}

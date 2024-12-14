@@ -1,0 +1,731 @@
+{
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"开": {
+		"py": "kāi",
+		"mn": [
+			[
+				"v",
+				"mở; bật; mở ra | xẻ; đào; khơi; khai; khai khẩn | nở; mở; khai; bung ra | tan; tan chảy | hủy bỏ; bãi bỏ; gỡ bỏ; trừ bỏ đi | lái; chạy; bắn; nổ; khởi động; điều khiển | xuất phát; lên đường; khởi hành | lập; mở; dựng; đặt; thiết lập; khai sáng; kinh doanh | bắt đầu | tổ chức; cử hành | viết; kê; kê khai | chi; trả | sôi | ăn | đuổi; loại; khai trừ; cho nghỉ | chia  (theo tỷ lệ nhất định)"
+			],
+			[
+				"measure",
+				"Ca-ra；karat | lần (sôi) | Kelvin (K) | khổ (giấy)"
+			],
+			[
+				"n",
+				"tỷ lệ; tỷ lệ phần trăm | họ Khai"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"天": {
+		"py": "tiān",
+		"mn": [
+			[
+				"n",
+				"trời; không trung; bầu trời | thời gian | mùa; tiết | thời tiết; tiết trời | tự nhiên; thiên nhiên | thiên; trời | thiên; thiên đàng; thiên đường | ngày; hôm | họ Thiên"
+			],
+			[
+				"measure",
+				"ngày"
+			],
+			[
+				"adj",
+				"trên nóc; trên đỉnh | bẩm sinh; thiên phú"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"会": {
+		"py": "huì",
+		"mn": [
+			[
+				"measure",
+				"một lát; một chút; một hồi; lát nữa; một lúc"
+			],
+			[
+				"v",
+				"sẽ; có thể; có khả năng | biết; hiểu; thông hiểu | hiểu; biết; lĩnh hội | nên; cần; phải | tiếp; gặp mặt; gặp nhau; gặp gỡ | hội họp; tụ họp; tụ tập; hợp lại | giỏi; khéo; chuyên; sở trường | trả tiền; thanh toán"
+			],
+			[
+				"n",
+				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"从": {
+		"py": "cóng",
+		"mn": [
+			[
+				"prep",
+				"từ; khởi đầu từ; khởi điểm từ | từ; qua | từ (căn cứ vào hành vi hành động)"
+			],
+			[
+				"v",
+				"tòng; theo; đi theo; theo đuổi; tiếp theo; kế theo | nghe theo; thuận theo; vâng lời; tuân theo; tuân lệnh; chiều theo; làm theo | làm; tham gia; lao vào; dấn thân; bắt tay vào | theo; dựa vào; dựa trên (một số nguyên tắc hoặc thái độ)"
+			],
+			[
+				"n",
+				"người hầu; tuỳ tùng; môn đệ; môn đồ; người bắt chước; người đi theo; người theo gót"
+			],
+			[
+				"adj",
+				"phụ; tay sai; nhân vật thứ yếu | họ; họ hàng; người trong gia đình; bà con anh em; họ hàng thân thích"
+			],
+			[
+				"adv",
+				"chưa bao giờ; từ trước tới giờ; từ trước đến nay (phó từ dùng trước từ phủ định)"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"晚上": {
+		"py": "wǎnshàng",
+		"mn": [
+			[
+				"n, time",
+				"tối; buổi tối; ban tối; tối muộn"
+			]
+		]
+	},
+	"中午": {
+		"py": "zhōngwǔ",
+		"mn": [
+			[
+				"n",
+				"buổi trưa"
+			]
+		]
+	},
+	"只": {
+		"py": "zhǐ",
+		"mn": [
+			[
+				"adv",
+				"chỉ (trong phạm vi)"
+			]
+		]
+	},
+	"休息": {
+		"py": "xiūxi",
+		"mn": [
+			[
+				"v",
+				"nghỉ ngơi; nghỉ | ngủ"
+			],
+			[
+				"n",
+				"sự nghỉ ngơi"
+			]
+		]
+	},
+	"小": {
+		"py": "xiǎo",
+		"mn": [
+			[
+				"adj",
+				"nhỏ; bé; ít; thấp; kém | út; nhỏ nhất | chút; một chút ; một lát (thời gian) | nhỏ; bé; tiểu; em"
+			],
+			[
+				"n",
+				"thiếp; nàng hầu; vợ lẽ; vợ nhỏ | em nhỏ; trẻ nhỏ; trẻ em; trẻ con | tiểu | họ Tiểu"
+			],
+			[
+				"adv",
+				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"连": {
+		"py": "lián",
+		"mn": [
+			[
+				"prep",
+				"cả; bao gồm | ngay cả; đến cả"
+			],
+			[
+				"adv",
+				"liền; suốt; liên tục"
+			],
+			[
+				"v",
+				"gắn bó; nối liền"
+			],
+			[
+				"n",
+				"đại đội (sử dụng trong quân đội) | họ Liên"
+			]
+		]
+	},
+	"午饭": {
+		"py": "wǔfàn",
+		"mn": [
+			[
+				"n",
+				"bữa trưa; cơm trưa"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"吃": {
+		"py": "chī",
+		"mn": [
+			[
+				"v",
+				"ăn; uống | nhờ; sống nhờ; ăn nhờ ở đậu | ăn; tiêu diệt (dùng trong quân sự,chơi cờ) | tốn; mất; tiêu thụ; hao phí | thấm; hút; hấp thu (chất lỏng) | chịu; bị; mắc; cam chịu; chịu đựng | tiếp thu; tìm hiểu | ngập; mớn; ăn vào (chỉ một vật thể đi vào một vật thể khác) | chấp nhận; đồng ý | ăn hàng; ăn quán; ăn nhà hàng"
+			],
+			[
+				"n",
+				"đồ ăn"
+			],
+			[
+				"adj",
+				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"块": {
+		"py": "kuài",
+		"mn": [
+			[
+				"measure",
+				"viên; bánh; đống; khối | tấm; mảnh; miếng; chiếc | tờ; đồng (tiền đồng hoặc tiền giấy)"
+			],
+			[
+				"n",
+				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"面包": {
+		"py": "miànbāo",
+		"mn": [
+			[
+				"n",
+				"bánh mì"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"一点儿": {
+		"py": "yīdiǎnr",
+		"mn": [
+			[
+				"numb",
+				"chút xíu; chút ít"
+			]
+		]
+	},
+	"意思": {
+		"py": "yìsi",
+		"mn": [
+			[
+				"n",
+				"nghĩa; ý; ý tứ; ý nghĩa | ý; ý kiến; nguyện vọng; chiều hướng; xu hướng | tấm lòng; thành ý; tâm ý; lòng thành | ý; ý tứ"
+			],
+			[
+				"v",
+				"tặng; thưởng; có lòng; tỏ ý; tỏ lòng (để bày tỏ tấm lòng)"
+			],
+			[
+				"adj",
+				"thú vị; hứng thú"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"没有": {
+		"py": "méiyǒu",
+		"mn": [
+			[
+				"v",
+				"không có (sở hữu) | không (tồn tại) | không bằng | không đủ; không tới; không đến"
+			],
+			[
+				"adv",
+				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"下午": {
+		"py": "xiàwǔ",
+		"mn": [
+			[
+				"n, time",
+				"buổi chiều; xế bóng (từ 12 giờ trưa đến tối)"
+			]
+		]
+	},
+	"开会": {
+		"py": "kāihuì",
+		"mn": [
+			[
+				"sv",
+				"họp; mở họp; mở hội nghị"
+			]
+		]
+	},
+	"时": {
+		"py": "shí",
+		"mn": [
+			[
+				"n",
+				"lúc; khi | thời; lúc; thường | giờ; thời giờ; thời gian | mùa; vụ | thời cơ; cơ hội; thời vận | thì (ngữ pháp) | giờ (đơn vị tính giờ thời xưa) | thời gian; năm tháng | họ Thời"
+			],
+			[
+				"measure",
+				"tiếng; giờ"
+			],
+			[
+				"adj",
+				"đương thời; hiện nay | thời; thời điểm; đúng lúc; hợp thời"
+			],
+			[
+				"adv",
+				"thường; luôn; luôn luôn | lúc; lúc thì"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"睡": {
+		"py": "shuì",
+		"mn": [
+			[
+				"v",
+				"ngủ | nằm; nằm dài; nằm thẳng cẳng"
+			]
+		]
+	},
+	"可是": {
+		"py": "kěshì",
+		"mn": [
+			[
+				"conj",
+				"nhưng; thế nhưng; nhưng mà"
+			],
+			[
+				"adv",
+				"thực là; đúng là; thật là; có điều; chẳng qua là"
+			]
+		]
+	},
+	"老板": {
+		"py": "lǎobǎn",
+		"mn": [
+			[
+				"n",
+				"chủ tiệm; ông chủ | ông bầu; bà bầu; bầu gánh (hát; kịch; tuồng...)"
+			]
+		]
+	},
+	"坐": {
+		"py": "zuò",
+		"mn": [
+			[
+				"v",
+				"ngồi | ngồi; đi; đáp (phương tiện giao thông) | quay lưng; quay lưng về (hướng nào đó) | đặt; để (xoong, nồi, ấm lên bếp) | giật; lún; giật hậu | ra quả; kết quả; có quả | bị tội; định tội; kết tội; buộc tội | bị; mắc (bệnh tật) | nắm giữ; quản lý; chủ trì;  chịu trách nhiệm"
+			],
+			[
+				"prep",
+				"vì; bởi vì"
+			],
+			[
+				"n",
+				"chỗ ngồi; ghế ngồi | họ Tọa"
+			],
+			[
+				"adv",
+				"tự dưng; vô cớ; vô duyên vô cớ"
+			],
+			[
+				"adj",
+				"chắc; mẩy; mọng nước"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"旁边": {
+		"py": "pángbiān",
+		"mn": [
+			[
+				"n",
+				"cạnh; bên cạnh; hai bên trái phải; chỗ tiếp cận"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"敢": {
+		"py": "gǎn",
+		"mn": [
+			[
+				"adj",
+				"can đảm; có dũng khí; dũng cảm"
+			],
+			[
+				"v",
+				"dám | dám; dám chắc"
+			],
+			[
+				"adv",
+				"dám; xin (lời nói khiêm tốn)"
+			]
+		]
+	},
+	"只能": {
+		"py": "zhǐnéng",
+		"mn": [
+			[
+				"adv",
+				"chỉ có thể; chỉ đành; đành phải"
+			]
+		]
+	},
+	"挺": {
+		"py": "tǐng",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm"
+			],
+			[
+				"v",
+				"ưỡn; ngửa | gắng gượng; cố gắng | ủng hộ"
+			],
+			[
+				"measure",
+				"khẩu; cây"
+			],
+			[
+				"adj",
+				"thẳng; ngay | vượt trội; đặc sắc; xuất sắc; kiệt xuất"
+			]
+		]
+	},
+	"办法": {
+		"py": "bànfǎ",
+		"mn": [
+			[
+				"n",
+				"cách; biện pháp; phương pháp; cách làm"
+			]
+		]
+	},
+	"只好": {
+		"py": "zhǐhǎo",
+		"mn": [
+			[
+				"adv",
+				"đành; đành phải; chỉ đành; chỉ còn cách"
+			]
+		]
+	},
+	"喝": {
+		"py": "hē",
+		"mn": [
+			[
+				"v",
+				"uống | nhậu; nhậu nhẹt; uống (rượu)"
+			],
+			[
+				"intj",
+				"ồ (biểu thị sự ngạc nhiên)"
+			],
+			[
+				"n",
+				"thức uống (đặc biệt là rượu)"
+			]
+		]
+	},
+	"咖啡": {
+		"py": "kāfēi",
+		"mn": [
+			[
+				"n",
+				"cà phê"
+			]
+		]
+	},
+	"五": {
+		"py": "wǔ",
+		"mn": [
+			[
+				"numb",
+				"năm (số năm)"
+			],
+			[
+				"n",
+				"nốt của thang âm trong công xích phổ | họ Ngũ"
+			]
+		]
+	},
+	"杯": {
+		"py": "bēi",
+		"mn": [
+			[
+				"n",
+				"tách; cốc; chén; ly | cúp (giải thưởng hình ly, cốc)"
+			],
+			[
+				"measure",
+				"cốc; ly"
+			]
+		]
+	},
+	"可": {
+		"py": "kě",
+		"mn": [
+			[
+				"v",
+				"đồng ý; bằng lòng; chấp thuận; tán thành; cho phép | sẵn; sẵn lòng; sẵn sàng | được, có thể | đáng; đáng giá | hợp; phù hợp; thích hợp"
+			],
+			[
+				"adv",
+				"thật; thật là | sao; sao lại; vì sao (dùng trong câu phản vấn) | sao; thực không; thực sao | khoảng; cỡ; khoảng chừng; ước chừng"
+			],
+			[
+				"conj",
+				"nhưng; song (biểu thị sự chuyển ý)"
+			],
+			[
+				"n",
+				"họ Khả"
+			]
+		]
+	},
+	"困": {
+		"py": "kùn",
+		"mn": [
+			[
+				"adj",
+				"mệt; mệt mỏi | khó khăn; khốn khổ | buồn ngủ"
+			],
+			[
+				"v",
+				"mắc kẹt; kẹt | bao vây; vây hãm; vây | buồn ngủ"
+			]
+		]
+	},
+	"得": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"死": {
+		"py": "sǐ",
+		"mn": [
+			[
+				"v",
+				"chết; mất; tử"
+			],
+			[
+				"adv",
+				"liều mạng; không sợ hy sinh; liều mạng | kiên quyết, không đổi; khăng khăng"
+			],
+			[
+				"adj",
+				"hết mức; hết sức; chết được; kịch liệt | một mất một còn | cố định; cứng đờ; không hoạt động | không linh hoạt; bảo thủ; cứng nhắc; máy móc | cụt; chết; tịt; tù; đọng (nước)"
+			]
+		]
+	}
+}

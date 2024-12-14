@@ -1,0 +1,342 @@
+{
+	"你们": {
+		"py": "nǐmen",
+		"mn": [
+			[
+				"pro",
+				"mấy người; các cậu; các bạn; các ông; các bà; anh chị; các anh; các chị"
+			]
+		]
+	},
+	"家": {
+		"py": "jiā",
+		"mn": [
+			[
+				"n",
+				"nhà; gia đình | nhà; nơi ở; chỗ ở | nhà; dân; tay | nhà; chuyên gia; chuyên viên | nhà; gia; phái | nhà; gia (lời nói khiêm tốn, xưng hô với người trên bậc của mình) | bên; đối thủ; đối phương | dân tộc | nhà; gia (gia đình hoặc cá nhân có mối quan hệ) | họ Gia"
+			],
+			[
+				"adj",
+				"nuôi quen; đã thuần phục (động vật)"
+			],
+			[
+				"measure",
+				"ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)"
+			]
+		]
+	},
+	"谁": {
+		"py": "shéi",
+		"mn": [
+			[
+				"pro",
+				"ai (câu hỏi đề cập đến người được hỏi) | ai (trong câu hỏi tu từ) | ai; ai đó; bất kì ai (không chắc chắn) | ai; mọi người; bất cứ ai (trong một phạm vi nhất định) | ai; bất kì ai (lặp lại trong câu, dùng để chỉ một người) | ai (làm cả chủ ngữ và tân ngữ)"
+			]
+		]
+	},
+	"管": {
+		"py": "guǎn",
+		"mn": [
+			[
+				"v",
+				"quản lý; cai quản; trông coi; coi; phụ trách | trông coi; trông nom；quản lý; cai quản | quan tâm; trông nom; chăm sóc; chăm lo | phụ trách; đảm nhiệm (công việc) | hỏi han; quan tâm; hỏi; hỏi đến; lo; tham gia | bảo đảm; đảm bảo; cam đoan; bao | liên quan; quan hệ đến; dính líu; dính dáng; can hệ"
+			],
+			[
+				"n",
+				"ống | kèn sáo; sáo trúc (nhạc khí) | ống; bóng (linh kiện điện tử) | họ Quản"
+			],
+			[
+				"measure",
+				"quản; ống; cây"
+			],
+			[
+				"conj",
+				"bất luận; bất kể"
+			],
+			[
+				"prep",
+				"đến; đối với"
+			]
+		]
+	},
+	"钱": {
+		"py": "qián",
+		"mn": [
+			[
+				"n",
+				"tiền tài; tiền bạc; tiền của | tiền; tiền đồng | giống tiền; những vật có hình dạng giống đồng tiền | khoản; khoản tiền | tiền; tiền tệ; tiền mặt | món tiền; số tiền | họ Tiền"
+			],
+			[
+				"measure",
+				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"啊": {
+		"py": "a",
+		"mn": [
+			[
+				"part",
+				"quá (dùng ở cuối câu, tỏ ý ca ngợi) | nhỉ; nhá; nhé; đấy; đi thôi (dùng cuối câu, tỏ ý khẳng định, thúc giục, dặn dò) | hả; chứ (dùng ở cuối câu, tỏ ý nghi vấn) | đấy; ư; đó (dùng giữa câu, dừng một chút để người nghe chú ý đến lời nói tiếp theo) | này; nào; a (dùng sau những vật được liệt kê) | nha; nhá; ư (thể hiện sự thiếu kiên nhẫn; hoặc điều hiển nhiên)"
+			]
+		]
+	},
+	"显然": {
+		"py": "xiǎnrán",
+		"mn": [
+			[
+				"adj",
+				"hiển nhiên; rõ ràng; dễ nhận thấy"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"老婆": {
+		"py": "lǎopó",
+		"mn": [
+			[
+				"n",
+				"vợ; bà xã"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"财政部": {
+		"py": "cáizhèngbù",
+		"mn": [
+			[
+				"n",
+				"Bộ Tài chính"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"偷偷": {
+		"py": "tōutōu",
+		"mn": [
+			[
+				"adv",
+				"lén; trộm; vụng trộm; lén lút; ngấm ngầm"
+			]
+		]
+	},
+	"私房钱": {
+		"py": "sīfángqián",
+		"mn": [
+			[
+				"n",
+				"tiền riêng; quỹ đen; quỹ riêng"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"点儿": {
+		"py": "diǎnr",
+		"mn": [
+			[
+				"",
+				"Một chút | phẩy | nét chấm | vặt; nhỏ | vết; vệt"
+			]
+		]
+	},
+	"方便": {
+		"py": "fāngbiàn",
+		"mn": [
+			[
+				"adj",
+				"thuận tiện; thuận lợi | tiện | giàu có; dồi dào; dư dật"
+			],
+			[
+				"v",
+				"làm cho thuận tiện; làm cho tiện lợi | đi vệ sinh"
+			],
+			[
+				"n",
+				"tiện lợi"
+			]
+		]
+	},
+	"些": {
+		"py": "xiē",
+		"mn": [
+			[
+				"measure",
+				"một ít; một vài"
+			],
+			[
+				"adv",
+				"hơn một chút (biểu thị so sánh)"
+			]
+		]
+	},
+	"觉得": {
+		"py": "juéde",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"肯定": {
+		"py": "kěndìng",
+		"mn": [
+			[
+				"v",
+				"xác định; chắc chắn | tất yếu; chắc chắn"
+			],
+			[
+				"adj",
+				"chắc chắn; rõ ràng | tích cực; quyết đoán; quả quyết"
+			],
+			[
+				"adv",
+				"chắc chắn; nhất định; không nghi ngờ"
+			]
+		]
+	},
+	"知道": {
+		"py": "zhīdào",
+		"mn": [
+			[
+				"v",
+				"biết; hiểu; rõ; hay biết; hiểu rõ"
+			]
+		]
+	},
+	"只是": {
+		"py": "zhǐshì",
+		"mn": [
+			[
+				"adv",
+				"chỉ là; chẳng qua là"
+			],
+			[
+				"conj",
+				"nhưng; nhưng mà"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"只": {
+		"py": "zhī",
+		"mn": [
+			[
+				"measure",
+				"con (dùng cho động vật) | chiếc; cái | chiếc; con (thuyền, bè)"
+			],
+			[
+				"adj",
+				"đơn chiếc; lẻ loi; một mình; đơn độc"
+			]
+		]
+	},
+	"眼": {
+		"py": "yǎn",
+		"mn": [
+			[
+				"n",
+				"mắt | hốc; lỗ; lỗ thủng | mấu chốt; then chốt; chỗ quan trọng | nhịp phách (trong hí khúc) | mắt trống (thuật ngữ trong cờ vây)"
+			],
+			[
+				"measure",
+				"cái; miệng (dùng cho giếng)"
+			]
+		]
+	},
+	"而已": {
+		"py": "éryǐ",
+		"mn": [
+			[
+				"part",
+				"mà thôi; thế thôi"
+			]
+		]
+	}
+}

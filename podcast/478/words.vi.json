@@ -1,0 +1,259 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"退": {
+		"py": "tuì",
+		"mn": [
+			[
+				"v",
+				"thối; lui; lùi; thoái | đẩy lùi | rút khỏi; ra khỏi; rời khỏi | giảm sút; giảm xuống | trả; trả lại | xóa; huỷ bỏ; triệt tiêu | nghỉ hưu"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"张": {
+		"py": "zhāng",
+		"mn": [
+			[
+				"v",
+				"mở; mở ra; dang rộng | bày ra; trưng bày | khai trương | nhìn; xem; ngó | khoa trương; khuếch đại; mở rộng | giương; căng"
+			],
+			[
+				"measure",
+				"tờ; trang; tấm; bức (lượng từ dùng cho giấy, da) | chiếc; cái (lượng từ dùng cho giường, bàn) | cái; gương; khuôn (lượng từ dùng cho miệng, mặt) | cây; cái (lượng từ dùng cho cung nỏ)"
+			],
+			[
+				"n",
+				"sao Trương (một chòm sao trong Nhị thập bát tú) | họ Trương"
+			],
+			[
+				"adj",
+				"phóng túng; phóng đãng; thái quá; tùy tiện"
+			]
+		]
+	},
+	"票": {
+		"py": "piào",
+		"mn": [
+			[
+				"n",
+				"vé; phiếu; thẻ; hoá đơn | tiền; tiền giấy | con tin"
+			],
+			[
+				"measure",
+				"món; chuyến; cuộc; vụ"
+			]
+		]
+	},
+	"您好": {
+		"py": "nínhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào; chào ngài (lễ phép, kính trọng)"
+			]
+		]
+	},
+	"只能": {
+		"py": "zhǐnéng",
+		"mn": [
+			[
+				"adv",
+				"chỉ có thể; chỉ đành; đành phải"
+			]
+		]
+	},
+	"回": {
+		"py": "huí",
+		"mn": [
+			[
+				"v",
+				"quanh co; vòng vo; vòng vèo | về; trở về; quay lại | quay; quay lại; ngoảnh lại | trả lời; báo đáp; phúc đáp | đuổi; cự tuyệt; huỷ bỏ | tránh; né; tránh né | bẩm báo; báo cáo"
+			],
+			[
+				"measure",
+				"lần | hồi (chỉ hồi trong tiểu thuyết chương hồi)"
+			],
+			[
+				"n",
+				"dân tộc Hồi | họ Hồi"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"金额": {
+		"py": "jīné",
+		"mn": [
+			[
+				"n",
+				"kim ngạch; số tiền"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"确定": {
+		"py": "quèdìng",
+		"mn": [
+			[
+				"v",
+				"xác định; quyết định"
+			],
+			[
+				"adj",
+				"xác định; chắc chắn"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"是的": {
+		"py": "shìde",
+		"mn": [
+			[
+				"sentence",
+				"đúng vậy; đúng thế; đúng là vậy"
+			],
+			[
+				"part",
+				"giống như; tựa như"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"已经": {
+		"py": "yǐjīng",
+		"mn": [
+			[
+				"adv",
+				"đã; rồi"
+			]
+		]
+	},
+	"成功": {
+		"py": "chénggōng",
+		"mn": [
+			[
+				"v",
+				"thành công"
+			],
+			[
+				"adj",
+				"thành công"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	}
+}

@@ -1,0 +1,547 @@
+{
+	"服务员": {
+		"py": "fúwùyuán",
+		"mn": [
+			[
+				"n",
+				"người phục vụ; nhân viên phục vụ"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"酒店": {
+		"py": "jiǔdiàn",
+		"mn": [
+			[
+				"n",
+				"khách sạn; nhà nghỉ | nhà hàng"
+			]
+		]
+	},
+	"提供": {
+		"py": "tígōng",
+		"mn": [
+			[
+				"v",
+				"cấp; cho; cung cấp; đáp ứng; mang lại; đem lại"
+			]
+		]
+	},
+	"叫醒": {
+		"py": "jiàoxǐng",
+		"mn": [
+			[
+				"v",
+				"đánh thức; gọi dậy"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"服务": {
+		"py": "fúwù",
+		"mn": [
+			[
+				"v",
+				"phục vụ; phụng sự; cống hiến; làm việc"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"先生": {
+		"py": "xiānshēng",
+		"mn": [
+			[
+				"n",
+				"ngài; thầy; ông (cách gọi tôn trọng đối với những người trí thức) | chồng; ông nhà; anh xã | thầy giáo; giáo viên; nhà giáo | tài phú; thầy ký | thầy (gọi theo nghề nghiệp)"
+			]
+		]
+	},
+	"电话": {
+		"py": "diànhuà",
+		"mn": [
+			[
+				"n",
+				"điện thoại | điện thoại; cuộc điện thoại; cuộc gọi đến"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"设置": {
+		"py": "shèzhì",
+		"mn": [
+			[
+				"v",
+				"xây dựng; thiết lập | trang bị; lắp đặt, cài đặt"
+			]
+		]
+	},
+	"自动": {
+		"py": "zìdòng",
+		"mn": [
+			[
+				"",
+				"tự động | tự động (không dùng sức người mà dùng máy móc)"
+			]
+		]
+	},
+	"时间": {
+		"py": "shíjiān",
+		"mn": [
+			[
+				"n",
+				"thời gian; ngày giờ | khoảng thời gian | giờ (thời điểm cụ thể)"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"先": {
+		"py": "xiān",
+		"mn": [
+			[
+				"adv",
+				"trước (hành động xảy ra trước) | tạm; tạm thời | trước đó; trước kia; trước đây"
+			],
+			[
+				"adj",
+				"người quá cố (tôn xưng người đã chết)"
+			],
+			[
+				"n",
+				"trước; tiên (thời gian, thứ tự) | đời trước; tổ tiên | lúc đầu; ban đầu | họ Tiên"
+			],
+			[
+				"v",
+				"đi trước"
+			]
+		]
+	},
+	"拨": {
+		"py": "bō",
+		"mn": [
+			[
+				"v",
+				"đẩy; ẩy; gẩy; quạt; gạt; vén (dùng sức vung ngang tay chân hoặc que, gậy khiến đồ vật di động) | gọi điện thoại | phát; cấp; trích; rút; chi; điều; phân phối | quay; vặn; nhể; lể; khêu; cạy; nạy; quay lại | gảy"
+			],
+			[
+				"measure",
+				"bọn; lũ; tốp; toán; đám; nhóm; đợt"
+			]
+		]
+	},
+	"零": {
+		"py": "líng",
+		"mn": [
+			[
+				"numb",
+				"không; số không | 0 độ (trên nhiệt kế) | lẻ | linh"
+			],
+			[
+				"adj",
+				"lẻ; vụn vặt; lẻ tẻ; số lẻ"
+			],
+			[
+				"v",
+				"rơi; tuôn trào; tuôn rơi; rơi xuống | rụng; tàn; tan tác; xơ xác (hoa, lá)"
+			],
+			[
+				"n",
+				"lẻ; số lẻ; số dư ra | họ Linh"
+			]
+		]
+	},
+	"然后": {
+		"py": "ránhòu",
+		"mn": [
+			[
+				"conj",
+				"sau đó; tiếp đó; rồi"
+			]
+		]
+	},
+	"输入": {
+		"py": "shūrù",
+		"mn": [
+			[
+				"v",
+				"chuyển nhập; nhập vào; nhập dữ liệu; nhập khẩu; nhập cảng"
+			]
+		]
+	},
+	"希望": {
+		"py": "xīwàng",
+		"mn": [
+			[
+				"v",
+				"mong muốn; hy vọng; ước ao; mong; sở nguyện; ước; ao ước"
+			],
+			[
+				"n",
+				"niềm hi vọng; sự hi vọng; ước muốn"
+			]
+		]
+	},
+	"例如": {
+		"py": "lìrú",
+		"mn": [
+			[
+				"v",
+				"ví dụ; thí dụ; ví dụ như"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"最后": {
+		"py": "zuìhòu",
+		"mn": [
+			[
+				"n",
+				"cuối cùng; sau cùng"
+			]
+		]
+	},
+	"按": {
+		"py": "àn",
+		"mn": [
+			[
+				"v",
+				"ấn; bấm; đè; nhấn; đóng; ghim; găm; kẹp; cặp | nén; dằn; kìm chế; ức chế; kìm nén | khảo sát; quan sát; điều tra; thẩm tra; xem xét | bình luận; chú thích; ghi thêm lời chú; soạn giả ghi chú (biên tập, tác giả)"
+			],
+			[
+				"prep",
+				"theo; dựa vào; chiếu theo"
+			]
+		]
+	},
+	"键": {
+		"py": "jiàn",
+		"mn": [
+			[
+				"n",
+				"chốt khoá; chốt | phím; phím đàn; nút ấn | chìa khoá | chìa khoá; mấu chốt; quan trọng"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"明天": {
+		"py": "míngtiān",
+		"mn": [
+			[
+				"n",
+				"mai; ngày mai; bữa mai | mai đây; mai kia; tương lai"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"重要": {
+		"py": "zhòngyào",
+		"mn": [
+			[
+				"adj",
+				"quan trọng; tầm lớn; hệ trọng"
+			]
+		]
+	},
+	"会议": {
+		"py": "huìyì",
+		"mn": [
+			[
+				"n",
+				"cuộc họp | hội nghị"
+			]
+		]
+	},
+	"必须": {
+		"py": "bìxū",
+		"mn": [
+			[
+				"adv",
+				"phải; nhất định phải | nhất thiết phải; nhất định phải (ngữ khí ra lệnh)"
+			]
+		]
+	},
+	"起床": {
+		"py": "qǐchuáng",
+		"mn": [
+			[
+				"v, sv",
+				"thức dậy; ngủ dậy"
+			]
+		]
+	},
+	"为了": {
+		"py": "wèile",
+		"mn": [
+			[
+				"prep",
+				"để; vì (biểu thị mục đích)."
+			]
+		]
+	},
+	"万无一失": {
+		"py": "wànwúyīshī",
+		"mn": [
+			[
+				"idioms",
+				"không sơ hở; phải hết sức cẩn thận, chắc chắn; tuyệt đối không thể sai sót nhầm lẫn; không sơ hở tý nào"
+			]
+		]
+	},
+	"你们": {
+		"py": "nǐmen",
+		"mn": [
+			[
+				"pro",
+				"mấy người; các cậu; các bạn; các ông; các bà; anh chị; các anh; các chị"
+			]
+		]
+	},
+	"能": {
+		"py": "néng",
+		"mn": [
+			[
+				"v",
+				"có thể (thể hiện có đủ năng lực và điều kiện thực hiện hành động.) | có thể (có hiệu quả, công dụng nào đó) | biết; có thể (giỏi về việc gì) | có thể (thể hiện khả năng; dùng để suy đoán) | có thể (thể hiện sự cho phép)"
+			],
+			[
+				"n",
+				"năng lực; tài cán; tài năng | năng lượng"
+			],
+			[
+				"adj",
+				"có tài; có năng lực"
+			]
+		]
+	},
+	"人工": {
+		"py": "réngōng",
+		"mn": [
+			[
+				"n",
+				"nhân lực; sức người | nhân công; ngày công"
+			],
+			[
+				"adj",
+				"nhân tạo"
+			]
+		]
+	},
+	"房间": {
+		"py": "fángjiān",
+		"mn": [
+			[
+				"n",
+				"gian phòng; phòng; buồng; căn phòng"
+			]
+		]
+	},
+	"号": {
+		"py": "hào",
+		"mn": [
+			[
+				"n",
+				"hiệu; tên; tên hiệu; tên gọi | tên hiệu; bí danh; biệt hiệu (tên riêng ngoài tên chính thức) | hiệu; cửa hàng; cửa hiệu | tín hiệu; ký hiệu; dấu hiệu; ám hiệu | số; số thứ tự | cỡ; số cỡ | ngày; mồng; số ngày | người (có tình hình đặc biệt) | lệnh; hiệu lệnh | kèn đồng (kèn trumpet nhạc cụ của phương Tây) | kèn hiệu; kèn ốc | kèn; chuông (thông báo)"
+			],
+			[
+				"measure",
+				"người (lượng từ) | hạng; loại; loại hình | vụ (giao dịch mua bán)"
+			],
+			[
+				"v",
+				"xem; bắt (mạch) | ghi số; đánh dấu; đánh số; chấm điểm | gọi; hô; hô hoán | ra lệnh; ban hành; truyền đạt (mệnh lệnh)"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshǎo",
+		"mn": [
+			[
+				"adv",
+				"Ít nhiều, hơi hơi, có phần (mức độ nhất định nhưng không cao)"
+			],
+			[
+				"n",
+				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"住": {
+		"py": "zhù",
+		"mn": [
+			[
+				"v",
+				"ở; sống; trọ; cư trú | dừng; ngưng; dừng lại | được; nổi; đủ sức; đảm nhiệm được; chịu đựng được | chắc; chặt"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"整": {
+		"py": "zhěng",
+		"mn": [
+			[
+				"adj",
+				"trọn; cả; chẵn; toàn bộ; đầy đủ | ngay ngắn; ngăn nắp; chỉnh tề; trật tự"
+			],
+			[
+				"v",
+				"làm | sửa chữa; sửa sang | hành hạ, trừng phạt (làm cho cực khổ) | chỉnh đốn; điều chỉnh; chỉnh lý; thu xếp; thu dọn"
+			]
+		]
+	},
+	"准时": {
+		"py": "zhǔnshí",
+		"mn": [
+			[
+				"adj",
+				"đúng giờ"
+			]
+		]
+	}
+}

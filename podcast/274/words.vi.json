@@ -1,0 +1,336 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"感冒": {
+		"py": "gǎnmào",
+		"mn": [
+			[
+				"n",
+				"ốm; cảm cúm"
+			],
+			[
+				"adj",
+				"quan tâm; khoái; thích; hứng thú"
+			],
+			[
+				"v",
+				"bị cảm; cảm"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"最近": {
+		"py": "zuìjìn",
+		"mn": [
+			[
+				"n, time",
+				"gần đây; mới đây; vừa qua; dạo này"
+			],
+			[
+				"adj",
+				"gần nhất; gần đây"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"天气": {
+		"py": "tiānqì",
+		"mn": [
+			[
+				"n",
+				"thời tiết | thời gian"
+			]
+		]
+	},
+	"一会儿": {
+		"py": "yīhuìr",
+		"mn": [
+			[
+				"n",
+				"một lúc; một lát; một chút | lát nữa; trong chốc lát | một lát; một lúc"
+			],
+			[
+				"adv",
+				"lúc thì... lúc thì (đặt trước hai từ trái nghĩa biểu thị hai tình huống xen kẽ nhau)"
+			]
+		]
+	},
+	"冷": {
+		"py": "lěng",
+		"mn": [
+			[
+				"adj",
+				"lạnh; rét; rét mướt | lạnh nhạt; nhạt nhẽo | yên tĩnh; im ắng; vắng lặng | lạ; ít thấy; hiếm thấy | không thiết; ế ẩm; ít được quan tâm; ít người chú ý | lén; ngầm; trộm; bất ngờ | chán nản; thất vọng"
+			],
+			[
+				"n",
+				"họ Lãnh"
+			],
+			[
+				"v",
+				"để nguội; làm lạnh (thức ăn) | phớt lờ; thờ ơ"
+			]
+		]
+	},
+	"热": {
+		"py": "rè",
+		"mn": [
+			[
+				"adj",
+				"nóng | tình cảm nồng nàn | nóng lòng; mong mỏi | hoan nghênh; ưa chuộng | sôi động; nhộn nhịp | tính phóng xạ mạnh"
+			],
+			[
+				"v",
+				"làm nóng; hâm nóng"
+			],
+			[
+				"n",
+				"sốt | cơn sốt; trào lưu | nhiệt năng | nhiệt tà"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"春天": {
+		"py": "chūntiān",
+		"mn": [
+			[
+				"n",
+				"mùa xuân | sự mới mẻ; sự tươi mới; sự khởi sắc"
+			]
+		]
+	},
+	"总是": {
+		"py": "zǒngshì",
+		"mn": [
+			[
+				"adv",
+				"luôn luôn; lúc nào cũng; bao giờ cũng | chung quy; vẫn"
+			]
+		]
+	},
+	"晴": {
+		"py": "qíng",
+		"mn": [
+			[
+				"adj",
+				"trời trong; trời quang; tạnh ráo; quang đãng"
+			]
+		]
+	},
+	"雨": {
+		"py": "yǔ",
+		"mn": [
+			[
+				"n",
+				"mưa | họ Vũ"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"注意": {
+		"py": "zhùyì",
+		"mn": [
+			[
+				"v",
+				"để ý; chú ý"
+			]
+		]
+	},
+	"千万": {
+		"py": "qiānwàn",
+		"mn": [
+			[
+				"adv",
+				"nhất thiết; nhất định; tuyệt đối"
+			],
+			[
+				"numb",
+				"mười triệu; hàng triệu (biểu thị một số lượng lớn)"
+			]
+		]
+	},
+	"别": {
+		"py": "bié",
+		"mn": [
+			[
+				"v",
+				"phân ly; chia lìa; xa cách; chia ly; biệt ly | phân tách; phân biệt; chia ra | cắm; giắt; cài; chốt; gài; kẹt | cài; kẹp; đính; ghim; cặp | quay; chuyển biến; xoay chuyển; chuyển động | chặn; ngáng"
+			],
+			[
+				"pro",
+				"khác; cái khác"
+			],
+			[
+				"n",
+				"sự khác biệt | thứ; loại; hạng; phái | họ Biệt"
+			],
+			[
+				"adj",
+				"đặc biệt; độc đáo | chữ sai; chữ đọc sai; chữ viết sai"
+			],
+			[
+				"adv",
+				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"像": {
+		"py": "xiàng",
+		"mn": [
+			[
+				"v",
+				"giống; giống nhau; giống như | như; y như; ví như"
+			],
+			[
+				"adv",
+				"hình như"
+			],
+			[
+				"n",
+				"tượng; tranh; ảnh; hình"
+			]
+		]
+	},
+	"不停": {
+		"py": "bùtíng",
+		"mn": [
+			[
+				"",
+				"liên tục; không ngừng; suốt; luôn; luôn tay; liên tiếp"
+			]
+		]
+	},
+	"地": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"mà; một cách"
+			]
+		]
+	},
+	"打": {
+		"py": "dǎ",
+		"mn": [
+			[
+				"v",
+				"đánh; đập; gõ | vỡ; bể; đánh vỡ; đập vỡ | đánh; đánh nhau; tiến đánh | quan hệ; giao thiệp; giao tiếp | xây; xây dựng; kiến tạo | làm; chế tạo | đánh; quậy; trộn; khuấy | buộc; bó | đan; bện | vẽ; viết; in; bôi | mở; đào; đục | giương; nâng; xách; vén | phát; bắn; đánh | cấp; nhận (giấy tờ) | bỏ đi; vứt bỏ; tỉa bỏ | múc; lấy | mua | bắt; bẫy; đánh | hái; chặt; cắt; đốn | tính; nghĩ ra; định ra | làm; tiến hành | chơi; đánh | biểu thị một số động tác của cơ thể | nêu; đưa ra (phương pháp,phương thức) | gọi (xe taxi) | vực lại (tinh thần)"
+			],
+			[
+				"prep",
+				"từ | căn nguyên; nguyên do"
+			]
+		]
+	},
+	"真": {
+		"py": "zhēn",
+		"mn": [
+			[
+				"adj",
+				"thật; thật sự; đúng sự thật | chính xác; rõ ràng; chân thật"
+			],
+			[
+				"n",
+				"tự nhiên; ban đầu; nguyên dạng | chân dung; bản sao; chân tướng (sự thật) | chân thư; chữ khải | họ Chân"
+			],
+			[
+				"adv",
+				"quá; thật; thực sự"
+			]
+		]
+	},
+	"难受": {
+		"py": "nánshòu",
+		"mn": [
+			[
+				"adj",
+				"khó chịu | 心情不愉快；伤心"
+			]
+		]
+	}
+}

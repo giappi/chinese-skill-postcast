@@ -1,0 +1,476 @@
+{
+	"服务员": {
+		"py": "fúwùyuán",
+		"mn": [
+			[
+				"n",
+				"người phục vụ; nhân viên phục vụ"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshao",
+		"mn": [
+			[
+				"pro",
+				"bao nhiêu; mấy; chừng nào; mấy mươi; bao"
+			],
+			[
+				"adv",
+				"bao nhiêu...bấy nhiêu; bao nhiêu (không xác định)"
+			]
+		]
+	},
+	"钱": {
+		"py": "qián",
+		"mn": [
+			[
+				"n",
+				"tiền tài; tiền bạc; tiền của | tiền; tiền đồng | giống tiền; những vật có hình dạng giống đồng tiền | khoản; khoản tiền | tiền; tiền tệ; tiền mặt | món tiền; số tiền | họ Tiền"
+			],
+			[
+				"measure",
+				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"最": {
+		"py": "zuì",
+		"mn": [
+			[
+				"adv",
+				"nhất"
+			],
+			[
+				"n",
+				"nhất; đứng đầu; số một"
+			]
+		]
+	},
+	"普通": {
+		"py": "pǔtōng",
+		"mn": [
+			[
+				"adj",
+				"phổ thông; bình thường; nói chung; thông thường"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"五十": {
+		"py": "wǔshí",
+		"mn": [
+			[
+				"numb",
+				"năm mươi"
+			]
+		]
+	},
+	"元": {
+		"py": "yuán",
+		"mn": [
+			[
+				"measure",
+				"đồng tiền (đơn vị tiền tệ)"
+			],
+			[
+				"n",
+				"đầu người | yếu tố; nguyên tố | bộ phận cấu thành một chỉnh thể | nhà Nguyên | tên tiền kim loại thời cổ | họ Nguyên"
+			],
+			[
+				"adj",
+				"đầu tiên; thứ nhất; bắt đầu | đứng đầu | chủ yếu; cơ bản"
+			]
+		]
+	},
+	"还有": {
+		"py": "háiyǒu",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn còn; còn có"
+			]
+		]
+	},
+	"特别": {
+		"py": "tèbié",
+		"mn": [
+			[
+				"adv",
+				"vô cùng; rất; đặc biệt | càng; đặc biệt; nhất là"
+			],
+			[
+				"adj",
+				"đặc biệt"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"如果": {
+		"py": "rúguǒ",
+		"mn": [
+			[
+				"conj",
+				"nếu; nếu như; nếu mà; lỡ như; giá mà"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"使用": {
+		"py": "shǐyòng",
+		"mn": [
+			[
+				"v",
+				"dùng; sử dụng; áp dụng"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"另外": {
+		"py": "lìngwài",
+		"mn": [
+			[
+				"adv",
+				"khác; ngoài; riêng; thêm"
+			],
+			[
+				"conj",
+				"ngoài ra; bên cạnh đó"
+			],
+			[
+				"pro",
+				"khác; cái khác"
+			]
+		]
+	},
+	"加": {
+		"py": "jiā",
+		"mn": [
+			[
+				"v",
+				"cộng; cộng với | tăng; gia; thêm; gia tăng; tăng lên; tăng thêm | thêm; đặt | hơn; thêm; hơn nữa; thêm nữa | đặt; chất thêm; thêm lên trên | áp đặt"
+			],
+			[
+				"n",
+				"họ Gia"
+			]
+		]
+	},
+	"块": {
+		"py": "kuài",
+		"mn": [
+			[
+				"measure",
+				"viên; bánh; đống; khối | tấm; mảnh; miếng; chiếc | tờ; đồng (tiền đồng hoặc tiền giấy)"
+			],
+			[
+				"n",
+				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"太": {
+		"py": "tài",
+		"mn": [
+			[
+				"adv",
+				"rất; quá (khen ngợi) | quá (không đạt yêu cầu) | lắm (nhấn mạnh sự phủ định)"
+			],
+			[
+				"adj",
+				"cao; lớn; to lớn | tối; cực; quá lâu | thái (thân phận, vai vế cao hơn)"
+			],
+			[
+				"n",
+				"họ Thái"
+			]
+		]
+	},
+	"贵": {
+		"py": "guì",
+		"mn": [
+			[
+				"adj",
+				"đắt; mắc | quý; quý giá | cao quý; sang trọng; quý tộc; địa vị cao | quý (xưng hô lễ phép, tôn trọng)"
+			],
+			[
+				"n",
+				"Quý Châu | họ Quý"
+			],
+			[
+				"v",
+				"coi trọng; xem trọng; quý trọng"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"能": {
+		"py": "néng",
+		"mn": [
+			[
+				"v",
+				"có thể (thể hiện có đủ năng lực và điều kiện thực hiện hành động.) | có thể (có hiệu quả, công dụng nào đó) | biết; có thể (giỏi về việc gì) | có thể (thể hiện khả năng; dùng để suy đoán) | có thể (thể hiện sự cho phép)"
+			],
+			[
+				"n",
+				"năng lực; tài cán; tài năng | năng lượng"
+			],
+			[
+				"adj",
+				"có tài; có năng lực"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"办": {
+		"py": "bàn",
+		"mn": [
+			[
+				"v",
+				"làm; xử lý; lo liệu | mua; mở; mua sắm; bài trí | trừng phạt, nghiêm trị (theo pháp luật) | mở; lập; sáng lập; kinh doanh; tổ chức"
+			],
+			[
+				"n",
+				"phòng; văn phòng"
+			]
+		]
+	},
+	"卡": {
+		"py": "kǎ",
+		"mn": [
+			[
+				"n",
+				"các; thẻ; thiếp; phiếu (điện tử) | xe tải; xe vận tải | khay; khay băng"
+			],
+			[
+				"measure",
+				"calo (tiếng Anh)"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"既": {
+		"py": "jì",
+		"mn": [
+			[
+				"adv",
+				"đã | đã; vừa"
+			],
+			[
+				"conj",
+				"đã; nếu đã; nếu như"
+			]
+		]
+	},
+	"做": {
+		"py": "zuò",
+		"mn": [
+			[
+				"v",
+				"chế tạo | viết; sáng tác | làm; làm việc; thực hiện | làm; tổ chức; chúc mừng | đảm nhiệm; trở thành | làm; dùng làm; sử dụng làm | trở thành; kết thành; tạo thành (quan hệ) | giả vờ; giả trang"
+			]
+		]
+	},
+	"也": {
+		"py": "yě",
+		"mn": [
+			[
+				"adv",
+				"cũng (biểu thị giống nhau) | cũng (dùng để nhấn mạnh) | cũng; vẫn (bắt buộc) | cũng (nhẹ nhàng, tế nhị) | cũng (thế nào cũng được)"
+			],
+			[
+				"part",
+				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"全身": {
+		"py": "quánshēn",
+		"mn": [
+			[
+				"n",
+				"toàn thân; cả người"
+			]
+		]
+	},
+	"算了": {
+		"py": "suànle",
+		"mn": [
+			[
+				"v",
+				"bỏ qua đi, để nó trôi qua, quên nó đi, thôi bỏ đi; chớ | xong rồi"
+			]
+		]
+	},
+	"一次": {
+		"py": "yīcì",
+		"mn": [
+			[
+				"n",
+				"(toán học.) tuyến tính (bậc một) | đầu tiên | lần đầu tiên | Một lần | keo; chuyến | buổi"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"行": {
+		"py": "xíng",
+		"mn": [
+			[
+				"v",
+				"đi | đi xa; du lịch | lưu thông; lưu hành | làm | được; đồng ý | tiến hành; thực hiện | ngấm (thuốc)"
+			],
+			[
+				"adj",
+				"hành (du lịch) | lâm thời; lưu động | tài giỏi; có năng lực"
+			],
+			[
+				"n",
+				"hành vi; hành động | hành thư | họ Hành"
+			],
+			[
+				"adv",
+				"sắp sửa; sẽ"
+			]
+		]
+	}
+}

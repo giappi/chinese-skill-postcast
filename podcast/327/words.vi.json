@@ -1,0 +1,266 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"找到": {
+		"py": "zhǎodào",
+		"mn": [
+			[
+				"v",
+				"tìm được; tìm thấy; tìm ra"
+			]
+		]
+	},
+	"打工": {
+		"py": "dǎgōng",
+		"mn": [
+			[
+				"v, sv",
+				"làm công; làm thêm; làm việc"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"地方": {
+		"py": "dìfāng",
+		"mn": [
+			[
+				"n",
+				"địa phương | bản xứ; bản địa | địa phương (chỉ bộ phận ngoài quân đội)"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"个": {
+		"py": "gè",
+		"mn": [
+			[
+				"measure",
+				"cái; con; quả; trái; người | khoảng (dùng trước số ước lượng) | một; một chút | dùng giữa động từ và bổ ngữ | một (dùng giữa \"没\" (méi), \"有\" (yǒu) và một số động từ hoặc tính từ, mang chức năng nhấn mạnh)"
+			],
+			[
+				"part",
+				"là hậu tố dùng sau ''些'' | là hậu tố dùng sau thời gian"
+			],
+			[
+				"adj",
+				"cá nhân; đơn độc; riêng biệt; riêng lẻ"
+			],
+			[
+				"n",
+				"chiều cao; kích thước"
+			]
+		]
+	},
+	"哇": {
+		"py": "wā",
+		"mn": [
+			[
+				"onom",
+				"oa oa; oe oe; óe óe; a a; á á"
+			]
+		]
+	},
+	"为什么": {
+		"py": "wèishénme",
+		"mn": [
+			[
+				"pro",
+				"vì sao; tại sao; vì cái gì; hà cớ gì"
+			]
+		]
+	},
+	"这么": {
+		"py": "zhème",
+		"mn": [
+			[
+				"pro",
+				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"地": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"mà; một cách"
+			]
+		]
+	},
+	"赚钱": {
+		"py": "zhuànqián",
+		"mn": [
+			[
+				"v",
+				"kiếm tiền"
+			]
+		]
+	},
+	"因为": {
+		"py": "yīnwèi",
+		"mn": [
+			[
+				"prep",
+				"bởi vì; bởi rằng; vì; số là; tại đâu; tại vì; vì rằng"
+			],
+			[
+				"conj",
+				"vì; do; bởi vì"
+			]
+		]
+	},
+	"谈": {
+		"py": "tán",
+		"mn": [
+			[
+				"v",
+				"nói; nói chuyện; trò chuyện; thảo luận; bày tỏ"
+			],
+			[
+				"n",
+				"lời nói; câu chuyện; chuyện | họ Đàm"
+			]
+		]
+	},
+	"得": {
+		"py": "děi",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; phải | phải (biểu thị sự tất yếu về mặt ý chí hoặc sự thật) | nhất định (biểu thị điều tất nhiên của sự suy đoán) | thoải mái; vừa lòng; dễ chịu"
+			],
+			[
+				"adj",
+				"thoải mái; tự tại; tự do"
+			]
+		]
+	},
+	"赚": {
+		"py": "zhuàn",
+		"mn": [
+			[
+				"v",
+				"được lợi; thu lợi nhuận; được lãi | lấy; thu hút; kiếm (tiền)"
+			],
+			[
+				"n",
+				"lợi nhuận; lời lãi"
+			]
+		]
+	},
+	"够": {
+		"py": "gòu",
+		"mn": [
+			[
+				"v",
+				"đủ; đầy đủ | với; với tới; với tay; với lấy"
+			],
+			[
+				"adv",
+				"đủ; thật là (một mức độ nhất định)"
+			],
+			[
+				"adj",
+				"đủ; quá"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"哦": {
+		"py": "ò",
+		"mn": [
+			[
+				"onom, intj",
+				"à; ồ (biểu thị bất chợt hiểu ra; nhận ra điều gì đó)"
+			]
+		]
+	},
+	"原来如此": {
+		"py": "yuánláirúcǐ",
+		"mn": [
+			[
+				"idioms",
+				"ra là vậy; thì ra là vậy"
+			]
+		]
+	}
+}

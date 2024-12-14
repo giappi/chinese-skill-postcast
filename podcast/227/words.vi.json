@@ -1,0 +1,172 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"本": {
+		"py": "běn",
+		"mn": [
+			[
+				"n",
+				"gốc; thân; cội; rễ; củ (cây cỏ) | gốc; cội nguồn; căn nguyên; nguồn gốc; căn bản (sự vật) | vốn; vốn liếng; tiền vốn | bản gốc; bản chính; kịch bản (lĩnh vực sân khấu, điện ảnh) | tập; vở; sổ | bản (in; khắc; viết) | tấu chương; bài tấu; lời tấu; sớ tấu (thời phong kiến) | họ Bản"
+			],
+			[
+				"adj",
+				"chính; chủ yếu; quan trọng; trọng tâm | gốc; lúc đầu; vốn có"
+			],
+			[
+				"adv",
+				"vốn; ban đầu; vốn là; lúc đầu; vốn dĩ"
+			],
+			[
+				"pro",
+				"tôi; phía mình; chúng tôi; thuộc về mình | nay; này; hiện nay; bây giờ"
+			],
+			[
+				"prep",
+				"theo; căn cứ; dựa vào"
+			],
+			[
+				"measure",
+				"cuốn; vở; quyển; tập (dùng cho sách vở sổ sách) | vở; bản (dùng trong hí khúc; kịch) | tập (dùng cho phim dài nhiều tập)"
+			]
+		]
+	},
+	"书": {
+		"py": "shū",
+		"mn": [
+			[
+				"n",
+				"sách | thư | đơn; giấy; văn kiện; giấy tờ | chữ; thể chữ; kiểu chữ | họ Thư"
+			],
+			[
+				"v",
+				"viết; viết chữ; ghi chép"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshǎo",
+		"mn": [
+			[
+				"adv",
+				"Ít nhiều, hơi hơi, có phần (mức độ nhất định nhưng không cao)"
+			],
+			[
+				"n",
+				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"钱": {
+		"py": "qián",
+		"mn": [
+			[
+				"n",
+				"tiền tài; tiền bạc; tiền của | tiền; tiền đồng | giống tiền; những vật có hình dạng giống đồng tiền | khoản; khoản tiền | tiền; tiền tệ; tiền mặt | món tiền; số tiền | họ Tiền"
+			],
+			[
+				"measure",
+				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"三十": {
+		"py": "sānshí",
+		"mn": [
+			[
+				"",
+				"ba mươi"
+			]
+		]
+	},
+	"块": {
+		"py": "kuài",
+		"mn": [
+			[
+				"measure",
+				"viên; bánh; đống; khối | tấm; mảnh; miếng; chiếc | tờ; đồng (tiền đồng hoặc tiền giấy)"
+			],
+			[
+				"n",
+				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"会员卡": {
+		"py": "huìyuánkǎ",
+		"mn": [
+			[
+				"n",
+				"Thẻ hội viên"
+			]
+		]
+	},
+	"的话": {
+		"py": "dehuà",
+		"mn": [
+			[
+				"part",
+				"nếu (trợ từ, biểu thị sự giả thiết)"
+			]
+		]
+	}
+}

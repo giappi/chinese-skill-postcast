@@ -1,0 +1,352 @@
+{
+	"销售部": {
+		"py": "xiāoshòubù",
+		"mn": [
+			[
+				"n",
+				"phòng bán hàng; phòng kinh doanh; phòng tiêu thụ; bộ phận kinh doanh"
+			]
+		]
+	},
+	"全体": {
+		"py": "quántǐ",
+		"mn": [
+			[
+				"n",
+				"toàn thể (thường chỉ về người)"
+			]
+		]
+	},
+	"成员": {
+		"py": "chéngyuán",
+		"mn": [
+			[
+				"n",
+				"thành viên; hội viên; thành phần"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"大家": {
+		"py": "dàjiā",
+		"mn": [
+			[
+				"n",
+				"chuyên gia; người nổi tiếng; bậc thầy | nhà quyền quý; thế gia vọng tộc"
+			],
+			[
+				"pro",
+				"mọi người; cả nhà"
+			]
+		]
+	},
+	"于": {
+		"py": "yú",
+		"mn": [
+			[
+				"prep",
+				"vào; ở; tại; ở tại (thời gian, địa điểm) | cho; với; về; đối với; hướng về; quay về | từ | tới; đến | bởi; bị; được (biểu thị bị động) | hơn (biểu thị so sánh) | nhờ ở; do ở (chỉ nguyên nhân)"
+			],
+			[
+				"n",
+				"họ Vu"
+			]
+		]
+	},
+	"本月": {
+		"py": "běnyuè",
+		"mn": [
+			[
+				"n",
+				"tháng này"
+			]
+		]
+	},
+	"下午": {
+		"py": "xiàwǔ",
+		"mn": [
+			[
+				"n, time",
+				"buổi chiều; xế bóng (từ 12 giờ trưa đến tối)"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"公司": {
+		"py": "gōngsī",
+		"mn": [
+			[
+				"n",
+				"công ty"
+			]
+		]
+	},
+	"第一": {
+		"py": "dìyī",
+		"mn": [
+			[
+				"",
+				"thứ nhất; hạng nhất; bậc nhất; đầu tiên; đệ nhất | quan trọng nhất"
+			]
+		]
+	},
+	"会议室": {
+		"py": "huìyìshì",
+		"mn": [
+			[
+				"n",
+				"phòng họp; phòng hội nghị"
+			]
+		]
+	},
+	"开会": {
+		"py": "kāihuì",
+		"mn": [
+			[
+				"sv",
+				"họp; mở họp; mở hội nghị"
+			]
+		]
+	},
+	"会议": {
+		"py": "huìyì",
+		"mn": [
+			[
+				"n",
+				"cuộc họp | hội nghị"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"主要": {
+		"py": "zhǔyào",
+		"mn": [
+			[
+				"adj",
+				"chính; chủ yếu | chính; căn bản; cốt lõi"
+			]
+		]
+	},
+	"内容": {
+		"py": "nèiróng",
+		"mn": [
+			[
+				"n",
+				"nội dung"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"对": {
+		"py": "duì",
+		"mn": [
+			[
+				"prep",
+				"về; với; đối với"
+			],
+			[
+				"measure",
+				"đôi; cặp"
+			],
+			[
+				"adj",
+				"đúng; chính xác | đối diện; đối địch; bên kia"
+			],
+			[
+				"n",
+				"câu đối | cặp đôi (quan hệ hợp tác)"
+			],
+			[
+				"v",
+				"trả lời; đáp lời; đối đáp | đối đãi; đối xử; đối phó | hướng về; nhằm vào | đối; khớp; khép | so sánh; đối chiếu | chỉnh; điều chỉnh; sửa đổi | pha | chia đôi; chia hai | xứng; hợp; vừa; tương ứng; phù hợp"
+			],
+			[
+				"adv",
+				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"上个月": {
+		"py": "shànggèyuè",
+		"mn": [
+			[
+				"n",
+				"tháng trước"
+			]
+		]
+	},
+	"销售": {
+		"py": "xiāoshòu",
+		"mn": [
+			[
+				"v",
+				"bán; kinh doanh; tiêu thụ (hàng hóa)"
+			]
+		]
+	},
+	"情况": {
+		"py": "qíngkuàng",
+		"mn": [
+			[
+				"n",
+				"tình hình; tình trạng; trạng thái | tình cảnh; hoàn cảnh; điều kiện sống; tình hình (con người) | chuyển biến; thay đổi; biến đổi (đáng chú ý, có ảnh hưởng)"
+			]
+		]
+	},
+	"进行": {
+		"py": "jìnxíng",
+		"mn": [
+			[
+				"v",
+				"làm; tiến hành; thực hiện; triển khai | tiến lên; tiến tới; tiến lên phía trước | diễn ra; tiến hành; tiến triển; tiếp tục"
+			]
+		]
+	},
+	"汇报": {
+		"py": "huìbào",
+		"mn": [
+			[
+				"v",
+				"báo cáo"
+			],
+			[
+				"n",
+				"báo cáo; bản báo cáo"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"统计": {
+		"py": "tǒngjì",
+		"mn": [
+			[
+				"v",
+				"công tác thống kê; việc thống kê; thống kê | thống kê; đếm; thu thập số liệu"
+			]
+		]
+	},
+	"分析": {
+		"py": "fēnxī",
+		"mn": [
+			[
+				"v",
+				"phân tích"
+			]
+		]
+	},
+	"务必": {
+		"py": "wùbì",
+		"mn": [
+			[
+				"adv",
+				"phải; ắt phải; nhất thiết phải; nhất định phải"
+			]
+		]
+	},
+	"准时": {
+		"py": "zhǔnshí",
+		"mn": [
+			[
+				"adj",
+				"đúng giờ"
+			]
+		]
+	},
+	"参加": {
+		"py": "cānjiā",
+		"mn": [
+			[
+				"v",
+				"tham gia; gia nhập; tham dự; dự; nhập cuộc | đề xuất; đưa ra; cho; góp (ý kiến)"
+			],
+			[
+				"n",
+				"sự tham gia; sự tham dự; sự góp mặt"
+			]
+		]
+	}
+}

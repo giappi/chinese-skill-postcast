@@ -1,0 +1,403 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"租": {
+		"py": "zū",
+		"mn": [
+			[
+				"v",
+				"thuê; mướn | cho thuê; cho mướn"
+			],
+			[
+				"n",
+				"tiền thuê | tô thuế; thuế má; thuế ruộng"
+			]
+		]
+	},
+	"车": {
+		"py": "chē",
+		"mn": [
+			[
+				"n",
+				"xe; xe cộ | xa; xe; guồng; cái guồng | máy; máy móc | họ Xa"
+			],
+			[
+				"v",
+				"tiện; gọt; gia công (máy móc) | tưới; đạp nước; tưới nước"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"先": {
+		"py": "xiān",
+		"mn": [
+			[
+				"adv",
+				"trước (hành động xảy ra trước) | tạm; tạm thời | trước đó; trước kia; trước đây"
+			],
+			[
+				"adj",
+				"người quá cố (tôn xưng người đã chết)"
+			],
+			[
+				"n",
+				"trước; tiên (thời gian, thứ tự) | đời trước; tổ tiên | lúc đầu; ban đầu | họ Tiên"
+			],
+			[
+				"v",
+				"đi trước"
+			]
+		]
+	},
+	"填写": {
+		"py": "tiánxiě",
+		"mn": [
+			[
+				"v",
+				"điền; viết; ghi"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"护照": {
+		"py": "hùzhào",
+		"mn": [
+			[
+				"n",
+				"hộ chiếu"
+			]
+		]
+	},
+	"或者": {
+		"py": "huòzhě",
+		"mn": [
+			[
+				"conj",
+				"hoặc; hoặc là; hay; hay là"
+			],
+			[
+				"adv",
+				"có lẽ; có thể; chắc là"
+			]
+		]
+	},
+	"身份证": {
+		"py": "shēnfènzhèng",
+		"mn": [
+			[
+				"n",
+				"chứng minh thư; thẻ căn cước; căn cước công dân"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"这": {
+		"py": "zhèi",
+		"mn": [
+			[
+				"pro",
+				"âm khẩu ngữ của '这'"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"你们": {
+		"py": "nǐmen",
+		"mn": [
+			[
+				"pro",
+				"mấy người; các cậu; các bạn; các ông; các bà; anh chị; các anh; các chị"
+			]
+		]
+	},
+	"这里": {
+		"py": "zhèlǐ",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; nơi đây; tại đây"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"收费": {
+		"py": "shōufèi",
+		"mn": [
+			[
+				"v",
+				"thu phí"
+			]
+		]
+	},
+	"每": {
+		"py": "měi",
+		"mn": [
+			[
+				"pro",
+				"each,every | each,every"
+			],
+			[
+				"adv",
+				"mỗi khi; mỗi lần; mỗi dịp | thường; hay"
+			]
+		]
+	},
+	"天": {
+		"py": "tiān",
+		"mn": [
+			[
+				"n",
+				"trời; không trung; bầu trời | thời gian | mùa; tiết | thời tiết; tiết trời | tự nhiên; thiên nhiên | thiên; trời | thiên; thiên đàng; thiên đường | ngày; hôm | họ Thiên"
+			],
+			[
+				"measure",
+				"ngày"
+			],
+			[
+				"adj",
+				"trên nóc; trên đỉnh | bẩm sinh; thiên phú"
+			]
+		]
+	},
+	"元": {
+		"py": "yuán",
+		"mn": [
+			[
+				"measure",
+				"đồng tiền (đơn vị tiền tệ)"
+			],
+			[
+				"n",
+				"đầu người | yếu tố; nguyên tố | bộ phận cấu thành một chỉnh thể | nhà Nguyên | tên tiền kim loại thời cổ | họ Nguyên"
+			],
+			[
+				"adj",
+				"đầu tiên; thứ nhất; bắt đầu | đứng đầu | chủ yếu; cơ bản"
+			]
+		]
+	},
+	"押金": {
+		"py": "yājīn",
+		"mn": [
+			[
+				"n",
+				"tiền thế chấp; tiền cọc; cọc"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"十": {
+		"py": "shí",
+		"mn": [
+			[
+				"numb",
+				"mười; số mười | rất; hết sức; vô cùng; hoàn toàn | nhiều; rất nhiều"
+			],
+			[
+				"n",
+				"họ Thập."
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"谢谢": {
+		"py": "xièxie",
+		"mn": [
+			[
+				"v",
+				"cảm ơn; tạ ơn; cám ơn; biết ơn"
+			]
+		]
+	},
+	"钥匙": {
+		"py": "yàoshi",
+		"mn": [
+			[
+				"n",
+				"chìa; chìa khoá"
+			]
+		]
+	},
+	"祝": {
+		"py": "zhù",
+		"mn": [
+			[
+				"v",
+				"chúc; cầu chúc | khấn; cầu khấn | đoạn tuyệt; cắt đứt; cắt; gọt"
+			],
+			[
+				"n",
+				"họ Chúc"
+			]
+		]
+	},
+	"玩": {
+		"py": "wán",
+		"mn": [
+			[
+				"v",
+				"đùa; chơi; nghịch; chơi đùa | chơi (thể thao) | giở; giở trò (thủ đoạn, mánh khoé) | khinh; xem nhẹ; đùa giỡn | ngắm; ngắm nhìn; thưởng ngoạn | cảm nhận; nghiền ngẫm; suy ngẫm"
+			],
+			[
+				"n",
+				"đồ; đồ vật; đồ chơi | họ Ngoạn"
+			]
+		]
+	},
+	"得": {
+		"py": "dé",
+		"mn": [
+			[
+				"v",
+				"được; có | được; là (chỉ kết quả tính toán) | phù hợp; thích hợp; đắc | đắc ý; đắc chí | hoàn thành; xong; hoàn tất | được; được thôi; thôi đi (dùng khi kết thúc cuộc nói chuyện, biểu thị sự đồng ý hoặc can ngăn, cấm đoán) | thôi (dùng khi tình huống xấu, biểu thị không biết phải làm thế nào) | được; được phép (dùng trước một động từ khác biểu thị cho phép, thường dùng trong pháp lệnh và công văn) | có thể; có lẽ (dùng trước động từ khác biểu thị khả năng, thường dùng trong câu phủ định) | được"
+			]
+		]
+	},
+	"开心": {
+		"py": "kāixīn",
+		"mn": [
+			[
+				"adj",
+				"vui vẻ; hạnh phúc; vui sướng"
+			],
+			[
+				"v",
+				"đùa giỡn; giễu cợt; làm trò đùa; làm trò cười"
+			]
+		]
+	}
+}

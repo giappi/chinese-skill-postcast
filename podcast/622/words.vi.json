@@ -1,0 +1,176 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"世界": {
+		"py": "shìjiè",
+		"mn": [
+			[
+				"n",
+				"thế giới; trái đất | thế giới (trừu tượng) | thời buổi; thời đại"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"家": {
+		"py": "jiā",
+		"mn": [
+			[
+				"n",
+				"nhà; gia đình | nhà; nơi ở; chỗ ở | nhà; dân; tay | nhà; chuyên gia; chuyên viên | nhà; gia; phái | nhà; gia (lời nói khiêm tốn, xưng hô với người trên bậc của mình) | bên; đối thủ; đối phương | dân tộc | nhà; gia (gia đình hoặc cá nhân có mối quan hệ) | họ Gia"
+			],
+			[
+				"adj",
+				"nuôi quen; đã thuần phục (động vật)"
+			],
+			[
+				"measure",
+				"ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"哪儿": {
+		"py": "nǎr",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | bất kỳ đâu | đâu có (cách trả lời khiêm tốn khi được người khác khen ngợi)"
+			],
+			[
+				"adv",
+				"sao; nào; đâu; sao mà (thể hiện sự phủ định)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"这儿": {
+		"py": "zhèr",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; chỗ này | lúc này; từ đây"
+			]
+		]
+	},
+	"那儿": {
+		"py": "nàr",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; nơi ấy; đằng kia; đằng ấy | lúc ấy; bấy giờ"
+			]
+		]
+	},
+	"离": {
+		"py": "lí",
+		"mn": [
+			[
+				"v",
+				"cách | xa; rời xa; xa cách; rời đi; chia li | thiếu | phản bội; đi ngược; làm trái; không tuân theo"
+			],
+			[
+				"n",
+				"Ly (một trong tám quẻ bát quái)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"远": {
+		"py": "yuǎn",
+		"mn": [
+			[
+				"adj",
+				"xa; viễn | xa; sơ sơ; không thân (quan hệ huyết thống) | xa; khác nhau xa"
+			],
+			[
+				"n",
+				"họ Viễn"
+			],
+			[
+				"v",
+				"rời; tránh; xa lánh"
+			]
+		]
+	}
+}

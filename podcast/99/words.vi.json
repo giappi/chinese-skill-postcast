@@ -1,0 +1,223 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"吃": {
+		"py": "chī",
+		"mn": [
+			[
+				"v",
+				"ăn; uống | nhờ; sống nhờ; ăn nhờ ở đậu | ăn; tiêu diệt (dùng trong quân sự,chơi cờ) | tốn; mất; tiêu thụ; hao phí | thấm; hút; hấp thu (chất lỏng) | chịu; bị; mắc; cam chịu; chịu đựng | tiếp thu; tìm hiểu | ngập; mớn; ăn vào (chỉ một vật thể đi vào một vật thể khác) | chấp nhận; đồng ý | ăn hàng; ăn quán; ăn nhà hàng"
+			],
+			[
+				"n",
+				"đồ ăn"
+			],
+			[
+				"adj",
+				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"道": {
+		"py": "dào",
+		"mn": [
+			[
+				"n",
+				"đường; con đường; lối đi | dòng; tia; dòng chảy | phương pháp; cách làm; quy luật | đạo đức | tài; kỹ thuật; tay nghề; nghệ thuật; kỹ nghệ | đạo; học thuật; giáo lý (hệ thống tư tưởng tôn giáo) | đạo gia | đạo giáo; đạo sĩ; tín đồ đạo giáo (thuộc về đạo giáo) | đạo (tổ chức mê tín trong xã hội phong kiến) | đạo (đơn vị hành chánh đời Đường, tương đương với tỉnh ngày nay, thời Thanh, đạo là đơn vị dưới tỉnh) | vết; đường nét | họ Đạo"
+			],
+			[
+				"v",
+				"nói; bàn; ăn nói | tỏ ý; bày tỏ; ngỏ lời | tưởng; cho rằng; cho là; tưởng là"
+			],
+			[
+				"measure",
+				"món (lượng từ của món ăn) | dòng; vết; vệt; đạo; sợi; tia (dùng trước từ chỉ sông ngòi, vật có hình dài) | bức; cánh (dùng để chỉ cửa, tường) | câu; lệnh (chỉ mệnh lệnh, câu hỏi, đề bài)"
+			]
+		]
+	},
+	"菜": {
+		"py": "cài",
+		"mn": [
+			[
+				"n",
+				"rau (thực vật có thể làm thức ăn) | dầu; dầu thực vật | món ăn; thức ăn; đồ ăn | họ Thái"
+			],
+			[
+				"adj",
+				"kém; tệ; kém cỏi; tầm thường"
+			]
+		]
+	},
+	"叫": {
+		"py": "jiào",
+		"mn": [
+			[
+				"v",
+				"kêu; gáy; hú; sủa; rống; gầm | tên là; gọi là | gọi; hô hoán | chào; chào hỏi | sai; bảo; sai khiến; yêu cầu | cho phép; đáp ứng | gọi; đặt; thuê; mua (gọi mang tận nơi)"
+			],
+			[
+				"adj",
+				"trống; giống đực"
+			],
+			[
+				"prep",
+				"bị | theo; theo như; cho rằng"
+			]
+		]
+	},
+	"宫爆鸡丁": {
+		"py": "gōngbàojīdīng",
+		"mn": [
+			[
+				"n",
+				"gà cồng bao | gà cay thái hạt lựu"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"用": {
+		"py": "yòng",
+		"mn": [
+			[
+				"v",
+				"dùng; sử dụng | cần (dùng trong câu phủ định) | dùng; uống; ăn (lịch sự)"
+			],
+			[
+				"n",
+				"chi phí; chi tiêu | công hiệu; hiệu quả; công dụng | họ Dụng"
+			],
+			[
+				"prep",
+				"dùng; bằng; bằng cách"
+			],
+			[
+				"conj",
+				"vì; do; nhờ"
+			]
+		]
+	},
+	"汉语": {
+		"py": "hànyǔ",
+		"mn": [
+			[
+				"n",
+				"Hán ngữ; tiếng Hán; tiếng Hoa; tiếng Trung Quốc; hoa ngữ"
+			]
+		]
+	},
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"说": {
+		"py": "shuō",
+		"mn": [
+			[
+				"v",
+				"nói; kể | giải thích; giảng giải | mắng; trách móc; chỉ trích; khuyên nhủ | giới thiệu; làm mối | nói; bàn; bàn luận | nói; biểu diễn (nghệ thuật)"
+			],
+			[
+				"n",
+				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"回锅肉": {
+		"py": "huíguōròu",
+		"mn": [
+			[
+				"n",
+				"thịt lợn nấu chín hai lần"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"四川": {
+		"py": "sìchuān",
+		"mn": [
+			[
+				"n",
+				"Tứ Xuyên (tỉnh của Trung Quốc)"
+			]
+		]
+	},
+	"有点": {
+		"py": "yǒudiǎn",
+		"mn": [
+			[
+				"adv",
+				"hơi; có phần; khá là"
+			],
+			[
+				"v",
+				"có ít; có chút"
+			]
+		]
+	},
+	"辣": {
+		"py": "là",
+		"mn": [
+			[
+				"adj",
+				"cay; cay nồng | cay độc; độc ác; tàn nhẫn"
+			],
+			[
+				"v",
+				"cay xè; cay cay; bỏng (mùi cay kích thích mũi hoặc mắt)"
+			]
+		]
+	}
+}

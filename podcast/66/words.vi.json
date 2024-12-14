@@ -1,0 +1,404 @@
+{
+	"您好": {
+		"py": "nínhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào; chào ngài (lễ phép, kính trọng)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"需要": {
+		"py": "xūyào",
+		"mn": [
+			[
+				"v",
+				"cần; cần phải; nên có; cần có"
+			],
+			[
+				"n",
+				"sự đòi hỏi; yêu cầu; nhu cầu"
+			]
+		]
+	},
+	"托运": {
+		"py": "tuōyùn",
+		"mn": [
+			[
+				"v",
+				"ký gửi; uỷ thác vận chuyển (hàng hoá, hành lý); gửi hàng"
+			]
+		]
+	},
+	"这个": {
+		"py": "zhège",
+		"mn": [
+			[
+				"pro",
+				"cái này; này | cái này; việc này; vật này | quá; rất (dùng trước động từ, tính từ, biểu thị khoa trương)"
+			]
+		]
+	},
+	"箱子": {
+		"py": "xiāngzi",
+		"mn": [
+			[
+				"n",
+				"hòm; rương; vali"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"问题": {
+		"py": "wèntí",
+		"mn": [
+			[
+				"n",
+				"câu hỏi; đề hỏi | vấn đề (phải nghiên cứu, thảo luận, giải quyết) | chuyện; trở ngại; trắc trở; vấn đề | quan trọng; mấu chốt (điểm)"
+			],
+			[
+				"adj",
+				"có vấn đề; không bình thường"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"里": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"bên trong; phía trong | lót (bên trong, mặt trái của áo hoặc chăn) | xóm; làng | quê hương | trong; nội bộ | nơi; chỗ | họ Lí"
+			],
+			[
+				"measure",
+				"dặm (đơn vị đo chiều dài, bằng 1/2 km)"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"倒": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"rót; đổ; trút | lùi; lùi lại | đảo; đảo lại (làm đảo vị trí trên dưới hoặc trước sau)"
+			],
+			[
+				"adj",
+				"ngược; đảo; đảo ngược | trở lại; trái lại; ngược lại; tương phản"
+			],
+			[
+				"adv",
+				"lại; nhưng; nào ngờ; ngược lại | đi chứ; hay không (biểu thị sự gạn hỏi, tỏ ý sốt ruột) | nhưng (có ý trách móc) | nhưng; nhưng mà (chuyển ngoặt) | thật sự (nhượng bộ) | đâu; đấy (mang ý nghĩa làm dịu ngữ khí)"
+			]
+		]
+	},
+	"没有": {
+		"py": "méiyǒu",
+		"mn": [
+			[
+				"v",
+				"không có (sở hữu) | không (tồn tại) | không bằng | không đủ; không tới; không đến"
+			],
+			[
+				"adv",
+				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"不过": {
+		"py": "bùguò",
+		"mn": [
+			[
+				"adv",
+				"chỉ; chỉ là; chỉ có; chỉ mới; chẳng qua là; chẳng qua chỉ là | hết sức; trên hết; vô cùng; quá là"
+			],
+			[
+				"conj",
+				"song; nhưng; nhưng mà; có điều là; chỉ có điều; có điều; cơ mà"
+			]
+		]
+	},
+	"怕": {
+		"py": "pà",
+		"mn": [
+			[
+				"v",
+				"sợ; sợ hãi; lo sợ | lo; ngại; e là; e rằng | sợ (không thể chịu đựng được)"
+			],
+			[
+				"adv",
+				"có lẽ (ước lượng)"
+			]
+		]
+	},
+	"压": {
+		"py": "yā",
+		"mn": [
+			[
+				"v",
+				"ép; đè; làm giảm | kìm; dồn; nén | áp chế; ép; chèn ép | tiếp cận; áp sát; đến gần | xếp lại; gấp lại; tồn đọng; dồn lại; lưu lại | đặt cửa (khi đánh bạc đặt tiền vào một cửa nào đó) | dồn nén; đè nén (tinh thần) | áp đảo; át đi"
+			],
+			[
+				"n",
+				"áp; áp lực"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"别": {
+		"py": "bié",
+		"mn": [
+			[
+				"v",
+				"phân ly; chia lìa; xa cách; chia ly; biệt ly | phân tách; phân biệt; chia ra | cắm; giắt; cài; chốt; gài; kẹt | cài; kẹp; đính; ghim; cặp | quay; chuyển biến; xoay chuyển; chuyển động | chặn; ngáng"
+			],
+			[
+				"pro",
+				"khác; cái khác"
+			],
+			[
+				"n",
+				"sự khác biệt | thứ; loại; hạng; phái | họ Biệt"
+			],
+			[
+				"adj",
+				"đặc biệt; độc đáo | chữ sai; chữ đọc sai; chữ viết sai"
+			],
+			[
+				"adv",
+				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"担心": {
+		"py": "dānxīn",
+		"mn": [
+			[
+				"v",
+				"lo; lo lắng; lo nghĩ; trằn trọc; không yên lòng"
+			]
+		]
+	},
+	"会": {
+		"py": "huì",
+		"mn": [
+			[
+				"measure",
+				"một lát; một chút; một hồi; lát nữa; một lúc"
+			],
+			[
+				"v",
+				"sẽ; có thể; có khả năng | biết; hiểu; thông hiểu | hiểu; biết; lĩnh hội | nên; cần; phải | tiếp; gặp mặt; gặp nhau; gặp gỡ | hội họp; tụ họp; tụ tập; hợp lại | giỏi; khéo; chuyên; sở trường | trả tiền; thanh toán"
+			],
+			[
+				"n",
+				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"勿": {
+		"py": "wù",
+		"mn": [
+			[
+				"adv",
+				"chớ; đừng; miễn; không"
+			]
+		]
+	},
+	"挤压": {
+		"py": "jǐyā",
+		"mn": [
+			[
+				"v",
+				"ép; nén; dồn nén"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"标志": {
+		"py": "biāozhì",
+		"mn": [
+			[
+				"n",
+				"ký hiệu; cột mốc; biểu tượng; dấu hiệu"
+			],
+			[
+				"v",
+				"đánh dấu; cắm mốc"
+			]
+		]
+	},
+	"超重": {
+		"py": "chāozhòng",
+		"mn": [
+			[
+				"adj",
+				"siêu trọng | quá tải; vượt quá mức tải trọng an toàn của xe | số cân thừa; trọng lượng trội; lố ký; quá ký; vượt quá trọng lượng quy định"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"交": {
+		"py": "jiāo",
+		"mn": [
+			[
+				"v",
+				"đưa; giao; nộp; giao nộp | giáp; giao mùa; giao thời; liền với nhau (khu vực, thời gian) | đến; tới (giờ, mùa) | gặp (vận mệnh) | kết; kết giao; giao du | giao cấu; giao hợp; giao phối | tiếp cận; tiếp xúc; kề nhau; gần nhau"
+			],
+			[
+				"n",
+				"giao điểm; giao thời | tình bạn; bạn bè; hữu nghị | họ Giao"
+			],
+			[
+				"adv",
+				"lẫn nhau; tương hỗ; qua lại; với nhau | cùng; vừa; đồng thời"
+			]
+		]
+	},
+	"三": {
+		"py": "sān",
+		"mn": [
+			[
+				"numb",
+				"ba; số ba | nhiều lần | vài; một vài; không nhiều | thứ ba; hạng ba"
+			],
+			[
+				"n",
+				"họ Tam"
+			]
+		]
+	},
+	"公斤": {
+		"py": "gōngjīn",
+		"mn": [
+			[
+				"measure",
+				"ki lô gam; ki-lô-gam; kg; cân"
+			]
+		]
+	},
+	"费": {
+		"py": "fèi",
+		"mn": [
+			[
+				"v",
+				"chi tiêu; tiêu; tốn; tiêu tốn | hao nhiều; lãng phí; tốn (công, sức)"
+			],
+			[
+				"n",
+				"phí; lệ phí; chi phí; phí tổn | họ Phí"
+			]
+		]
+	},
+	"好吧": {
+		"py": "hǎoba",
+		"mn": [
+			[
+				"sentence",
+				"thôi được; được rồi; được thôi"
+			]
+		]
+	}
+}

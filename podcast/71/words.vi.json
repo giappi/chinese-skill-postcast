@@ -1,0 +1,283 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"头疼": {
+		"py": "tóuténg",
+		"mn": [
+			[
+				"v",
+				"đau đầu; nhức đầu"
+			],
+			[
+				"adj",
+				"đau đầu"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"流": {
+		"py": "liú",
+		"mn": [
+			[
+				"v",
+				"chảy; đổ | di động; di chuyển | lưu truyền; truyền đi; đồn đại | rơi vào; sa vào; trở nên; mang tính | chảy; nước chảy | đày đi; lưu đày"
+			],
+			[
+				"n",
+				"loại; phẩm loại; phẩm cấp | dòng; luồng (nước) | dòng; luồng (chỉ người hoặc đồ vật) | họ Lưu"
+			],
+			[
+				"adj",
+				"trôi chảy; lưu loát"
+			],
+			[
+				"measure",
+				"lumen (đơn vị của ánh sáng)"
+			]
+		]
+	},
+	"鼻涕": {
+		"py": "bítì",
+		"mn": [
+			[
+				"n",
+				"nước mũi"
+			]
+		]
+	},
+	"张嘴": {
+		"py": "zhāngzuǐ",
+		"mn": [
+			[
+				"v",
+				"mở miệng; mở mồm; nói chuyện | xin; cầu xin"
+			]
+		]
+	},
+	"啊": {
+		"py": "ā",
+		"mn": [
+			[
+				"intj",
+				"ô; ồ (tỏ ý ngạc nhiên, vui mừng hoặc khen)"
+			]
+		]
+	},
+	"感冒": {
+		"py": "gǎnmào",
+		"mn": [
+			[
+				"n",
+				"ốm; cảm cúm"
+			],
+			[
+				"adj",
+				"quan tâm; khoái; thích; hứng thú"
+			],
+			[
+				"v",
+				"bị cảm; cảm"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"给": {
+		"py": "gěi",
+		"mn": [
+			[
+				"v",
+				"cho; đưa cho; giao cho; trao cho (đưa đối phương vật gì) | làm; cho (cho ai làm việc gì đó) | cho"
+			],
+			[
+				"prep",
+				"bị (mang nghĩa bị động) | cho (vì đối phương làm điều gì đó) | tới; đến; cho (hành động hướng tới ai) | đưa cho; giao cho | cho"
+			],
+			[
+				"av",
+				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"开": {
+		"py": "kāi",
+		"mn": [
+			[
+				"v",
+				"mở; bật; mở ra | xẻ; đào; khơi; khai; khai khẩn | nở; mở; khai; bung ra | tan; tan chảy | hủy bỏ; bãi bỏ; gỡ bỏ; trừ bỏ đi | lái; chạy; bắn; nổ; khởi động; điều khiển | xuất phát; lên đường; khởi hành | lập; mở; dựng; đặt; thiết lập; khai sáng; kinh doanh | bắt đầu | tổ chức; cử hành | viết; kê; kê khai | chi; trả | sôi | ăn | đuổi; loại; khai trừ; cho nghỉ | chia  (theo tỷ lệ nhất định)"
+			],
+			[
+				"measure",
+				"Ca-ra；karat | lần (sôi) | Kelvin (K) | khổ (giấy)"
+			],
+			[
+				"n",
+				"tỷ lệ; tỷ lệ phần trăm | họ Khai"
+			]
+		]
+	},
+	"点": {
+		"py": "diǎn",
+		"mn": [
+			[
+				"n",
+				"giọt; hạt | chấm; vết; vệt | nét chấm (chữ Hán) | điểm (hình học) | cái kẻng; đánh kẻng (để báo giờ) | phẩy; dấu phẩy (trong số lẻ) | nơi; chỗ; điểm | bánh; điểm tâm; ăn sáng | điểm (không gian hoặc cấp độ) | lúc; giờ (quy định) | điểm; điều; việc | nhịp; nhịp điệu"
+			],
+			[
+				"v",
+				"nhón chân | nhắc; gợi ý; nhằm vào; nói đến | đạp; chạm; đẩy; đáp; chấm | gật; vẫy | nhỏ; tra (thuốc) | trồng; tra; gieo; trỉa hạt | điểm; kiểm; xét; đếm; gọi; điểm danh; gọi tên | chấm; điểm | nhắc; bảo; gợi ý; dạy bảo | điểm; điểm xuyết; tô điểm; trang điểm | chọn; chấm; chỉ định | thắp; điểm; đốt; châm | ăn; ăn lót dạ"
+			],
+			[
+				"measure",
+				"giờ (đơn vị chỉ thời gian) | điểm (một phần năm của canh) | ít; tí; chút; vặt; nhỏ (số lượng nhỏ) | điều; điểm; việc"
+			]
+		]
+	},
+	"药": {
+		"py": "yào",
+		"mn": [
+			[
+				"n",
+				"thuốc; vị thuốc | thuốc (hóa học) | họ Dược"
+			],
+			[
+				"v",
+				"cứu; chữa; điều trị; trị bệnh; chữa bệnh | giết; tiêu diệt"
+			]
+		]
+	},
+	"一天": {
+		"py": "yītiān",
+		"mn": [
+			[
+				"n",
+				"một hôm; một hôm nào đó | cả ngày; cả ngày đêm"
+			]
+		]
+	},
+	"三": {
+		"py": "sān",
+		"mn": [
+			[
+				"numb",
+				"ba; số ba | nhiều lần | vài; một vài; không nhiều | thứ ba; hạng ba"
+			],
+			[
+				"n",
+				"họ Tam"
+			]
+		]
+	},
+	"次": {
+		"py": "cì",
+		"mn": [
+			[
+				"measure",
+				"lần; lượt; đợt"
+			],
+			[
+				"n",
+				"thứ tự | trọ; chỗ nghỉ trọ; điểm dừng chân | họ Thứ"
+			],
+			[
+				"adj",
+				"kém; tồi; tệ; xấu | thứ; sau; kế"
+			],
+			[
+				"v",
+				"xếp; xếp bày"
+			]
+		]
+	},
+	"每次": {
+		"py": "měicì",
+		"mn": [
+			[
+				"adv",
+				"mỗi lần"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"片": {
+		"py": "piàn",
+		"mn": [
+			[
+				"n",
+				"tấm; mảnh; lát; miếng | vùng | phim; bộ phim | họ Phiến"
+			],
+			[
+				"measure",
+				"tấm; miếng; mảnh; cánh | đám; bãi; đống; vùng (mặt đất, mặt nước) | tấm; tràng; bầu; loạt; khung cảnh"
+			],
+			[
+				"v",
+				"thái; cắt; lạng | mở; cắt mở; chia tách"
+			],
+			[
+				"adj",
+				"rời rạc; vụn vặt; ngắn gọn | một chiều; về một bên"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	}
+}

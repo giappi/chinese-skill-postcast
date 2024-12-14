@@ -1,0 +1,417 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"每": {
+		"py": "měi",
+		"mn": [
+			[
+				"pro",
+				"each,every | each,every"
+			],
+			[
+				"adv",
+				"mỗi khi; mỗi lần; mỗi dịp | thường; hay"
+			]
+		]
+	},
+	"月": {
+		"py": "yuè",
+		"mn": [
+			[
+				"n",
+				"tháng | mỗi tháng; hàng tháng | trăng; mặt trăng"
+			],
+			[
+				"adj",
+				"nguyệt; hình tròn; tròn như mặt trăng"
+			]
+		]
+	},
+	"块": {
+		"py": "kuài",
+		"mn": [
+			[
+				"measure",
+				"viên; bánh; đống; khối | tấm; mảnh; miếng; chiếc | tờ; đồng (tiền đồng hoặc tiền giấy)"
+			],
+			[
+				"n",
+				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"房子": {
+		"py": "fángzi",
+		"mn": [
+			[
+				"n",
+				"nhà; nhà cửa; cái nhà"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"必须": {
+		"py": "bìxū",
+		"mn": [
+			[
+				"adv",
+				"phải; nhất định phải | nhất thiết phải; nhất định phải (ngữ khí ra lệnh)"
+			]
+		]
+	},
+	"交通费": {
+		"py": "jiāotōngfèi",
+		"mn": [
+			[
+				"n",
+				"phí giao thông, tiền đi lại, chi phí vận chuyển, chi phí đi lại"
+			]
+		]
+	},
+	"等": {
+		"py": "děng",
+		"mn": [
+			[
+				"v",
+				"đợi; chờ; chờ đợi | đợi đến; đến lúc; chờ tới; đợi tới"
+			],
+			[
+				"part",
+				"vân vân; v.v (liệt kê) | được sử dụng để kết thúc danh sách sau khi liệt kê; thường theo sau là tổng số mục trước đó"
+			],
+			[
+				"adj",
+				"ngang bằng; ngang nhau; tương đương"
+			],
+			[
+				"measure",
+				"thứ; hạng; loại; chủng loại"
+			],
+			[
+				"n",
+				"bậc; loại; hạng; đẳng cấp; thứ tự | cân tiểu ly | họ Đẳng"
+			],
+			[
+				"pro",
+				"bọn; lũ; các; chúng; những (dùng sau đại từ nhân xưng hoặc danh từ chỉ người để chỉ số nhiều)"
+			]
+		]
+	},
+	"平时": {
+		"py": "píngshí",
+		"mn": [
+			[
+				"time, n",
+				"bình thường; lúc thường; ngày thường | thời bình"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"买": {
+		"py": "mǎi",
+		"mn": [
+			[
+				"v",
+				"mua; sắm; tậu | mua chuộc"
+			],
+			[
+				"n",
+				"họ Mãi"
+			]
+		]
+	},
+	"只": {
+		"py": "zhǐ",
+		"mn": [
+			[
+				"adv",
+				"chỉ (trong phạm vi)"
+			]
+		]
+	},
+	"穿": {
+		"py": "chuān",
+		"mn": [
+			[
+				"v",
+				"mặc; đi; mang; đeo (giày, tất) | chọc; xuyên; dùi | xỏ; xâu; xiên; xâu chuỗi | qua; đi qua; xuyên qua; lách qua"
+			],
+			[
+				"adj",
+				"thấu suốt; rõ ràng"
+			],
+			[
+				"n",
+				"quần áo; giày dép"
+			]
+		]
+	},
+	"公司": {
+		"py": "gōngsī",
+		"mn": [
+			[
+				"n",
+				"công ty"
+			]
+		]
+	},
+	"发": {
+		"py": "fā",
+		"mn": [
+			[
+				"v",
+				"bắn; phát | sản sinh; nảy mầm; nẩy mầm | khởi xướng; phát động; tấn công | biến; biến hoá; biến chất | cảm thấy; cảm giác (thường dùng cho tình huống không tốt) | phát; giao; gửi đi | bật; nổi; lộ ra (tình cảm) | biểu đạt; phát ra | phát, mở rộng, khai triển | phất lên; phất (giàu có vì được nhiều của cải) | nở ra (do lên men hoặc ngâm nước) | phát tán; bốc hơi; bay hơi; toả ra; tản | khai quật; vạch trần; tiết lộ; lộ ra | khởi hành; xuất phát; lên đường | làm cho; khiến; gợi mở | cử; phái"
+			],
+			[
+				"measure",
+				"viên, phát"
+			],
+			[
+				"n",
+				"họ Phát"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"钱": {
+		"py": "qián",
+		"mn": [
+			[
+				"n",
+				"tiền tài; tiền bạc; tiền của | tiền; tiền đồng | giống tiền; những vật có hình dạng giống đồng tiền | khoản; khoản tiền | tiền; tiền tệ; tiền mặt | món tiền; số tiền | họ Tiền"
+			],
+			[
+				"measure",
+				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"旅游": {
+		"py": "lǚyóu",
+		"mn": [
+			[
+				"v",
+				"du ngoạn; du lịch"
+			]
+		]
+	},
+	"能": {
+		"py": "néng",
+		"mn": [
+			[
+				"v",
+				"có thể (thể hiện có đủ năng lực và điều kiện thực hiện hành động.) | có thể (có hiệu quả, công dụng nào đó) | biết; có thể (giỏi về việc gì) | có thể (thể hiện khả năng; dùng để suy đoán) | có thể (thể hiện sự cho phép)"
+			],
+			[
+				"n",
+				"năng lực; tài cán; tài năng | năng lượng"
+			],
+			[
+				"adj",
+				"có tài; có năng lực"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"上": {
+		"py": "shàng",
+		"mn": [
+			[
+				"v",
+				"lên; đi lên | đến; đi; lên; ra | đi; lên; vào (ca; học) | tiến lên; tiếp tục đi | tăng; tăng thêm; cải thiện | ra; lên (trường đấu, sân khấu) | bù thêm; lên; mang lên; đem lên (món ăn) | lắp; vặn; sửa chữa | bôi; quét; phết; tô | đăng; lên; lọt vào | đạt đến; đủ; có | lên | được; đậu (biểu thị có kết quả hoặc đạt mục tiêu) | bắt đầu (sau động từ biểu thị động tác bắt đầu và tiếp tục) | dâng lên; gửi lên; đưa lên | lên dây (đàn, dây cót) | lên mạng | vướng phải; mắc phải"
+			],
+			[
+				"n",
+				"trên; bên trên; phía trên; phía trước | trên (sau danh từ) | trong; tại (sau nơi chốn) | về; về mặt; trên phương diện | Đức Vua; Thánh Thượng; Hoàng Đế | khi (dùng sau tuổi tác) | họ Thượng | âm giai thượng"
+			],
+			[
+				"adj",
+				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"世界": {
+		"py": "shìjiè",
+		"mn": [
+			[
+				"n",
+				"thế giới; trái đất | thế giới (trừu tượng) | thời buổi; thời đại"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"分": {
+		"py": "fēn",
+		"mn": [
+			[
+				"v",
+				"chia; phân; chia cho | phân; phân phối; phân công; phân chia | phân; phân rõ; phân biệt"
+			],
+			[
+				"adj",
+				"chi nhánh; bộ phận (tổ chức)"
+			],
+			[
+				"measure",
+				"phần | phân (đơn vị đo chiều dài) | sào (đơn vị đo diện tích) | điểm (đơn vị đo thành tích) | phân (đơn vị đo trọng lượng) | một phần mười (của một đơn vị đo lường nào đó) | xu (đơn vị tiền tệ) | phút (đơn vị đo thời gian) | phút (đơn vị kinh tuyến, vĩ tuyến) | phân (đơn vị đo lãi suất)"
+			],
+			[
+				"n",
+				"phân số"
+			],
+			[
+				"numb",
+				"phân (đơn vị đo chiều dài)"
+			]
+		]
+	},
+	"成": {
+		"py": "chéng",
+		"mn": [
+			[
+				"v",
+				"hoàn thành; thành công; làm xong; làm trọn | thành đạt; giúp cho thành công; giúp ... đạt ước nguyện | trở thành; biến thành; trở nên; hình thành | lớn; trưởng thành | hàng (nhấn mạnh số lượng nhiều) | được; xong | khá; được; khá lắm; có năng lực"
+			],
+			[
+				"adj",
+				"có sẵn; làm sẵn; may sẵn; đã cố định | phát triển; trưởng thành"
+			],
+			[
+				"n",
+				"kết quả; thành tựu; thành quả | họ Thành"
+			],
+			[
+				"measure",
+				"phần"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"半": {
+		"py": "bàn",
+		"mn": [
+			[
+				"numb",
+				"rưỡi; một nửa | giữa; trung gian | chút; rất ít; tí xíu"
+			],
+			[
+				"adv",
+				"nửa; hé; hờ; hơi hơi; không hoàn toàn"
+			]
+		]
+	},
+	"为了": {
+		"py": "wèile",
+		"mn": [
+			[
+				"prep",
+				"để; vì (biểu thị mục đích)."
+			]
+		]
+	},
+	"认": {
+		"py": "rèn",
+		"mn": [
+			[
+				"v",
+				"nhận thức; phân biệt | thừa nhận; đồng ý | nhận (thiết đặt quan hệ) | chịu; chịu thiệt thòi | nhận lời; nhận làm; tự làm một việc gì đó"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	}
+}

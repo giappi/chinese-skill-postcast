@@ -1,0 +1,295 @@
+{
+	"阿姨": {
+		"py": "āyí",
+		"mn": [
+			[
+				"n",
+				"dì; cô; mợ; thím; bác gái | cô (xưng hô với người phụ nữ xấp xỉ bằng tuổi mẹ mình) | cô (xưng hô với bảo mẫu,giáo viên mầm non)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"栋": {
+		"py": "dòng",
+		"mn": [
+			[
+				"measure",
+				"tòa, căn,ngôi (dùng cho nhà)"
+			],
+			[
+				"n",
+				"xà ngang; xà chính; đòn dông"
+			]
+		]
+	},
+	"楼": {
+		"py": "lóu",
+		"mn": [
+			[
+				"n",
+				"nhà lầu; tòa nhà | tiệm; quán | cổng | lầu; tháp | tầng; lầu | họ Lâu"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"冒": {
+		"py": "mào",
+		"mn": [
+			[
+				"v",
+				"bốc lên; toả ra; ứa ra; phả ra; vã | bất chấp | ló"
+			],
+			[
+				"adv",
+				"mạo nhận; mạo tên | mạo muội; liều lĩnh"
+			],
+			[
+				"n",
+				"họ Mạo"
+			]
+		]
+	},
+	"烟": {
+		"py": "yān",
+		"mn": [
+			[
+				"n",
+				"khói | như khói; hơi; sương mù | yên thảo; cây thuốc lá | thuốc điếu; thuốc sợi; thuốc lá | thuốc phiện | bồ hóng"
+			],
+			[
+				"v",
+				"cay mắt (khói xông vào mắt)"
+			]
+		]
+	},
+	"呢": {
+		"py": "ne",
+		"mn": [
+			[
+				"part",
+				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"糟糕": {
+		"py": "zāogāo",
+		"mn": [
+			[
+				"adj",
+				"hỏng; hỏng bét; gay go; kinh khủng; rắc rối; tồi tệ; tệ"
+			],
+			[
+				"intj",
+				"tiêu rồi; chết rồi; toang rồi; thôi rồi; thôi chết; thôi xong; tiêu đời"
+			]
+		]
+	},
+	"好像": {
+		"py": "hǎoxiàng",
+		"mn": [
+			[
+				"adv",
+				"như; hình như; dường như;  giống như; giống hệt; na ná; y như; có vẻ"
+			],
+			[
+				"v",
+				"trông giống như; giống như; nhìn giống như"
+			]
+		]
+	},
+	"着火": {
+		"py": "zháohuǒ",
+		"mn": [
+			[
+				"v",
+				"cháy; bốc cháy; bắt lửa; bén lửa"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"赶快": {
+		"py": "gǎnkuài",
+		"mn": [
+			[
+				"adv",
+				"nhanh; ngay; mau chóng; nhanh chóng; mau mau; khẩn trương"
+			]
+		]
+	},
+	"打": {
+		"py": "dǎ",
+		"mn": [
+			[
+				"v",
+				"đánh; đập; gõ | vỡ; bể; đánh vỡ; đập vỡ | đánh; đánh nhau; tiến đánh | quan hệ; giao thiệp; giao tiếp | xây; xây dựng; kiến tạo | làm; chế tạo | đánh; quậy; trộn; khuấy | buộc; bó | đan; bện | vẽ; viết; in; bôi | mở; đào; đục | giương; nâng; xách; vén | phát; bắn; đánh | cấp; nhận (giấy tờ) | bỏ đi; vứt bỏ; tỉa bỏ | múc; lấy | mua | bắt; bẫy; đánh | hái; chặt; cắt; đốn | tính; nghĩ ra; định ra | làm; tiến hành | chơi; đánh | biểu thị một số động tác của cơ thể | nêu; đưa ra (phương pháp,phương thức) | gọi (xe taxi) | vực lại (tinh thần)"
+			],
+			[
+				"prep",
+				"từ | căn nguyên; nguyên do"
+			]
+		]
+	},
+	"傻": {
+		"py": "shǎ",
+		"mn": [
+			[
+				"adj",
+				"ngu; dốt; ngốc; đần độn; ngớ ngẩn | máy móc; không linh hoạt"
+			]
+		]
+	},
+	"电话": {
+		"py": "diànhuà",
+		"mn": [
+			[
+				"n",
+				"điện thoại | điện thoại; cuộc điện thoại; cuộc gọi đến"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"啊": {
+		"py": "à",
+		"mn": [
+			[
+				"intj",
+				"ừ; ờ (đồng ý) | a; ờ (tỏ ý hiểu ra, nhớ ra) | a; à; chà (biểu thị sự cảm thán)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"手机": {
+		"py": "shǒujī",
+		"mn": [
+			[
+				"n",
+				"điện thoại di động; điện thoại"
+			]
+		]
+	},
+	"没": {
+		"py": "méi",
+		"mn": [
+			[
+				"v",
+				"không; không có (sở hữu) | không có (tồn tại) | không | không bằng | không tới; không đến; chưa đến"
+			],
+			[
+				"adv",
+				"chưa; chưa từng"
+			]
+		]
+	},
+	"关键": {
+		"py": "guānjiàn",
+		"mn": [
+			[
+				"n",
+				"mấu chốt; điều quan trọng; nhân tố quyết định | then chốt; mấu chốt"
+			],
+			[
+				"adj",
+				"chủ yếu; chính yếu; quan trọng; then chốt"
+			]
+		]
+	},
+	"链子": {
+		"py": "liànzi",
+		"mn": [
+			[
+				"n",
+				"dây xích; xích; lòi tói"
+			]
+		]
+	}
+}

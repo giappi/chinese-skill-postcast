@@ -1,0 +1,56 @@
+{
+	"哈尔滨": {
+		"py": "hāěrbīn",
+		"mn": [
+			[
+				"n, nlocal",
+				"Cáp Nhĩ Tân (thuộc tỉnh Hắc Long Giang, Trung Quốc)"
+			]
+		]
+	},
+	"北京": {
+		"py": "běijīng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Bắc Kinh; Beijing (thủ đô Trung Quốc)"
+			]
+		]
+	},
+	"上海": {
+		"py": "shànghǎi",
+		"mn": [
+			[
+				"n, nlocal",
+				"Thượng Hải; thành phố Thượng Hải (Trung Quốc)"
+			]
+		]
+	},
+	"小雨": {
+		"py": "xiǎoyǔ",
+		"mn": [
+			[
+				"n",
+				"mưa nhỏ"
+			]
+		]
+	},
+	"广州": {
+		"py": "guǎngzhōu",
+		"mn": [
+			[
+				"n",
+				"Quảng Châu (thuộc tỉnh Quảng Đông, Trung Quốc)"
+			]
+		]
+	},
+	"晴天": {
+		"py": "qíngtiān",
+		"mn": [
+			[
+				"n",
+				"trời nắng; ngày nắng"
+			]
+		]
+	}
+}

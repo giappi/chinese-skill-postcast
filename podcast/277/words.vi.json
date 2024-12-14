@@ -1,0 +1,188 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"哪儿": {
+		"py": "nǎr",
+		"mn": [
+			[
+				"pro",
+				"đâu; chỗ nào | bất kỳ đâu | đâu có (cách trả lời khiêm tốn khi được người khác khen ngợi)"
+			],
+			[
+				"adv",
+				"sao; nào; đâu; sao mà (thể hiện sự phủ định)"
+			]
+		]
+	},
+	"从": {
+		"py": "cóng",
+		"mn": [
+			[
+				"prep",
+				"từ; khởi đầu từ; khởi điểm từ | từ; qua | từ (căn cứ vào hành vi hành động)"
+			],
+			[
+				"v",
+				"tòng; theo; đi theo; theo đuổi; tiếp theo; kế theo | nghe theo; thuận theo; vâng lời; tuân theo; tuân lệnh; chiều theo; làm theo | làm; tham gia; lao vào; dấn thân; bắt tay vào | theo; dựa vào; dựa trên (một số nguyên tắc hoặc thái độ)"
+			],
+			[
+				"n",
+				"người hầu; tuỳ tùng; môn đệ; môn đồ; người bắt chước; người đi theo; người theo gót"
+			],
+			[
+				"adj",
+				"phụ; tay sai; nhân vật thứ yếu | họ; họ hàng; người trong gia đình; bà con anh em; họ hàng thân thích"
+			],
+			[
+				"adv",
+				"chưa bao giờ; từ trước tới giờ; từ trước đến nay (phó từ dùng trước từ phủ định)"
+			]
+		]
+	},
+	"这儿": {
+		"py": "zhèr",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; chỗ này | lúc này; từ đây"
+			]
+		]
+	},
+	"走": {
+		"py": "zǒu",
+		"mn": [
+			[
+				"v",
+				"đi; đi bộ; đi qua | chạy | di chuyển; di động; chuyển động (xe, thuyền) | qua; đi qua; vượt qua | đi; lên đường; rời khỏi; rời đi; tách khỏi | đi; mất; chết; qua đời | thăm viếng; qua lại; đi lại | lộ ra; tiết lộ; để hở; lọt ra; để lộ ra | lạc; sai; chệch; phai; thay đổi | nước đi (đánh cờ) | trở nên (xuất hiện xu thế)"
+			]
+		]
+	},
+	"红绿灯": {
+		"py": "hónglǜdēng",
+		"mn": [
+			[
+				"n",
+				"đèn giao thông; đèn xanh đèn đỏ"
+			]
+		]
+	},
+	"远": {
+		"py": "yuǎn",
+		"mn": [
+			[
+				"adj",
+				"xa; viễn | xa; sơ sơ; không thân (quan hệ huyết thống) | xa; khác nhau xa"
+			],
+			[
+				"n",
+				"họ Viễn"
+			],
+			[
+				"v",
+				"rời; tránh; xa lánh"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	}
+}

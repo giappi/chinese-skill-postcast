@@ -1,0 +1,130 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"欢迎": {
+		"py": "huānyíng",
+		"mn": [
+			[
+				"v",
+				"chào đón; đón chào; chào mừng | hoan nghênh; chấp nhận; vui vẻ chấp nhận"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"爸爸": {
+		"py": "bàba",
+		"mn": [
+			[
+				"n",
+				"bố; ba; cha; thầy"
+			]
+		]
+	},
+	"妈妈": {
+		"py": "māma",
+		"mn": [
+			[
+				"n",
+				"mẹ; má; me; u; bầm; mẫu thân"
+			]
+		]
+	},
+	"阿姨": {
+		"py": "āyí",
+		"mn": [
+			[
+				"n",
+				"dì; cô; mợ; thím; bác gái | cô (xưng hô với người phụ nữ xấp xỉ bằng tuổi mẹ mình) | cô (xưng hô với bảo mẫu,giáo viên mầm non)"
+			]
+		]
+	},
+	"爸": {
+		"py": "bà",
+		"mn": [
+			[
+				"n",
+				"bố; ba; cha; tía; phụ thân"
+			]
+		]
+	},
+	"妈": {
+		"py": "mā",
+		"mn": [
+			[
+				"n",
+				"mẹ; má; me; u | cô; bà (chỉ phụ nữ lớn tuổi) | dùng cùng với họ chỉ người phụ nữ lớn tuổi hoặc chỉ bà già đi ở"
+			]
+		]
+	},
+	"就是": {
+		"py": "jiùshì",
+		"mn": [
+			[
+				"adv",
+				"thì; cứ; nhất định; chỉ là; chính là | thì là"
+			],
+			[
+				"conj",
+				"dù; dù cho; cho dù; dù rằng"
+			],
+			[
+				"part",
+				"được; được rồi; đúng rồi; không sai"
+			]
+		]
+	},
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	}
+}

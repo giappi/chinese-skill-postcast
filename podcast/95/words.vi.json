@@ -1,0 +1,547 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"预定": {
+		"py": "yùdìng",
+		"mn": [
+			[
+				"v",
+				"dự định; định; dự tính; định sẵn"
+			]
+		]
+	},
+	"圣诞节": {
+		"py": "shèngdànjié",
+		"mn": [
+			[
+				"n",
+				"lễ Giáng Sinh; lễ Nô-en"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"晚餐": {
+		"py": "wǎncān",
+		"mn": [
+			[
+				"n",
+				"bữa tối"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"几": {
+		"py": "jǐ",
+		"mn": [
+			[
+				"numb",
+				"mấy (hỏi số lượng bao nhiêu) | mấy; vài (biểu thị một số không xác định từ hai đến chín) | mấy; vài (thay thế con số nhất định) | ngày nào"
+			]
+		]
+	},
+	"位": {
+		"py": "wèi",
+		"mn": [
+			[
+				"n",
+				"chỗ; nơi; vị trí | địa vị; chức vị | vị; ngôi (ngôi vua) | hàng (trong con số) | họ Vị"
+			],
+			[
+				"measure",
+				"vị; ngài; bạn (lượng từ chỉ người, tỏ ý tôn kính)"
+			]
+		]
+	},
+	"用餐": {
+		"py": "yòngcān",
+		"mn": [
+			[
+				"v",
+				"ăn cơm; dùng bữa"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"浪漫": {
+		"py": "làngmàn",
+		"mn": [
+			[
+				"adj",
+				"lãng mạn; trữ tình; mơ mộng (viễn vông) | phóng túng; phóng đãng; trác táng; truỵ lạc; sa ngã; sa đoạ; đồi truỵ (chỉ quan hệ nam nữ)"
+			]
+		]
+	},
+	"圣诞": {
+		"py": "shèngdàn",
+		"mn": [
+			[
+				"n",
+				"Noel; thánh đản; lễ Nô-en; ngày Chúa sinh ra đời"
+			]
+		]
+	},
+	"套餐": {
+		"py": "tàocān",
+		"mn": [
+			[
+				"n",
+				"suất; phần; phần ăn; suất ăn | gói; combo"
+			]
+		]
+	},
+	"豪华": {
+		"py": "háohuá",
+		"mn": [
+			[
+				"adj",
+				"lộng lẫy; rực rỡ; tráng lệ; sang trọng; sang chảnh"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"超": {
+		"py": "chāo",
+		"mn": [
+			[
+				"v",
+				"vượt; vượt qua; vượt quá | quá; quá hạn; vượt mức | vượt quá; vượt ngoài; vượt xa (vượt ra khỏi ràng buộc hoặc giới hạn)"
+			],
+			[
+				"adj",
+				"cao; siêu; cực kỳ"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"哪": {
+		"py": "nǎ",
+		"mn": [
+			[
+				"pro",
+				"nào (dùng cho câu hỏi) | cái gì (dùng riêng giống như ''什么'') | nào (bất kì) | nào (biểu thị không xác định) | đâu; nào có (biểu thị phản vấn)"
+			]
+		]
+	},
+	"种": {
+		"py": "zhǒng",
+		"mn": [
+			[
+				"n",
+				"loại; chủng; giống loài | giống người; chủng người | hạt giống (thực vật) | gan; bản lĩnh"
+			],
+			[
+				"measure",
+				"loại; kiểu; cách"
+			]
+		]
+	},
+	"他们": {
+		"py": "tāmen",
+		"mn": [
+			[
+				"pro",
+				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"区别": {
+		"py": "qūbié",
+		"mn": [
+			[
+				"v",
+				"phân biệt; khác với"
+			],
+			[
+				"n",
+				"khác biệt; sự khác biệt; điểm khác biệt"
+			]
+		]
+	},
+	"比": {
+		"py": "bǐ",
+		"mn": [
+			[
+				"prep",
+				"hơn; so; so với"
+			],
+			[
+				"v",
+				"sát; kề; kề sát; dựa sát | cấu kết; dựa vào; nương tựa; phụ thuộc | đọ; so sánh; so đo | như; tương tự; sánh bằng; ngang với | chia (toán học) | tỉ số | noi theo; phỏng theo; mô phỏng | ví; so; ví von | ra dấu; ra hiệu (diễn tả bằng điệu bộ) | nhắm vào; nhằm vào; hướng vào"
+			],
+			[
+				"n",
+				"tỷ lệ | nước Bỉ"
+			],
+			[
+				"adv",
+				"gần đây"
+			]
+		]
+	},
+	"多": {
+		"py": "duō",
+		"mn": [
+			[
+				"adj",
+				"đa; nhiều (quá mức; không cần thiết) | hơn nhiều; rất nhiều (mức chênh lệch) | nhiều; lắm"
+			],
+			[
+				"v",
+				"dư; thừa; thừa ra; dư ra | thêm"
+			],
+			[
+				"adv",
+				"bao nhiêu; thế nào; đến mức nào  (dùng trong câu hỏi) | bao nhiêu; thế nào; bấy nhiêu; đến đâu; cỡ nào | rất; lắm; quá; vô cùng; quả thật; biết mấy (dừng trong câu cảm thán) | đa số; hầu hết; phần nhiều; phần lớn; đa phần"
+			],
+			[
+				"numb",
+				"hơn; ngoài"
+			],
+			[
+				"n",
+				"họ Đa"
+			]
+		]
+	},
+	"甜点": {
+		"py": "tiándiǎn",
+		"mn": [
+			[
+				"n",
+				"đồ ngọt; món tráng miệng; món điểm tâm ngọt"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"瓶": {
+		"py": "píng",
+		"mn": [
+			[
+				"n",
+				"bình; lọ; chai"
+			],
+			[
+				"measure",
+				"bình; lọ; chai; hộp"
+			]
+		]
+	},
+	"进口": {
+		"py": "jìnkǒu",
+		"mn": [
+			[
+				"v",
+				"vào bến; nhập cảng; vào cảng (thuyền bè) | nhập khẩu"
+			],
+			[
+				"n",
+				"cửa vào; lối vào"
+			]
+		]
+	},
+	"香槟": {
+		"py": "xiāngbīn",
+		"mn": [
+			[
+				"n",
+				"sâm panh"
+			]
+		]
+	},
+	"那么": {
+		"py": "nàme",
+		"mn": [
+			[
+				"pro",
+				"như vậy; như thế; thế đó; thế đấy; như thế đấy | như thế (dùng trước số lượng từ)"
+			],
+			[
+				"conj",
+				"thì; vậy thì"
+			]
+		]
+	},
+	"价格": {
+		"py": "jiàgé",
+		"mn": [
+			[
+				"n",
+				"giá; giá cả; giá tiền"
+			]
+		]
+	},
+	"相差": {
+		"py": "xiāngchà",
+		"mn": [
+			[
+				"adj",
+				"khác biệt; khác nhau; chênh lệch; cách nhau"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshǎo",
+		"mn": [
+			[
+				"adv",
+				"Ít nhiều, hơi hơi, có phần (mức độ nhất định nhưng không cao)"
+			],
+			[
+				"n",
+				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"每人": {
+		"py": "měirén",
+		"mn": [
+			[
+				"pro",
+				"từng người | mọi người | mỗi người"
+			]
+		]
+	},
+	"元": {
+		"py": "yuán",
+		"mn": [
+			[
+				"measure",
+				"đồng tiền (đơn vị tiền tệ)"
+			],
+			[
+				"n",
+				"đầu người | yếu tố; nguyên tố | bộ phận cấu thành một chỉnh thể | nhà Nguyên | tên tiền kim loại thời cổ | họ Nguyên"
+			],
+			[
+				"adj",
+				"đầu tiên; thứ nhất; bắt đầu | đứng đầu | chủ yếu; cơ bản"
+			]
+		]
+	},
+	"三百": {
+		"py": "sānbǎi",
+		"mn": [
+			[
+				"n",
+				"ba trăm"
+			]
+		]
+	},
+	"五百": {
+		"py": "wǔbǎi",
+		"mn": [
+			[
+				"n",
+				"năm trăm, 500"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"定": {
+		"py": "dìng",
+		"mn": [
+			[
+				"v",
+				"cố định; dừng; làm cho cố định | quyết định; xác định; chắc chắn | đặt; báo"
+			],
+			[
+				"adj",
+				"định | quy định; định phần; quy định khẩu phần | bình định; ổn định; yên; bình tĩnh"
+			],
+			[
+				"adv",
+				"nhất định; chắc chắn"
+			]
+		]
+	}
+}

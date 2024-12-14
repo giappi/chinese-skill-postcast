@@ -1,0 +1,198 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"为什么": {
+		"py": "wèishénme",
+		"mn": [
+			[
+				"pro",
+				"vì sao; tại sao; vì cái gì; hà cớ gì"
+			]
+		]
+	},
+	"夏天": {
+		"py": "xiàtiān",
+		"mn": [
+			[
+				"n, time",
+				"mùa hè; mùa hạ"
+			]
+		]
+	},
+	"因为": {
+		"py": "yīnwèi",
+		"mn": [
+			[
+				"prep",
+				"bởi vì; bởi rằng; vì; số là; tại đâu; tại vì; vì rằng"
+			],
+			[
+				"conj",
+				"vì; do; bởi vì"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"游泳": {
+		"py": "yóuyǒng",
+		"mn": [
+			[
+				"v, sv",
+				"bơi; bơi lội"
+			],
+			[
+				"n",
+				"bơi lội (môn thi đấu thể thao)"
+			]
+		]
+	},
+	"吃": {
+		"py": "chī",
+		"mn": [
+			[
+				"v",
+				"ăn; uống | nhờ; sống nhờ; ăn nhờ ở đậu | ăn; tiêu diệt (dùng trong quân sự,chơi cờ) | tốn; mất; tiêu thụ; hao phí | thấm; hút; hấp thu (chất lỏng) | chịu; bị; mắc; cam chịu; chịu đựng | tiếp thu; tìm hiểu | ngập; mớn; ăn vào (chỉ một vật thể đi vào một vật thể khác) | chấp nhận; đồng ý | ăn hàng; ăn quán; ăn nhà hàng"
+			],
+			[
+				"n",
+				"đồ ăn"
+			],
+			[
+				"adj",
+				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"雪糕": {
+		"py": "xuěgāo",
+		"mn": [
+			[
+				"n",
+				"kem"
+			]
+		]
+	},
+	"讨厌": {
+		"py": "tǎoyàn",
+		"mn": [
+			[
+				"adj",
+				"đáng ghét"
+			],
+			[
+				"v",
+				"ghét, không thích"
+			]
+		]
+	},
+	"冬天": {
+		"py": "dōngtiān",
+		"mn": [
+			[
+				"n, time",
+				"mùa đông"
+			]
+		]
+	},
+	"太": {
+		"py": "tài",
+		"mn": [
+			[
+				"adv",
+				"rất; quá (khen ngợi) | quá (không đạt yêu cầu) | lắm (nhấn mạnh sự phủ định)"
+			],
+			[
+				"adj",
+				"cao; lớn; to lớn | tối; cực; quá lâu | thái (thân phận, vai vế cao hơn)"
+			],
+			[
+				"n",
+				"họ Thái"
+			]
+		]
+	},
+	"冷": {
+		"py": "lěng",
+		"mn": [
+			[
+				"adj",
+				"lạnh; rét; rét mướt | lạnh nhạt; nhạt nhẽo | yên tĩnh; im ắng; vắng lặng | lạ; ít thấy; hiếm thấy | không thiết; ế ẩm; ít được quan tâm; ít người chú ý | lén; ngầm; trộm; bất ngờ | chán nản; thất vọng"
+			],
+			[
+				"n",
+				"họ Lãnh"
+			],
+			[
+				"v",
+				"để nguội; làm lạnh (thức ăn) | phớt lờ; thờ ơ"
+			]
+		]
+	},
+	"只能": {
+		"py": "zhǐnéng",
+		"mn": [
+			[
+				"adv",
+				"chỉ có thể; chỉ đành; đành phải"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"家里": {
+		"py": "jiālǐ",
+		"mn": [
+			[
+				"n",
+				"trong nhà; trong gia đình | bà xã; bà nhà; vợ"
+			]
+		]
+	}
+}

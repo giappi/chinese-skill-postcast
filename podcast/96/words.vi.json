@@ -1,0 +1,305 @@
+{
+	"服务员": {
+		"py": "fúwùyuán",
+		"mn": [
+			[
+				"n",
+				"người phục vụ; nhân viên phục vụ"
+			]
+		]
+	},
+	"买单": {
+		"py": "mǎidān",
+		"mn": [
+			[
+				"v",
+				"thanh toán; trả tiền"
+			],
+			[
+				"n",
+				"hóa đơn; khoản thanh toán"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"刷卡": {
+		"py": "shuākǎ",
+		"mn": [
+			[
+				"v",
+				"quẹt thẻ"
+			]
+		]
+	},
+	"现金": {
+		"py": "xiànjīn",
+		"mn": [
+			[
+				"n",
+				"tiền mặt | dòng tiền"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"先生": {
+		"py": "xiānshēng",
+		"mn": [
+			[
+				"n",
+				"ngài; thầy; ông (cách gọi tôn trọng đối với những người trí thức) | chồng; ông nhà; anh xã | thầy giáo; giáo viên; nhà giáo | tài phú; thầy ký | thầy (gọi theo nghề nghiệp)"
+			]
+		]
+	},
+	"一共": {
+		"py": "yīgòng",
+		"mn": [
+			[
+				"adv",
+				"gồm; hết thảy; tất cả; tổng cộng"
+			]
+		]
+	},
+	"收": {
+		"py": "shōu",
+		"mn": [
+			[
+				"v",
+				"gom góp; góp nhặt; co lại; xếp lại; cất giữ | thu; nhận; lấy | thu; nhận; đạt được (lợi ích kinh tế) | thu hoạch; gặt hái | nạp; nhận; tiếp nhận; dung nạp | kiềm chế; kiểm soát; dằn lòng | kết thúc; chấm dứt | bắt; bắt giữ; bắt giam"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"开": {
+		"py": "kāi",
+		"mn": [
+			[
+				"v",
+				"mở; bật; mở ra | xẻ; đào; khơi; khai; khai khẩn | nở; mở; khai; bung ra | tan; tan chảy | hủy bỏ; bãi bỏ; gỡ bỏ; trừ bỏ đi | lái; chạy; bắn; nổ; khởi động; điều khiển | xuất phát; lên đường; khởi hành | lập; mở; dựng; đặt; thiết lập; khai sáng; kinh doanh | bắt đầu | tổ chức; cử hành | viết; kê; kê khai | chi; trả | sôi | ăn | đuổi; loại; khai trừ; cho nghỉ | chia  (theo tỷ lệ nhất định)"
+			],
+			[
+				"measure",
+				"Ca-ra；karat | lần (sôi) | Kelvin (K) | khổ (giấy)"
+			],
+			[
+				"n",
+				"tỷ lệ; tỷ lệ phần trăm | họ Khai"
+			]
+		]
+	},
+	"张": {
+		"py": "zhāng",
+		"mn": [
+			[
+				"v",
+				"mở; mở ra; dang rộng | bày ra; trưng bày | khai trương | nhìn; xem; ngó | khoa trương; khuếch đại; mở rộng | giương; căng"
+			],
+			[
+				"measure",
+				"tờ; trang; tấm; bức (lượng từ dùng cho giấy, da) | chiếc; cái (lượng từ dùng cho giường, bàn) | cái; gương; khuôn (lượng từ dùng cho miệng, mặt) | cây; cái (lượng từ dùng cho cung nỏ)"
+			],
+			[
+				"n",
+				"sao Trương (một chòm sao trong Nhị thập bát tú) | họ Trương"
+			],
+			[
+				"adj",
+				"phóng túng; phóng đãng; thái quá; tùy tiện"
+			]
+		]
+	},
+	"发票": {
+		"py": "fāpiào",
+		"mn": [
+			[
+				"n",
+				"hoá đơn"
+			]
+		]
+	},
+	"个人": {
+		"py": "gèrén",
+		"mn": [
+			[
+				"n",
+				"cá nhân"
+			],
+			[
+				"pro",
+				"bản thân; riêng tôi; cá nhân tôi"
+			]
+		]
+	},
+	"单位": {
+		"py": "dānwèi",
+		"mn": [
+			[
+				"n",
+				"đơn vị; cơ quan (xã hội) | đơn vị (đo lường)"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"找": {
+		"py": "zhǎo",
+		"mn": [
+			[
+				"v",
+				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"钱": {
+		"py": "qián",
+		"mn": [
+			[
+				"n",
+				"tiền tài; tiền bạc; tiền của | tiền; tiền đồng | giống tiền; những vật có hình dạng giống đồng tiền | khoản; khoản tiền | tiền; tiền tệ; tiền mặt | món tiền; số tiền | họ Tiền"
+			],
+			[
+				"measure",
+				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"再见": {
+		"py": "zàijiàn",
+		"mn": [
+			[
+				"v",
+				"tạm biệt; chào tạm biệt"
+			]
+		]
+	},
+	"两": {
+		"py": "liǎng",
+		"mn": [
+			[
+				"numb",
+				"hai (chỉ số lượng) | vài; mấy; một số"
+			],
+			[
+				"measure",
+				"lạng (đơn vị đo trọng lượng)"
+			],
+			[
+				"n",
+				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"位": {
+		"py": "wèi",
+		"mn": [
+			[
+				"n",
+				"chỗ; nơi; vị trí | địa vị; chức vị | vị; ngôi (ngôi vua) | hàng (trong con số) | họ Vị"
+			],
+			[
+				"measure",
+				"vị; ngài; bạn (lượng từ chỉ người, tỏ ý tôn kính)"
+			]
+		]
+	},
+	"慢走": {
+		"py": "mànzǒu",
+		"mn": [
+			[
+				"v",
+				"từ đã; đợi chút; đừng vội | thong thả; đi cẩn thận; đi đường bình an"
+			]
+		]
+	},
+	"欢迎": {
+		"py": "huānyíng",
+		"mn": [
+			[
+				"v",
+				"chào đón; đón chào; chào mừng | hoan nghênh; chấp nhận; vui vẻ chấp nhận"
+			]
+		]
+	},
+	"光临": {
+		"py": "guānglín",
+		"mn": [
+			[
+				"v",
+				"quang lâm; đến dự; ghé thăm; đến thăm"
+			]
+		]
+	}
+}

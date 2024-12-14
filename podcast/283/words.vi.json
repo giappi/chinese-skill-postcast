@@ -1,0 +1,208 @@
+{
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"已经": {
+		"py": "yǐjīng",
+		"mn": [
+			[
+				"adv",
+				"đã; rồi"
+			]
+		]
+	},
+	"准备": {
+		"py": "zhǔnbèi",
+		"mn": [
+			[
+				"v",
+				"chuẩn bị; sắp sửa; sẵn sàng | dự định; định; định bụng"
+			],
+			[
+				"n",
+				"sự chuẩn bị"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"旅行": {
+		"py": "lǚxíng",
+		"mn": [
+			[
+				"v",
+				"lữ hành; du lịch (động từ bất cập vật)"
+			],
+			[
+				"n",
+				"chuyến du lịch; du lịch"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"是吗": {
+		"py": "shìma",
+		"mn": [
+			[
+				"sentence",
+				"vậy à; thật à; đúng không; phải không"
+			]
+		]
+	},
+	"机票": {
+		"py": "jīpiào",
+		"mn": [
+			[
+				"n",
+				"vé máy bay"
+			]
+		]
+	},
+	"路线": {
+		"py": "lùxiàn",
+		"mn": [
+			[
+				"n",
+				"đường; tuyến đường; đường đi | đường lối"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"全": {
+		"py": "quán",
+		"mn": [
+			[
+				"adj",
+				"đầy đủ; xong xuôi; sẵn sàng | cả; toàn; toàn bộ"
+			],
+			[
+				"v",
+				"hoàn thành; bảo toàn; trọn vẹn"
+			],
+			[
+				"adv",
+				"toàn bộ; hoàn toàn; tất cả | đều; cả"
+			],
+			[
+				"n",
+				"họ Toàn"
+			]
+		]
+	},
+	"这次": {
+		"py": "zhècì",
+		"mn": [
+			[
+				"pro",
+				"lần này; dịp này"
+			]
+		]
+	},
+	"打算": {
+		"py": "dǎsuàn",
+		"mn": [
+			[
+				"v",
+				"dự định; định; tính toán; lo liệu"
+			],
+			[
+				"n",
+				"dự định; suy nghĩ; quan niệm; kế hoạch"
+			]
+		]
+	},
+	"玩": {
+		"py": "wán",
+		"mn": [
+			[
+				"v",
+				"đùa; chơi; nghịch; chơi đùa | chơi (thể thao) | giở; giở trò (thủ đoạn, mánh khoé) | khinh; xem nhẹ; đùa giỡn | ngắm; ngắm nhìn; thưởng ngoạn | cảm nhận; nghiền ngẫm; suy ngẫm"
+			],
+			[
+				"n",
+				"đồ; đồ vật; đồ chơi | họ Ngoạn"
+			]
+		]
+	},
+	"时间": {
+		"py": "shíjiān",
+		"mn": [
+			[
+				"n",
+				"thời gian; ngày giờ | khoảng thời gian | giờ (thời điểm cụ thể)"
+			]
+		]
+	},
+	"一周": {
+		"py": "yīzhōu",
+		"mn": [
+			[
+				"n",
+				"cả một chu kỳ | Mọi con đường xung quanh | một tuần"
+			]
+		]
+	},
+	"左右": {
+		"py": "zuǒyòu",
+		"mn": [
+			[
+				"n",
+				"trái và phải; hai bên; xung quanh | tả hữu; tuỳ tùng; người đi theo | khoảng; chừng; vào khoảng; trên dưới"
+			],
+			[
+				"v",
+				"chi phối; thao túng; ảnh hưởng"
+			]
+		]
+	}
+}

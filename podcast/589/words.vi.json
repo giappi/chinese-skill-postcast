@@ -1,0 +1,98 @@
+{
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"上面": {
+		"py": "shàngmiàn",
+		"mn": [
+			[
+				"",
+				"phía trên; phần trên | trên; trước (thứ tự) | trên mặt | mặt; phương diện | cấp trên | hàng trên; vai trên; lớp trên (trong họ hàng thân tộc)"
+			]
+		]
+	},
+	"下面": {
+		"py": "xiàmiàn",
+		"mn": [
+			[
+				"n, nlocal",
+				"phía dưới; ở dưới | phần dưới; dưới đây | cấp dưới; bên dưới"
+			]
+		]
+	},
+	"嘴": {
+		"py": "zuǐ",
+		"mn": [
+			[
+				"n",
+				"miệng; mồm; mõm; mỏ | miệng (vật giống miệng) | lời nói | đồ ăn"
+			]
+		]
+	},
+	"里": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"bên trong; phía trong | lót (bên trong, mặt trái của áo hoặc chăn) | xóm; làng | quê hương | trong; nội bộ | nơi; chỗ | họ Lí"
+			],
+			[
+				"measure",
+				"dặm (đơn vị đo chiều dài, bằng 1/2 km)"
+			]
+		]
+	},
+	"有": {
+		"py": "yǒu",
+		"mn": [
+			[
+				"v",
+				"có; hữu (biểu thị sở hữu) | có (biểu thị tồn tại) | như; có tới (biểu thị sự đánh giá hoặc so sánh) | có; phát sinh; xuất hiện | có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn) | nọ; nào đó (dùng như' '某'') | có người; có lúc; có nơi | xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)"
+			],
+			[
+				"n",
+				"họ Hữu"
+			],
+			[
+				"pref",
+				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"耳朵": {
+		"py": "ěrduo",
+		"mn": [
+			[
+				"n",
+				"tai"
+			]
+		]
+	}
+}

@@ -1,0 +1,340 @@
+{
+	"起床": {
+		"py": "qǐchuáng",
+		"mn": [
+			[
+				"v, sv",
+				"thức dậy; ngủ dậy"
+			]
+		]
+	},
+	"啦": {
+		"py": "la",
+		"mn": [
+			[
+				"part",
+				"đấy; nhé; nhá; à (hợp âm của \"了\"， \"啊\")"
+			]
+		]
+	},
+	"几": {
+		"py": "jǐ",
+		"mn": [
+			[
+				"numb",
+				"mấy (hỏi số lượng bao nhiêu) | mấy; vài (biểu thị một số không xác định từ hai đến chín) | mấy; vài (thay thế con số nhất định) | ngày nào"
+			]
+		]
+	},
+	"点": {
+		"py": "diǎn",
+		"mn": [
+			[
+				"n",
+				"giọt; hạt | chấm; vết; vệt | nét chấm (chữ Hán) | điểm (hình học) | cái kẻng; đánh kẻng (để báo giờ) | phẩy; dấu phẩy (trong số lẻ) | nơi; chỗ; điểm | bánh; điểm tâm; ăn sáng | điểm (không gian hoặc cấp độ) | lúc; giờ (quy định) | điểm; điều; việc | nhịp; nhịp điệu"
+			],
+			[
+				"v",
+				"nhón chân | nhắc; gợi ý; nhằm vào; nói đến | đạp; chạm; đẩy; đáp; chấm | gật; vẫy | nhỏ; tra (thuốc) | trồng; tra; gieo; trỉa hạt | điểm; kiểm; xét; đếm; gọi; điểm danh; gọi tên | chấm; điểm | nhắc; bảo; gợi ý; dạy bảo | điểm; điểm xuyết; tô điểm; trang điểm | chọn; chấm; chỉ định | thắp; điểm; đốt; châm | ăn; ăn lót dạ"
+			],
+			[
+				"measure",
+				"giờ (đơn vị chỉ thời gian) | điểm (một phần năm của canh) | ít; tí; chút; vặt; nhỏ (số lượng nhỏ) | điều; điểm; việc"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"昨晚": {
+		"py": "zuówǎn",
+		"mn": [
+			[
+				"n",
+				"tối qua; đêm qua; tối hôm qua"
+			]
+		]
+	},
+	"不是": {
+		"py": "bùshì",
+		"mn": [
+			[
+				"phrase",
+				"không phải; không đúng"
+			],
+			[
+				"n",
+				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"说": {
+		"py": "shuō",
+		"mn": [
+			[
+				"v",
+				"nói; kể | giải thích; giảng giải | mắng; trách móc; chỉ trích; khuyên nhủ | giới thiệu; làm mối | nói; bàn; bàn luận | nói; biểu diễn (nghệ thuật)"
+			],
+			[
+				"n",
+				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"好": {
+		"py": "hǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt; lành; hay | tốt; hoà hợp; hoà thuận (quan hệ giữa người với người) | khoẻ; khoẻ mạnh (sức khoẻ) | xong (biểu thị kết quả của hành động là làm rất tốt, làm hài lòng) | được; thôi được (biểu thị đồng ý hoặc kết thúc) | hay nhỉ; hay lắm; hay đấy; tốt đấy (câu đáp, biểu thị sự bất mãn) | dễ; dễ dàng | nên; phải; có thể | bao; bao nhiêu (dùng trước tính từ, để hỏi số lượng hoặc mức độ)"
+			],
+			[
+				"adv",
+				"lắm; quá; rất (dùng trước từ chỉ số lượng hoặc từ chỉ thời gian, biểu thị nhiều hoặc lâu) | quá; thật (dùng trước tính từ, động từ, biểu thị mức độ sâu sắc và kèm theo ngữ khí cảm thán)"
+			],
+			[
+				"prep",
+				"tiện; tiện cho; thuận tiện | yêu; thích"
+			],
+			[
+				"n",
+				"lời khen; lời chào"
+			]
+		]
+	},
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"早": {
+		"py": "zǎo",
+		"mn": [
+			[
+				"time, n",
+				"sáng sớm; sáng tinh mơ"
+			],
+			[
+				"adv",
+				"từ lâu; lâu (biểu thị trước đó)"
+			],
+			[
+				"adj",
+				"trước; sớm (so với thời gian quy định) | chào (lời chào lúc gặp mặt nhau vào buổi sáng) | đầu; sớm"
+			]
+		]
+	},
+	"起": {
+		"py": "qǐ",
+		"mn": [
+			[
+				"v",
+				"dậy (đứng dậy, thức dậy) | rời; xê; rời khỏi; cất cánh | hất lên; nảy lên; bung lên; lên xuống | nổi; lên (bọc nước, mục ngứa, rôm sảy) | nhổ; nhấc; lôi; bốc | xảy ra | khởi thảo; soạn thảo; đặt tên | thành lập; xây dựng | lĩnh; nhận | bắt đầu từ (ai, ở đâu, khi nào) | bắt đầu một hành động nào đó (dùng sau động từ biểu thị sự bắt đầu) | nhấc lên; xách lên;  ngẩng lên (hướng lên trên) | nổi; được (dùng sau động từ, biểu thị đủ lực hoặc không đủ lực làm việc gì) | đến; tới; về (dùng sau động từ biểu thị động tác liên quan tới người hoặc sự vật nào đó) | bắt đầu (dùng sau động từ biểu thị sự bắt đầu) | lại (dùng sau một động từ để gắn kết cái gì đó lại với nhau hoặc hợp lại)"
+			],
+			[
+				"measure",
+				"kiện; cái; vụ (tai nạn, sự cố) | tốp; bầy; loạt; đám; nhóm"
+			],
+			[
+				"prep",
+				"từ (chỉ thời gian hoặc địa điểm) | đi qua (giới từ, dùng trước từ chỉ nơi chốn, chỉ những địa điểm đã qua)"
+			]
+		]
+	},
+	"跑步": {
+		"py": "pǎobù",
+		"mn": [
+			[
+				"v, sv",
+				"chạy bộ; chạy"
+			]
+		]
+	},
+	"阿姨": {
+		"py": "āyí",
+		"mn": [
+			[
+				"n",
+				"dì; cô; mợ; thím; bác gái | cô (xưng hô với người phụ nữ xấp xỉ bằng tuổi mẹ mình) | cô (xưng hô với bảo mẫu,giáo viên mầm non)"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"困": {
+		"py": "kùn",
+		"mn": [
+			[
+				"adj",
+				"mệt; mệt mỏi | khó khăn; khốn khổ | buồn ngủ"
+			],
+			[
+				"v",
+				"mắc kẹt; kẹt | bao vây; vây hãm; vây | buồn ngủ"
+			]
+		]
+	},
+	"明天": {
+		"py": "míngtiān",
+		"mn": [
+			[
+				"n",
+				"mai; ngày mai; bữa mai | mai đây; mai kia; tương lai"
+			]
+		]
+	},
+	"再": {
+		"py": "zài",
+		"mn": [
+			[
+				"adv",
+				"nữa; lại (biểu thị lại lần nữa) | nữa; hơn | sẽ (hành động tiếp theo sẽ xảy ra) | thêm; nữa; ngoài ra | lại; tiếp tục; lại xuất hiện | lại; thêm"
+			],
+			[
+				"v",
+				"lại; tiếp tục"
+			],
+			[
+				"n",
+				"họ Tái"
+			]
+		]
+	},
+	"跑": {
+		"py": "pǎo",
+		"mn": [
+			[
+				"v",
+				"chạy (động tác di chuyển nhanh) | chạy trốn; trốn thoát; chạy mất | chạy (công việc) | đi; đến | chạy đua; chạy (thi đấu) | chảy; bay hơi; thoát (chất lỏng hoặc khí) | bay; mất; văng; chảy; bốc hơi (vật thể dời khỏi vị trí)"
+			]
+		]
+	},
+	"行": {
+		"py": "xíng",
+		"mn": [
+			[
+				"v",
+				"đi | đi xa; du lịch | lưu thông; lưu hành | làm | được; đồng ý | tiến hành; thực hiện | ngấm (thuốc)"
+			],
+			[
+				"adj",
+				"hành (du lịch) | lâm thời; lưu động | tài giỏi; có năng lực"
+			],
+			[
+				"n",
+				"hành vi; hành động | hành thư | họ Hành"
+			],
+			[
+				"adv",
+				"sắp sửa; sẽ"
+			]
+		]
+	},
+	"不行": {
+		"py": "bùxíng",
+		"mn": [
+			[
+				"v",
+				"không được; không thể; không được phép | sắp đi; sắp mất; sắp chết; không xong (gần chết) | rất; cực kỳ; vô cùng; khủng khiếp; quá xá"
+			],
+			[
+				"adj",
+				"không rành; không giỏi; không trong ngành; không được việc; không có tay nghề"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"就要": {
+		"py": "jiùyào",
+		"mn": [
+			[
+				"adv",
+				"sẽ; sắp; sắp ... rồi"
+			]
+		]
+	},
+	"做": {
+		"py": "zuò",
+		"mn": [
+			[
+				"v",
+				"chế tạo | viết; sáng tác | làm; làm việc; thực hiện | làm; tổ chức; chúc mừng | đảm nhiệm; trở thành | làm; dùng làm; sử dụng làm | trở thành; kết thành; tạo thành (quan hệ) | giả vờ; giả trang"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	}
+}

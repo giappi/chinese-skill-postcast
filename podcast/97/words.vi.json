@@ -1,0 +1,289 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"恭喜": {
+		"py": "gōngxǐ",
+		"mn": [
+			[
+				"v",
+				"chúc mừng"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"升职": {
+		"py": "shēngzhí",
+		"mn": [
+			[
+				"v",
+				"thăng chức; thăng cấp; thăng tiến"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"干杯": {
+		"py": "gānbēi",
+		"mn": [
+			[
+				"v, sv",
+				"cạn ly; nâng ly"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"敬": {
+		"py": "jìng",
+		"mn": [
+			[
+				"v",
+				"tôn kính; kính trọng | chuyên chú; chú trọng | mời; dâng; kính"
+			],
+			[
+				"adj",
+				"tôn trọng; kính trọng; kính yêu"
+			],
+			[
+				"n",
+				"họ Kính"
+			]
+		]
+	},
+	"一": {
+		"py": "yī",
+		"mn": [
+			[
+				"numb",
+				"một; số một | đồng nhất; như nhau; cùng nhau | cả; đầy | một lòng; chuyên nhất; chuyên tâm | mỗi; mỗi một | một; cái một | cái khác; một cái khác"
+			],
+			[
+				"adv",
+				"một chút; một lát | vừa; hễ; mỗi khi; cứ mỗi lần | đột ngột; bất ngờ"
+			],
+			[
+				"n",
+				"nhất (một cấp độ trong âm nhạc Trung Quốc)"
+			],
+			[
+				"part",
+				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"杯": {
+		"py": "bēi",
+		"mn": [
+			[
+				"n",
+				"tách; cốc; chén; ly | cúp (giải thưởng hình ly, cốc)"
+			],
+			[
+				"measure",
+				"cốc; ly"
+			]
+		]
+	},
+	"多亏": {
+		"py": "duōkuī",
+		"mn": [
+			[
+				"v",
+				"may mắn; may mà; nhờ có; nhờ vào"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"帮助": {
+		"py": "bāngzhù",
+		"mn": [
+			[
+				"v",
+				"giúp; cứu giúp; viện trợ; giúp đỡ"
+			],
+			[
+				"n",
+				"sự giúp đỡ; sự trợ giúp"
+			]
+		]
+	},
+	"要不然": {
+		"py": "yàobùrán",
+		"mn": [
+			[
+				"conj",
+				"nếu không thì; nếu không sẽ | hoặc; hay là"
+			]
+		]
+	},
+	"不可能": {
+		"py": "bùkěnéng",
+		"mn": [
+			[
+				"phrase",
+				"không thể; không thể nào"
+			]
+		]
+	},
+	"啊": {
+		"py": "á",
+		"mn": [
+			[
+				"intj",
+				"hả (hỏi dồn)"
+			]
+		]
+	},
+	"还": {
+		"py": "hái",
+		"mn": [
+			[
+				"adv",
+				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"干": {
+		"py": "gān",
+		"mn": [
+			[
+				"v",
+				"phạm; vi phạm; mạo phạm | quấy nhiễu; quấy rối; quấy rầy; làm loạn | tìm kiếm (vị trí, lương bổng...) | dính dáng; liên can; liên quan; dính líu; có quan hệ | uống cạn; uống sạch | phớt lờ; mặc kệ"
+			],
+			[
+				"adj",
+				"khô | cạn; cạn hết; khô cạn (nước) | nuôi; kết nghĩa | thẳng thừng; cộc cằn (nói năng)"
+			],
+			[
+				"n",
+				"khiên; cái khiên | bờ; bờ sông; bến nước | thực phẩm khô | thiên can | họ Can"
+			],
+			[
+				"adv",
+				"phí; uổng phí; vô ích | suông; trống rỗng (không có nội dung)"
+			]
+		]
+	},
+	"呀": {
+		"py": "ya",
+		"mn": [
+			[
+				"av",
+				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"喝": {
+		"py": "hē",
+		"mn": [
+			[
+				"v",
+				"uống | nhậu; nhậu nhẹt; uống (rượu)"
+			],
+			[
+				"intj",
+				"ồ (biểu thị sự ngạc nhiên)"
+			],
+			[
+				"n",
+				"thức uống (đặc biệt là rượu)"
+			]
+		]
+	},
+	"口": {
+		"py": "kǒu",
+		"mn": [
+			[
+				"n",
+				"miệng; mồm; mõm | miệng (miệng đồ vật) | cửa; cổng | khẩu vị; vị giác | miệng vết thương | lưỡi (dao, kiếm, kéo) | tuổi (ngựa, la, lừa) | nhân khẩu | bộ phận | khẩu; nói năng; giọng nói | bến; cảng | khẩu; cửa khẩu của Trường Thành"
+			],
+			[
+				"measure",
+				"miếng; ngụm; hơi | người; thành viên | con (chủ yếu là lợn) | cái; chiếc; con (vật có lưỡi, giống như cái miệng) | câu"
+			]
+		]
+	},
+	"全": {
+		"py": "quán",
+		"mn": [
+			[
+				"adj",
+				"đầy đủ; xong xuôi; sẵn sàng | cả; toàn; toàn bộ"
+			],
+			[
+				"v",
+				"hoàn thành; bảo toàn; trọn vẹn"
+			],
+			[
+				"adv",
+				"toàn bộ; hoàn toàn; tất cả | đều; cả"
+			],
+			[
+				"n",
+				"họ Toàn"
+			]
+		]
+	}
+}

@@ -1,0 +1,283 @@
+{
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"明天": {
+		"py": "míngtiān",
+		"mn": [
+			[
+				"n",
+				"mai; ngày mai; bữa mai | mai đây; mai kia; tương lai"
+			]
+		]
+	},
+	"晚上": {
+		"py": "wǎnshàng",
+		"mn": [
+			[
+				"n, time",
+				"tối; buổi tối; ban tối; tối muộn"
+			]
+		]
+	},
+	"有空": {
+		"py": "yǒukòng",
+		"mn": [
+			[
+				"v",
+				"rỗi; rảnh; có thời gian; có rỗi"
+			]
+		]
+	},
+	"吗": {
+		"py": "ma",
+		"mn": [
+			[
+				"part",
+				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"什么": {
+		"py": "shénme",
+		"mn": [
+			[
+				"pro",
+				"gì; cái gì | gì; nào (dùng trước danh từ, hỏi người hoặc sự vật) | gì đó (Đại từ phiếm chỉ) | gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau) | thể hiện sự trách móc | cái gì (biểu thị phủ định)"
+			],
+			[
+				"intj",
+				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"事": {
+		"py": "shì",
+		"mn": [
+			[
+				"n",
+				"việc; công việc; sự tình | sự cố; tai nạn | công việc; công tác; việc làm | quan hệ; trách nhiệm"
+			],
+			[
+				"v",
+				"phụng dưỡng | làm; tham gia"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"约": {
+		"py": "yuē",
+		"mn": [
+			[
+				"v",
+				"hẹn; ước hẹn; sắp xếp; thu xếp | hẹn; mời; ước | rút gọn (phân số)"
+			],
+			[
+				"n",
+				"hẹn ước; đính ước; hiệp ước; sắc lệnh; hợp đồng"
+			],
+			[
+				"adj",
+				"tiết kiệm | giản đơn; rút gọn"
+			],
+			[
+				"adv",
+				"khoảng; đại khái; ước tính; dự tính"
+			]
+		]
+	},
+	"看": {
+		"py": "kàn",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; đọc (sách, phim) | thấy; nhận thấy (quan sát và phân tích) | thăm; thăm hỏi | đối đãi; đối xử | trị; chữa; khám; điều trị | giữ; lo; trông; chăm sóc | coi chừng; chú ý; cẩn thận | thấy; nghĩ; nhận thấy (qua quan sát) | quyết định theo; tùy thuộc vào; quyết định bởi"
+			],
+			[
+				"part",
+				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"电影": {
+		"py": "diànyǐng",
+		"mn": [
+			[
+				"n",
+				"điện ảnh; bộ phim; phim; chiếu bóng"
+			]
+		]
+	},
+	"可以": {
+		"py": "kěyǐ",
+		"mn": [
+			[
+				"av",
+				"có thể; có khả năng; có năng lực"
+			],
+			[
+				"adj",
+				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"当然": {
+		"py": "dāngrán",
+		"mn": [
+			[
+				"adv",
+				"nên như thế; phải thế; tất nhiên; đương nhiên; dĩ nhiên | tất nhiên; hiển nhiên; đương nhiên | tất nhiên; không nghi ngờ gì; chắc chắn là"
+			],
+			[
+				"adj",
+				"điều đương nhiên; tất nhiên"
+			]
+		]
+	},
+	"啦": {
+		"py": "la",
+		"mn": [
+			[
+				"part",
+				"đấy; nhé; nhá; à (hợp âm của \"了\"， \"啊\")"
+			]
+		]
+	},
+	"几点": {
+		"py": "jǐdiǎn",
+		"mn": [
+			[
+				"pro",
+				"mấy giờ"
+			]
+		]
+	},
+	"我们": {
+		"py": "wǒmen",
+		"mn": [
+			[
+				"pro",
+				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"卖": {
+		"py": "mài",
+		"mn": [
+			[
+				"v",
+				"bán | bán nước, bán bạn; bán đứng | ra sức; dốc sức; gắng sức | khoe; phô trương; khoe tài | bán sức lao động"
+			],
+			[
+				"measure",
+				"món (thức ăn)"
+			]
+		]
+	},
+	"爆米花": {
+		"py": "bàomǐhuā",
+		"mn": [
+			[
+				"n",
+				"bỏng ngô"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"地方": {
+		"py": "dìfāng",
+		"mn": [
+			[
+				"n",
+				"địa phương | bản xứ; bản địa | địa phương (chỉ bộ phận ngoài quân đội)"
+			]
+		]
+	},
+	"见": {
+		"py": "jiàn",
+		"mn": [
+			[
+				"v",
+				"thấy; trông thấy; nhìn thấy | gặp; tiếp xúc; gặp phải | thấy; hiện ra; lộ ra; hiện lên | xem; đọc | gặp mặt; gặp gỡ | nghe | thấy; nghe thấy"
+			],
+			[
+				"part",
+				"bị; được | (bày tỏ lời đề nghị lịch sự)"
+			],
+			[
+				"n",
+				"quan điểm; cách nhìn; ý kiến; nhận định | họ Kiến"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"明天见": {
+		"py": "míngtiānjiàn",
+		"mn": [
+			[
+				"n",
+				"mai gặp nhé; ngày mai gặp"
+			]
+		]
+	}
+}

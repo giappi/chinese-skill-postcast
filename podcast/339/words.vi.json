@@ -1,0 +1,262 @@
+{
+	"高平": {
+		"py": "gāopíng",
+		"mn": [
+			[
+				"",
+				"Cao Bằng; tỉnh Cao Bằng"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"每天": {
+		"py": "měitiān",
+		"mn": [
+			[
+				"n, time",
+				"mỗi ngày; hằng ngày"
+			]
+		]
+	},
+	"都": {
+		"py": "dōu",
+		"mn": [
+			[
+				"adv",
+				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"身体": {
+		"py": "shēntǐ",
+		"mn": [
+			[
+				"n",
+				"thân thể; cơ thể | sức khỏe"
+			]
+		]
+	},
+	"瑜伽": {
+		"py": "yújiā",
+		"mn": [
+			[
+				"n",
+				"yô-ga; yoga"
+			]
+		]
+	},
+	"晚上": {
+		"py": "wǎnshàng",
+		"mn": [
+			[
+				"n, time",
+				"tối; buổi tối; ban tối; tối muộn"
+			]
+		]
+	},
+	"游泳": {
+		"py": "yóuyǒng",
+		"mn": [
+			[
+				"v, sv",
+				"bơi; bơi lội"
+			],
+			[
+				"n",
+				"bơi lội (môn thi đấu thể thao)"
+			]
+		]
+	},
+	"你": {
+		"py": "nǐ",
+		"mn": [
+			[
+				"pro",
+				"bạn; anh; chị; ông; bà; ngươi; mày; mi; cậu... | các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều) | bạn (chỉ bất kỳ ai, bao gồm cả người nói) | bạn; cậu (chỉ sự tham gia của nhiều người)"
+			],
+			[
+				"n",
+				"họ Nhĩ"
+			]
+		]
+	},
+	"想": {
+		"py": "xiǎng",
+		"mn": [
+			[
+				"v",
+				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"干嘛": {
+		"py": "gànmá",
+		"mn": [
+			[
+				"phrase",
+				"làm gì; làm gì đấy; làm gì mà phải; làm gì phải"
+			]
+		]
+	},
+	"减肥": {
+		"py": "jiǎnféi",
+		"mn": [
+			[
+				"v",
+				"giảm cân; giảm béo"
+			]
+		]
+	},
+	"不是": {
+		"py": "bùshì",
+		"mn": [
+			[
+				"phrase",
+				"không phải; không đúng"
+			],
+			[
+				"n",
+				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"为了": {
+		"py": "wèile",
+		"mn": [
+			[
+				"prep",
+				"để; vì (biểu thị mục đích)."
+			]
+		]
+	},
+	"不": {
+		"py": "bù",
+		"mn": [
+			[
+				"adv",
+				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"感冒": {
+		"py": "gǎnmào",
+		"mn": [
+			[
+				"n",
+				"ốm; cảm cúm"
+			],
+			[
+				"adj",
+				"quan tâm; khoái; thích; hứng thú"
+			],
+			[
+				"v",
+				"bị cảm; cảm"
+			]
+		]
+	},
+	"那": {
+		"py": "nà",
+		"mn": [
+			[
+				"pro",
+				"đó; ấy; kia | ấy; đó; kia (đại diện cho người hoặc vật ở xa) | kia; đó; cái kia; cái đó"
+			],
+			[
+				"conj",
+				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"一定": {
+		"py": "yīdìng",
+		"mn": [
+			[
+				"adv",
+				"phải; nhất định; cần phải; chắc chắn (biểu thị kiên quyết hoặc xác định)"
+			],
+			[
+				"adj",
+				"nhất định (nào đó) | nhất định (không thay đổi) | nhất định (về cách làm; số lượng)"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"坚持": {
+		"py": "jiānchí",
+		"mn": [
+			[
+				"v",
+				"kiên trì; cố gắng (gặp khó khăn không bỏ cuộc) | giữ vững; khăng khăng (ý kiến, nguyên tắc)"
+			]
+		]
+	},
+	"千万": {
+		"py": "qiānwàn",
+		"mn": [
+			[
+				"adv",
+				"nhất thiết; nhất định; tuyệt đối"
+			],
+			[
+				"numb",
+				"mười triệu; hàng triệu (biểu thị một số lượng lớn)"
+			]
+		]
+	},
+	"不能": {
+		"py": "bùnéng",
+		"mn": [
+			[
+				"v",
+				"không thể; không được phép"
+			]
+		]
+	},
+	"三天打鱼两天晒网": {
+		"py": "sāntiāndǎyúliǎngtiānshàiwǎng",
+		"mn": [
+			[
+				"",
+				"bữa đực bữa cái"
+			]
+		]
+	}
+}

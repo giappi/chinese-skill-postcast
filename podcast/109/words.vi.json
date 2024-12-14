@@ -1,0 +1,213 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"套": {
+		"py": "tào",
+		"mn": [
+			[
+				"n",
+				"bao; bọc; túi | chăn; vỏ chăn | chỗ uốn cong; nơi uốn khúc (của núi sông, thường dùng làm tên đất) | dây chão (buộc ở ách súc vật và xe) | thòng lọng | bộ | khuôn khổ; lề lối;  lề lối có sẵn | bẫy; cái bẫy; cạm bẫy"
+			],
+			[
+				"measure",
+				"bộ; tổ; hồi"
+			],
+			[
+				"v",
+				"trùm; mặc; khoác; mặc thêm; mặc ngoài | lồng; nối ghép | cắt ren (ốc vít) | mô phỏng; bắt chước | lôi kéo | buộc; đóng | nhử; lừa; đưa vào tròng | lậu; buôn lậu; moi hàng nhà nước"
+			]
+		]
+	},
+	"房子": {
+		"py": "fángzi",
+		"mn": [
+			[
+				"n",
+				"nhà; nhà cửa; cái nhà"
+			]
+		]
+	},
+	"上周": {
+		"py": "shàngzhōu",
+		"mn": [
+			[
+				"n",
+				"tuần trước"
+			]
+		]
+	},
+	"只要": {
+		"py": "zhǐyào",
+		"mn": [
+			[
+				"conj",
+				"chỉ cần; miễn là; có (ý chỉ cần có)"
+			]
+		]
+	},
+	"最近": {
+		"py": "zuìjìn",
+		"mn": [
+			[
+				"n, time",
+				"gần đây; mới đây; vừa qua; dạo này"
+			],
+			[
+				"adj",
+				"gần nhất; gần đây"
+			]
+		]
+	},
+	"涨价": {
+		"py": "zhǎngjià",
+		"mn": [
+			[
+				"v, sv",
+				"tăng; tăng giá; lên giá"
+			]
+		]
+	},
+	"涨": {
+		"py": "zhǎng",
+		"mn": [
+			[
+				"v",
+				"cao; lên cao; tăng; nâng cao (mực nước, vật giá)"
+			]
+		]
+	},
+	"得": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"很": {
+		"py": "hěn",
+		"mn": [
+			[
+				"adv",
+				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"快": {
+		"py": "kuài",
+		"mn": [
+			[
+				"adj",
+				"nhanh; mau; chóng | vui; mừng; sướng; thích | nhanh; nhạy bén; lanh lợi | sắc; bén | thẳng thắn"
+			],
+			[
+				"adv",
+				"sắp; gần | gấp, vội; mau; mau chóng; nhanh chóng"
+			],
+			[
+				"n",
+				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"下周": {
+		"py": "xiàzhōu",
+		"mn": [
+			[
+				"adv",
+				"tuần sau; tuần tới"
+			]
+		]
+	},
+	"可能": {
+		"py": "kěnéng",
+		"mn": [
+			[
+				"n",
+				"khả năng"
+			],
+			[
+				"adj",
+				"khả thi; có thể; có khả năng"
+			],
+			[
+				"av",
+				"có lẽ; chắc là"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"天哪": {
+		"py": "tiānnǎ",
+		"mn": [
+			[
+				"intj",
+				"Vì lợi ích tốt lành! | Tốt duyên dáng!"
+			]
+		]
+	},
+	"买不起": {
+		"py": "mǎibùqǐ",
+		"mn": [
+			[
+				"v",
+				"không mua nổi; mua không nổi"
+			]
+		]
+	}
+}

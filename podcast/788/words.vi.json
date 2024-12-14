@@ -1,0 +1,56 @@
+{
+	"今天": {
+		"py": "jīntiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"星期三": {
+		"py": "xīngqīsān",
+		"mn": [
+			[
+				"time, n",
+				"thứ 4; thứ tư"
+			]
+		]
+	},
+	"昨天": {
+		"py": "zuótiān",
+		"mn": [
+			[
+				"time, n",
+				"ngày hôm qua; hôm qua; bữa qua | đã qua; trước kia; trước đây"
+			]
+		]
+	},
+	"星期二": {
+		"py": "xīngqīèr",
+		"mn": [
+			[
+				"time",
+				"Thứ ba"
+			]
+		]
+	},
+	"明天": {
+		"py": "míngtiān",
+		"mn": [
+			[
+				"n",
+				"mai; ngày mai; bữa mai | mai đây; mai kia; tương lai"
+			]
+		]
+	},
+	"星期四": {
+		"py": "xīngqīsì",
+		"mn": [
+			[
+				"time",
+				"thứ 5"
+			]
+		]
+	}
+}

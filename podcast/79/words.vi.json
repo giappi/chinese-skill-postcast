@@ -1,0 +1,200 @@
+{
+	"下面": {
+		"py": "xiàmiàn",
+		"mn": [
+			[
+				"n, nlocal",
+				"phía dưới; ở dưới | phần dưới; dưới đây | cấp dưới; bên dưới"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"世界": {
+		"py": "shìjiè",
+		"mn": [
+			[
+				"n",
+				"thế giới; trái đất | thế giới (trừu tượng) | thời buổi; thời đại"
+			]
+		]
+	},
+	"主要": {
+		"py": "zhǔyào",
+		"mn": [
+			[
+				"adj",
+				"chính; chủ yếu | chính; căn bản; cốt lõi"
+			]
+		]
+	},
+	"城市": {
+		"py": "chéngshì",
+		"mn": [
+			[
+				"n",
+				"thành thị; đô thị; thành phố"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"天气预报": {
+		"py": "tiānqìyùbào",
+		"mn": [
+			[
+				"n",
+				"dự báo thời tiết"
+			]
+		]
+	},
+	"北京": {
+		"py": "běijīng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Bắc Kinh; Beijing (thủ đô Trung Quốc)"
+			]
+		]
+	},
+	"东京": {
+		"py": "dōngjīng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Tô-ki-ô; Đông Kinh; Tokyo (thủ đô Nhật Bản, tên cũ là Edo)"
+			]
+		]
+	},
+	"小雨": {
+		"py": "xiǎoyǔ",
+		"mn": [
+			[
+				"n",
+				"mưa nhỏ"
+			]
+		]
+	},
+	"伦敦": {
+		"py": "lúndūn",
+		"mn": [
+			[
+				"",
+				"Luân Đôn (thành phố thuộc tỉnh Ontario ở Ca-na-đa) | Luân Đôn; London (thủ đô Anh)"
+			]
+		]
+	},
+	"雾": {
+		"py": "wù",
+		"mn": [
+			[
+				"n",
+				"sương mù | bụi nước (dạng giống sương mù)"
+			]
+		]
+	},
+	"华盛顿": {
+		"py": "huáshèngdùn",
+		"mn": [
+			[
+				"",
+				"Oa-sinh-tơn Hoa Thịnh Đốn; Washington (năm 1889 được công nhận là tiểu bang 42 thuộc tây bắc nước Mỹ, viết tắt là WA hoặc Wash) | Washington (thành phố tây nam bang Pennsylvania, Mỹ) | Hoa Thịnh Đốn; Oa-sinh-tơn; Washington (thủ đô Hoa Kỳ)"
+			]
+		]
+	},
+	"小雪": {
+		"py": "xiǎoxuě",
+		"mn": [
+			[
+				"n",
+				"tiểu tuyết (tiết) (vào ngày 22, 23 tháng 11)"
+			]
+		]
+	},
+	"就": {
+		"py": "jiù",
+		"mn": [
+			[
+				"adv",
+				"liền; ngay; sắp; sắp sửa | đã | mà; rồi; là...ngay (hai động tác xảy ra tiếp nhau) | thì | chính; chính là | chỉ; riêng; vẻn vẹn | tận; những; đã có (nhấn mạnh số lượng) | đã (nhấn mạnh sự khẳng định)"
+			],
+			[
+				"conj",
+				"dù; cho dù (biểu thị sự nhượng bộ)"
+			],
+			[
+				"v",
+				"nhắm (dùng trong ăn uống, nhậu nhẹt) | gần; sát; đến gần; dựa sát | đến; tới; đi đến | hoàn thành | nhân; tiện; nhân tiện; tiện thể | vào; nhậm; bắt đầu | theo; nghe theo; tuân theo"
+			],
+			[
+				"prep",
+				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"这里": {
+		"py": "zhèlǐ",
+		"mn": [
+			[
+				"pro",
+				"ở đây; nơi này; nơi đây; tại đây"
+			]
+		]
+	},
+	"明天见": {
+		"py": "míngtiānjiàn",
+		"mn": [
+			[
+				"n",
+				"mai gặp nhé; ngày mai gặp"
+			]
+		]
+	}
+}

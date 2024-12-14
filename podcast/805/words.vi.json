@@ -1,0 +1,69 @@
+{
+	"春天": {
+		"py": "chūntiān",
+		"mn": [
+			[
+				"n",
+				"mùa xuân | sự mới mẻ; sự tươi mới; sự khởi sắc"
+			]
+		]
+	},
+	"开始": {
+		"py": "kāishǐ",
+		"mn": [
+			[
+				"v",
+				"bắt đầu; khởi đầu; vào"
+			],
+			[
+				"n",
+				"giai đoạn đầu; lúc đầu"
+			]
+		]
+	},
+	"夏天": {
+		"py": "xiàtiān",
+		"mn": [
+			[
+				"n, time",
+				"mùa hè; mùa hạ"
+			]
+		]
+	},
+	"西瓜": {
+		"py": "xīguā",
+		"mn": [
+			[
+				"n",
+				"dưa hấu; dưa đỏ"
+			]
+		]
+	},
+	"秋天": {
+		"py": "qiūtiān",
+		"mn": [
+			[
+				"n",
+				"thu; mùa thu"
+			]
+		]
+	},
+	"冬天": {
+		"py": "dōngtiān",
+		"mn": [
+			[
+				"n, time",
+				"mùa đông"
+			]
+		]
+	},
+	"结冰": {
+		"py": "jiébīng",
+		"mn": [
+			[
+				"v",
+				"kết băng; đóng băng; chuyển sang thể rắn (chất lỏng)"
+			]
+		]
+	}
+}

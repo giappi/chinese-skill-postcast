@@ -1,0 +1,364 @@
+{
+	"飞机": {
+		"py": "fēijī",
+		"mn": [
+			[
+				"n",
+				"máy bay; phi cơ; tàu bay"
+			]
+		]
+	},
+	"就要": {
+		"py": "jiùyào",
+		"mn": [
+			[
+				"adv",
+				"sẽ; sắp; sắp ... rồi"
+			]
+		]
+	},
+	"起飞": {
+		"py": "qǐfēi",
+		"mn": [
+			[
+				"v",
+				"cất cánh; bay lên; bay | phát triển nhanh chóng"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"现在": {
+		"py": "xiànzài",
+		"mn": [
+			[
+				"n, time",
+				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"由": {
+		"py": "yóu",
+		"mn": [
+			[
+				"prep",
+				"do; từ; bởi; bởi vì | do (trọng trách, trách nhiệm) | do; bởi; từ; căn cứ vào | từ; tự; khởi điểm (nơi chốn, thời gian) | qua; do; thông qua"
+			],
+			[
+				"v",
+				"qua; trải qua | thuận theo; nghe theo; tuỳ theo | tuân theo; nghe theo"
+			],
+			[
+				"n",
+				"do; nguyên do; lí do; nguyên nhân | họ Do"
+			]
+		]
+	},
+	"乘务员": {
+		"py": "chéngwùyuán",
+		"mn": [
+			[
+				"n",
+				"nhân viên phục vụ (trên tàu, xe, máy bay)"
+			]
+		]
+	},
+	"进行": {
+		"py": "jìnxíng",
+		"mn": [
+			[
+				"v",
+				"làm; tiến hành; thực hiện; triển khai | tiến lên; tiến tới; tiến lên phía trước | diễn ra; tiến hành; tiến triển; tiếp tục"
+			]
+		]
+	},
+	"安全": {
+		"py": "ānquán",
+		"mn": [
+			[
+				"adj",
+				"an toàn"
+			],
+			[
+				"n",
+				"sự an toàn"
+			]
+		]
+	},
+	"检查": {
+		"py": "jiǎnchá",
+		"mn": [
+			[
+				"v",
+				"kiểm tra; kiểm soát; khám | kiểm thảo; kiểm điểm | lục soát; lục; soát; kiểm tra"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"您": {
+		"py": "nín",
+		"mn": [
+			[
+				"pro",
+				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"坐好": {
+		"py": "zuòhǎo",
+		"mn": [
+			[
+				"v",
+				"ngồi đúng cách | ngồi thẳng"
+			]
+		]
+	},
+	"安全带": {
+		"py": "ānquándài",
+		"mn": [
+			[
+				"n",
+				"Dây an toàn | dây an toàn"
+			]
+		]
+	},
+	"座椅": {
+		"py": "zuòyǐ",
+		"mn": [
+			[
+				"n",
+				"ghế"
+			]
+		]
+	},
+	"靠背": {
+		"py": "kàobèi",
+		"mn": [
+			[
+				"n",
+				"chỗ tựa lưng; đồ tựa lưng | kép võ; diễn viên mặc áo giáp đấu võ (trong Hí khúc)"
+			]
+		]
+	},
+	"和": {
+		"py": "hé",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"adj",
+				"hòa bình; hoà nhã; nhẹ nhàng | hoà thuận; hài hoà"
+			],
+			[
+				"v",
+				"hoà; hoà nhau; hòa giải; hòa đàm (kết thúc chiến tranh hoặc tranh chấp) | hoà; huề; hoà nhau; không phân thắng bại (đánh cờ hoặc thi đấu)"
+			],
+			[
+				"prep",
+				"liên quan; liên quan tới | với; cùng; cho; so; với"
+			],
+			[
+				"n",
+				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"小": {
+		"py": "xiǎo",
+		"mn": [
+			[
+				"adj",
+				"nhỏ; bé; ít; thấp; kém | út; nhỏ nhất | chút; một chút ; một lát (thời gian) | nhỏ; bé; tiểu; em"
+			],
+			[
+				"n",
+				"thiếp; nàng hầu; vợ lẽ; vợ nhỏ | em nhỏ; trẻ nhỏ; trẻ em; trẻ con | tiểu | họ Tiểu"
+			],
+			[
+				"adv",
+				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"确认": {
+		"py": "quèrèn",
+		"mn": [
+			[
+				"v",
+				"xác nhận; ghi nhận; thừa nhận"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"电子": {
+		"py": "diànzǐ",
+		"mn": [
+			[
+				"n",
+				"điện tử"
+			]
+		]
+	},
+	"设备": {
+		"py": "shèbèi",
+		"mn": [
+			[
+				"v",
+				"trang bị"
+			],
+			[
+				"n",
+				"thiết bị; dụng cụ"
+			]
+		]
+	},
+	"已经": {
+		"py": "yǐjīng",
+		"mn": [
+			[
+				"adv",
+				"đã; rồi"
+			]
+		]
+	},
+	"全部": {
+		"py": "quánbù",
+		"mn": [
+			[
+				"n",
+				"toàn bộ; tất cả"
+			],
+			[
+				"adv",
+				"hết thảy; hoàn toàn"
+			]
+		]
+	},
+	"关闭": {
+		"py": "guānbì",
+		"mn": [
+			[
+				"v",
+				"đóng; khép; tắt; đóng kín | đóng cửa (nhà máy, cửa hiệu, trường học)"
+			]
+		]
+	},
+	"航班": {
+		"py": "hángbān",
+		"mn": [
+			[
+				"n",
+				"chuyến bay"
+			]
+		]
+	},
+	"全程": {
+		"py": "quánchéng",
+		"mn": [
+			[
+				"n",
+				"toàn bộ hành trình"
+			]
+		]
+	},
+	"禁烟": {
+		"py": "jìnyān",
+		"mn": [
+			[
+				"v",
+				"cấm thuốc phiện (đặc biệt là ở Trung Quốc từ năm 1729) | cấm hút thuốc | cấm nấu ăn | bỏ thuốc lá"
+			]
+		]
+	},
+	"在": {
+		"py": "zài",
+		"mn": [
+			[
+				"v",
+				"sống; tồn tại; sinh tồn | ở (biểu thị người hoặc vị trí của sự vật) | tại; tại chức; đang giữ | do; quyết định bởi | thuộc; tham gia"
+			],
+			[
+				"adv",
+				"đang (làm gì đó)"
+			],
+			[
+				"prep",
+				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"飞行": {
+		"py": "fēixíng",
+		"mn": [
+			[
+				"v",
+				"bay; phi hành; bay trên không"
+			]
+		]
+	},
+	"途中": {
+		"py": "túzhōng",
+		"mn": [
+			[
+				"n",
+				"trên đường đi; trong quá trình"
+			]
+		]
+	},
+	"不要": {
+		"py": "bùyào",
+		"mn": [
+			[
+				"adv",
+				"đừng; cấm; không được; chớ; không nên; không được | không cần"
+			]
+		]
+	},
+	"吸烟": {
+		"py": "xīyān",
+		"mn": [
+			[
+				"v",
+				"hút thuốc"
+			]
+		]
+	},
+	"合作": {
+		"py": "hézuò",
+		"mn": [
+			[
+				"v",
+				"hợp tác"
+			]
+		]
+	}
+}

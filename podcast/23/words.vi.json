@@ -1,0 +1,360 @@
+{
+	"销售部": {
+		"py": "xiāoshòubù",
+		"mn": [
+			[
+				"n",
+				"phòng bán hàng; phòng kinh doanh; phòng tiêu thụ; bộ phận kinh doanh"
+			]
+		]
+	},
+	"全体": {
+		"py": "quántǐ",
+		"mn": [
+			[
+				"n",
+				"toàn thể (thường chỉ về người)"
+			]
+		]
+	},
+	"成员": {
+		"py": "chéngyuán",
+		"mn": [
+			[
+				"n",
+				"thành viên; hội viên; thành phần"
+			]
+		]
+	},
+	"原": {
+		"py": "yuán",
+		"mn": [
+			[
+				"n",
+				"nguồn; nguồn gốc; gốc rễ | đồng; cánh đồng (vùng đất rộng và bằng phẳng) | gốc; ban đầu | họ Nguyên"
+			],
+			[
+				"v",
+				"tha thứ; thứ lỗi; tha tội | truy cứu; suy cứu; thôi cầu (tận gốc)"
+			],
+			[
+				"adj",
+				"thô (vật chưa gia công) | gốc; ban đầu; mới đầu | nguyên thuỷ; nguyên bản; ban đầu; ban sơ"
+			],
+			[
+				"adv",
+				"vốn; vốn dĩ"
+			]
+		]
+	},
+	"定于": {
+		"py": "dìngyú",
+		"mn": [
+			[
+				"v",
+				"lên lịch lúc | đặt tại"
+			]
+		]
+	},
+	"本月": {
+		"py": "běnyuè",
+		"mn": [
+			[
+				"n",
+				"tháng này"
+			]
+		]
+	},
+	"下午": {
+		"py": "xiàwǔ",
+		"mn": [
+			[
+				"n, time",
+				"buổi chiều; xế bóng (từ 12 giờ trưa đến tối)"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"会议": {
+		"py": "huìyì",
+		"mn": [
+			[
+				"n",
+				"cuộc họp | hội nghị"
+			]
+		]
+	},
+	"因": {
+		"py": "yīn",
+		"mn": [
+			[
+				"v",
+				"theo; y theo; noi theo; làm theo | căn cứ; dựa vào"
+			],
+			[
+				"n",
+				"nguyên nhân | họ Nhân"
+			],
+			[
+				"prep",
+				"do; bởi; vì; bởi vì"
+			],
+			[
+				"conj",
+				"nên; do; do đó; theo đó"
+			]
+		]
+	},
+	"部门": {
+		"py": "bùmén",
+		"mn": [
+			[
+				"n",
+				"ngành; bộ môn; khâu; chi; nhánh, bộ phận"
+			]
+		]
+	},
+	"经理": {
+		"py": "jīnglǐ",
+		"mn": [
+			[
+				"n",
+				"giám đốc; quản lý"
+			]
+		]
+	},
+	"临时": {
+		"py": "línshí",
+		"mn": [
+			[
+				"adv",
+				"tạm; tạm thời; đột ngột; đột xuất"
+			],
+			[
+				"adj",
+				"tạm thời; lâm thời"
+			]
+		]
+	},
+	"出差": {
+		"py": "chūchāi",
+		"mn": [
+			[
+				"sv",
+				"đi công tác; đi công vụ | phụ việc; làm việc vặt; làm công việc tạm thời"
+			]
+		]
+	},
+	"将": {
+		"py": "jiāng",
+		"mn": [
+			[
+				"adv",
+				"sắp | vừa... vừa; nửa.. nửa; bán... bán (dùng đôi)"
+			],
+			[
+				"v",
+				"làm; làm việc | chiếu tướng | bảo dưỡng; điều dưỡng | kháy; chỉ trích; nói khích | cầm; đưa; đỡ | đem; lấy | mang; xách; dìu (trong khoảng thời gian ngắn) | giúp; hỗ trợ"
+			],
+			[
+				"part",
+				"tới; đến"
+			],
+			[
+				"prep",
+				"lấy; dùng; đem | đem; đặt | sẽ"
+			],
+			[
+				"n",
+				"họ Tương"
+			]
+		]
+	},
+	"推迟": {
+		"py": "tuīchí",
+		"mn": [
+			[
+				"v",
+				"hoãn; dời lại; chậm lại; lùi lại; hoãn lại; trì hoãn"
+			]
+		]
+	},
+	"到": {
+		"py": "dào",
+		"mn": [
+			[
+				"v",
+				"đi; đến; đi đến | đến; tới | đến; được (dùng làm bổ ngữ chỉ kết quả)"
+			],
+			[
+				"prep",
+				"đến"
+			],
+			[
+				"adj",
+				"chu đáo; ân cần"
+			],
+			[
+				"n",
+				"họ Đáo"
+			]
+		]
+	},
+	"地点": {
+		"py": "dìdiǎn",
+		"mn": [
+			[
+				"n",
+				"nơi; chỗ; địa điểm"
+			]
+		]
+	},
+	"仍": {
+		"py": "réng",
+		"mn": [
+			[
+				"adv",
+				"vẫn; cứ; như cũ"
+			],
+			[
+				"v",
+				"vẫn (noi theo; gìn giữ) | nhiều lần; luôn luôn"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"公司": {
+		"py": "gōngsī",
+		"mn": [
+			[
+				"n",
+				"công ty"
+			]
+		]
+	},
+	"第一": {
+		"py": "dìyī",
+		"mn": [
+			[
+				"",
+				"thứ nhất; hạng nhất; bậc nhất; đầu tiên; đệ nhất | quan trọng nhất"
+			]
+		]
+	},
+	"会议室": {
+		"py": "huìyìshì",
+		"mn": [
+			[
+				"n",
+				"phòng họp; phòng hội nghị"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"大家": {
+		"py": "dàjiā",
+		"mn": [
+			[
+				"n",
+				"chuyên gia; người nổi tiếng; bậc thầy | nhà quyền quý; thế gia vọng tộc"
+			],
+			[
+				"pro",
+				"mọi người; cả nhà"
+			]
+		]
+	},
+	"相互": {
+		"py": "xiānghù",
+		"mn": [
+			[
+				"adv",
+				"lẫn nhau"
+			],
+			[
+				"adj",
+				"hỗ trợ; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"转告": {
+		"py": "zhuǎngào",
+		"mn": [
+			[
+				"v",
+				"chuyển lại; chuyển lời; truyền lại; nói lại; truyền báo"
+			]
+		]
+	},
+	"务必": {
+		"py": "wùbì",
+		"mn": [
+			[
+				"adv",
+				"phải; ắt phải; nhất thiết phải; nhất định phải"
+			]
+		]
+	},
+	"准时": {
+		"py": "zhǔnshí",
+		"mn": [
+			[
+				"adj",
+				"đúng giờ"
+			]
+		]
+	},
+	"参加": {
+		"py": "cānjiā",
+		"mn": [
+			[
+				"v",
+				"tham gia; gia nhập; tham dự; dự; nhập cuộc | đề xuất; đưa ra; cho; góp (ý kiến)"
+			],
+			[
+				"n",
+				"sự tham gia; sự tham dự; sự góp mặt"
+			]
+		]
+	}
+}

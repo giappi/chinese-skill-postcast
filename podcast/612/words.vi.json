@@ -1,0 +1,60 @@
+{
+	"怎么": {
+		"py": "zěnme",
+		"mn": [
+			[
+				"pro",
+				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"了": {
+		"py": "le",
+		"mn": [
+			[
+				"part",
+				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"她": {
+		"py": "tā",
+		"mn": [
+			[
+				"pro",
+				"cô ấy; chị ấy; bà ấy (phái nữ) | cô ấy (chỉ những sự vật đáng kính trọng và yêu quý)"
+			]
+		]
+	},
+	"肚子": {
+		"py": "dùzi",
+		"mn": [
+			[
+				"n",
+				"bụng; cái bụng | bắp; bụng (vật có hình dáng giống cái bụng) | bụng; lòng; tâm; tấm lòng"
+			]
+		]
+	},
+	"疼": {
+		"py": "téng",
+		"mn": [
+			[
+				"adj",
+				"đau; buốt; nhức"
+			],
+			[
+				"v",
+				"cưng; thương; yêu thương"
+			]
+		]
+	},
+	"牙": {
+		"py": "yá",
+		"mn": [
+			[
+				"n",
+				"răng | ngà voi | hình răng cưa (đồ vật) | họ Nha"
+			]
+		]
+	}
+}

@@ -1,0 +1,111 @@
+{
+	"这": {
+		"py": "zhè",
+		"mn": [
+			[
+				"pro",
+				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"是": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"là | là; đó; ấy; đấy | đúng; thích hợp | cho là; cho rằng; cho là đúng | phải; vâng; được | hay; hay là | chính là | quả là; quả thật | hễ; phàm; bất cứ"
+			],
+			[
+				"adj",
+				"đúng; phải; hợp lý"
+			],
+			[
+				"n",
+				"sự đúng; điều phải; điều đúng đắn | họ Thị"
+			],
+			[
+				"pro",
+				"đây; này; vậy"
+			]
+		]
+	},
+	"人": {
+		"py": "rén",
+		"mn": [
+			[
+				"n",
+				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"身体": {
+		"py": "shēntǐ",
+		"mn": [
+			[
+				"n",
+				"thân thể; cơ thể | sức khỏe"
+			]
+		]
+	},
+	"手": {
+		"py": "shǒu",
+		"mn": [
+			[
+				"n",
+				"tay | kỹ thuật; cách thức; phương pháp | người có tài | tay nắm; tay cầm (vật có hình dạng giống tay)"
+			],
+			[
+				"v",
+				"cầm; nắm"
+			],
+			[
+				"adj",
+				"nhỏ; gọn; tiện; cầm tay | ghi; viết (chỉ tự tay viết)"
+			],
+			[
+				"measure",
+				"tài; tài nghệ; tay nghề; kỹ năng | lần (sử dụng đồ vật)"
+			],
+			[
+				"adv",
+				"tự tay; tự mình"
+			]
+		]
+	},
+	"肚子": {
+		"py": "dùzi",
+		"mn": [
+			[
+				"n",
+				"bụng; cái bụng | bắp; bụng (vật có hình dáng giống cái bụng) | bụng; lòng; tâm; tấm lòng"
+			]
+		]
+	},
+	"腿": {
+		"py": "tuǐ",
+		"mn": [
+			[
+				"n",
+				"chân (người; động vật) | chân (đồ vật) | chân giò (thức ăn)"
+			]
+		]
+	},
+	"脚": {
+		"py": "jiǎo",
+		"mn": [
+			[
+				"n",
+				"bàn chân | chân (phần dưới cùng của đồ vật) | người bốc vác; người khuân vác (dùng sức lực để vận chuyển) | cặn; bã; phần còn lại"
+			]
+		]
+	}
+}

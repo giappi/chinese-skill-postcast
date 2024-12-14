@@ -1,0 +1,239 @@
+{
+	"你好": {
+		"py": "nǐhǎo",
+		"mn": [
+			[
+				"sentence",
+				"xin chào"
+			]
+		]
+	},
+	"我": {
+		"py": "wǒ",
+		"mn": [
+			[
+				"pro",
+				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"要": {
+		"py": "yào",
+		"mn": [
+			[
+				"v",
+				"muốn; hi vọng | cần có; muốn có | xin; đòi; yêu cầu | nhờ; thỉnh cầu | cần (bao nhiêu) | phải; nên; cần phải | sắp; sẽ | chắc; có lẽ | muốn; cần"
+			],
+			[
+				"adj",
+				"quan trọng; cần thiết"
+			],
+			[
+				"n",
+				"nội dung chính; nội dung quan trọng"
+			],
+			[
+				"conj",
+				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"配": {
+		"py": "pèi",
+		"mn": [
+			[
+				"v",
+				"giao phối; lấy giống; gây giống; phối giống (động vật) | pha; phối; bào chế; pha chế | phân chia; phân phối | thay; lắp thêm; bổ sung thêm | điểm; đệm; phối; kết hợp | kết hôn"
+			],
+			[
+				"adj",
+				"hợp; phù hợp"
+			],
+			[
+				"av",
+				"xứng; thích hợp; phù hợp"
+			],
+			[
+				"n",
+				"vợ; chồng; người bạn đời"
+			]
+		]
+	},
+	"眼镜": {
+		"py": "yǎnjìng",
+		"mn": [
+			[
+				"n",
+				"mắt kính; kính mắt; kính đeo mắt"
+			]
+		]
+	},
+	"好的": {
+		"py": "hǎode",
+		"mn": [
+			[
+				"sentence",
+				"vâng ạ; được ạ"
+			]
+		]
+	},
+	"请": {
+		"py": "qǐng",
+		"mn": [
+			[
+				"v",
+				"xin; thỉnh cầu; xin nhờ; yêu cầu; đề nghị | mời; tuyển; thuê | xin mời; mời (khách sáo) | thỉnh; rước (tượng Phật)"
+			],
+			[
+				"n",
+				"họ Thỉnh"
+			]
+		]
+	},
+	"先": {
+		"py": "xiān",
+		"mn": [
+			[
+				"adv",
+				"trước (hành động xảy ra trước) | tạm; tạm thời | trước đó; trước kia; trước đây"
+			],
+			[
+				"adj",
+				"người quá cố (tôn xưng người đã chết)"
+			],
+			[
+				"n",
+				"trước; tiên (thời gian, thứ tự) | đời trước; tổ tiên | lúc đầu; ban đầu | họ Tiên"
+			],
+			[
+				"v",
+				"đi trước"
+			]
+		]
+	},
+	"来": {
+		"py": "lái",
+		"mn": [
+			[
+				"v",
+				"đến; tới (từ chỗ khác đến chỗ người nói) | tới; đến (dùng sau động từ, biểu thị động tác hướng về phía lời nói) | xảy đến; xảy ra (vấn đề, sự tình) | để (dùng giữa kết cấu động từ hoặc kết cấu giữa động từ và giới từ, biểu thị thành phần trước là phương pháp, phương hướng, thành phần sau là mục đích) | hãy; để (dùng trước một động từ khác, biểu thị làm một việc gì đó) | đánh; mở; làm (dùng thay cho một số động tác) | hợp; được"
+			],
+			[
+				"part",
+				"khoảng; chừng (đứng sau số từ hoặc số lượng từ để biểu thị số ước lượng) | dùng làm từ đệm trong thơ ca; tục ngữ hoặc lời rao hàng | ấy nhỉ | là (dùng sau số từ như \"一\"\"二\" \"三\", liệt kê lý do)"
+			],
+			[
+				"n",
+				"tới nay; từ trước tới nay (một thời điểm nhất định trong quá khứ cho đến hiện tại) | họ Lai"
+			],
+			[
+				"adj",
+				"tương lai; sau này"
+			]
+		]
+	},
+	"请问": {
+		"py": "qǐngwèn",
+		"mn": [
+			[
+				"v",
+				"xin hỏi; cho hỏi"
+			]
+		]
+	},
+	"的": {
+		"py": "de",
+		"mn": [
+			[
+				"part",
+				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"多少": {
+		"py": "duōshǎo",
+		"mn": [
+			[
+				"adv",
+				"Ít nhiều, hơi hơi, có phần (mức độ nhất định nhưng không cao)"
+			],
+			[
+				"n",
+				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"度": {
+		"py": "dù",
+		"mn": [
+			[
+				"n",
+				"công cụ; tiêu chuẩn đo lường | độ (độ cứng, độ ẩm...) | độ; trình độ; mức độ | hạn độ; độ; giới hạn; mức | điều lệ; chuẩn mực hành vi | độ lượng; bao dung | độ (tư thế hoặc khí chất của con người) | trong; nội | họ Độ | cân nhắc; suy nghĩ; tính toán; để ý đến"
+			],
+			[
+				"measure",
+				"lần; chuyến (lượng từ) | độ; góc | nhiệt độ (độ C) | độ (lượng nhiệt, 1 độ bằng 1 Kw/h) | kinh độ; vĩ độ | độ cồn (rượu; bia) | độ (kính)"
+			],
+			[
+				"v",
+				"vượt qua | qua; trôi qua (chỉ thời gian) | độ (Phật giáo,Đạo giáo)"
+			]
+		]
+	},
+	"左": {
+		"py": "zuǒ",
+		"mn": [
+			[
+				"n",
+				"trái; tả; bên trái | phía Đông | đề cập đến địa vị thấp hơn (thời cổ đại thường lấy bên phải làm trên, bên trái làm dưới) | họ Tả"
+			],
+			[
+				"adj",
+				"sai; không đúng | tiến bộ; cách mạng | ngược; tương phản; trái ngược | kỳ lạ; kỳ quặc; không bình thường"
+			],
+			[
+				"v",
+				"giúp; phò tá; giúp đỡ"
+			]
+		]
+	},
+	"眼": {
+		"py": "yǎn",
+		"mn": [
+			[
+				"n",
+				"mắt | hốc; lỗ; lỗ thủng | mấu chốt; then chốt; chỗ quan trọng | nhịp phách (trong hí khúc) | mắt trống (thuật ngữ trong cờ vây)"
+			],
+			[
+				"measure",
+				"cái; miệng (dùng cho giếng)"
+			]
+		]
+	},
+	"右": {
+		"py": "yòu",
+		"mn": [
+			[
+				"n",
+				"bên phải; phía phải; bên tay phải | cao; bên trên; phía trên (địa vị được coi trọng) | phía tây | họ Hữu"
+			],
+			[
+				"adj",
+				"bảo thủ; phản động (về tư tưởng và chính trị)"
+			],
+			[
+				"v",
+				"tôn trọng; tôn kính; phong thánh; giữ gìn; duy trì; tôn sùng; chiều theo; chiều ý"
+			]
+		]
+	},
+	"哦": {
+		"py": "ò",
+		"mn": [
+			[
+				"onom, intj",
+				"à; ồ (biểu thị bất chợt hiểu ra; nhận ra điều gì đó)"
+			]
+		]
+	}
+}
