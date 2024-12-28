@@ -195,6 +195,15 @@
 			]
 		]
 	},
+	"个子": {
+		"py": "gèzi",
+		"mn": [
+			[
+				"n",
+				"vóc dáng; vóc người; thân hình; khổ người; dáng người | kích thước"
+			]
+		]
+	},
 	"高高": {
 		"py": "gāogāo",
 		"mn": [
@@ -353,6 +362,19 @@
 			]
 		]
 	},
+	"移民": {
+		"py": "yímín",
+		"mn": [
+			[
+				"v",
+				"di dân"
+			],
+			[
+				"n",
+				"dân di cư"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -486,6 +508,15 @@
 			]
 		]
 	},
+	"就算": {
+		"py": "jiùsuàn",
+		"mn": [
+			[
+				"conj",
+				"dù; cho dù; ngay cả"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -513,6 +544,15 @@
 			[
 				"n",
 				"cách nhìn, quan điểm; ý tưởng"
+			]
+		]
+	},
+	"人家": {
+		"py": "rénjiā",
+		"mn": [
+			[
+				"n",
+				"nhà; hộ; gia đình | nhà người ta; nhà chồng tương lai; gia đình chồng tương lai"
 			]
 		]
 	},
@@ -588,6 +628,15 @@
 			]
 		]
 	},
+	"哪有": {
+		"py": "nǎyǒu",
+		"mn": [
+			[
+				"phrase",
+				"đâu có; làm gì có"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -610,6 +659,15 @@
 			[
 				"adv",
 				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"造谣": {
+		"py": "zàoyáo",
+		"mn": [
+			[
+				"v",
+				"bịa đặt; đặt chuyện; tung tin vịt; tung tin đồn nhảm"
 			]
 		]
 	},

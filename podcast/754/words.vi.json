@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"大清早": {
+		"py": "dàqīngzǎo",
+		"mn": [
+			[
+				"n",
+				"sáng sớm"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -36,6 +45,24 @@
 			[
 				"pro",
 				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"没精打采": {
+		"py": "méijīngdǎcǎi",
+		"mn": [
+			[
+				"idioms",
+				"ủ rũ; buồn bã; ỉu xìu; thẫn thờ | rù rù"
+			]
+		]
+	},
+	"甭": {
+		"py": "béng",
+		"mn": [
+			[
+				"adv",
+				"không cần; khỏi phải; khỏi cần (hợp âm của 不用)"
 			]
 		]
 	},
@@ -71,6 +98,15 @@
 			[
 				"adj",
 				"gần nhất; gần đây"
+			]
+		]
+	},
+	"连续": {
+		"py": "liánxù",
+		"mn": [
+			[
+				"adv",
+				"liên tục; liên tiếp"
 			]
 		]
 	},
@@ -162,12 +198,38 @@
 			]
 		]
 	},
+	"不足": {
+		"py": "bùzú",
+		"mn": [
+			[
+				"adj",
+				"thiếu; không đầy; không đủ; chưa tới; chưa đủ"
+			],
+			[
+				"n",
+				"thiếu sót; khiếm khuyết; điểm chưa hoàn thiện"
+			],
+			[
+				"v",
+				"không thể; không nên; không được; không đủ | chưa đủ; không đủ | không đáng"
+			]
+		]
+	},
 	"呀": {
 		"py": "ya",
 		"mn": [
 			[
 				"av",
 				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"铁人": {
+		"py": "tiěrén",
+		"mn": [
+			[
+				"n",
+				"Người Sắt"
 			]
 		]
 	},
@@ -260,6 +322,24 @@
 			[
 				"n",
 				"họ Nhượng"
+			]
+		]
+	},
+	"遇上": {
+		"py": "yùshàng",
+		"mn": [
+			[
+				"v",
+				"Gặp phải"
+			]
+		]
+	},
+	"周扒皮": {
+		"py": "zhōubāpí",
+		"mn": [
+			[
+				"n",
+				"Chu người khai phá, nhân vật nguyên mẫu trong truyện ngắn 半夜雞叫 | 半夜鸡叫"
 			]
 		]
 	},
@@ -422,6 +502,28 @@
 			]
 		]
 	},
+	"罐": {
+		"py": "guàn",
+		"mn": [
+			[
+				"n",
+				"hộp; vại; lọ; bình; can; lon; thùng | xe thùng; xe tải (chở than)"
+			],
+			[
+				"measure",
+				"bình; lọ; lon; hũ; thùng"
+			]
+		]
+	},
+	"速溶": {
+		"py": "sùróng",
+		"mn": [
+			[
+				"v",
+				"lập tức | sẵn sàng ngay lập tức | tan nhanh"
+			]
+		]
+	},
 	"快": {
 		"py": "kuài",
 		"mn": [
@@ -457,6 +559,24 @@
 			[
 				"part",
 				"bị (dùng trước động từ tạo thành nhóm từ biểu thị sự bị động)"
+			]
+		]
+	},
+	"喝光": {
+		"py": "hēguāng",
+		"mn": [
+			[
+				"v",
+				"uống cạn | để kết thúc (một thức uống)"
+			]
+		]
+	},
+	"现磨": {
+		"py": "xiànmò",
+		"mn": [
+			[
+				"n",
+				"vùng đất mới"
 			]
 		]
 	},
@@ -496,6 +616,15 @@
 			[
 				"adv",
 				"càng; lại | hơn"
+			]
+		]
+	},
+	"提神": {
+		"py": "tíshén",
+		"mn": [
+			[
+				"v",
+				"giúp tỉnh táo; nâng cao tinh thần; hưng phấn tinh thần"
 			]
 		]
 	},
@@ -590,6 +719,19 @@
 			]
 		]
 	},
+	"可怜": {
+		"py": "kělián",
+		"mn": [
+			[
+				"adj",
+				"đáng thương; thảm thương; khổ thân; tội nghiệp | thảm; thảm thương; quá ít; quá kém; nghèo nàn (số lượng ít hoặc chất lượng đến mức không đáng nêu lên)"
+			],
+			[
+				"v",
+				"thương; thương xót; thương tiếc; thương cảm; cảm thông; thương hại"
+			]
+		]
+	},
 	"走": {
 		"py": "zǒu",
 		"mn": [
@@ -630,6 +772,15 @@
 			[
 				"adj",
 				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"世面": {
+		"py": "shìmiàn",
+		"mn": [
+			[
+				"n",
+				"cảnh đời; việc đời; các mặt của xã hội; thế diện"
 			]
 		]
 	}

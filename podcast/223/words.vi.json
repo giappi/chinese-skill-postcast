@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"中秋节": {
+		"py": "zhōngqiūjié",
+		"mn": [
+			[
+				"n",
+				"Tết Trung thu"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -52,6 +61,19 @@
 			[
 				"measure",
 				"ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)"
+			]
+		]
+	},
+	"赏": {
+		"py": "shǎng",
+		"mn": [
+			[
+				"v",
+				"thưởng | thưởng thức; ngắm | tán thưởng; khen ngợi"
+			],
+			[
+				"n",
+				"giải thưởng; phần thưởng | họ Thưởng"
 			]
 		]
 	},
@@ -117,6 +139,15 @@
 			[
 				"onom",
 				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"电灯泡": {
+		"py": "diàndēngpào",
+		"mn": [
+			[
+				"n",
+				"bóng đèn; bóng đèn điện"
 			]
 		]
 	},
@@ -241,6 +272,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"蛋黄": {
+		"py": "dànhuáng",
+		"mn": [
+			[
+				"n",
+				"lòng đỏ trứng | tròng đỏ"
 			]
 		]
 	},

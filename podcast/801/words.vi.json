@@ -255,6 +255,15 @@
 			]
 		]
 	},
+	"抽屉": {
+		"py": "chōutì",
+		"mn": [
+			[
+				"n",
+				"ngăn kéo; ngăn tủ; tủ khoá; két"
+			]
+		]
+	},
 	"里": {
 		"py": "lǐ",
 		"mn": [
@@ -322,6 +331,15 @@
 			[
 				"adv",
 				"đã; rồi"
+			]
+		]
+	},
+	"钱包": {
+		"py": "qiánbāo",
+		"mn": [
+			[
+				"n",
+				"ví tiền; túi tiền; ví"
 			]
 		]
 	},
@@ -403,6 +421,15 @@
 			]
 		]
 	},
+	"充电器": {
+		"py": "chōngdiànqì",
+		"mn": [
+			[
+				"n",
+				"củ sạc; cục sạc"
+			]
+		]
+	},
 	"真": {
 		"py": "zhēn",
 		"mn": [
@@ -429,12 +456,39 @@
 			]
 		]
 	},
+	"改掉": {
+		"py": "gǎidiào",
+		"mn": [
+			[
+				"v",
+				"bỏ; từ bỏ; bỏ đi"
+			]
+		]
+	},
 	"这": {
 		"py": "zhè",
 		"mn": [
 			[
 				"pro",
 				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"丢三落四": {
+		"py": "diūsānlàsì",
+		"mn": [
+			[
+				"idioms",
+				"hay quên; quên trước quên sau"
+			]
+		]
+	},
+	"毛病": {
+		"py": "máobìng",
+		"mn": [
+			[
+				"n",
+				"bệnh; bệnh tật | lỗi; vấn đề; sự cố | thói xấu; tật xấu; khuyết điểm; thói quen xấu"
 			]
 		]
 	}

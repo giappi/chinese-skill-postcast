@@ -79,12 +79,30 @@
 			]
 		]
 	},
+	"电梯": {
+		"py": "diàntī",
+		"mn": [
+			[
+				"n",
+				"thang máy; cầu thang điện; thang điện"
+			]
+		]
+	},
 	"哪里": {
 		"py": "nǎlǐ",
 		"mn": [
 			[
 				"pro",
 				"đâu; chỗ nào | ở đâu; nơi nào | đâu; đâu phải; đâu có phải(dùng trong câu hỏi vặn; có ý phủ định) | đâu có (lời nói khiêm tốn)"
+			]
+		]
+	},
+	"大堂": {
+		"py": "dàtáng",
+		"mn": [
+			[
+				"n",
+				"công đường (nơi xử án ở nha môn thời xưa) | phòng lớn; đại sảnh; phòng"
 			]
 		]
 	},

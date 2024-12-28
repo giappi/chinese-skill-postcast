@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"生病": {
+		"py": "shēngbìng",
+		"mn": [
+			[
+				"v",
+				"sinh bệnh; phát bệnh; bị ốm"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -179,6 +188,15 @@
 			[
 				"adv",
 				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"毛病": {
+		"py": "máobìng",
+		"mn": [
+			[
+				"n",
+				"bệnh; bệnh tật | lỗi; vấn đề; sự cố | thói xấu; tật xấu; khuyết điểm; thói quen xấu"
 			]
 		]
 	},

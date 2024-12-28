@@ -225,6 +225,23 @@
 			]
 		]
 	},
+	"结果": {
+		"py": "jiéguǒ",
+		"mn": [
+			[
+				"n",
+				"kết quả"
+			],
+			[
+				"conj",
+				"rốt cuộc; kết cục là; kết quả là"
+			],
+			[
+				"v",
+				"giết; xử; kết liễu"
+			]
+		]
+	},
 	"堵车": {
 		"py": "dǔchē",
 		"mn": [
@@ -398,6 +415,15 @@
 			]
 		]
 	},
+	"不巧": {
+		"py": "bùqiǎo",
+		"mn": [
+			[
+				"adj",
+				"không may; xui xẻo"
+			]
+		]
+	},
 	"手机": {
 		"py": "shǒujī",
 		"mn": [
@@ -420,12 +446,38 @@
 			]
 		]
 	},
+	"电": {
+		"py": "diàn",
+		"mn": [
+			[
+				"n",
+				"điện; pin; điện năng | điện báo; điện tín; bức điện | chớp; tia chớp | họ Điện"
+			],
+			[
+				"v",
+				"điện giật; bị điện giật | đánh điện; gửi điện; gọi điện thoại"
+			]
+		]
+	},
 	"干着急": {
 		"py": "gānzhāojí",
 		"mn": [
 			[
 				"v",
 				"lo lắng suông"
+			]
+		]
+	},
+	"借口": {
+		"py": "jièkǒu",
+		"mn": [
+			[
+				"v",
+				"mượn cớ; lấy cớ; viện cớ; kiếm cớ; gá tiếng; vin cớ"
+			],
+			[
+				"n",
+				"cớ; cái cớ; lý do; lời biện minh"
 			]
 		]
 	},
@@ -472,6 +524,15 @@
 			]
 		]
 	},
+	"全聚德": {
+		"py": "quánjùdé",
+		"mn": [
+			[
+				"n",
+				"Quanjude (chuỗi thương hiệu nhà hàng Trung Quốc nổi tiếng với món vịt quay Bắc Kinh)"
+			]
+		]
+	},
 	"然后": {
 		"py": "ránhòu",
 		"mn": [
@@ -487,6 +548,15 @@
 			[
 				"v",
 				"cùng, theo, đưa, cùng với | giúp đỡ"
+			]
+		]
+	},
+	"逛街": {
+		"py": "guàngjiē",
+		"mn": [
+			[
+				"v",
+				"mua sắm; dạo phố; dạo bộ; tản bộ"
 			]
 		]
 	},
@@ -540,6 +610,15 @@
 			[
 				"adj",
 				"điều đương nhiên; tất nhiên"
+			]
+		]
+	},
+	"一言九鼎": {
+		"py": "yīyánjiǔdǐng",
+		"mn": [
+			[
+				"idioms",
+				"nhất ngôn cửu đỉnh; lời nói có sức nặng to lớn"
 			]
 		]
 	},
@@ -672,12 +751,30 @@
 			]
 		]
 	},
+	"力气": {
+		"py": "lìqì",
+		"mn": [
+			[
+				"n",
+				"sức; sức lực; hơi sức (chỉ sức khoẻ) | nỗ lực; sự chăm chỉ; sự cố gắng"
+			]
+		]
+	},
 	"哎呀": {
 		"py": "āiyā",
 		"mn": [
 			[
 				"intj",
 				"ôi; chao; ôi chao (thể hiện sự ngạc nhiên) | trời ơi; ối giời ơi (tỏ ý trách móc, sốt ruột)"
+			]
+		]
+	},
+	"终于": {
+		"py": "zhōngyú",
+		"mn": [
+			[
+				"adv",
+				"cuối cùng"
 			]
 		]
 	},

@@ -123,6 +123,15 @@
 			]
 		]
 	},
+	"前天": {
+		"py": "qiántiān",
+		"mn": [
+			[
+				"n, time",
+				"hôm kia; hôm trước; bữa trước; hôm xưa"
+			]
+		]
+	},
 	"打": {
 		"py": "dǎ",
 		"mn": [
@@ -220,6 +229,15 @@
 			]
 		]
 	},
+	"那天": {
+		"py": "nàtiān",
+		"mn": [
+			[
+				"n",
+				"hôm đấy; hôm đó; hôm nọ"
+			]
+		]
+	},
 	"晚上": {
 		"py": "wǎnshàng",
 		"mn": [
@@ -277,6 +295,15 @@
 			]
 		]
 	},
+	"没精打采": {
+		"py": "méijīngdǎcǎi",
+		"mn": [
+			[
+				"idioms",
+				"ủ rũ; buồn bã; ỉu xìu; thẫn thờ | rù rù"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -309,6 +336,19 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
 			]
 		]
 	},
@@ -364,6 +404,15 @@
 			]
 		]
 	},
+	"呼吸": {
+		"py": "hūxī",
+		"mn": [
+			[
+				"v",
+				"thở; hô hấp; hít thở | cực ngắn; nháy mắt; chốc lát (chỉ thời gian)"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
@@ -391,6 +440,15 @@
 			[
 				"v",
 				"trách; trách mắng; trách móc"
+			]
+		]
+	},
+	"当天": {
+		"py": "dāngtiān",
+		"mn": [
+			[
+				"n",
+				"hôm đó; ngày hôm đó"
 			]
 		]
 	},
@@ -458,6 +516,15 @@
 			]
 		]
 	},
+	"兽医": {
+		"py": "shòuyī",
+		"mn": [
+			[
+				"n",
+				"bác sĩ thú y; thú y"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -489,6 +556,15 @@
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"太多": {
+		"py": "tàiduō",
+		"mn": [
+			[
+				"n",
+				"bà lớn | bà chủ | bà (gọi người phụ nữ đã có chồng, thường kèm theo họ chồng) | bà xã; bà nhà | cụ; bà cố; ông cố (cụ ông hoặc cụ bà)"
 			]
 		]
 	},
@@ -682,6 +758,19 @@
 			]
 		]
 	},
+	"健康": {
+		"py": "jiànkāng",
+		"mn": [
+			[
+				"adj",
+				"khoẻ mạnh; tráng kiện | tốt; tích cực | lành mạnh; chức năng (tốt cho sức khỏe, bổ trợ sức khỏe)"
+			],
+			[
+				"n",
+				"sức khỏe"
+			]
+		]
+	},
 	"说": {
 		"py": "shuō",
 		"mn": [
@@ -821,12 +910,34 @@
 			]
 		]
 	},
+	"热情": {
+		"py": "rèqíng",
+		"mn": [
+			[
+				"n",
+				"sự hăng hái; sự nhiệt tình"
+			],
+			[
+				"adj",
+				"hăng hái; nhiệt tình; say mê; hào hứng"
+			]
+		]
+	},
 	"以前": {
 		"py": "yǐqián",
 		"mn": [
 			[
 				"n",
 				"trước đây; trước kia; ngày trước; khi trước; ngày xưa; hồi xưa"
+			]
+		]
+	},
+	"起来": {
+		"py": "qǐlái",
+		"mn": [
+			[
+				"v",
+				"ngồi dậy; đứng dậy | ngủ dậy; thức dậy | nổi dậy; vùng lên; dâng lên"
 			]
 		]
 	},
@@ -947,12 +1058,48 @@
 			]
 		]
 	},
+	"看见": {
+		"py": "kànjiàn",
+		"mn": [
+			[
+				"v",
+				"thấy; trông thấy; thấy được; nhìn thấy"
+			]
+		]
+	},
 	"空空": {
 		"py": "kōngkōng",
 		"mn": [
 			[
 				"v",
 				"không đối không (tên lửa) | tất cả không có gì | trống | vô ích | không có gì | bỏ trống"
+			]
+		]
+	},
+	"狗窝": {
+		"py": "gǒuwō",
+		"mn": [
+			[
+				"n",
+				"ổ chó; chuồng chó | nhà ổ chuột; nhà tồi tàn; nhà ọp ẹp"
+			]
+		]
+	},
+	"哭": {
+		"py": "kū",
+		"mn": [
+			[
+				"v",
+				"khóc; khóc lóc"
+			]
+		]
+	},
+	"伤心": {
+		"py": "shāngxīn",
+		"mn": [
+			[
+				"sv, v",
+				"thương tâm; đau lòng"
 			]
 		]
 	},
@@ -1120,6 +1267,15 @@
 			]
 		]
 	},
+	"心里": {
+		"py": "xīnlǐ",
+		"mn": [
+			[
+				"n",
+				"trong lòng; trong tim | trong tâm trí; trong đầu"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -1138,6 +1294,24 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"无法": {
+		"py": "wúfǎ",
+		"mn": [
+			[
+				"v",
+				"không thể; hết cách; vô phương; bó tay; không có cách gì; không còn cách nào"
+			]
+		]
+	},
+	"替代": {
+		"py": "tìdài",
+		"mn": [
+			[
+				"v",
+				"thay thế"
 			]
 		]
 	},
@@ -1207,6 +1381,15 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"关心": {
+		"py": "guānxīn",
+		"mn": [
+			[
+				"v",
+				"quan tâm; lo lắng; trông nom; chú ý (người hoặc sự vật)"
 			]
 		]
 	}

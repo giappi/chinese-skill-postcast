@@ -8,6 +8,42 @@
 			]
 		]
 	},
+	"西湖": {
+		"py": "xīhú",
+		"mn": [
+			[
+				"n",
+				"Tây Hồ (Hàng Châu, Chiết Giang, Trung Quốc)"
+			]
+		]
+	},
+	"人家": {
+		"py": "rénjiā",
+		"mn": [
+			[
+				"n",
+				"nhà; hộ; gia đình | nhà người ta; nhà chồng tương lai; gia đình chồng tương lai"
+			]
+		]
+	},
+	"杭州": {
+		"py": "hángzhōu",
+		"mn": [
+			[
+				"n",
+				"Hàng Châu"
+			]
+		]
+	},
+	"菜馆": {
+		"py": "càiguǎn",
+		"mn": [
+			[
+				"",
+				"quán cơm; hiệu ăn; quán ăn"
+			]
+		]
+	},
 	"你好": {
 		"py": "nǐhǎo",
 		"mn": [
@@ -41,6 +77,15 @@
 			[
 				"v",
 				"đặt trước; đặt chỗ; đặt mua"
+			]
+		]
+	},
+	"位子": {
+		"py": "wèizi",
+		"mn": [
+			[
+				"n",
+				"chỗ; chỗ ngồi"
 			]
 		]
 	},
@@ -81,6 +126,15 @@
 			[
 				"measure",
 				"vị; ngài; bạn (lượng từ chỉ người, tỏ ý tôn kính)"
+			]
+		]
+	},
+	"包间": {
+		"py": "bāojiān",
+		"mn": [
+			[
+				"n",
+				"phòng riêng; phòng VIP"
 			]
 		]
 	},
@@ -173,6 +227,15 @@
 			[
 				"n",
 				"thấp nhất, dưới cùng"
+			]
+		]
+	},
+	"消费": {
+		"py": "xiāofèi",
+		"mn": [
+			[
+				"v",
+				"tiêu phí; tiêu dùng; tiêu thụ | tiêu thụ (tài nguyên, năng lượng)"
 			]
 		]
 	},
@@ -368,6 +431,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"无烟区": {
+		"py": "wúyānqū",
+		"mn": [
+			[
+				"",
+				"Khu vực cấm hút thuốc"
 			]
 		]
 	},

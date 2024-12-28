@@ -56,6 +56,15 @@
 			]
 		]
 	},
+	"风光": {
+		"py": "fēngguāng",
+		"mn": [
+			[
+				"n",
+				"phong cảnh; cảnh tượng; quang cảnh"
+			]
+		]
+	},
 	"生活": {
 		"py": "shēnghuó",
 		"mn": [
@@ -90,12 +99,30 @@
 			]
 		]
 	},
+	"多么": {
+		"py": "duōme",
+		"mn": [
+			[
+				"adv",
+				"biết bao; thật (dùng trong câu cảm thán) | mấy; như nào; cỡ nào; bao nhiêu (mức độ tương đối cao) | bao nhiêu; chừng nào; bao xa (dùng trong câu hỏi)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"美好": {
+		"py": "měihǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt đẹp; đẹp; tươi đẹp (cuộc sống, tiền đồ, nguyện vọng)"
 			]
 		]
 	},
@@ -118,6 +145,19 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"瞎": {
+		"py": "xiā",
+		"mn": [
+			[
+				"v",
+				"mù; loà; chột; đui mù; hỏng mắt | xịt; lép (không nổ) | điếc; lép; hỏng (hạt thóc, hạt đỗ)"
+			],
+			[
+				"adv",
+				"mò; vớ vẩn; mù quáng; càn rỡ"
 			]
 		]
 	},
@@ -239,6 +279,15 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"心情": {
+		"py": "xīnqíng",
+		"mn": [
+			[
+				"n",
+				"tâm tình; tâm trạng; trong lòng (trạng thái tình cảm)"
 			]
 		]
 	},
@@ -364,6 +413,24 @@
 			]
 		]
 	},
+	"事儿": {
+		"py": "shìr",
+		"mn": [
+			[
+				"n",
+				"việc; chuyện;  sự việc"
+			]
+		]
+	},
+	"称心如意": {
+		"py": "chènxīnrúyì",
+		"mn": [
+			[
+				"idioms",
+				"vừa lòng đẹp ý; hợp ý; như ý nguyện | hởi lòng hởi dạ"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -476,6 +543,24 @@
 			[
 				"v",
 				"cải thiện; chuyển biến tốt"
+			]
+		]
+	},
+	"塞翁失马": {
+		"py": "sàiwēngshīmǎ",
+		"mn": [
+			[
+				"idioms",
+				"tái ông mất ngựa"
+			]
+		]
+	},
+	"焉知非福": {
+		"py": "yānzhīfēifú",
+		"mn": [
+			[
+				"idioms",
+				"ai mà biết được đó là chuyện tốt hay xấu"
 			]
 		]
 	},
@@ -616,6 +701,24 @@
 			]
 		]
 	},
+	"熟能生巧": {
+		"py": "shúnéngshēngqiǎo",
+		"mn": [
+			[
+				"idioms",
+				"quen tay hay việc; hay làm khéo tay; trăm hay không bằng tay quen"
+			]
+		]
+	},
+	"下回": {
+		"py": "xiàhuí",
+		"mn": [
+			[
+				"v",
+				"chương tiếp theo | lần tới"
+			]
+		]
+	},
 	"注意": {
 		"py": "zhùyì",
 		"mn": [
@@ -694,6 +797,15 @@
 			]
 		]
 	},
+	"唉": {
+		"py": "ài",
+		"mn": [
+			[
+				"intj",
+				"dào; hừ. (tỏ ý thương cảm hoặc ái ngại, thở dài) | thôi; rồi (biểu thị đồng ý hoặc công nhận)"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -724,6 +836,37 @@
 			]
 		]
 	},
+	"一棵树上吊死": {
+		"py": "yīkēshùshàngdiàosǐ",
+		"mn": [
+			[
+				"",
+				"Đặt hết trứng vào cùng một giỏ"
+			]
+		]
+	},
+	"再说": {
+		"py": "zàishuō",
+		"mn": [
+			[
+				"v",
+				"sẽ bàn; sẽ nói; nói sau; sẽ giải quyết"
+			],
+			[
+				"conj",
+				"vả lại; hơn nữa; bên cạnh đó"
+			]
+		]
+	},
+	"天无绝人之路": {
+		"py": "tiānwújuérénzhīlù",
+		"mn": [
+			[
+				"idioms",
+				"Trời không tuyệt đường người"
+			]
+		]
+	},
 	"过去": {
 		"py": "guòqù",
 		"mn": [
@@ -734,6 +877,15 @@
 			[
 				"n",
 				"đã qua; đã xảy ra"
+			]
+		]
+	},
+	"烦死": {
+		"py": "fánsǐ",
+		"mn": [
+			[
+				"v",
+				"Phiền chết"
 			]
 		]
 	}

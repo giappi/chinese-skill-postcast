@@ -78,6 +78,32 @@
 			]
 		]
 	},
+	"宾馆": {
+		"py": "bīnguǎn",
+		"mn": [
+			[
+				"n",
+				"nhà khách; khách sạn"
+			]
+		]
+	},
+	"所有": {
+		"py": "suǒyǒu",
+		"mn": [
+			[
+				"v",
+				"sở hữu; có được"
+			],
+			[
+				"n",
+				"tất cả (chỉ vật sở hữu)"
+			],
+			[
+				"adj",
+				"tất cả; hết thảy; toàn bộ"
+			]
+		]
+	},
 	"客房": {
 		"py": "kèfáng",
 		"mn": [
@@ -113,6 +139,15 @@
 			]
 		]
 	},
+	"无线网络": {
+		"py": "wúxiànwǎngluò",
+		"mn": [
+			[
+				"n",
+				"Mạng không dây, Wi-Fi"
+			]
+		]
+	},
 	"可是": {
 		"py": "kěshì",
 		"mn": [
@@ -144,6 +179,15 @@
 			]
 		]
 	},
+	"笔记本": {
+		"py": "bǐjìběn",
+		"mn": [
+			[
+				"n",
+				"sổ ghi chép | laptop; máy tính xách tay"
+			]
+		]
+	},
 	"不能": {
 		"py": "bùnéng",
 		"mn": [
@@ -172,6 +216,33 @@
 			[
 				"adv",
 				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"有线": {
+		"py": "yǒuxiàn",
+		"mn": [
+			[
+				"adj",
+				"cáp (truyền hình) | có dây"
+			]
+		]
+	},
+	"网络": {
+		"py": "wǎngluò",
+		"mn": [
+			[
+				"n",
+				"mạng; internet; trực tuyến | mạng lưới"
+			]
+		]
+	},
+	"有线网络": {
+		"py": "yǒuxiànwǎngluò",
+		"mn": [
+			[
+				"n",
+				"mạng dây"
 			]
 		]
 	},

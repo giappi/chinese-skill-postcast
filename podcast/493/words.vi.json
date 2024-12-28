@@ -161,6 +161,15 @@
 			]
 		]
 	},
+	"长城": {
+		"py": "chángchéng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Trường Thành; Vạn Lý Trường Thành"
+			]
+		]
+	},
 	"虽然": {
 		"py": "suīrán",
 		"mn": [
@@ -297,6 +306,15 @@
 			]
 		]
 	},
+	"不到长城非好汉": {
+		"py": "bùdàochángchéngfēihǎohàn",
+		"mn": [
+			[
+				"idioms",
+				"bất đáo Trường Thành phi hảo hán (ví với không thể khắc phục khó khăn đạt mục tiêu thì không thể trở thành anh hùng hào kiệt)"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -379,6 +397,15 @@
 			]
 		]
 	},
+	"不远万里": {
+		"py": "bùyuǎnwànlǐ",
+		"mn": [
+			[
+				"Thành ngữ phổ biến, Trung tính",
+				"không ngại vạn dặm"
+			]
+		]
+	},
 	"来": {
 		"py": "lái",
 		"mn": [
@@ -427,6 +454,15 @@
 			[
 				"prep",
 				"để; vì (biểu thị mục đích)."
+			]
+		]
+	},
+	"倒好": {
+		"py": "dàohǎo",
+		"mn": [
+			[
+				"v",
+				"La ó; phản đối; chế giễu (như khán giả phản ứng khi diễn viên trên sân khấu làm không hay). Còn hơn; tốt hơn (là làm ngược lại). \n◇Hồng Lâu Mộng 紅樓夢: Sở dĩ gia môn nữ hài tử gia; bất nhận đắc tự đích đảo hảo. Nam nhân môn độc thư bất minh lí; thượng thả bất như bất độc thư đích hảo; hà huống nhĩ ngã 所以咱們女孩子家; 不認得字的倒好. 男人們讀書不明理; 尚且不如不讀書的好; 何況你我 (Đệ tứ thập nhị hồi) Vì thế bọn con gái chúng ta không biết chữ càng tốt. Đám con trai học không hiểu nghĩa lí thì thà không học còn hơn; huống chi là tôi với cô?"
 			]
 		]
 	},
@@ -503,6 +539,15 @@
 			]
 		]
 	},
+	"弱": {
+		"py": "ruò",
+		"mn": [
+			[
+				"adj",
+				"yếu; yếu sức; yếu kém | trẻ; trẻ nhỏ; trẻ con | kém; không bằng | mất; chết; qua đời; quá cố | ít; non; ngót; gần"
+			]
+		]
+	},
 	"女子": {
 		"py": "nǚzǐ",
 		"mn": [
@@ -552,6 +597,15 @@
 			[
 				"onom",
 				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"好汉": {
+		"py": "hǎohàn",
+		"mn": [
+			[
+				"n",
+				"hảo hán; nam tử; anh hùng; đàn ông; người đàn ông dũng cảm"
 			]
 		]
 	},

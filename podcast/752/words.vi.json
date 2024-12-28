@@ -35,12 +35,39 @@
 			]
 		]
 	},
+	"生意": {
+		"py": "shēngyì",
+		"mn": [
+			[
+				"n",
+				"sức sống; sự sinh sôi nảy nở"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"火爆": {
+		"py": "huǒbào",
+		"mn": [
+			[
+				"adj",
+				"nóng nảy; cáu kỉnh; dễ nổi giận | hot; thịnh vượng; sôi động; sôi nổi; đông đúc | lớn; dữ dội (cháy)"
+			]
+		]
+	},
+	"枣红色": {
+		"py": "zǎohóngsè",
+		"mn": [
+			[
+				"n",
+				"Màu táo đỏ"
 			]
 		]
 	},
@@ -76,6 +103,24 @@
 			[
 				"n",
 				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"垂涎三尺": {
+		"py": "chuíxiánsānchǐ",
+		"mn": [
+			[
+				"idioms",
+				"Thèm nhỏ dãi"
+			]
+		]
+	},
+	"吃法": {
+		"py": "chīfǎ",
+		"mn": [
+			[
+				"n",
+				"làm thế nào một món ăn được chuẩn bị | làm thế nào một cái gì đó được ăn | cách nấu một món ăn | cách ăn uống"
 			]
 		]
 	},
@@ -164,6 +209,15 @@
 			[
 				"pro",
 				"bọn; lũ; các; chúng; những (dùng sau đại từ nhân xưng hoặc danh từ chỉ người để chỉ số nhiều)"
+			]
+		]
+	},
+	"厨师": {
+		"py": "chúshī",
+		"mn": [
+			[
+				"n",
+				"đầu bếp"
 			]
 		]
 	},
@@ -277,6 +331,15 @@
 			]
 		]
 	},
+	"蘸": {
+		"py": "zhàn",
+		"mn": [
+			[
+				"v",
+				"chấm; nhúng"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -291,6 +354,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"甜面酱": {
+		"py": "tiánmiànjiàng",
+		"mn": [
+			[
+				"n",
+				"tương ngọt"
 			]
 		]
 	},
@@ -342,6 +414,27 @@
 			]
 		]
 	},
+	"卷": {
+		"py": "juǎn",
+		"mn": [
+			[
+				"v",
+				"cuốn; cuộn; xoắn; xắn; vê | quét sạch; mang theo; cuốn theo | xen vào; chen vào"
+			],
+			[
+				"n",
+				"vật có hình tròn cuộn lại"
+			],
+			[
+				"measure",
+				"quyển; cuộn; gói"
+			],
+			[
+				"adj",
+				"cong; xoăn; lượn sóng"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -360,6 +453,15 @@
 			[
 				"n",
 				"họ Đáo"
+			]
+		]
+	},
+	"薄": {
+		"py": "báo",
+		"mn": [
+			[
+				"adj",
+				"mỏng | lạnh nhạt; bạc bẽo; ít (tình cảm) | lạc; nhạt; không nồng (hương vị) | cằn; không màu mỡ; bạc màu; cằn cỗi"
 			]
 		]
 	},
@@ -429,6 +531,24 @@
 			[
 				"adj",
 				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"享受": {
+		"py": "xiǎngshòu",
+		"mn": [
+			[
+				"v",
+				"hưởng thụ; tận hưởng; cảm nhận; thưởng thức"
+			]
+		]
+	},
+	"大名鼎鼎": {
+		"py": "dàmíngdǐngdǐng",
+		"mn": [
+			[
+				"idioms",
+				"tiếng tăm lừng lẫy; danh tiếng lẫy lừng"
 			]
 		]
 	},

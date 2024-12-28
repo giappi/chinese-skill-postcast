@@ -30,6 +30,15 @@
 			]
 		]
 	},
+	"开饭": {
+		"py": "kāifàn",
+		"mn": [
+			[
+				"",
+				"dọn cơm | bắt đầu bán cơm (nhà ăn)"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -54,6 +63,15 @@
 			[
 				"adv",
 				"đã; rồi"
+			]
+		]
+	},
+	"咕噜咕噜": {
+		"py": "gūlūgūlū",
+		"mn": [
+			[
+				"n",
+				"ột ột"
 			]
 		]
 	},
@@ -161,6 +179,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"倒计时": {
+		"py": "dàojìshí",
+		"mn": [
+			[
+				"v",
+				"đếm ngược"
 			]
 		]
 	},
@@ -272,6 +299,15 @@
 			]
 		]
 	},
+	"手忙脚乱": {
+		"py": "shǒumángjiǎoluàn",
+		"mn": [
+			[
+				"idioms",
+				"luống cuống; chân tay lúng túng; lúng ta lúng túng; lúng túng như thợ vụng mất kim"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -360,6 +396,15 @@
 			[
 				"n",
 				"họ Gia"
+			]
+		]
+	},
+	"盐": {
+		"py": "yán",
+		"mn": [
+			[
+				"n",
+				"muối ăn | muối (hoá chất)"
 			]
 		]
 	}

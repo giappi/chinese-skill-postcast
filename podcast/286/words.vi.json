@@ -64,6 +64,15 @@
 			]
 		]
 	},
+	"苏州": {
+		"py": "sūzhōu",
+		"mn": [
+			[
+				"n, nlocal",
+				"Tô Châu"
+			]
+		]
+	},
 	"玩": {
 		"py": "wán",
 		"mn": [
@@ -108,6 +117,15 @@
 			[
 				"n",
 				"máy bay; phi cơ; tàu bay"
+			]
+		]
+	},
+	"火车": {
+		"py": "huǒchē",
+		"mn": [
+			[
+				"n",
+				"xe lửa; tàu hoả"
 			]
 		]
 	},
@@ -218,6 +236,15 @@
 			[
 				"adv",
 				"tương đối; khá; khá là"
+			]
+		]
+	},
+	"紧张": {
+		"py": "jǐnzhāng",
+		"mn": [
+			[
+				"adj",
+				"hồi hộp; lo lắng; căng thẳng | khẩn trương; căng thẳng | eo hẹp; túng thiếu; khan hiếm"
 			]
 		]
 	},

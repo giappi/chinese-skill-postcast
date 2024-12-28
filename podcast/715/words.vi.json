@@ -112,6 +112,15 @@
 			]
 		]
 	},
+	"炒": {
+		"py": "chǎo",
+		"mn": [
+			[
+				"v",
+				"xào; tráng; rang | tạo, tung, thổi phồng (tin tức, scandal...) | đầu tư, đầu cơ | sa thải, đuổi"
+			]
+		]
+	},
 	"鸡蛋": {
 		"py": "jīdàn",
 		"mn": [
@@ -143,6 +152,28 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"土豆": {
+		"py": "tǔdòu",
+		"mn": [
+			[
+				"n",
+				"khoai tây"
+			]
+		]
+	},
+	"丝": {
+		"py": "sī",
+		"mn": [
+			[
+				"n",
+				"tơ tằm | sợi; dây; tơ | dây đàn; đàn (nhạc cụ có dây)"
+			],
+			[
+				"measure",
+				"ít; chút (dùng cho hiện tượng tự nhiên, cảnh quan) | bề ngoài hoặc biểu cảm của khuôn mặt | chút, ít (dùng cho những điều trừu tượng) | cecimillimetre (là một đơn vị đo chiều dài)"
 			]
 		]
 	},
@@ -301,6 +332,15 @@
 			]
 		]
 	},
+	"酒水": {
+		"py": "jiǔshuǐ",
+		"mn": [
+			[
+				"n",
+				"đồ uống (nước, rượu, đồ ngọt, đồ có cồn dưới 60 độ)"
+			]
+		]
+	},
 	"什么": {
 		"py": "shénme",
 		"mn": [
@@ -341,6 +381,15 @@
 			[
 				"measure",
 				"bình; lọ; chai; hộp"
+			]
+		]
+	},
+	"啤酒": {
+		"py": "píjiǔ",
+		"mn": [
+			[
+				"n",
+				"bia; rượu bia"
 			]
 		]
 	},

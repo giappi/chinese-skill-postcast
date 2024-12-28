@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"同志": {
+		"py": "tóngzhì",
+		"mn": [
+			[
+				"n",
+				"đồng chí (chỉ người cùng lý tưởng, sự nghiệp, đấu tranh, đặc biệt là thành viên của một chính Đảng) | đồng chí (từ xưng hô đối phương)"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -164,6 +173,19 @@
 			]
 		]
 	},
+	"相机": {
+		"py": "xiàngjī",
+		"mn": [
+			[
+				"n",
+				"máy ảnh; máy chụp hình"
+			],
+			[
+				"v",
+				"xem tình hình; chớp thời cơ"
+			]
+		]
+	},
 	"个": {
 		"py": "gè",
 		"mn": [
@@ -182,6 +204,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"钱包": {
+		"py": "qiánbāo",
+		"mn": [
+			[
+				"n",
+				"ví tiền; túi tiền; ví"
 			]
 		]
 	},

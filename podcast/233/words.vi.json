@@ -216,6 +216,28 @@
 			]
 		]
 	},
+	"花园": {
+		"py": "huāyuán",
+		"mn": [
+			[
+				"n",
+				"hoa viên; vườn hoa"
+			]
+		]
+	},
+	"香": {
+		"py": "xiāng",
+		"mn": [
+			[
+				"adj",
+				"thơm; thơm tho | ngon; thơm ngon | ngon miệng | ngủ say; ngủ ngon | ưa chuộng; được ưa chuộng; được hoan nghênh"
+			],
+			[
+				"n",
+				"hương ( Cây cỏ có mùi thơm hoặc vật gì làm bằng chất thơm) | hương liệu | nhang; hương (để đốt) | đồ vật hoặc người liên quan đến phụ nữ | họ Hương"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [

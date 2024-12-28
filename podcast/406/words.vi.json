@@ -134,6 +134,28 @@
 			]
 		]
 	},
+	"招聘": {
+		"py": "zhāopìn",
+		"mn": [
+			[
+				"v",
+				"tuyển dụng; thông báo tuyển dụng; thông báo tuyển người"
+			]
+		]
+	},
+	"兼职": {
+		"py": "jiānzhí",
+		"mn": [
+			[
+				"v",
+				"làm thêm; bán thời gian"
+			],
+			[
+				"n",
+				"công việc làm thêm; việc bán thời gian"
+			]
+		]
+	},
 	"人员": {
 		"py": "rényuán",
 		"mn": [
@@ -196,6 +218,19 @@
 			[
 				"n, nlocal",
 				"Mỹ; nước Mỹ; Hoa kỳ; United States (US); Hiệp chủng quốc Hoa Kỳ"
+			]
+		]
+	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
 			]
 		]
 	},
@@ -271,6 +306,15 @@
 			[
 				"v",
 				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"表弟": {
+		"py": "biǎodì",
+		"mn": [
+			[
+				"n",
+				"biểu đệ (em trai con cô, dì hoặc cậu), em họ; biểu đệ"
 			]
 		]
 	},
@@ -477,6 +521,15 @@
 			[
 				"adj",
 				"tốt nhất; giỏi nhất; hay nhất; xuất sắc nhất"
+			]
+		]
+	},
+	"人选": {
+		"py": "rénxuǎn",
+		"mn": [
+			[
+				"n",
+				"người được chọn; người chọn lựa"
 			]
 		]
 	}

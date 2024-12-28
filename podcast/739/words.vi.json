@@ -65,12 +65,30 @@
 			]
 		]
 	},
+	"年终奖": {
+		"py": "niánzhōngjiǎng",
+		"mn": [
+			[
+				"n",
+				"thưởng cuối năm; tiền thưởng Tết"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
 			[
 				"n, time",
 				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"全球": {
+		"py": "quánqiú",
+		"mn": [
+			[
+				"n",
+				"toàn cầu; toàn thế giới"
 			]
 		]
 	},
@@ -88,6 +106,15 @@
 			[
 				"v",
 				"cai trị; trị vì; quản lý"
+			]
+		]
+	},
+	"危机": {
+		"py": "wēijī",
+		"mn": [
+			[
+				"n",
+				"nguy cơ; mối nguy; khủng hoảng; nguy hại"
 			]
 		]
 	},
@@ -122,12 +149,43 @@
 			]
 		]
 	},
+	"裁员": {
+		"py": "cáiyuán",
+		"mn": [
+			[
+				"v",
+				"giảm biên chế; cắt giảm nhân sự"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"甭": {
+		"py": "béng",
+		"mn": [
+			[
+				"adv",
+				"không cần; khỏi phải; khỏi cần (hợp âm của 不用)"
+			]
+		]
+	},
+	"指望": {
+		"py": "zhǐwàng",
+		"mn": [
+			[
+				"v",
+				"mong; trông chờ; mong đợi; trông ngóng; ngó ngàng; hy vọng"
+			],
+			[
+				"n",
+				"điều hy vọng; điều mong đợi; sự trông mong"
 			]
 		]
 	},
@@ -272,6 +330,15 @@
 			[
 				"n",
 				"tiền lương; lương; lương bổng"
+			]
+		]
+	},
+	"知足": {
+		"py": "zhīzú",
+		"mn": [
+			[
+				"v",
+				"hài lòng; thoả mãn; vừa lòng; tự cho là đủ (với những cái đã đạt được như cuộc sống; nguyện vọng...)"
 			]
 		]
 	}

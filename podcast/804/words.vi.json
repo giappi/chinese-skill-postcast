@@ -217,6 +217,24 @@
 			]
 		]
 	},
+	"王明": {
+		"py": "wángmíng",
+		"mn": [
+			[
+				"n",
+				"Wang Ming (1904-1974), người Liên Xô được đào tạo là cộng sản Trung Quốc, người Cộng sản Trung Quốc và Liên Xô và rời khỏi nhà thám hiểm vào những năm 1930, thất bại với Mao và chuyển đến Liên Xô từ năm 1956"
+			]
+		]
+	},
+	"成天": {
+		"py": "chéngtiān",
+		"mn": [
+			[
+				"adv",
+				"suốt ngày; cả ngày"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -239,6 +257,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"吹嘘": {
+		"py": "chuīxū",
+		"mn": [
+			[
+				"v",
+				"nói khoác; thổi phồng; khoe khoang; chém gió; khuếch khoác"
 			]
 		]
 	},
@@ -293,6 +320,15 @@
 			[
 				"adv",
 				"có thật không; thật á; thật sự ư | quả thật; thật sự; đúng vậy; thật"
+			]
+		]
+	},
+	"情人眼里出西施": {
+		"py": "qíngrényǎnlǐchūxīshī",
+		"mn": [
+			[
+				"proverb",
+				"(văn học) trong mắt người yêu hiện ra 西施 (thành ngữ); (nghĩa bóng) Vẻ đẹp trong mắt của kẻ si tình"
 			]
 		]
 	},

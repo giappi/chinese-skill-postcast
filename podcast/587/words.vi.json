@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"按摩": {
+		"py": "ànmó",
+		"mn": [
+			[
+				"v",
+				"xoa bóp; đấm bóp; tẩm quất; mát-xa"
+			]
+		]
+	},
 	"多少": {
 		"py": "duōshao",
 		"mn": [
@@ -170,6 +179,28 @@
 			]
 		]
 	},
+	"指定": {
+		"py": "zhǐdìng",
+		"mn": [
+			[
+				"v",
+				"chỉ định; xác định"
+			],
+			[
+				"adv",
+				"nhất định; tuyệt đối"
+			]
+		]
+	},
+	"首席": {
+		"py": "shǒuxí",
+		"mn": [
+			[
+				"n",
+				"chính; hàng đầu; cao cấp nhất | cấp cao nhất"
+			]
+		]
+	},
 	"要": {
 		"py": "yào",
 		"mn": [
@@ -206,6 +237,15 @@
 			[
 				"pro",
 				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"精油": {
+		"py": "jīngyóu",
+		"mn": [
+			[
+				"n",
+				"tinh dầu"
 			]
 		]
 	},
@@ -318,6 +358,15 @@
 			[
 				"adj",
 				"có tài; có năng lực"
+			]
+		]
+	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
 			]
 		]
 	},

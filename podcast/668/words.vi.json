@@ -210,6 +210,15 @@
 			]
 		]
 	},
+	"喜事": {
+		"py": "xǐshì",
+		"mn": [
+			[
+				"n",
+				"việc mừng; chuyện vui; chuyện mừng | đám cưới; việc cưới xin"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -220,6 +229,15 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"大伯": {
+		"py": "dàbó",
+		"mn": [
+			[
+				"n",
+				"bác cả (anh trai của chồng) | bá phụ | bác | bác trai"
 			]
 		]
 	},

@@ -207,6 +207,15 @@
 			]
 		]
 	},
+	"乌龙茶": {
+		"py": "wūlóngchá",
+		"mn": [
+			[
+				"n",
+				"trà ô Long; chè ô Long (loại trà nổi tiếng ở vùng Phúc Kiến, Trung Quốc)"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
@@ -278,6 +287,15 @@
 			]
 		]
 	},
+	"那样": {
+		"py": "nàyàng",
+		"mn": [
+			[
+				"pro",
+				"thế; như vậy; như thế"
+			]
+		]
+	},
 	"吃": {
 		"py": "chī",
 		"mn": [
@@ -292,6 +310,15 @@
 			[
 				"adj",
 				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"早茶": {
+		"py": "zǎochá",
+		"mn": [
+			[
+				"n",
+				"điểm tâm sáng"
 			]
 		]
 	},
@@ -353,6 +380,15 @@
 			[
 				"adv",
 				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"点心": {
+		"py": "diǎnxīn",
+		"mn": [
+			[
+				"n",
+				"lót dạ; lót lòng; điểm tâm"
 			]
 		]
 	}

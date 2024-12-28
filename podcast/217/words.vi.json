@@ -64,6 +64,28 @@
 			]
 		]
 	},
+	"闸": {
+		"py": "zhá",
+		"mn": [
+			[
+				"n",
+				"cống tưới tiêu; cửa cống; cửa đập; cửa xả lũ | phanh; bộ hãm; thắng | công tắc; cầu dao"
+			],
+			[
+				"v",
+				"chặn (dòng nước)"
+			]
+		]
+	},
+	"蟹": {
+		"py": "xiè",
+		"mn": [
+			[
+				"n",
+				"cua; con cua"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -190,12 +212,39 @@
 			]
 		]
 	},
+	"名不虚传": {
+		"py": "míngbùxūchuán",
+		"mn": [
+			[
+				"idioms",
+				"danh bất hư truyền (tiếng tăm, danh tiếng truyền đi đúng như thực tế); tiếng đồn không ngoa"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"强烈": {
+		"py": "qiángliè",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mãnh liệt; mạnh mẽ | đậm; rõ ràng; mạnh mẽ | mạnh mẽ; quyết liệt"
+			]
+		]
+	},
+	"推荐": {
+		"py": "tuījiàn",
+		"mn": [
+			[
+				"v",
+				"khuyên; tiến cử; giới thiệu; đề cử; đề xuất; gợi ý"
 			]
 		]
 	},
@@ -228,6 +277,15 @@
 			]
 		]
 	},
+	"海鲜": {
+		"py": "hǎixiān",
+		"mn": [
+			[
+				"n",
+				"hải sản; hải sản tươi"
+			]
+		]
+	},
 	"不": {
 		"py": "bù",
 		"mn": [
@@ -237,12 +295,34 @@
 			]
 		]
 	},
+	"感": {
+		"py": "gǎn",
+		"mn": [
+			[
+				"v",
+				"thấy; cảm thấy; cảm giác | cảm động; rung động; xúc động | cảm ơn; cảm tạ; biết ơn | cảm; cảm cúm | thiện cảm; cảm giác; tình cảm; cảm tưởng | cảm quang (phim ảnh)"
+			],
+			[
+				"n",
+				"cảm xúc; cảm giác | họ Cảm"
+			]
+		]
+	},
 	"兴趣": {
 		"py": "xìngqù",
 		"mn": [
 			[
 				"n",
 				"sở thích; hứng thú; thích thú"
+			]
+		]
+	},
+	"钱包": {
+		"py": "qiánbāo",
+		"mn": [
+			[
+				"n",
+				"ví tiền; túi tiền; ví"
 			]
 		]
 	},

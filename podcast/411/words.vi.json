@@ -90,6 +90,15 @@
 			]
 		]
 	},
+	"刘海": {
+		"py": "liúhǎi",
+		"mn": [
+			[
+				"n",
+				"tóc mái"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -133,6 +142,23 @@
 			]
 		]
 	},
+	"短": {
+		"py": "duǎn",
+		"mn": [
+			[
+				"adj",
+				"ngắn | ngắn (chỉ thời gian) | nông cạn; thiếu hiểu biết"
+			],
+			[
+				"n",
+				"Khuyết điểm; thiếu sót; sở đoản; chỗ yếu kém"
+			],
+			[
+				"v",
+				"thiếu"
+			]
+		]
+	},
 	"一点": {
 		"py": "yīdiǎn",
 		"mn": [
@@ -143,6 +169,15 @@
 			[
 				"n",
 				"1:00 (một giờ)"
+			]
+		]
+	},
+	"脸形": {
+		"py": "liǎnxíng",
+		"mn": [
+			[
+				"n",
+				"gương mặt; khuôn mặt"
 			]
 		]
 	},
@@ -167,6 +202,27 @@
 			]
 		]
 	},
+	"圆": {
+		"py": "yuán",
+		"mn": [
+			[
+				"adj",
+				"tròn | hình cầu | toàn vẹn; chu toàn; tốt đẹp; trọn vẹn | du dương; tròn trịa (âm thanh)"
+			],
+			[
+				"v",
+				"hoàn thành; thực hiện; làm (toàn vẹn; chu đáo)"
+			],
+			[
+				"measure",
+				"đồng (đơn vị in trên tờ tiền TQ, văn cổ)"
+			],
+			[
+				"n",
+				"họ Viên | Đồng | hình tròn; vòng tròn"
+			]
+		]
+	},
 	"留": {
 		"py": "liú",
 		"mn": [
@@ -177,6 +233,15 @@
 			[
 				"n",
 				"họ Lưu"
+			]
+		]
+	},
+	"发型": {
+		"py": "fàxíng",
+		"mn": [
+			[
+				"n",
+				"kiểu tóc"
 			]
 		]
 	},
@@ -230,6 +295,19 @@
 			[
 				"av",
 				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"设计": {
+		"py": "shèjì",
+		"mn": [
+			[
+				"v",
+				"thiết kế | mưu; mưu hại; mưu kế; bày mưu"
+			],
+			[
+				"n",
+				"sự thiết kế; bản thiết kế"
 			]
 		]
 	},
@@ -368,6 +446,15 @@
 			[
 				"conj",
 				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"染发": {
+		"py": "rǎnfà",
+		"mn": [
+			[
+				"v",
+				"nhuộm tóc"
 			]
 		]
 	},

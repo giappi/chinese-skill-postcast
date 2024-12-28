@@ -1,4 +1,13 @@
 {
+	"阿嚏": {
+		"py": "ātì",
+		"mn": [
+			[
+				"onom",
+				"hắt xì; ách xì (tượng thanh, tiếng hắt xì hơi)"
+			]
+		]
+	},
 	"高平": {
 		"py": "gāopíng",
 		"mn": [
@@ -221,6 +230,15 @@
 			]
 		]
 	},
+	"增减": {
+		"py": "zēngjiǎn",
+		"mn": [
+			[
+				"v",
+				"tăng giảm; thêm bớt"
+			]
+		]
+	},
 	"千万": {
 		"py": "qiānwàn",
 		"mn": [
@@ -276,6 +294,15 @@
 			]
 		]
 	},
+	"似的": {
+		"py": "shìde",
+		"mn": [
+			[
+				"part",
+				"tựa; như; tựa như; dường như; giống như | quá; cực kỳ; kinh khủng"
+			]
+		]
+	},
 	"不停": {
 		"py": "bùtíng",
 		"mn": [
@@ -304,6 +331,15 @@
 			[
 				"prep",
 				"từ | căn nguyên; nguyên do"
+			]
+		]
+	},
+	"喷嚏": {
+		"py": "pēntì",
+		"mn": [
+			[
+				"n",
+				"hắt xì; hắt hơi"
 			]
 		]
 	},

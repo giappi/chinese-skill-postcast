@@ -65,6 +65,15 @@
 			]
 		]
 	},
+	"西藏": {
+		"py": "xīzàng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Tây Tạng; khu tự trị Tây Tạng"
+			]
+		]
+	},
 	"旅游": {
 		"py": "lǚyóu",
 		"mn": [
@@ -126,6 +135,15 @@
 			[
 				"measure",
 				"cuốn; vở; quyển; tập (dùng cho sách vở sổ sách) | vở; bản (dùng trong hí khúc; kịch) | tập (dùng cho phim dài nhiều tập)"
+			]
+		]
+	},
+	"杂志": {
+		"py": "zázhì",
+		"mn": [
+			[
+				"n",
+				"tạp chí; tập san"
 			]
 		]
 	},
@@ -236,6 +254,15 @@
 			]
 		]
 	},
+	"画饼充饥": {
+		"py": "huàbǐngchōngjī",
+		"mn": [
+			[
+				"idioms",
+				"ăn bánh vẽ cho đỡ đói lòng; đói ăn bánh vẽ (ví với tự an ủi bằng ảo tưởng.)"
+			]
+		]
+	},
 	"好": {
 		"py": "hǎo",
 		"mn": [
@@ -275,12 +302,34 @@
 			]
 		]
 	},
+	"真实": {
+		"py": "zhēnshí",
+		"mn": [
+			[
+				"adj",
+				"chân thật; chân thực; thực sự"
+			]
+		]
+	},
 	"地": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"mà; một cách"
+			]
+		]
+	},
+	"体验": {
+		"py": "tǐyàn",
+		"mn": [
+			[
+				"v",
+				"trải nghiệm"
+			],
+			[
+				"n",
+				"trải nghiệm; kinh nghiệm; sự trải nghiệm"
 			]
 		]
 	},
@@ -299,6 +348,15 @@
 			[
 				"pro",
 				"cái đó; cái ấy | cái ấy; việc ấy | ghê lắm (dùng trước động từ, hình dung từ, biểu thị sự khoa trương) | ấy (dùng biểu thị điều khó nói ra, có ý uyển chuyển, khôi hài) | tê"
+			]
+		]
+	},
+	"神秘": {
+		"py": "shénmì",
+		"mn": [
+			[
+				"adj",
+				"thần bí; huyền bí; bí ẩn"
 			]
 		]
 	},

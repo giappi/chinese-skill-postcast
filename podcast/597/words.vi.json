@@ -138,6 +138,24 @@
 			]
 		]
 	},
+	"近视": {
+		"py": "jìnshì",
+		"mn": [
+			[
+				"n",
+				"cận thị | tầm mắt hạn hẹp; thiển cận"
+			]
+		]
+	},
+	"加深": {
+		"py": "jiāshēn",
+		"mn": [
+			[
+				"v",
+				"sâu thêm; làm sâu sắc; làm sâu thêm"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -186,6 +204,15 @@
 			[
 				"n",
 				"họ Đới"
+			]
+		]
+	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
 			]
 		]
 	},
@@ -247,6 +274,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"电脑": {
+		"py": "diànnǎo",
+		"mn": [
+			[
+				"n",
+				"máy vi tính; máy tính"
 			]
 		]
 	},
@@ -316,6 +352,15 @@
 			[
 				"n",
 				"đại đội (sử dụng trong quân đội) | họ Liên"
+			]
+		]
+	},
+	"毛孔": {
+		"py": "máokǒng",
+		"mn": [
+			[
+				"n",
+				"lỗ chân lông | bì khổng"
 			]
 		]
 	},

@@ -59,6 +59,15 @@
 			]
 		]
 	},
+	"暖气": {
+		"py": "nuǎnqì",
+		"mn": [
+			[
+				"n",
+				"thiết bị sưởi ấm; lò sưởi; hệ thống sưởi"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -82,6 +91,15 @@
 			[
 				"n",
 				"sốt | cơn sốt; trào lưu | nhiệt năng | nhiệt tà"
+			]
+		]
+	},
+	"冷气": {
+		"py": "lěngqì",
+		"mn": [
+			[
+				"n",
+				"hơi lạnh (của máy điều hoà nhiệt độ)"
 			]
 		]
 	},
@@ -109,6 +127,15 @@
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"睡觉": {
+		"py": "shuìjiào",
+		"mn": [
+			[
+				"v, sv",
+				"ngủ; đi ngủ; ngủ nghê"
 			]
 		]
 	},

@@ -1,4 +1,13 @@
 {
+	"感谢": {
+		"py": "gǎnxiè",
+		"mn": [
+			[
+				"v",
+				"cảm tạ; cảm ơn"
+			]
+		]
+	},
 	"大家": {
 		"py": "dàjiā",
 		"mn": [
@@ -9,6 +18,15 @@
 			[
 				"pro",
 				"mọi người; cả nhà"
+			]
+		]
+	},
+	"出席": {
+		"py": "chūxí",
+		"mn": [
+			[
+				"v",
+				"dự họp; tham dự; có mặt; đến dự"
 			]
 		]
 	},
@@ -30,6 +48,19 @@
 			]
 		]
 	},
+	"由于": {
+		"py": "yóuyú",
+		"mn": [
+			[
+				"prep",
+				"bởi; do; bởi vì (văn viết)"
+			],
+			[
+				"conj",
+				"do; vì"
+			]
+		]
+	},
 	"最近": {
 		"py": "zuìjìn",
 		"mn": [
@@ -40,6 +71,15 @@
 			[
 				"adj",
 				"gần nhất; gần đây"
+			]
+		]
+	},
+	"火灾": {
+		"py": "huǒzāi",
+		"mn": [
+			[
+				"n",
+				"hoả hoạn; nạn cháy; đám cháy"
 			]
 		]
 	},
@@ -131,6 +171,24 @@
 			]
 		]
 	},
+	"消防": {
+		"py": "xiāofáng",
+		"mn": [
+			[
+				"v",
+				"cứu hỏa; phòng cháy chữa cháy"
+			]
+		]
+	},
+	"知识": {
+		"py": "zhīshi",
+		"mn": [
+			[
+				"n",
+				"tri thức; kiến thức; sự hiểu biết | trí thức"
+			]
+		]
+	},
 	"公司": {
 		"py": "gōngsī",
 		"mn": [
@@ -155,6 +213,19 @@
 			[
 				"v",
 				"dập tắt lửa; tắt ngòi | chết máy"
+			]
+		]
+	},
+	"及时": {
+		"py": "jíshí",
+		"mn": [
+			[
+				"adj",
+				"đúng lúc; kịp thời; kịp lúc; đúng thời vụ"
+			],
+			[
+				"adv",
+				"lập tức; ngay; kịp thời"
 			]
 		]
 	},
@@ -216,6 +287,15 @@
 			[
 				"v",
 				"Sửa đổi; cải tiến; làm mới; làm thay đổi"
+			]
+		]
+	},
+	"报警器": {
+		"py": "bàojǐngqì",
+		"mn": [
+			[
+				"n",
+				"Máy báo động"
 			]
 		]
 	},
@@ -329,12 +409,34 @@
 			]
 		]
 	},
+	"员工": {
+		"py": "yuángōng",
+		"mn": [
+			[
+				"n",
+				"công nhân; nhân viên; công nhân viên"
+			]
+		]
+	},
 	"必须": {
 		"py": "bìxū",
 		"mn": [
 			[
 				"adv",
 				"phải; nhất định phải | nhất thiết phải; nhất định phải (ngữ khí ra lệnh)"
+			]
+		]
+	},
+	"首先": {
+		"py": "shǒuxiān",
+		"mn": [
+			[
+				"adv",
+				"đầu tiên; sớm nhất"
+			],
+			[
+				"conj",
+				"thứ nhất; trước tiên"
 			]
 		]
 	},
@@ -382,12 +484,39 @@
 			]
 		]
 	},
+	"携带": {
+		"py": "xiédài",
+		"mn": [
+			[
+				"v",
+				"mang theo; xách tay; mang đi cùng"
+			]
+		]
+	},
 	"易燃品": {
 		"py": "yìránpǐn",
 		"mn": [
 			[
 				"n",
 				"Đồ dễ cháy"
+			]
+		]
+	},
+	"进入": {
+		"py": "jìnrù",
+		"mn": [
+			[
+				"v",
+				"vào; tiến vào; bước vào; đi vào; bước sang; bước qua; đăng nhập; đưa vào"
+			]
+		]
+	},
+	"办公": {
+		"py": "bàngōng",
+		"mn": [
+			[
+				"v",
+				"làm việc; làm việc công; xử lý công việc"
 			]
 		]
 	},
@@ -418,6 +547,19 @@
 			[
 				"conj",
 				"vì; do; nhờ"
+			]
+		]
+	},
+	"电": {
+		"py": "diàn",
+		"mn": [
+			[
+				"n",
+				"điện; pin; điện năng | điện báo; điện tín; bức điện | chớp; tia chớp | họ Điện"
+			],
+			[
+				"v",
+				"điện giật; bị điện giật | đánh điện; gửi điện; gọi điện thoại"
 			]
 		]
 	},
@@ -479,6 +621,15 @@
 			[
 				"adv",
 				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"接下来": {
+		"py": "jiēxiàlái",
+		"mn": [
+			[
+				"phrase",
+				"tới; tiếp theo"
 			]
 		]
 	},

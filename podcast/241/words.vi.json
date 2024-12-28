@@ -96,6 +96,33 @@
 			]
 		]
 	},
+	"无线": {
+		"py": "wúxiàn",
+		"mn": [
+			[
+				"adj",
+				"không dây | ăng-ten"
+			]
+		]
+	},
+	"网络": {
+		"py": "wǎngluò",
+		"mn": [
+			[
+				"n",
+				"mạng; internet; trực tuyến | mạng lưới"
+			]
+		]
+	},
+	"用户名": {
+		"py": "yònghùmíng",
+		"mn": [
+			[
+				"n",
+				"tên người dùng | tên tài khoản"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -209,6 +236,15 @@
 			[
 				"measure",
 				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"查": {
+		"py": "chá",
+		"mn": [
+			[
+				"v",
+				"xét; kiểm tra | điều tra; kiểm tra | tra; tra cứu (tài liệu, sách vở)"
 			]
 		]
 	},

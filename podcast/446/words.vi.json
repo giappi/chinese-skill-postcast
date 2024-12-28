@@ -164,6 +164,33 @@
 			]
 		]
 	},
+	"邮局": {
+		"py": "yóujú",
+		"mn": [
+			[
+				"n",
+				"bưu điện; bưu cục"
+			]
+		]
+	},
+	"邮寄": {
+		"py": "yóujì",
+		"mn": [
+			[
+				"v",
+				"gửi; gửi hàng; gửi qua bưu điện"
+			]
+		]
+	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
+			]
+		]
+	},
 	"正好": {
 		"py": "zhènghǎo",
 		"mn": [

@@ -108,6 +108,15 @@
 			]
 		]
 	},
+	"纽约": {
+		"py": "niǔyuē",
+		"mn": [
+			[
+				"n",
+				"New York (thành phố miền nam bang New York, cũng viết là New York City)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -288,6 +297,15 @@
 			]
 		]
 	},
+	"商务舱": {
+		"py": "shāngwùcāng",
+		"mn": [
+			[
+				"n",
+				"Hạng thương gia (Trên máy bay)"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -323,6 +341,15 @@
 			[
 				"adv",
 				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"航空": {
+		"py": "hángkōng",
+		"mn": [
+			[
+				"n",
+				"hàng không | hàng không (chỉ những việc có liên quan đến hàng không)"
 			]
 		]
 	},
@@ -384,6 +411,24 @@
 			[
 				"adv",
 				"tốt hơn là; tốt nhất là"
+			]
+		]
+	},
+	"国航": {
+		"py": "guóháng",
+		"mn": [
+			[
+				"n",
+				"Air China | viết tắt cho 中國國際航空公司 | 中国国际航空公司"
+			]
+		]
+	},
+	"好感": {
+		"py": "hǎogǎn",
+		"mn": [
+			[
+				"n",
+				"thiện cảm; cảm tình; ấn tượng tốt"
 			]
 		]
 	},
@@ -473,6 +518,19 @@
 			]
 		]
 	},
+	"一旦": {
+		"py": "yīdàn",
+		"mn": [
+			[
+				"n",
+				"một ngày; chốc lát"
+			],
+			[
+				"adv",
+				"bỗng nhiên; bỗng dưng (dùng với việc đã xảy ra rồi, bỗng nhiên có một ngày) | một khi; nếu mà; hễ mà; nhỡ mà (dùng cho việc chưa xảy ra)"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -500,6 +558,15 @@
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"退票": {
+		"py": "tuìpiào",
+		"mn": [
+			[
+				"v",
+				"trả vé; nhường lại vé"
 			]
 		]
 	},
@@ -583,6 +650,15 @@
 			[
 				"v",
 				"ngậm | chứa; có | ngầm; kín đáo; thầm; trong lòng"
+			]
+		]
+	},
+	"税": {
+		"py": "shuì",
+		"mn": [
+			[
+				"n",
+				"thuế"
 			]
 		]
 	},

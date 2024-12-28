@@ -47,6 +47,15 @@
 			]
 		]
 	},
+	"掌声": {
+		"py": "zhǎngshēng",
+		"mn": [
+			[
+				"n",
+				"tiếng vỗ tay"
+			]
+		]
+	},
 	"高平": {
 		"py": "gāopíng",
 		"mn": [
@@ -151,6 +160,15 @@
 			[
 				"v",
 				"thổi; hà hơi | thổi; gió thổi | khoác lác; khoe khoang; chém gió; bốc phét | hỏng; tan vỡ; chia tay; rạn nứt; thất bại (công việc; tình cảm) | thổi (nhạc cụ)"
+			]
+		]
+	},
+	"蜡烛": {
+		"py": "làzhú",
+		"mn": [
+			[
+				"n",
+				"cây nến; đèn cầy"
 			]
 		]
 	}

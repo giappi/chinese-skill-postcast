@@ -125,6 +125,15 @@
 			]
 		]
 	},
+	"外套": {
+		"py": "wàitào",
+		"mn": [
+			[
+				"n",
+				"áo khoác"
+			]
+		]
+	},
 	"条": {
 		"py": "tiáo",
 		"mn": [
@@ -135,6 +144,15 @@
 			[
 				"n",
 				"cành; nhánh (cây) | mảnh; sợi | điều; mục; điều mục | thứ tự; trật tự; ngăn nắp | lời nhắn; ghi chú; giấy nhắn; giấy ghi chú"
+			]
+		]
+	},
+	"裤子": {
+		"py": "kùzi",
+		"mn": [
+			[
+				"n",
+				"quần; cái quần; chiếc quần"
 			]
 		]
 	},
@@ -275,6 +293,15 @@
 			]
 		]
 	},
+	"鞋店": {
+		"py": "xiédiàn",
+		"mn": [
+			[
+				"n",
+				"Hiệu giày"
+			]
+		]
+	},
 	"看": {
 		"py": "kàn",
 		"mn": [
@@ -336,12 +363,30 @@
 			]
 		]
 	},
+	"全场": {
+		"py": "quánchǎng",
+		"mn": [
+			[
+				"n",
+				"mọi mặt | tất cả mọi người có mặt | toàn bộ khán giả | nhất trí | toàn bộ thời lượng (của một cuộc thi hoặc trận đấu)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"牌子": {
+		"py": "páizi",
+		"mn": [
+			[
+				"n",
+				"thẻ; bảng; biển; bảng hiệu; biển hiệu | nhãn hiệu; thương hiệu"
 			]
 		]
 	},

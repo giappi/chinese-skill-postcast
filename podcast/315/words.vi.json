@@ -82,6 +82,15 @@
 			]
 		]
 	},
+	"那里": {
+		"py": "nàlǐ",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -153,6 +162,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"大象": {
+		"py": "dàxiàng",
+		"mn": [
+			[
+				"n",
+				"con voi; voi"
 			]
 		]
 	}

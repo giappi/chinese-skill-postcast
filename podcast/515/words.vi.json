@@ -139,6 +139,15 @@
 			]
 		]
 	},
+	"请客": {
+		"py": "qǐngkè",
+		"mn": [
+			[
+				"v",
+				"mời khách; đãi khách | bao; khao; đãi; mời"
+			]
+		]
+	},
 	"谁": {
 		"py": "shuí",
 		"mn": [
@@ -619,6 +628,15 @@
 			]
 		]
 	},
+	"那里": {
+		"py": "nàlǐ",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia"
+			]
+		]
+	},
 	"饿": {
 		"py": "è",
 		"mn": [
@@ -629,6 +647,19 @@
 			[
 				"adj",
 				"đói; đói bụng"
+			]
+		]
+	},
+	"晕": {
+		"py": "yùn",
+		"mn": [
+			[
+				"v",
+				"choáng váng; chóng mặt; say"
+			],
+			[
+				"n",
+				"quầng; vầng | quầng; vừng"
 			]
 		]
 	},
@@ -723,6 +754,24 @@
 			]
 		]
 	},
+	"嗓子": {
+		"py": "sǎngzi",
+		"mn": [
+			[
+				"n",
+				"họng; cổ họng | giọng; giọng hát; giọng nói"
+			]
+		]
+	},
+	"发炎": {
+		"py": "fāyán",
+		"mn": [
+			[
+				"v",
+				"sưng; viêm"
+			]
+		]
+	},
 	"不能": {
 		"py": "bùnéng",
 		"mn": [
@@ -738,6 +787,15 @@
 			[
 				"onom, intj",
 				"à; ồ (biểu thị bất chợt hiểu ra; nhận ra điều gì đó)"
+			]
+		]
+	},
+	"杭州": {
+		"py": "hángzhōu",
+		"mn": [
+			[
+				"n",
+				"Hàng Châu"
 			]
 		]
 	},
@@ -760,6 +818,19 @@
 			[
 				"v",
 				"nghe nói | nghe nói (kỹ năng nghe và nói)"
+			]
+		]
+	},
+	"附近": {
+		"py": "fùjìn",
+		"mn": [
+			[
+				"adj",
+				"phụ cận; lân cận; cận;gần đây"
+			],
+			[
+				"n",
+				"vùng phụ cận; vùng lân cận; gần đây"
 			]
 		]
 	},
@@ -794,6 +865,24 @@
 			[
 				"n",
 				"tỷ lệ; tỷ lệ phần trăm | họ Khai"
+			]
+		]
+	},
+	"一家": {
+		"py": "yījiā",
+		"mn": [
+			[
+				"n",
+				"một nhà; một gia đình | một trường phái; một giáo phái"
+			]
+		]
+	},
+	"菜馆": {
+		"py": "càiguǎn",
+		"mn": [
+			[
+				"",
+				"quán cơm; hiệu ăn; quán ăn"
 			]
 		]
 	},
@@ -917,6 +1006,15 @@
 			]
 		]
 	},
+	"位子": {
+		"py": "wèizi",
+		"mn": [
+			[
+				"n",
+				"chỗ; chỗ ngồi"
+			]
+		]
+	},
 	"知道": {
 		"py": "zhīdào",
 		"mn": [
@@ -997,6 +1095,23 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"根本": {
+		"py": "gēnběn",
+		"mn": [
+			[
+				"n",
+				"căn bản; gốc rễ; cội nguồn; cốt lõi"
+			],
+			[
+				"adj",
+				"chính; chủ yếu; trọng yếu; quan trọng"
+			],
+			[
+				"adv",
+				"hoàn toàn | căn bản; trước giờ; từ trước đến nay"
 			]
 		]
 	},
@@ -1139,6 +1254,15 @@
 			]
 		]
 	},
+	"牛肉面": {
+		"py": "niúròumiàn",
+		"mn": [
+			[
+				"n",
+				"mì bò"
+			]
+		]
+	},
 	"又": {
 		"py": "yòu",
 		"mn": [
@@ -1154,6 +1278,19 @@
 			[
 				"adj",
 				"ngon; ngon miệng; thơm ngon"
+			]
+		]
+	},
+	"实惠": {
+		"py": "shíhuì",
+		"mn": [
+			[
+				"adj",
+				"bình dân; phải chăng; ưu đãi"
+			],
+			[
+				"n",
+				"lợi ích; ưu đãi; lợi ích thực tế"
 			]
 		]
 	}

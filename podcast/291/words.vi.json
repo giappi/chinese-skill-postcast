@@ -34,6 +34,15 @@
 			]
 		]
 	},
+	"侄女": {
+		"py": "zhínǚ",
+		"mn": [
+			[
+				"n",
+				"cháu gái"
+			]
+		]
+	},
 	"快": {
 		"py": "kuài",
 		"mn": [
@@ -65,6 +74,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"幼儿园": {
+		"py": "yòuéryuán",
+		"mn": [
+			[
+				"n, nlocal",
+				"mẫu giáo, trường mẫu giáo"
 			]
 		]
 	},
@@ -157,6 +175,15 @@
 			[
 				"v",
 				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"一家": {
+		"py": "yījiā",
+		"mn": [
+			[
+				"n",
+				"một nhà; một gia đình | một trường phái; một giáo phái"
 			]
 		]
 	},
@@ -322,6 +349,15 @@
 			]
 		]
 	},
+	"正规": {
+		"py": "zhèngguī",
+		"mn": [
+			[
+				"adj",
+				"chính quy; nề nếp"
+			]
+		]
+	},
 	"活动": {
 		"py": "huódòng",
 		"mn": [
@@ -336,6 +372,15 @@
 			[
 				"adj",
 				"linh hoạt; di động"
+			]
+		]
+	},
+	"场所": {
+		"py": "chǎngsuǒ",
+		"mn": [
+			[
+				"n",
+				"nơi; nơi chốn; địa điểm"
 			]
 		]
 	},
@@ -370,6 +415,15 @@
 			[
 				"n",
 				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"玩具": {
+		"py": "wánjù",
+		"mn": [
+			[
+				"n",
+				"đồ chơi; đồ chơi trẻ em"
 			]
 		]
 	},
@@ -505,6 +559,24 @@
 			]
 		]
 	},
+	"师生": {
+		"py": "shīshēng",
+		"mn": [
+			[
+				"n",
+				"thầy trò; thầy và trò; giáo viên và học sinh"
+			]
+		]
+	},
+	"比例": {
+		"py": "bǐlì",
+		"mn": [
+			[
+				"n",
+				"tỉ lệ; số lượng | tỷ lệ | tỷ lệ"
+			]
+		]
+	},
 	"多少": {
 		"py": "duōshǎo",
 		"mn": [
@@ -515,6 +587,15 @@
 			[
 				"n",
 				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"师资": {
+		"py": "shīzī",
+		"mn": [
+			[
+				"n",
+				"thầy giáo; giáo viên; giáo sư"
 			]
 		]
 	},
@@ -666,12 +747,39 @@
 			]
 		]
 	},
+	"奖惩": {
+		"py": "jiǎngchéng",
+		"mn": [
+			[
+				"v",
+				"thưởng phạt; thưởng và phạt"
+			]
+		]
+	},
+	"制度": {
+		"py": "zhìdù",
+		"mn": [
+			[
+				"n",
+				"chế độ; quy chế; quy định | chế độ (xã hội, chính trị)"
+			]
+		]
+	},
 	"怎样": {
 		"py": "zěnyàng",
 		"mn": [
 			[
 				"pro",
 				"thế nào (hỏi về tính chất, tình trạng hoặc cách thức) | thế nào; ra sao (biểu thị một sự vật, sự việc không xác định cụ thể) | thế nào (biểu thị chỉ định ngẫu nhiên) | thế nào (làm vị ngữ, tân ngữ hoặc bổ ngữ để hỏi về tình trạng)"
+			]
+		]
+	},
+	"伙食": {
+		"py": "huǒshí",
+		"mn": [
+			[
+				"n",
+				"bữa ăn; cơm nước; ăn uống; đồ ăn; đồ ăn tập thể (thường chỉ việc ăn uống trong nhà trường, bộ đội, cơ quan...)"
 			]
 		]
 	},
@@ -699,6 +807,15 @@
 			[
 				"v",
 				"chăm sóc; săn sóc; trông nom | xem xét; chú ý; tính đến | chiếu cố; chú ý đặc biệt | quan tâm; ủng hộ"
+			]
+		]
+	},
+	"生病": {
+		"py": "shēngbìng",
+		"mn": [
+			[
+				"v",
+				"sinh bệnh; phát bệnh; bị ốm"
 			]
 		]
 	},
@@ -828,6 +945,15 @@
 			]
 		]
 	},
+	"能否": {
+		"py": "néngfǒu",
+		"mn": [
+			[
+				"adv",
+				"có thể không; liệu có thể"
+			]
+		]
+	},
 	"在": {
 		"py": "zài",
 		"mn": [
@@ -842,6 +968,40 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"非": {
+		"py": "fēi",
+		"mn": [
+			[
+				"adv",
+				"phải; nhất định | không; không phải; không phải là | hỏng; tệ; xấu; không tốt"
+			],
+			[
+				"v",
+				"phản đối; chê trách; trách mắng; không đồng ý | vi phạm; phi pháp; phạm pháp; phạm luật; không hợp | không; không phải"
+			],
+			[
+				"n",
+				"Châu Phi"
+			],
+			[
+				"adj",
+				"sai; trái; không đúng; sai lầm"
+			],
+			[
+				"pref",
+				"phi; không"
+			]
+		]
+	},
+	"接送": {
+		"py": "jiēsòng",
+		"mn": [
+			[
+				"v",
+				"hộ tống; đưa đón; đón đưa"
 			]
 		]
 	},
@@ -873,6 +1033,15 @@
 			[
 				"conj",
 				"và; cùng; cùng với; cho đến"
+			]
+		]
+	},
+	"治安": {
+		"py": "zhìān",
+		"mn": [
+			[
+				"n",
+				"anh ninh; trật tự; an ninh trật tự"
 			]
 		]
 	},
@@ -928,6 +1097,15 @@
 			]
 		]
 	},
+	"周全": {
+		"py": "zhōuquán",
+		"mn": [
+			[
+				"adj",
+				"chu đáo; toàn diện; chu toàn | giúp đỡ"
+			]
+		]
+	},
 	"那": {
 		"py": "nà",
 		"mn": [
@@ -960,6 +1138,24 @@
 			[
 				"v",
 				"chế tạo | viết; sáng tác | làm; làm việc; thực hiện | làm; tổ chức; chúc mừng | đảm nhiệm; trở thành | làm; dùng làm; sử dụng làm | trở thành; kết thành; tạo thành (quan hệ) | giả vờ; giả trang"
+			]
+		]
+	},
+	"任何": {
+		"py": "rènhé",
+		"mn": [
+			[
+				"pro",
+				"bất kì; bất kể; bất cứ"
+			]
+		]
+	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
 			]
 		]
 	},
@@ -1010,6 +1206,28 @@
 			]
 		]
 	},
+	"调查": {
+		"py": "diàochá",
+		"mn": [
+			[
+				"v",
+				"điều tra; xem xét; kiểm tra; khảo sát; thám xét; thám sát"
+			],
+			[
+				"n",
+				"cuộc khảo sát; khảo sát"
+			]
+		]
+	},
+	"一番": {
+		"py": "yīfān",
+		"mn": [
+			[
+				"adv",
+				"một lần; một lượt | một lần; một lượt; một việc | gấp đôi"
+			]
+		]
+	},
 	"交": {
 		"py": "jiāo",
 		"mn": [
@@ -1055,6 +1273,15 @@
 			[
 				"part",
 				"xong; rồi | từng; đã từng ( biểu thị hành vi đã từng phát sinh, nhưng nay đã hết) | từng; đã từng (tính chất, trạng thái)"
+			]
+		]
+	},
+	"喽": {
+		"py": "lou",
+		"mn": [
+			[
+				"part",
+				"xong; hoàn thành | rồi; thì; thôi; đã"
 			]
 		]
 	}

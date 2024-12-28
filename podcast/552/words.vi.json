@@ -30,6 +30,15 @@
 			]
 		]
 	},
+	"午休": {
+		"py": "wǔxiū",
+		"mn": [
+			[
+				"v",
+				"nghỉ trưa; ngủ trưa"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -130,6 +139,23 @@
 			]
 		]
 	},
+	"短": {
+		"py": "duǎn",
+		"mn": [
+			[
+				"adj",
+				"ngắn | ngắn (chỉ thời gian) | nông cạn; thiếu hiểu biết"
+			],
+			[
+				"n",
+				"Khuyết điểm; thiếu sót; sở đoản; chỗ yếu kém"
+			],
+			[
+				"v",
+				"thiếu"
+			]
+		]
+	},
 	"长": {
 		"py": "cháng",
 		"mn": [
@@ -156,6 +182,15 @@
 			]
 		]
 	},
+	"反而": {
+		"py": "fǎnér",
+		"mn": [
+			[
+				"adv",
+				"trái lại; ngược lại"
+			]
+		]
+	},
 	"会": {
 		"py": "huì",
 		"mn": [
@@ -179,6 +214,19 @@
 			[
 				"adv",
 				"càng; lại | hơn"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
 			]
 		]
 	}

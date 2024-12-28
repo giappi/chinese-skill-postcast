@@ -92,12 +92,39 @@
 			]
 		]
 	},
+	"乘车": {
+		"py": "chéngchē",
+		"mn": [
+			[
+				"v",
+				"lái xe; đi xe"
+			]
+		]
+	},
+	"高峰期": {
+		"py": "gāofēngqī",
+		"mn": [
+			[
+				"n",
+				"giờ cao điểm; thời kỳ đỉnh điểm; thời kỳ cao điểm"
+			]
+		]
+	},
 	"车站": {
 		"py": "chēzhàn",
 		"mn": [
 			[
 				"n",
 				"ga; bến xe; trạm xe; nhà ga"
+			]
+		]
+	},
+	"内": {
+		"py": "nèi",
+		"mn": [
+			[
+				"n",
+				"nội; trong; bên trong; phía trong | vợ; họ nhà vợ"
 			]
 		]
 	},
@@ -158,6 +185,15 @@
 			[
 				"n",
 				"họ Thỉnh"
+			]
+		]
+	},
+	"看管": {
+		"py": "kānguǎn",
+		"mn": [
+			[
+				"v",
+				"trông giữ; trông coi; coi | coi chừng; trông nom; chăm sóc | chăm lo"
 			]
 		]
 	},
@@ -222,6 +258,42 @@
 			]
 		]
 	},
+	"安全线": {
+		"py": "ānquánxiàn",
+		"mn": [
+			[
+				"n",
+				"đường an toàn"
+			]
+		]
+	},
+	"候车": {
+		"py": "hòuchē",
+		"mn": [
+			[
+				"v",
+				"đợi xe"
+			]
+		]
+	},
+	"列车": {
+		"py": "lièchē",
+		"mn": [
+			[
+				"n",
+				"tàu; chuyến tàu"
+			]
+		]
+	},
+	"进站": {
+		"py": "jìnzhàn",
+		"mn": [
+			[
+				"v",
+				"Vào ga"
+			]
+		]
+	},
 	"后": {
 		"py": "hòu",
 		"mn": [
@@ -283,6 +355,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"主动": {
+		"py": "zhǔdòng",
+		"mn": [
+			[
+				"adj",
+				"chủ động | chủ động (có thể tạo thành cục diện có lợi, làm sự việc có thể tiến hành thao ý đồ của chính mình)"
 			]
 		]
 	},

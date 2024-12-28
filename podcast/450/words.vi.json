@@ -21,6 +21,15 @@
 			]
 		]
 	},
+	"辞掉": {
+		"py": "cídiào",
+		"mn": [
+			[
+				"v",
+				"sa thải (một nhân viên) | bỏ (công việc của một người)"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
@@ -97,6 +106,19 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
 			]
 		]
 	},
@@ -222,6 +244,19 @@
 			]
 		]
 	},
+	"猎头": {
+		"py": "liètóu",
+		"mn": [
+			[
+				"n",
+				"chuyên viên tuyển dụng | việc tuyển dụng"
+			],
+			[
+				"v",
+				"tuyển; săn tìm (nhân tài)"
+			]
+		]
+	},
 	"帮": {
 		"py": "bāng",
 		"mn": [
@@ -322,6 +357,15 @@
 			[
 				"pro",
 				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"潇洒": {
+		"py": "xiāosǎ",
+		"mn": [
+			[
+				"adj",
+				"tự nhiên; phóng khoáng; tiêu sái (phong độ, cử chỉ...) | tự do; tự tại"
 			]
 		]
 	}

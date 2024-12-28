@@ -1,4 +1,13 @@
 {
+	"主意": {
+		"py": "zhǔyì",
+		"mn": [
+			[
+				"n",
+				"ý kiến; ý tưởng; chủ ý; chủ kiến; chủ định; biện pháp; phương pháp"
+			]
+		]
+	},
 	"好": {
 		"py": "hǎo",
 		"mn": [
@@ -20,6 +29,27 @@
 			]
 		]
 	},
+	"极": {
+		"py": "jí",
+		"mn": [
+			[
+				"n",
+				"cực | đỉnh điểm; điểm dừng; điểm cuối | họ Cực"
+			],
+			[
+				"adv",
+				"hết sức; cực độ; rất; cực kỳ (phó từ, biểu thị đạt tới độ cao nhất)"
+			],
+			[
+				"adj",
+				"cao nhất; cuối cùng"
+			],
+			[
+				"v",
+				"làm hết sức mình"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -35,6 +65,15 @@
 			[
 				"pro",
 				"cái đó; cái ấy | cái ấy; việc ấy | ghê lắm (dùng trước động từ, hình dung từ, biểu thị sự khoa trương) | ấy (dùng biểu thị điều khó nói ra, có ý uyển chuyển, khôi hài) | tê"
+			]
+		]
+	},
+	"女生": {
+		"py": "nǚshēng",
+		"mn": [
+			[
+				"n",
+				"nữ sinh; học sinh nữ | cô gái; người con gái"
 			]
 		]
 	},

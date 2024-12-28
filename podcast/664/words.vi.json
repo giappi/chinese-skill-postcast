@@ -69,6 +69,15 @@
 			]
 		]
 	},
+	"夸奖": {
+		"py": "kuājiǎng",
+		"mn": [
+			[
+				"v",
+				"khen; khen ngợi; ca ngợi"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -291,6 +300,19 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"谦虚": {
+		"py": "qiānxū",
+		"mn": [
+			[
+				"adj",
+				"khiêm tốn; khiêm nhường; nhã nhặn"
+			],
+			[
+				"v",
+				"khiêm tốn; tỏ ra khiêm tốn"
 			]
 		]
 	}

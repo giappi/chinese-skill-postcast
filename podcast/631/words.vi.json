@@ -73,6 +73,19 @@
 			]
 		]
 	},
+	"广播": {
+		"py": "guǎngbō",
+		"mn": [
+			[
+				"v",
+				"phát sóng | tuyên truyền; phổ biến; truyền bá"
+			],
+			[
+				"n",
+				"chương trình phát sóng; chương trình phát thanh; chương trình truyền hình"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -210,12 +223,30 @@
 			]
 		]
 	},
+	"小看": {
+		"py": "xiǎokàn",
+		"mn": [
+			[
+				"v",
+				"coi khinh; xem nhẹ; xem thường; khinh thường"
+			]
+		]
+	},
 	"每天": {
 		"py": "měitiān",
 		"mn": [
 			[
 				"n, time",
 				"mỗi ngày; hằng ngày"
+			]
+		]
+	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
 			]
 		]
 	},
@@ -289,6 +320,15 @@
 			]
 		]
 	},
+	"节目": {
+		"py": "jiémù",
+		"mn": [
+			[
+				"n",
+				"tiết mục; chương trình (biểu diễn)"
+			]
+		]
+	},
 	"就是": {
 		"py": "jiùshì",
 		"mn": [
@@ -303,6 +343,15 @@
 			[
 				"part",
 				"được; được rồi; đúng rồi; không sai"
+			]
+		]
+	},
+	"路况": {
+		"py": "lùkuàng",
+		"mn": [
+			[
+				"n",
+				"tình hình giao thông (lưu lượng giao thông)"
 			]
 		]
 	},

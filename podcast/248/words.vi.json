@@ -143,6 +143,19 @@
 			]
 		]
 	},
+	"花心": {
+		"py": "huāxīn",
+		"mn": [
+			[
+				"adj",
+				"lăng nhăng; đào hoa; lẳng lơ"
+			],
+			[
+				"n",
+				"trăng hoa; tính lăng nhăng; tính đào hoa"
+			]
+		]
+	},
 	"可": {
 		"py": "kě",
 		"mn": [
@@ -236,6 +249,15 @@
 			]
 		]
 	},
+	"火坑": {
+		"py": "huǒkēng",
+		"mn": [
+			[
+				"n",
+				"hố lửa; chỗ chết; chỗ nước sôi lửa bỏng; hầm lửa (ví với hoàn cảnh sống vô cùng bi thảm.)"
+			]
+		]
+	},
 	"里": {
 		"py": "lǐ",
 		"mn": [
@@ -255,6 +277,15 @@
 			[
 				"v",
 				"đẩy; đùn | xay | cắt; bào; xén; hớt | mở rộng; phát triển | suy ra; suy luận | nhường; đùn đẩy; đổ; từ chối | khước từ; thoái thoát | hoãn lại; trì hoãn; để chậm lại | tôn sùng; sùng bái | đề cử; bầu cử"
+			]
+		]
+	},
+	"谣言": {
+		"py": "yáoyán",
+		"mn": [
+			[
+				"n",
+				"tin vịt; tin nhảm; tin đồn; tin bịa đặt"
 			]
 		]
 	},
@@ -289,6 +320,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"专一": {
+		"py": "zhuānyī",
+		"mn": [
+			[
+				"adj",
+				"chung thủy; một lòng; dốc lòng; không phân tâm"
 			]
 		]
 	},

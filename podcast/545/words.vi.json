@@ -82,6 +82,15 @@
 			]
 		]
 	},
+	"奉献": {
+		"py": "fèngxiàn",
+		"mn": [
+			[
+				"v",
+				"kính dâng; hiến dâng; kính tặng"
+			]
+		]
+	},
 	"给": {
 		"py": "gěi",
 		"mn": [
@@ -450,6 +459,19 @@
 			]
 		]
 	},
+	"丰富": {
+		"py": "fēngfù",
+		"mn": [
+			[
+				"adj",
+				"phong phú; dồi dào; nhiều; dư dật (vật chất, kinh nghiệm, tri thức)"
+			],
+			[
+				"v",
+				"làm giàu thêm; làm phong phú"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -502,12 +524,30 @@
 			]
 		]
 	},
+	"郊区": {
+		"py": "jiāoqū",
+		"mn": [
+			[
+				"n",
+				"vùng ngoại thành; vùng ngoại ô; khu vực ngoại thành"
+			]
+		]
+	},
 	"爬": {
 		"py": "pá",
 		"mn": [
 			[
 				"v",
 				"trèo; leo; leo trèo | bò | dậy, đứng dậy"
+			]
+		]
+	},
+	"山": {
+		"py": "shān",
+		"mn": [
+			[
+				"n",
+				"núi; non; quả núi | núi; ụ; đống (giống như một ngọn núi) | né tằm (dụng cụ hình núi nhọn để tằm nhả tơ) | âm thanh lớn | họ Sơn"
 			]
 		]
 	},
@@ -545,6 +585,15 @@
 			]
 		]
 	},
+	"聚": {
+		"py": "jù",
+		"mn": [
+			[
+				"v",
+				"tụ tập; tụ họp; tập hợp"
+			]
+		]
+	},
 	"会": {
 		"py": "huì",
 		"mn": [
@@ -559,6 +608,15 @@
 			[
 				"n",
 				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"什么的": {
+		"py": "shénmede",
+		"mn": [
+			[
+				"pro",
+				"vân vân; chẳng hạn; gì gì đó"
 			]
 		]
 	},
@@ -650,6 +708,15 @@
 			[
 				"n",
 				"bơi lội (môn thi đấu thể thao)"
+			]
+		]
+	},
+	"打球": {
+		"py": "dǎqiú",
+		"mn": [
+			[
+				"v",
+				"chơi bóng; đánh bóng"
 			]
 		]
 	},
@@ -801,6 +868,19 @@
 			]
 		]
 	},
+	"再说": {
+		"py": "zàishuō",
+		"mn": [
+			[
+				"v",
+				"sẽ bàn; sẽ nói; nói sau; sẽ giải quyết"
+			],
+			[
+				"conj",
+				"vả lại; hơn nữa; bên cạnh đó"
+			]
+		]
+	},
 	"没": {
 		"py": "méi",
 		"mn": [
@@ -898,6 +978,15 @@
 			]
 		]
 	},
+	"球": {
+		"py": "qiú",
+		"mn": [
+			[
+				"n",
+				"cầu; hình cầu | quả; nắm (đồ vật dạng tròn) | bóng; banh; quả bóng; quả cầu (dụng cụ thể thao) | trận đấu; bóng (trò chơi; cuộc thi) | địa cầu; trái đất"
+			]
+		]
+	},
 	"那": {
 		"py": "nà",
 		"mn": [
@@ -917,6 +1006,15 @@
 			[
 				"adv",
 				"ngày khác; hôm khác; hôm nào"
+			]
+		]
+	},
+	"羽毛球": {
+		"py": "yǔmáoqiú",
+		"mn": [
+			[
+				"n",
+				"cầu lông; môn cầu lông | quả cầu lông; trái cầu lông"
 			]
 		]
 	},
@@ -1027,6 +1125,24 @@
 			[
 				"adj",
 				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"单打": {
+		"py": "dāndǎ",
+		"mn": [
+			[
+				"n",
+				"đánh đơn"
+			]
+		]
+	},
+	"双打": {
+		"py": "shuāngdǎ",
+		"mn": [
+			[
+				"n",
+				"đánh kép; đánh đôi"
 			]
 		]
 	},

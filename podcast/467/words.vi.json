@@ -1,4 +1,13 @@
 {
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
+			]
+		]
+	},
 	"听": {
 		"py": "tīng",
 		"mn": [
@@ -208,6 +217,15 @@
 			]
 		]
 	},
+	"人力资源部": {
+		"py": "rénlìzīyuánbù",
+		"mn": [
+			[
+				"n",
+				"Bộ phận tài nguyên nhân lực"
+			]
+		]
+	},
 	"面试": {
 		"py": "miànshì",
 		"mn": [
@@ -223,6 +241,15 @@
 			[
 				"pro",
 				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"当场": {
+		"py": "dāngchǎng",
+		"mn": [
+			[
+				"adv",
+				"tại chỗ; ngay tại chỗ; ngay tại trận"
 			]
 		]
 	},
@@ -244,6 +271,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"录用": {
+		"py": "lùyòng",
+		"mn": [
+			[
+				"v",
+				"tuyển dụng; được nhận | áp dụng; chấp nhận"
 			]
 		]
 	},
@@ -288,6 +324,15 @@
 			[
 				"intj",
 				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"一家": {
+		"py": "yījiā",
+		"mn": [
+			[
+				"n",
+				"một nhà; một gia đình | một trường phái; một giáo phái"
 			]
 		]
 	},
@@ -396,12 +441,60 @@
 			]
 		]
 	},
+	"负责": {
+		"py": "fùzé",
+		"mn": [
+			[
+				"v",
+				"phụ trách; chịu trách nhiệm"
+			],
+			[
+				"adj",
+				"có trách nhiệm"
+			]
+		]
+	},
+	"辅助": {
+		"py": "fǔzhù",
+		"mn": [
+			[
+				"v",
+				"giúp; phụ giúp; giúp đỡ; hỗ trợ"
+			],
+			[
+				"adj",
+				"phụ; phụ trợ"
+			]
+		]
+	},
 	"一些": {
 		"py": "yīxiē",
 		"mn": [
 			[
 				"class",
 				"một vài; một số; một phần (chỉ số lượng không xác định) | một ít; một chút (chỉ số lượng rất ít) | mấy; một số | chút; một chút; một tý (đặt sau động từ hoặc tính từ)"
+			]
+		]
+	},
+	"游戏": {
+		"py": "yóuxì",
+		"mn": [
+			[
+				"n",
+				"trò chơi"
+			],
+			[
+				"v",
+				"vui đùa; vui chơi; chơi đùa"
+			]
+		]
+	},
+	"开发": {
+		"py": "kāifā",
+		"mn": [
+			[
+				"v",
+				"khai phá; mở mang; mở rộng; khai thác | phát hiện"
 			]
 		]
 	},
@@ -542,6 +635,15 @@
 			[
 				"n",
 				"Israel | họ Dĩ"
+			]
+		]
+	},
+	"实习生": {
+		"py": "shíxíshēng",
+		"mn": [
+			[
+				"n",
+				"thực tập sinh"
 			]
 		]
 	},
@@ -767,6 +869,15 @@
 			]
 		]
 	},
+	"不算": {
+		"py": "bùsuàn",
+		"mn": [
+			[
+				"v",
+				"xí xoá"
+			]
+		]
+	},
 	"高": {
 		"py": "gāo",
 		"mn": [
@@ -858,6 +969,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"初中": {
+		"py": "chūzhōng",
+		"mn": [
+			[
+				"n",
+				"cấp hai; trung học cơ sở"
 			]
 		]
 	},
@@ -1020,12 +1140,30 @@
 			]
 		]
 	},
+	"岂不是": {
+		"py": "qǐbùshì",
+		"mn": [
+			[
+				"adv",
+				"chẳng phải sao; há chẳng phải"
+			]
+		]
+	},
 	"一周": {
 		"py": "yīzhōu",
 		"mn": [
 			[
 				"n",
 				"cả một chu kỳ | Mọi con đường xung quanh | một tuần"
+			]
+		]
+	},
+	"拼命三郎": {
+		"py": "pīnmìngsānláng",
+		"mn": [
+			[
+				"idioms",
+				"người dũng cảm, sẵn sàng mạo hiểm cuộc sống của mình"
 			]
 		]
 	},
@@ -1096,6 +1234,15 @@
 			]
 		]
 	},
+	"挥金如土": {
+		"py": "huījīnrútǔ",
+		"mn": [
+			[
+				"idioms",
+				"tiêu tiền như nước; tiêu xài phung phí; tuôn tiền | tiêu tiền như rác | bốc rời"
+			]
+		]
+	},
 	"女朋友": {
 		"py": "nǚpéngyǒu",
 		"mn": [
@@ -1131,6 +1278,19 @@
 			]
 		]
 	},
+	"贷款": {
+		"py": "dàikuǎn",
+		"mn": [
+			[
+				"v",
+				"vay; cho vay"
+			],
+			[
+				"n",
+				"khoản vay"
+			]
+		]
+	},
 	"买": {
 		"py": "mǎi",
 		"mn": [
@@ -1162,6 +1322,19 @@
 			]
 		]
 	},
+	"拼命": {
+		"py": "pīnmìng",
+		"mn": [
+			[
+				"adv",
+				"liều mạng; liều mình; liều lĩnh"
+			],
+			[
+				"v, sv",
+				"liều; liều mạng"
+			]
+		]
+	},
 	"赚钱": {
 		"py": "zhuànqián",
 		"mn": [
@@ -1177,6 +1350,15 @@
 			[
 				"part",
 				"nếu (trợ từ, biểu thị sự giả thiết)"
+			]
+		]
+	},
+	"日子": {
+		"py": "rìzi",
+		"mn": [
+			[
+				"n",
+				"ngày; thời kì | thời gian | cuộc sống; sinh kế; ngày tháng"
 			]
 		]
 	},
@@ -1220,6 +1402,24 @@
 			]
 		]
 	},
+	"郊区": {
+		"py": "jiāoqū",
+		"mn": [
+			[
+				"n",
+				"vùng ngoại thành; vùng ngoại ô; khu vực ngoại thành"
+			]
+		]
+	},
+	"散心": {
+		"py": "sànxīn",
+		"mn": [
+			[
+				"v",
+				"giải sầu; giải tỏa; khuây khoả; giải khuây"
+			]
+		]
+	},
 	"对": {
 		"py": "duì",
 		"mn": [
@@ -1246,6 +1446,24 @@
 			[
 				"adv",
 				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"宠爱": {
+		"py": "chǒngài",
+		"mn": [
+			[
+				"v",
+				"nuông chiều; cưng chiều; thiên vị; mê mẩn; say mê"
+			]
+		]
+	},
+	"有加": {
+		"py": "yǒujiā",
+		"mn": [
+			[
+				"adv",
+				"cực kỳ (đặt sau động từ hoặc tính từ)"
 			]
 		]
 	},
@@ -1314,6 +1532,15 @@
 			[
 				"n",
 				"tượng; tranh; ảnh; hình"
+			]
+		]
+	},
+	"海绵": {
+		"py": "hǎimián",
+		"mn": [
+			[
+				"n",
+				"hải miên; bọt biển | xương xốp | xốp; miếng xốp"
 			]
 		]
 	},
@@ -1412,12 +1639,70 @@
 			]
 		]
 	},
+	"五体投地": {
+		"py": "wǔtǐtóudì",
+		"mn": [
+			[
+				"idioms",
+				"phục sát đất; phục lăn; đầu rạp xuống đất"
+			]
+		]
+	},
 	"只": {
 		"py": "zhǐ",
 		"mn": [
 			[
 				"adv",
 				"chỉ (trong phạm vi)"
+			]
+		]
+	},
+	"劝": {
+		"py": "quàn",
+		"mn": [
+			[
+				"v",
+				"khuyên giải; khuyên nhủ | khuyến khích; khích lệ"
+			],
+			[
+				"n",
+				"họ Khuyến"
+			]
+		]
+	},
+	"一句话": {
+		"py": "yījùhuà",
+		"mn": [
+			[
+				"n",
+				"trong một từ | Nói ngắn gọn"
+			]
+		]
+	},
+	"尽力而为": {
+		"py": "jìnlìérwéi",
+		"mn": [
+			[
+				"idioms",
+				"cố gắng hết sức"
+			]
+		]
+	},
+	"量力而行": {
+		"py": "liànglìérxíng",
+		"mn": [
+			[
+				"idioms",
+				"lượng sức mà làm"
+			]
+		]
+	},
+	"保重": {
+		"py": "bǎozhòng",
+		"mn": [
+			[
+				"v",
+				"bảo trọng; giữ gìn sức khoẻ"
 			]
 		]
 	},
@@ -1440,6 +1725,15 @@
 			[
 				"n",
 				"họ Tạ"
+			]
+		]
+	},
+	"关心": {
+		"py": "guānxīn",
+		"mn": [
+			[
+				"v",
+				"quan tâm; lo lắng; trông nom; chú ý (người hoặc sự vật)"
 			]
 		]
 	}

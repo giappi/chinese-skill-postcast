@@ -38,6 +38,33 @@
 			]
 		]
 	},
+	"五一": {
+		"py": "wǔyī",
+		"mn": [
+			[
+				"n, time",
+				"ngày mồng một tháng năm; mùng 1 tháng 5 (ngày quốc tế lao động)"
+			]
+		]
+	},
+	"黄金周": {
+		"py": "huángjīnzhōu",
+		"mn": [
+			[
+				"n",
+				"tuần lễ vàng (các kỳ nghỉ lễ ở Trung Quốc kéo dài 7 ngày)"
+			]
+		]
+	},
+	"往年": {
+		"py": "wǎngnián",
+		"mn": [
+			[
+				"",
+				"những năm qua; trước kia; năm xưa"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -174,6 +201,15 @@
 			]
 		]
 	},
+	"高峰": {
+		"py": "gāofēng",
+		"mn": [
+			[
+				"n",
+				"ngọn núi; đỉnh núi; đỉnh núi cao | đỉnh cao; cao điểm | cấp cao; thượng đỉnh"
+			]
+		]
+	},
 	"不管": {
 		"py": "bùguǎn",
 		"mn": [
@@ -209,6 +245,15 @@
 			[
 				"adj",
 				"chắc; mẩy; mọng nước"
+			]
+		]
+	},
+	"火车": {
+		"py": "huǒchē",
+		"mn": [
+			[
+				"n",
+				"xe lửa; tàu hoả"
 			]
 		]
 	},
@@ -317,6 +362,15 @@
 			]
 		]
 	},
+	"宾馆": {
+		"py": "bīnguǎn",
+		"mn": [
+			[
+				"n",
+				"nhà khách; khách sạn"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -398,6 +452,15 @@
 			]
 		]
 	},
+	"景点": {
+		"py": "jǐngdiǎn",
+		"mn": [
+			[
+				"n",
+				"khu phong cảnh; khu du lịch; khu tham quan; điểm tham quan; cảnh điểm; thắng cảnh"
+			]
+		]
+	},
 	"里": {
 		"py": "lǐ",
 		"mn": [
@@ -408,6 +471,15 @@
 			[
 				"measure",
 				"dặm (đơn vị đo chiều dài, bằng 1/2 km)"
+			]
+		]
+	},
+	"人山人海": {
+		"py": "rénshānrénhǎi",
+		"mn": [
+			[
+				"idioms",
+				"biển người; người đông nghìn nghịt; người đông như kiến"
 			]
 		]
 	},
@@ -472,6 +544,36 @@
 			[
 				"adv",
 				"tương đối; khá; khá là"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
+			]
+		]
+	},
+	"呆": {
+		"py": "dāi",
+		"mn": [
+			[
+				"adj",
+				"ngốc; ngu; đần độn; ngu si (đầu óc) | ngẩn; ngớ; ngẩn ngơ; ngớ ngẩn; đờ ra; trơ ra"
+			],
+			[
+				"v",
+				"ở; ở lại; nán lại"
+			],
+			[
+				"n",
+				"họ Bảo"
 			]
 		]
 	},
@@ -540,6 +642,15 @@
 			]
 		]
 	},
+	"屋子": {
+		"py": "wūzi",
+		"mn": [
+			[
+				"n",
+				"phòng; buồng; gian nhà; gian phòng"
+			]
+		]
+	},
 	"过": {
 		"py": "guò",
 		"mn": [
@@ -600,6 +711,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"轻轻松松": {
+		"py": "qīngqīngsōngsōng",
+		"mn": [
+			[
+				"Thành ngữ phổ biến, Trung tính",
+				"dễ dàng, nhẹ nhàng"
 			]
 		]
 	},

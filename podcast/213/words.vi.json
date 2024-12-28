@@ -20,6 +20,27 @@
 			]
 		]
 	},
+	"渴": {
+		"py": "kě",
+		"mn": [
+			[
+				"adj",
+				"khát; khát nước"
+			],
+			[
+				"adv",
+				"đòi hỏi; khát khao; ao ước"
+			],
+			[
+				"v",
+				"để cho khát; khiến cho khát"
+			],
+			[
+				"n",
+				"họ Khát"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -115,6 +136,15 @@
 			]
 		]
 	},
+	"奶茶": {
+		"py": "nǎichá",
+		"mn": [
+			[
+				"n",
+				"trà sữa"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -175,6 +205,19 @@
 			]
 		]
 	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
+			]
+		]
+	},
 	"杯": {
 		"py": "bēi",
 		"mn": [
@@ -198,6 +241,23 @@
 			[
 				"n",
 				"họ Gia"
+			]
+		]
+	},
+	"冰": {
+		"py": "bīng",
+		"mn": [
+			[
+				"n",
+				"băng; đá; nước đá | những thứ trong suốt như băng (đường phèn; băng phiến; ma túy đá) | họ Băng"
+			],
+			[
+				"adj",
+				"buốt; giá lạnh; rét; rét buốt; lạnh buốt"
+			],
+			[
+				"v",
+				"ướp đá; ướp lạnh | cảm thấy lạnh"
 			]
 		]
 	},

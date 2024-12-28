@@ -1,4 +1,13 @@
 {
+	"富婆": {
+		"py": "fùpó",
+		"mn": [
+			[
+				"n",
+				"phú bà"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -66,6 +75,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"钻戒": {
+		"py": "zuànjiè",
+		"mn": [
+			[
+				"n",
+				"nhẫn kim cương"
 			]
 		]
 	},
@@ -152,6 +170,15 @@
 			]
 		]
 	},
+	"撒娇": {
+		"py": "sājiāo",
+		"mn": [
+			[
+				"v, sv",
+				"làm nũng; nũng nịu; nũng; nhõng nhẽo; uốn éo"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -173,12 +200,30 @@
 			]
 		]
 	},
+	"眼泪": {
+		"py": "yǎnlèi",
+		"mn": [
+			[
+				"n",
+				"nước mắt; dòng lệ"
+			]
+		]
+	},
 	"女人": {
 		"py": "nǚrén",
 		"mn": [
 			[
 				"n",
 				"thị; phụ nữ; đàn bà"
+			]
+		]
+	},
+	"法宝": {
+		"py": "fǎbǎo",
+		"mn": [
+			[
+				"n",
+				"pháp bảo (thuật ngữ đạo Phật) | pháp bảo; bùa (bảo vật trừ tà ma trong thần thoại đạo giáo) | phép; phép báu; phép mầu"
 			]
 		]
 	},
@@ -217,6 +262,15 @@
 			[
 				"adv",
 				"càng; lại | hơn"
+			]
+		]
+	},
+	"奏效": {
+		"py": "zòuxiào",
+		"mn": [
+			[
+				"v",
+				"có hiệu quả; đạt hiệu quả"
 			]
 		]
 	}

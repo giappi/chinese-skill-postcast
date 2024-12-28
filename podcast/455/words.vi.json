@@ -56,6 +56,15 @@
 			]
 		]
 	},
+	"事儿": {
+		"py": "shìr",
+		"mn": [
+			[
+				"n",
+				"việc; chuyện;  sự việc"
+			]
+		]
+	},
 	"下": {
 		"py": "xià",
 		"mn": [
@@ -70,6 +79,15 @@
 			[
 				"measure",
 				"tiếng; cái; lần (chỉ số lần của động tác) | chỉ dung lượng của vật chứa | ngón; chiêu (dùng sau 两、几 để chỉ bản lĩnh, kỹ năng)"
+			]
+		]
+	},
+	"周三": {
+		"py": "zhōusān",
+		"mn": [
+			[
+				"n",
+				"thứ Tư"
 			]
 		]
 	},
@@ -151,6 +169,28 @@
 			]
 		]
 	},
+	"开场": {
+		"py": "kāichǎng",
+		"mn": [
+			[
+				"v",
+				"mở màn; mở đầu; bắt đầu; khai diễn; phần mở đầu"
+			]
+		]
+	},
+	"演讲": {
+		"py": "yǎnjiǎng",
+		"mn": [
+			[
+				"v",
+				"diễn thuyết; phát biểu; thuyết trình; diễn giảng; hùng biện"
+			],
+			[
+				"n",
+				"bài diễn thuyết; bài thuyết trình; bài phát biểu; bài diễn văn"
+			]
+		]
+	},
 	"不": {
 		"py": "bù",
 		"mn": [
@@ -217,6 +257,23 @@
 			]
 		]
 	},
+	"并": {
+		"py": "bìng",
+		"mn": [
+			[
+				"conj",
+				"và; đồng thời; hơn nữa; mà còn"
+			],
+			[
+				"v",
+				"kề; sát; cạnh; đi đôi; dàn hàng; bày song song | hợp lại; nhập lại; gộp lại; chập lại; ghép lại; sát nhập"
+			],
+			[
+				"adv",
+				"cùng; đồng thời | chả; chẳng; không hề; không phải; chẳng phải | cùng; đều; tất cả đều"
+			]
+		]
+	},
 	"难": {
 		"py": "nán",
 		"mn": [
@@ -277,12 +334,38 @@
 			]
 		]
 	},
+	"讲": {
+		"py": "jiǎng",
+		"mn": [
+			[
+				"v",
+				"nói; kể | giảng; giảng giải; giải thích; thuyết minh | thương lượng; bàn bạc; mặc cả | nói về; bàn về; luận về | chú ý; chạy theo; đuổi theo"
+			],
+			[
+				"n",
+				"họ Giảng"
+			]
+		]
+	},
 	"一个": {
 		"py": "yīgè",
 		"mn": [
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"笑话": {
+		"py": "xiàohuà",
+		"mn": [
+			[
+				"n",
+				"chuyện cười; chuyện hài; trò cười; chuyện tiếu lâm; truyện tiếu lâm"
+			],
+			[
+				"v",
+				"cười nhạo; cười châm biếm; cười chế nhạo"
 			]
 		]
 	},
@@ -312,6 +395,19 @@
 			]
 		]
 	},
+	"经历": {
+		"py": "jīnglì",
+		"mn": [
+			[
+				"v",
+				"từng; từng trải; trải qua; trải nghiệm"
+			],
+			[
+				"n",
+				"những việc trải qua; trải nghiệm"
+			]
+		]
+	},
 	"来": {
 		"py": "lái",
 		"mn": [
@@ -330,6 +426,15 @@
 			[
 				"adj",
 				"tương lai; sau này"
+			]
+		]
+	},
+	"吸引": {
+		"py": "xīyǐn",
+		"mn": [
+			[
+				"v",
+				"hấp dẫn; thu hút; lôi cuốn"
 			]
 		]
 	},
@@ -438,6 +543,15 @@
 			]
 		]
 	},
+	"主题": {
+		"py": "zhǔtí",
+		"mn": [
+			[
+				"n",
+				"chủ đề | nội dung chính; nội dung chủ yếu"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -468,6 +582,15 @@
 			]
 		]
 	},
+	"思路": {
+		"py": "sīlù",
+		"mn": [
+			[
+				"n",
+				"suy nghĩ; dòng suy nghĩ; mạch suy nghĩ"
+			]
+		]
+	},
 	"说明": {
 		"py": "shuōmíng",
 		"mn": [
@@ -490,12 +613,48 @@
 			]
 		]
 	},
+	"资格": {
+		"py": "zīgé",
+		"mn": [
+			[
+				"n",
+				"tư cách | tuổi nghề; thâm niên"
+			]
+		]
+	},
+	"话题": {
+		"py": "huàtí",
+		"mn": [
+			[
+				"n",
+				"đề tài; chủ đề"
+			]
+		]
+	},
 	"以此": {
 		"py": "yǐcǐ",
 		"mn": [
 			[
 				"conj",
 				"lấy đó; đem điều đó; do đó; vì đó; nhân đó; nhờ đó"
+			]
+		]
+	},
+	"建立": {
+		"py": "jiànlì",
+		"mn": [
+			[
+				"v",
+				"lập; thành lập | tạo dựng"
+			]
+		]
+	},
+	"可信度": {
+		"py": "kěxìndù",
+		"mn": [
+			[
+				"n",
+				"mức độ đáng tin cậy | độ tin cậy"
 			]
 		]
 	}

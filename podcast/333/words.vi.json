@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"羽毛球": {
+		"py": "yǔmáoqiú",
+		"mn": [
+			[
+				"n",
+				"cầu lông; môn cầu lông | quả cầu lông; trái cầu lông"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -243,6 +252,15 @@
 			[
 				"n",
 				"họ Mãi"
+			]
+		]
+	},
+	"家伙": {
+		"py": "jiāhuo",
+		"mn": [
+			[
+				"n",
+				"cái; thằng; thằng cha; lão; đứa | cái; con (súc vật) | công cụ; vũ khí"
 			]
 		]
 	}

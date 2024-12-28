@@ -17,12 +17,30 @@
 			]
 		]
 	},
+	"表弟": {
+		"py": "biǎodì",
+		"mn": [
+			[
+				"n",
+				"biểu đệ (em trai con cô, dì hoặc cậu), em họ; biểu đệ"
+			]
+		]
+	},
 	"又": {
 		"py": "yòu",
 		"mn": [
 			[
 				"adv",
 				"lại (biểu thị lặp lại hoặc tiếp tục) | vừa...vừa.... | lại; lại thêm; lại còn (biểu thị tăng thêm) | nhưng; lại (biểu thị chuyển ý) | còn; thêm (biểu thị bổ sung) | thêm; cộng; với | vừa... lại; vừa... vừa (biểu thị hai sự việc có mâu thuẫn) | đâu (biểu thị nhấn mạnh)"
+			]
+		]
+	},
+	"惹": {
+		"py": "rě",
+		"mn": [
+			[
+				"v",
+				"làm cho; làm; gây nên; khiến | trêu chọc; trêu ghẹo;chọc (ngôn ngữ, hành động) | thu hút; chuốc lấy; gây"
 			]
 		]
 	},
@@ -96,6 +114,15 @@
 			]
 		]
 	},
+	"事儿": {
+		"py": "shìr",
+		"mn": [
+			[
+				"n",
+				"việc; chuyện;  sự việc"
+			]
+		]
+	},
 	"跟": {
 		"py": "gēn",
 		"mn": [
@@ -123,6 +150,15 @@
 			[
 				"n",
 				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"打架": {
+		"py": "dǎjià",
+		"mn": [
+			[
+				"v, sv",
+				"đánh nhau | mâu thuẫn; bất đồng; không khớp; xung đột"
 			]
 		]
 	},
@@ -200,6 +236,19 @@
 			[
 				"part",
 				"bị (dùng trước động từ tạo thành nhóm từ biểu thị sự bị động)"
+			]
+		]
+	},
+	"扣": {
+		"py": "kòu",
+		"mn": [
+			[
+				"v",
+				"khâu; cài; móc; gài | úp; đậy; chụp | giam; giữ | khấu trừ; trừ | đập | nhấn; kéo | đổ tội; gán danh; gán tội"
+			],
+			[
+				"n",
+				"nút; cúc áo; khuy áo | ren (đường ren của ốc vít) | nút; nút thắt | họ Khấu."
 			]
 		]
 	},
@@ -309,6 +358,15 @@
 			]
 		]
 	},
+	"外号": {
+		"py": "wàihào",
+		"mn": [
+			[
+				"n",
+				"biệt hiệu; ngoại hiệu; tên riêng; biệt danh"
+			]
+		]
+	},
 	"篮球": {
 		"py": "lánqiú",
 		"mn": [
@@ -335,6 +393,15 @@
 			]
 		]
 	},
+	"小子": {
+		"py": "xiǎozi",
+		"mn": [
+			[
+				"n",
+				"con trai | thằng; thằng cha (có ý khinh miệt) | thằng cu | người trẻ tuổi"
+			]
+		]
+	},
 	"看来": {
 		"py": "kànlái",
 		"mn": [
@@ -354,6 +421,15 @@
 			[
 				"pro",
 				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"到家": {
+		"py": "dàojiā",
+		"mn": [
+			[
+				"adj",
+				"đạt; đạt tới; đến nơi đến chốn; cừ; hay; tài giỏi | thập thành"
 			]
 		]
 	},
@@ -490,6 +566,15 @@
 			]
 		]
 	},
+	"所作所为": {
+		"py": "suǒzuòsuǒwéi",
+		"mn": [
+			[
+				"idioms",
+				"hạnh kiểm và hành động của một người"
+			]
+		]
+	},
 	"会": {
 		"py": "huì",
 		"mn": [
@@ -504,6 +589,32 @@
 			[
 				"n",
 				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"影响": {
+		"py": "yǐngxiǎng",
+		"mn": [
+			[
+				"v",
+				"ảnh hưởng"
+			],
+			[
+				"n",
+				"sự ảnh hưởng"
+			]
+		]
+	},
+	"形象": {
+		"py": "xíngxiàng",
+		"mn": [
+			[
+				"n",
+				"hình ảnh | hình tượng"
+			],
+			[
+				"adj",
+				"sinh động; chân thực"
 			]
 		]
 	},
@@ -529,6 +640,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"名声": {
+		"py": "míngshēng",
+		"mn": [
+			[
+				"n",
+				"thanh danh; tiếng tăm; danh tiếng"
 			]
 		]
 	},
@@ -602,6 +722,15 @@
 			]
 		]
 	},
+	"家人": {
+		"py": "jiārén",
+		"mn": [
+			[
+				"n",
+				"gia đình; người nhà; thành viên trong gia đình"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -659,6 +788,15 @@
 			[
 				"measure",
 				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"摆平": {
+		"py": "bǎipíng",
+		"mn": [
+			[
+				"v",
+				"công bằng; đối xử công bằng; xử lý công bằng; không thiên vị; giải quyết công bằng; san bằng; giữ cho cân bằng"
 			]
 		]
 	},
@@ -756,6 +894,15 @@
 			]
 		]
 	},
+	"保释": {
+		"py": "bǎoshì",
+		"mn": [
+			[
+				"v",
+				"nộp tiền bảo lãnh; cam đoan để được tha (phạm nhân)"
+			]
+		]
+	},
 	"出来": {
 		"py": "chūlái",
 		"mn": [
@@ -765,12 +912,43 @@
 			]
 		]
 	},
+	"一旦": {
+		"py": "yīdàn",
+		"mn": [
+			[
+				"n",
+				"một ngày; chốc lát"
+			],
+			[
+				"adv",
+				"bỗng nhiên; bỗng dưng (dùng với việc đã xảy ra rồi, bỗng nhiên có một ngày) | một khi; nếu mà; hễ mà; nhỡ mà (dùng cho việc chưa xảy ra)"
+			]
+		]
+	},
+	"媒体": {
+		"py": "méitǐ",
+		"mn": [
+			[
+				"n",
+				"truyền thông; truyền thông phương tiện; giới truyền thông; cánh truyền thông"
+			]
+		]
+	},
 	"抓住": {
 		"py": "zhuāzhù",
 		"mn": [
 			[
 				"v",
 				"bắt được; tóm được | nắm bắt"
+			]
+		]
+	},
+	"把柄": {
+		"py": "bǎbǐng",
+		"mn": [
+			[
+				"n",
+				"chuôi; cán; tay cầm | thóp; chỗ yếu; điểm sơ hở (chỗ sơ hở người ta dễ bắt chẹt)"
 			]
 		]
 	},
@@ -806,6 +984,15 @@
 			[
 				"n",
 				"dịp; cơ hội; thời cơ"
+			]
+		]
+	},
+	"大做文章": {
+		"py": "dàzuòwénzhāng",
+		"mn": [
+			[
+				"Thành ngữ phổ biến, Trung tính",
+				"làm to chuyện; phóng đại vấn đề"
 			]
 		]
 	},

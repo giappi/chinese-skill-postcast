@@ -135,6 +135,15 @@
 			]
 		]
 	},
+	"水泄不通": {
+		"py": "shuǐxièbùtōng",
+		"mn": [
+			[
+				"idioms",
+				"chật như nêm cối; con kiến chui không lọt; nước không ngấm qua được; chật cứng"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -298,6 +307,15 @@
 			]
 		]
 	},
+	"事故": {
+		"py": "shìgù",
+		"mn": [
+			[
+				"n",
+				"sự cố; rủi ro; tai nạn"
+			]
+		]
+	},
 	"警察": {
 		"py": "jǐngchá",
 		"mn": [
@@ -328,6 +346,15 @@
 			]
 		]
 	},
+	"现场": {
+		"py": "xiànchǎng",
+		"mn": [
+			[
+				"n",
+				"hiện trường | nơi trực tiếp sản xuất, làm việc, thực nghiệm"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -338,6 +365,32 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"基本": {
+		"py": "jīběn",
+		"mn": [
+			[
+				"n",
+				"căn bản; cơ bản; nền tảng; gốc rễ"
+			],
+			[
+				"adv",
+				"cơ bản; gần như; nhìn chung"
+			],
+			[
+				"adj",
+				"căn bản; cơ bản | chính; chủ yếu"
+			]
+		]
+	},
+	"清理": {
+		"py": "qīnglǐ",
+		"mn": [
+			[
+				"v",
+				"giải quyết; dọn dẹp; làm sạch"
 			]
 		]
 	},
@@ -575,6 +628,19 @@
 			[
 				"adv",
 				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"信任": {
+		"py": "xìnrèn",
+		"mn": [
+			[
+				"v",
+				"tín nhiệm; tin tưởng; tin cậy; tin"
+			],
+			[
+				"n",
+				"lòng tin; niềm tin"
 			]
 		]
 	},

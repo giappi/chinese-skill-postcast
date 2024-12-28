@@ -102,6 +102,28 @@
 			]
 		]
 	},
+	"摆": {
+		"py": "bǎi",
+		"mn": [
+			[
+				"v",
+				"đặt; bày; xếp đặt; bày biện; bố trí | khoe; loè; ra oai | xua; vẫy; lắc lư; đung đưa | nói; trò chuyện; trình bày | bóc trần; vạch trần"
+			],
+			[
+				"n",
+				"con lắc; quả lắc đồng hồ | vạt áo; vạt quần | ngày hội biểu diễn văn nghệ, trao đổi đồ dùng, mừng được mùa hoặc nghi thức lễ Phật của quần chúng ở các vùng của dân tộc Thái"
+			]
+		]
+	},
+	"满汉全席": {
+		"py": "mǎnhànquánxí",
+		"mn": [
+			[
+				"n",
+				"(nghĩa bóng) một bữa tiệc thịnh soạn | tiệc hoàng gia Mãn Hán, một bữa tiệc huyền thoại trong triều đại nhà Thanh"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -125,6 +147,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"口福": {
+		"py": "kǒufú",
+		"mn": [
+			[
+				"n",
+				"lộc ăn; có lộc ăn; được hưởng lộc ăn (có ý nói khôi hài)"
 			]
 		]
 	},
@@ -233,6 +264,24 @@
 			[
 				"measure",
 				"cuốn; vở; quyển; tập (dùng cho sách vở sổ sách) | vở; bản (dùng trong hí khúc; kịch) | tập (dùng cho phim dài nhiều tập)"
+			]
+		]
+	},
+	"姑娘": {
+		"py": "gūniang",
+		"mn": [
+			[
+				"n",
+				"cô nương; cô gái (chỉ con gái chưa lấy chồng)"
+			]
+		]
+	},
+	"心情": {
+		"py": "xīnqíng",
+		"mn": [
+			[
+				"n",
+				"tâm tình; tâm trạng; trong lòng (trạng thái tình cảm)"
 			]
 		]
 	},
@@ -376,6 +425,19 @@
 			]
 		]
 	},
+	"绅士": {
+		"py": "shēnshì",
+		"mn": [
+			[
+				"n",
+				"quý ông"
+			],
+			[
+				"adj",
+				"ga lăng; lịch thiệp"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -398,6 +460,15 @@
 			]
 		]
 	},
+	"拎": {
+		"py": "līn",
+		"mn": [
+			[
+				"v",
+				"xách (lực nhẹ, ngón tay hay cổ tay đều được)"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
@@ -413,6 +484,15 @@
 			[
 				"n",
 				"đồ; vật; thứ; đồ ăn; đồ đạc | đồ; thứ; thá (cảm xúc yêu, ghét)"
+			]
+		]
+	},
+	"主动": {
+		"py": "zhǔdòng",
+		"mn": [
+			[
+				"adj",
+				"chủ động | chủ động (có thể tạo thành cục diện có lợi, làm sự việc có thể tiến hành thao ý đồ của chính mình)"
 			]
 		]
 	},
@@ -562,6 +642,27 @@
 			]
 		]
 	},
+	"枉": {
+		"py": "wǎng",
+		"mn": [
+			[
+				"adj",
+				"sai lệch; không ngay thẳng (ví với việc làm sai trái) | oan ức; oan uổng"
+			],
+			[
+				"v",
+				"uốn cong; bẻ cong; làm sai; lệch đi; làm trái; bóp méo (cố tình xuyên tạc làm sai)"
+			],
+			[
+				"adv",
+				"uổng phí; toi công; uổng công; phí công"
+			],
+			[
+				"n",
+				"sai lầm; lỗi lầm"
+			]
+		]
+	},
 	"真的": {
 		"py": "zhēnde",
 		"mn": [
@@ -619,6 +720,19 @@
 			]
 		]
 	},
+	"出息": {
+		"py": "chūxi",
+		"mn": [
+			[
+				"n",
+				"tiền đồ; triển vọng; tương lai; thành công"
+			],
+			[
+				"v",
+				"tiến bộ; khá lên; tiến triển (học hành, hạnh kiểm)"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -638,6 +752,33 @@
 			[
 				"adv",
 				"không chỉ"
+			]
+		]
+	},
+	"鲍鱼": {
+		"py": "bàoyú",
+		"mn": [
+			[
+				"n",
+				"cá muối; cá mắm | bào ngư"
+			]
+		]
+	},
+	"皮皮虾": {
+		"py": "pípíxiā",
+		"mn": [
+			[
+				"n",
+				"Bề bề"
+			]
+		]
+	},
+	"鳜鱼": {
+		"py": "guìyú",
+		"mn": [
+			[
+				"n",
+				"Cá rô Trung Quốc (Siniperca chuatsi) | cá trạng nguyên | cá mò"
 			]
 		]
 	},
@@ -740,6 +881,19 @@
 			]
 		]
 	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -771,6 +925,19 @@
 			[
 				"adv",
 				"gồm; hết thảy; tất cả; tổng cộng"
+			]
+		]
+	},
+	"对了": {
+		"py": "duìle",
+		"mn": [
+			[
+				"conj",
+				"đúng rồi (sực nhớ ra còn điều gì chưa nói)"
+			],
+			[
+				"intj",
+				"đúng; đúng rồi"
 			]
 		]
 	},
@@ -831,6 +998,15 @@
 			[
 				"measure",
 				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"做饭": {
+		"py": "zuòfàn",
+		"mn": [
+			[
+				"v",
+				"làm cơm; nấu cơm; nấu ăn; nấu bếp"
 			]
 		]
 	},
@@ -905,6 +1081,15 @@
 			[
 				"sentence",
 				"thôi được; được rồi; được thôi"
+			]
+		]
+	},
+	"天下": {
+		"py": "tiānxià",
+		"mn": [
+			[
+				"n",
+				"thiên hạ; thế giới | quyền thống trị của nhà nước; thiên hạ | gầm trời"
 			]
 		]
 	},
@@ -990,6 +1175,15 @@
 			[
 				"onom",
 				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"苦力": {
+		"py": "kǔlì",
+		"mn": [
+			[
+				"n",
+				"cu-li; khuân vác; cu li"
 			]
 		]
 	}

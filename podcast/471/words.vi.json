@@ -44,6 +44,19 @@
 			]
 		]
 	},
+	"负责": {
+		"py": "fùzé",
+		"mn": [
+			[
+				"v",
+				"phụ trách; chịu trách nhiệm"
+			],
+			[
+				"adj",
+				"có trách nhiệm"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -80,6 +93,15 @@
 			[
 				"n",
 				"giám đốc; quản lý"
+			]
+		]
+	},
+	"点名": {
+		"py": "diǎnmíng",
+		"mn": [
+			[
+				"v",
+				"điểm danh | chỉ định; chỉ đích danh"
 			]
 		]
 	},
@@ -124,6 +146,15 @@
 			[
 				"adv",
 				"ngày càng; càng ngày càng;"
+			]
+		]
+	},
+	"器重": {
+		"py": "qìzhòng",
+		"mn": [
+			[
+				"v",
+				"coi trọng; xem trọng; khí trọng; được trọng dụng"
 			]
 		]
 	},
@@ -283,6 +314,15 @@
 			]
 		]
 	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
+			]
+		]
+	},
 	"安排": {
 		"py": "ānpái",
 		"mn": [
@@ -380,6 +420,19 @@
 			[
 				"measure",
 				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"参谋": {
+		"py": "cānmóu",
+		"mn": [
+			[
+				"n",
+				"ban tham mưu | quân sư; người cố vấn; người góp ý; người tư vấn; tham mưu"
+			],
+			[
+				"v",
+				"cố vấn; tư vấn; góp ý"
 			]
 		]
 	},
@@ -539,6 +592,15 @@
 			]
 		]
 	},
+	"凌晨": {
+		"py": "língchén",
+		"mn": [
+			[
+				"n",
+				"hừng đông; rạng sáng; sáng sớm tinh mơ"
+			]
+		]
+	},
 	"觉得": {
 		"py": "juéde",
 		"mn": [
@@ -666,6 +728,15 @@
 			]
 		]
 	},
+	"制定": {
+		"py": "zhìdìng",
+		"mn": [
+			[
+				"v",
+				"chế định; lập ra; đặt; quy định; xây dựng; đặt ra"
+			]
+		]
+	},
 	"日程": {
 		"py": "rìchéng",
 		"mn": [
@@ -708,6 +779,19 @@
 			[
 				"adv",
 				"Cũng thế; cần phải; vẫn cần; còn phải"
+			]
+		]
+	},
+	"记录": {
+		"py": "jìlù",
+		"mn": [
+			[
+				"v",
+				"ghi lại; ghi chép"
+			],
+			[
+				"n",
+				"biên bản; bản ghi; sổ sách ghi chép | thư ký; người ghi chép"
 			]
 		]
 	},
@@ -859,6 +943,15 @@
 			]
 		]
 	},
+	"整个": {
+		"py": "zhěnggè",
+		"mn": [
+			[
+				"adj",
+				"toàn bộ; cả; tất cả; cả thảy"
+			]
+		]
+	},
 	"由": {
 		"py": "yóu",
 		"mn": [
@@ -873,6 +966,19 @@
 			[
 				"n",
 				"do; nguyên do; lí do; nguyên nhân | họ Do"
+			]
+		]
+	},
+	"主持": {
+		"py": "zhǔchí",
+		"mn": [
+			[
+				"v",
+				"quản lý; phụ trách; tổ chức; chủ trì; dẫn chương trình | ủng hộ; bảo vệ"
+			],
+			[
+				"n",
+				"người chủ trì; người dẫn chương trình"
 			]
 		]
 	},
@@ -983,6 +1089,15 @@
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"出错": {
+		"py": "chūcuò",
+		"mn": [
+			[
+				"v",
+				"làm lỗi; phạm lỗi;  phạm sai lầm"
 			]
 		]
 	},
@@ -1099,6 +1214,15 @@
 			[
 				"n",
 				"việc làm; nghề nghiệp; công việc; nghề ngỗng | nhiệm vụ; nghiệp vụ; công tác"
+			]
+		]
+	},
+	"堆积如山": {
+		"py": "duījīrúshān",
+		"mn": [
+			[
+				"idioms",
+				"Chất chồng như núi"
 			]
 		]
 	}

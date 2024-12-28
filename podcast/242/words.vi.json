@@ -26,6 +26,15 @@
 			]
 		]
 	},
+	"开通": {
+		"py": "kāitōng",
+		"mn": [
+			[
+				"v",
+				"khai thông; đả thông; làm thoáng (tư tưởng, không khí) | bắt đầu sử dụng; đưa vào sử dụng"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -53,12 +62,39 @@
 			]
 		]
 	},
+	"支付": {
+		"py": "zhīfù",
+		"mn": [
+			[
+				"v",
+				"chi; chi ra; trả tiền; thanh toán"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"功能": {
+		"py": "gōngnéng",
+		"mn": [
+			[
+				"n",
+				"chức năng; công dụng; tính năng"
+			]
+		]
+	},
+	"接下来": {
+		"py": "jiēxiàlái",
+		"mn": [
+			[
+				"phrase",
+				"tới; tiếp theo"
 			]
 		]
 	},
@@ -222,6 +258,15 @@
 			]
 		]
 	},
+	"点击": {
+		"py": "diǎnjī",
+		"mn": [
+			[
+				"v",
+				"nhấp; chọn; bấm; nhấn; nhấp chuột; truy cập"
+			]
+		]
+	},
 	"确定": {
 		"py": "quèdìng",
 		"mn": [
@@ -262,6 +307,15 @@
 			]
 		]
 	},
+	"短信": {
+		"py": "duǎnxìn",
+		"mn": [
+			[
+				"n",
+				"tin nhắn; tin nhắn văn bản; tin"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -286,6 +340,15 @@
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"验证码": {
+		"py": "yànzhèngmǎ",
+		"mn": [
+			[
+				"n",
+				"CAPTCHA một loại mã xác nhận; mã kiểm tra"
 			]
 		]
 	},
@@ -390,6 +453,15 @@
 			[
 				"onom",
 				"oa oa; oe oe; óe óe; a a; á á"
+			]
+		]
+	},
+	"显示": {
+		"py": "xiǎnshì",
+		"mn": [
+			[
+				"v",
+				"biểu thị; tỏ rõ; chứng tỏ; hiển thị | khoe; khoe khoang; phô trương; ra vẻ"
 			]
 		]
 	},

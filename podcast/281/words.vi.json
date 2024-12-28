@@ -200,6 +200,24 @@
 			]
 		]
 	},
+	"丫头": {
+		"py": "yātou",
+		"mn": [
+			[
+				"n",
+				"bé gái; con gái | nha hoàn; con ở"
+			]
+		]
+	},
+	"火警": {
+		"py": "huǒjǐng",
+		"mn": [
+			[
+				"n",
+				"cháy; báo cháy; vụ cháy; đám cháy | cháy nhà"
+			]
+		]
+	},
 	"电话": {
 		"py": "diànhuà",
 		"mn": [
@@ -270,6 +288,19 @@
 			]
 		]
 	},
+	"电": {
+		"py": "diàn",
+		"mn": [
+			[
+				"n",
+				"điện; pin; điện năng | điện báo; điện tín; bức điện | chớp; tia chớp | họ Điện"
+			],
+			[
+				"v",
+				"điện giật; bị điện giật | đánh điện; gửi điện; gọi điện thoại"
+			]
+		]
+	},
 	"关键": {
 		"py": "guānjiàn",
 		"mn": [
@@ -280,6 +311,28 @@
 			[
 				"adj",
 				"chủ yếu; chính yếu; quan trọng; then chốt"
+			]
+		]
+	},
+	"时刻": {
+		"py": "shíkè",
+		"mn": [
+			[
+				"n",
+				"thời khắc; thời gian; giờ phút; thời điểm; giờ khắc | giờ giấc; giờ"
+			],
+			[
+				"adv",
+				"thường xuyên; luôn luôn; lúc nào cũng"
+			]
+		]
+	},
+	"掉": {
+		"py": "diào",
+		"mn": [
+			[
+				"v",
+				"rơi; rớt | tụt hậu; tụt lại; rớt lại phía sau | mất; bỏ sót; đánh mất; đánh rơi | giảm; hạ; giảm sút | vẫy; lay động; cử động; lắc lư; đung đưa | quay lại; ngoảnh lại | đổi; đổi cho nhau | khoe khoang; khoe"
 			]
 		]
 	},

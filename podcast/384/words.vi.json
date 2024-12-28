@@ -125,6 +125,15 @@
 			]
 		]
 	},
+	"北海": {
+		"py": "běihǎi",
+		"mn": [
+			[
+				"",
+				"đông bắc Đại Tây Dương | Bắc Hải (thành phố cảng quan trọng của khu tự trị dân tộc Choang, Quảng Tây, Trung Quốc) | công viên Bắc Hải (thành phố Bắc Kinh) | biên khu bắc Trung Quốc | biển Bột Hải | hồ Baikal (Liên Xô cũ)"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -152,6 +161,15 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"主意": {
+		"py": "zhǔyì",
+		"mn": [
+			[
+				"n",
+				"ý kiến; ý tưởng; chủ ý; chủ kiến; chủ định; biện pháp; phương pháp"
 			]
 		]
 	},

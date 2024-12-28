@@ -278,6 +278,19 @@
 			]
 		]
 	},
+	"热情": {
+		"py": "rèqíng",
+		"mn": [
+			[
+				"n",
+				"sự hăng hái; sự nhiệt tình"
+			],
+			[
+				"adj",
+				"hăng hái; nhiệt tình; say mê; hào hứng"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -301,6 +314,19 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"一时": {
+		"py": "yīshí",
+		"mn": [
+			[
+				"n",
+				"tạm thời; nhất thời; chốc lát"
+			],
+			[
+				"adv",
+				"trong chốc lát; trong một lúc | lúc thì...lúc thì"
 			]
 		]
 	},
@@ -345,6 +371,37 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"法国": {
+		"py": "fǎguó",
+		"mn": [
+			[
+				"nlocal, n",
+				"Pháp; nước Pháp"
+			]
+		]
+	},
+	"习惯": {
+		"py": "xíguàn",
+		"mn": [
+			[
+				"n",
+				"thói quen; tập quán; thói; tập tục; tục lệ"
+			],
+			[
+				"v",
+				"quen; quen với (việc làm gì đó)"
+			]
+		]
+	},
+	"回国": {
+		"py": "huíguó",
+		"mn": [
+			[
+				"v",
+				"về nước"
 			]
 		]
 	},
@@ -478,6 +535,15 @@
 			]
 		]
 	},
+	"趁机": {
+		"py": "chènjī",
+		"mn": [
+			[
+				"",
+				"thừa cơ; lừa cơ | thừa dịp"
+			]
+		]
+	},
 	"吃": {
 		"py": "chī",
 		"mn": [
@@ -492,6 +558,24 @@
 			[
 				"adj",
 				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"人家": {
+		"py": "rénjiā",
+		"mn": [
+			[
+				"n",
+				"nhà; hộ; gia đình | nhà người ta; nhà chồng tương lai; gia đình chồng tương lai"
+			]
+		]
+	},
+	"豆腐": {
+		"py": "dòufu",
+		"mn": [
+			[
+				"n",
+				"đậu phụ; đậu hủ; tào phở"
 			]
 		]
 	},

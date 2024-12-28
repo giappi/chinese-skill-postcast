@@ -29,6 +29,15 @@
 			]
 		]
 	},
+	"事儿": {
+		"py": "shìr",
+		"mn": [
+			[
+				"n",
+				"việc; chuyện;  sự việc"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -88,6 +97,15 @@
 			[
 				"n",
 				"vừa; vừa mới; vừa rồi; ban nãy"
+			]
+		]
+	},
+	"打车": {
+		"py": "dǎchē",
+		"mn": [
+			[
+				"v",
+				"bắt xe; gọi xe taxi; bắt taxi"
 			]
 		]
 	},
@@ -190,6 +208,15 @@
 			]
 		]
 	},
+	"钱包": {
+		"py": "qiánbāo",
+		"mn": [
+			[
+				"n",
+				"ví tiền; túi tiền; ví"
+			]
+		]
+	},
 	"手机": {
 		"py": "shǒujī",
 		"mn": [
@@ -223,6 +250,15 @@
 			[
 				"sv",
 				"họp; mở họp; mở hội nghị"
+			]
+		]
+	},
+	"资料": {
+		"py": "zīliào",
+		"mn": [
+			[
+				"n",
+				"tài liệu; tư liệu; hồ sơ"
 			]
 		]
 	},
@@ -562,6 +598,15 @@
 			[
 				"v",
 				"chỉ mong; hy vọng; nguyện rằng; mong rằng; giá như; ước gì"
+			]
+		]
+	},
+	"如此": {
+		"py": "rúcǐ",
+		"mn": [
+			[
+				"pro",
+				"như vậy; như thế"
 			]
 		]
 	},

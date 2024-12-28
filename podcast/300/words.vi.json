@@ -195,6 +195,15 @@
 			]
 		]
 	},
+	"挂失": {
+		"py": "guàshī",
+		"mn": [
+			[
+				"v",
+				"báo mất; báo mất đồ; báo mất giấy tờ"
+			]
+		]
+	},
 	"以后": {
 		"py": "yǐhòu",
 		"mn": [
@@ -278,6 +287,24 @@
 			]
 		]
 	},
+	"加急": {
+		"py": "jiājí",
+		"mn": [
+			[
+				"",
+				"kịch liệt; gấp | khẩn cấp"
+			]
+		]
+	},
+	"业务": {
+		"py": "yèwù",
+		"mn": [
+			[
+				"n",
+				"nghiệp vụ; công việc"
+			]
+		]
+	},
 	"的话": {
 		"py": "dehuà",
 		"mn": [
@@ -305,6 +332,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"工作日": {
+		"py": "gōngzuòrì",
+		"mn": [
+			[
+				"n",
+				"thời gian làm việc; giờ làm việc; giờ hành chánh | ngày công; ngày làm việc; ngày lao động | buổi làm"
 			]
 		]
 	},

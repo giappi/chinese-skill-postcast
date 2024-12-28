@@ -85,6 +85,15 @@
 			]
 		]
 	},
+	"薯条": {
+		"py": "shǔtiáo",
+		"mn": [
+			[
+				"n",
+				"khoai tây chiên"
+			]
+		]
+	},
 	"份": {
 		"py": "fèn",
 		"mn": [
@@ -95,6 +104,24 @@
 			[
 				"measure",
 				"suất; phần; bản | số; tờ; bản; bổn (báo, văn kiện) | phần | dáng vẻ; bộ dạng; trạng thái"
+			]
+		]
+	},
+	"炸": {
+		"py": "zhá",
+		"mn": [
+			[
+				"v",
+				"chiên; rán | trụng; chần"
+			]
+		]
+	},
+	"鸡块": {
+		"py": "jīkuài",
+		"mn": [
+			[
+				"n",
+				"gà nòi | miếng thịt gà"
 			]
 		]
 	},
@@ -269,6 +296,15 @@
 			]
 		]
 	},
+	"汉堡": {
+		"py": "hànbǎo",
+		"mn": [
+			[
+				"n",
+				"bánh hamburger; bánh kẹp; bánh mì kẹp"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -412,6 +448,28 @@
 			]
 		]
 	},
+	"垃圾": {
+		"py": "lājī",
+		"mn": [
+			[
+				"n",
+				"rác; rác rưởi; đồ thải; đồ vứt đi; đồ bỏ đi"
+			],
+			[
+				"adj",
+				"rác; tệ"
+			]
+		]
+	},
+	"食品": {
+		"py": "shípǐn",
+		"mn": [
+			[
+				"n",
+				"thực phẩm; đồ ăn; thức ăn"
+			]
+		]
+	},
 	"这": {
 		"py": "zhèi",
 		"mn": [
@@ -452,6 +510,19 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"向往": {
+		"py": "xiàngwǎng",
+		"mn": [
+			[
+				"v",
+				"hướng về; về; mong đợi; mong chờ; khao khát"
+			],
+			[
+				"n",
+				"tương lai; hoài bão; niềm khao khát"
 			]
 		]
 	},
@@ -505,6 +576,15 @@
 			[
 				"v",
 				"giảm cân; giảm béo"
+			]
+		]
+	},
+	"成果": {
+		"py": "chéngguǒ",
+		"mn": [
+			[
+				"n",
+				"thành quả; kết quả"
 			]
 		]
 	},

@@ -48,12 +48,30 @@
 			]
 		]
 	},
+	"驾照": {
+		"py": "jiàzhào",
+		"mn": [
+			[
+				"n",
+				"bằng lái xe; bằng lái"
+			]
+		]
+	},
 	"警察": {
 		"py": "jǐngchá",
 		"mn": [
 			[
 				"n",
 				"cảnh sát; cảnh binh; chú cảnh sát"
+			]
+		]
+	},
+	"同志": {
+		"py": "tóngzhì",
+		"mn": [
+			[
+				"n",
+				"đồng chí (chỉ người cùng lý tưởng, sự nghiệp, đấu tranh, đặc biệt là thành viên của một chính Đảng) | đồng chí (từ xưng hô đối phương)"
 			]
 		]
 	},
@@ -76,6 +94,15 @@
 			[
 				"adv",
 				"chưa; chưa từng"
+			]
+		]
+	},
+	"闯": {
+		"py": "chuǎng",
+		"mn": [
+			[
+				"v",
+				"xông; vượt; nhào vô; xông vào; xông xáo | rèn luyện; tôi luyện; tích lũy (trong thực tế) | bôn ba; tung hoành; bôn tẩu; tất bật; đi khắp nơi | chịu; gánh chịu; gây ra | lao vào; xông pha; lăn lộn"
 			]
 		]
 	},
@@ -111,6 +138,24 @@
 			[
 				"adv",
 				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"超速": {
+		"py": "chāosù",
+		"mn": [
+			[
+				"v",
+				"vượt quá giới hạn tốc độ / tới tốc độ / tốc độ cao"
+			]
+		]
+	},
+	"行驶": {
+		"py": "xíngshǐ",
+		"mn": [
+			[
+				"v",
+				"chạy; di chuyển (phương tiện giao thông)"
 			]
 		]
 	},
@@ -153,6 +198,24 @@
 			]
 		]
 	},
+	"公交": {
+		"py": "gōngjiāo",
+		"mn": [
+			[
+				"n",
+				"giao thông công cộng"
+			]
+		]
+	},
+	"车道": {
+		"py": "chēdào",
+		"mn": [
+			[
+				"n",
+				"đường xe chạy; làn xe; lane (phân biệt với đường dành cho người đi bộ)"
+			]
+		]
+	},
 	"其他": {
 		"py": "qítā",
 		"mn": [
@@ -177,6 +240,15 @@
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"进入": {
+		"py": "jìnrù",
+		"mn": [
+			[
+				"v",
+				"vào; tiến vào; bước vào; đi vào; bước sang; bước qua; đăng nhập; đưa vào"
 			]
 		]
 	},

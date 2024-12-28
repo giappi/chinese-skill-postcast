@@ -253,6 +253,15 @@
 			]
 		]
 	},
+	"空儿": {
+		"py": "kòngr",
+		"mn": [
+			[
+				"n",
+				"thời gian rảnh | rỗng; chỗ trống"
+			]
+		]
+	},
 	"吃": {
 		"py": "chī",
 		"mn": [
@@ -267,6 +276,15 @@
 			[
 				"adj",
 				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"啃": {
+		"py": "kěn",
+		"mn": [
+			[
+				"v",
+				"gặm; rỉa; nghiến"
 			]
 		]
 	},
@@ -310,6 +328,19 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
 			]
 		]
 	},
@@ -556,6 +587,27 @@
 			]
 		]
 	},
+	"强": {
+		"py": "qiáng",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mạnh mẽ | kiên cường; cao; mạnh mẽ (tình cảm, ý chí) | tốt; ưu việt; hơn | dư; thừa; hơn"
+			],
+			[
+				"adv",
+				"cưỡng bức; cưỡng ép"
+			],
+			[
+				"n",
+				"họ Cường"
+			],
+			[
+				"v",
+				"tăng cường; làm mạnh mẽ; làm lớn mạnh"
+			]
+		]
+	},
 	"挺": {
 		"py": "tǐng",
 		"mn": [
@@ -618,6 +670,15 @@
 			[
 				"n",
 				"cà phê"
+			]
+		]
+	},
+	"提神": {
+		"py": "tíshén",
+		"mn": [
+			[
+				"v",
+				"giúp tỉnh táo; nâng cao tinh thần; hưng phấn tinh thần"
 			]
 		]
 	},

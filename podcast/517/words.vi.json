@@ -43,12 +43,48 @@
 			]
 		]
 	},
+	"杯子": {
+		"py": "bēizi",
+		"mn": [
+			[
+				"n",
+				"cốc; chén; ly; tách"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
 			[
 				"part",
 				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"勺子": {
+		"py": "sháozi",
+		"mn": [
+			[
+				"n",
+				"cái muôi; cái thìa; cái muỗng; muỗng"
+			]
+		]
+	},
+	"盘子": {
+		"py": "pánzi",
+		"mn": [
+			[
+				"n",
+				"khay; đĩa; mâm | tình hình buôn bán; giao dịch buôn bán"
+			]
+		]
+	},
+	"叉子": {
+		"py": "chāzi",
+		"mn": [
+			[
+				"n",
+				"cái dĩa; cái nĩa; cái xiên | đinh ba; cào ba chân"
 			]
 		]
 	},
@@ -74,6 +110,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"筷子": {
+		"py": "kuàizi",
+		"mn": [
+			[
+				"n",
+				"đũa; đôi đũa"
 			]
 		]
 	},

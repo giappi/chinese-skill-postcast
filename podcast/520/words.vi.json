@@ -276,6 +276,15 @@
 			]
 		]
 	},
+	"擅长": {
+		"py": "shàncháng",
+		"mn": [
+			[
+				"v",
+				"giỏi; sành; sở trường"
+			]
+		]
+	},
 	"给": {
 		"py": "gěi",
 		"mn": [
@@ -341,12 +350,38 @@
 			]
 		]
 	},
+	"可怜": {
+		"py": "kělián",
+		"mn": [
+			[
+				"adj",
+				"đáng thương; thảm thương; khổ thân; tội nghiệp | thảm; thảm thương; quá ít; quá kém; nghèo nàn (số lượng ít hoặc chất lượng đến mức không đáng nêu lên)"
+			],
+			[
+				"v",
+				"thương; thương xót; thương tiếc; thương cảm; cảm thông; thương hại"
+			]
+		]
+	},
 	"好吧": {
 		"py": "hǎoba",
 		"mn": [
 			[
 				"sentence",
 				"thôi được; được rồi; được thôi"
+			]
+		]
+	},
+	"一块儿": {
+		"py": "yīkuàir",
+		"mn": [
+			[
+				"n",
+				"cùng nơi; cùng một chỗ"
+			],
+			[
+				"adv",
+				"cùng; cùng nhau; cùng một thể"
 			]
 		]
 	},
@@ -484,6 +519,15 @@
 			]
 		]
 	},
+	"瞧": {
+		"py": "qiáo",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; trông | trị; chữa; điều trị | thăm; thăm hỏi"
+			]
+		]
+	},
 	"听风就是雨": {
 		"py": "tīngfēngjiùshìyǔ",
 		"mn": [
@@ -499,6 +543,24 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"周四": {
+		"py": "zhōusì",
+		"mn": [
+			[
+				"",
+				"Thứ năm"
+			]
+		]
+	},
+	"周三": {
+		"py": "zhōusān",
+		"mn": [
+			[
+				"n",
+				"thứ Tư"
 			]
 		]
 	},

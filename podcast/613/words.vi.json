@@ -79,6 +79,31 @@
 			]
 		]
 	},
+	"头": {
+		"py": "tóu",
+		"mn": [
+			[
+				"n",
+				"đầu; cái đầu | tóc; đầu tóc; kiểu tóc | đầu mục; người đứng đầu; người cầm đầu | đầu; đỉnh; chóp (vật thể) | điểm đầu; điểm chót của sự việc | phía; mặt; bên; phương diện | phần còn lại; phần sót lại; phần thừa ra"
+			],
+			[
+				"measure",
+				"con (gia súc) | củ"
+			],
+			[
+				"numb",
+				"nhất; đầu; số một; thứ nhất; hạng nhất"
+			],
+			[
+				"adj",
+				"đầu; đầu tiên; đứng đầu; dẫn đầu | trước; trước kia; trước đây"
+			],
+			[
+				"prep",
+				"trước; gần; tiếp cận"
+			]
+		]
+	},
 	"有点": {
 		"py": "yǒudiǎn",
 		"mn": [
@@ -223,6 +248,15 @@
 			]
 		]
 	},
+	"量": {
+		"py": "liáng",
+		"mn": [
+			[
+				"v",
+				"đong; đo; lượng | đắn đo; cân nhắc; suy tính; xem xét; ngắm nghía; đánh giá"
+			]
+		]
+	},
 	"一下": {
 		"py": "yīxià",
 		"mn": [
@@ -323,6 +357,15 @@
 			]
 		]
 	},
+	"拿给": {
+		"py": "nágěi",
+		"mn": [
+			[
+				"v",
+				"cho"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -350,6 +393,15 @@
 			[
 				"conj",
 				"vì; do; nhờ"
+			]
+		]
+	},
+	"腋下": {
+		"py": "yèxià",
+		"mn": [
+			[
+				"n",
+				"nách | dưới cánh tay"
 			]
 		]
 	},
@@ -448,6 +500,15 @@
 			]
 		]
 	},
+	"开药": {
+		"py": "kāiyào",
+		"mn": [
+			[
+				"v",
+				"kê thuốc; kê đơn thuốc"
+			]
+		]
+	},
 	"吃": {
 		"py": "chī",
 		"mn": [
@@ -512,6 +573,15 @@
 			]
 		]
 	},
+	"过来": {
+		"py": "guòlái",
+		"mn": [
+			[
+				"v",
+				"đến; qua; sang đây; qua đây; lại đây | qua; thông qua; vượt qua | lại; lên"
+			]
+		]
+	},
 	"好的": {
 		"py": "hǎode",
 		"mn": [
@@ -571,6 +641,32 @@
 			[
 				"n",
 				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"粒": {
+		"py": "lì",
+		"mn": [
+			[
+				"n",
+				"hạt; hột; viên"
+			],
+			[
+				"v",
+				"ăn"
+			],
+			[
+				"measure",
+				"hạt; viên; hột"
+			]
+		]
+	},
+	"服用": {
+		"py": "fúyòng",
+		"mn": [
+			[
+				"v",
+				"dùng; uống thuốc"
 			]
 		]
 	},

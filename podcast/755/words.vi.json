@@ -147,6 +147,37 @@
 			]
 		]
 	},
+	"贷款": {
+		"py": "dàikuǎn",
+		"mn": [
+			[
+				"v",
+				"vay; cho vay"
+			],
+			[
+				"n",
+				"khoản vay"
+			]
+		]
+	},
+	"政策": {
+		"py": "zhèngcè",
+		"mn": [
+			[
+				"n",
+				"chính sách"
+			]
+		]
+	},
+	"收紧": {
+		"py": "shōujǐn",
+		"mn": [
+			[
+				"v",
+				"thắt chặt (hạn chế, v.v.)"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -220,6 +251,32 @@
 			]
 		]
 	},
+	"付": {
+		"py": "fù",
+		"mn": [
+			[
+				"v",
+				"chi; chi tiền | giao cho; đưa cho; gửi gắm; giao phó"
+			],
+			[
+				"n",
+				"họ Phó"
+			]
+		]
+	},
+	"首付": {
+		"py": "shǒufù",
+		"mn": [
+			[
+				"v",
+				"trả trước"
+			],
+			[
+				"n",
+				"tiền cọc; tiền trả trước"
+			]
+		]
+	},
 	"计划": {
 		"py": "jìhuà",
 		"mn": [
@@ -230,6 +287,19 @@
 			[
 				"v",
 				"lập kế hoạch; tính toán; vạch kế hoạch; dự định"
+			]
+		]
+	},
+	"变化": {
+		"py": "biànhuà",
+		"mn": [
+			[
+				"n",
+				"sự thay đổi; sự biến đổi"
+			],
+			[
+				"v",
+				"biến hoá; biến đổi; thay đổi"
 			]
 		]
 	},

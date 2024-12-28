@@ -56,6 +56,15 @@
 			]
 		]
 	},
+	"高跟鞋": {
+		"py": "gāogēnxié",
+		"mn": [
+			[
+				"n",
+				"giầy cao gót"
+			]
+		]
+	},
 	"是不是": {
 		"py": "shìbùshì",
 		"mn": [
@@ -100,6 +109,19 @@
 			]
 		]
 	},
+	"无数": {
+		"py": "wúshù",
+		"mn": [
+			[
+				"adj",
+				"vô số; rất nhiều; nhiều vô kể"
+			],
+			[
+				"v",
+				"không; không biết; không chắc; không biết chắc"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -133,6 +155,19 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"过时": {
+		"py": "guòshí",
+		"mn": [
+			[
+				"adj",
+				"lỗi thời; quá thời; cổ lỗ sĩ; không hợp thời"
+			],
+			[
+				"v",
+				"quá hạn; quá kỳ; trễ giờ; lỡ thời"
 			]
 		]
 	},
@@ -177,6 +212,15 @@
 			[
 				"n",
 				"quần áo; giày dép"
+			]
+		]
+	},
+	"走路": {
+		"py": "zǒulù",
+		"mn": [
+			[
+				"v",
+				"đi; đi đường; đi bộ | đi; rời đi; đi khỏi"
 			]
 		]
 	},
@@ -270,6 +314,23 @@
 			]
 		]
 	},
+	"美": {
+		"py": "měi",
+		"mn": [
+			[
+				"n",
+				"vẻ đẹp; đẹp; tốt | châu Mỹ | nước Mỹ; Hoa Kỳ; Mỹ"
+			],
+			[
+				"v",
+				"tự mãn; mãn nguyện; hài lòng; tự hào | làm; làm đẹp"
+			],
+			[
+				"adj",
+				"đẹp; duyên dáng; xinh đẹp | tốt; ngon (thức ăn; đồ uống)"
+			]
+		]
+	},
 	"呀": {
 		"py": "ya",
 		"mn": [
@@ -329,6 +390,33 @@
 			[
 				"adj",
 				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"不惜": {
+		"py": "bùxī",
+		"mn": [
+			[
+				"v",
+				"không quản; không ngại; không tiếc; không tiếc rẻ; không sợ thiệt thòi"
+			]
+		]
+	},
+	"一切": {
+		"py": "yīqiè",
+		"mn": [
+			[
+				"pro",
+				"mọi; toàn bộ; tất cả"
+			]
+		]
+	},
+	"代价": {
+		"py": "dàijià",
+		"mn": [
+			[
+				"n",
+				"trả giá; cái giá | giá; giá phải trả; chi phí"
 			]
 		]
 	}

@@ -33,6 +33,19 @@
 			]
 		]
 	},
+	"劝": {
+		"py": "quàn",
+		"mn": [
+			[
+				"v",
+				"khuyên giải; khuyên nhủ | khuyến khích; khích lệ"
+			],
+			[
+				"n",
+				"họ Khuyến"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -107,6 +120,15 @@
 			]
 		]
 	},
+	"天涯何处无芳草": {
+		"py": "tiānyáhéchùwúfāngcǎo",
+		"mn": [
+			[
+				"proverb",
+				"có rất nhiều cá ở biển (thành ngữ)"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -122,6 +144,15 @@
 			[
 				"pro",
 				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"世上": {
+		"py": "shìshàng",
+		"mn": [
+			[
+				"n",
+				"trên đời; trong xã hội"
 			]
 		]
 	},
@@ -238,6 +269,15 @@
 			]
 		]
 	},
+	"更好": {
+		"py": "gènghǎo",
+		"mn": [
+			[
+				"adj",
+				"càng tốt; tốt hơn"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -299,12 +339,34 @@
 			]
 		]
 	},
+	"决心": {
+		"py": "juéxīn",
+		"mn": [
+			[
+				"n",
+				"quyết tâm; sự quyết tâm"
+			],
+			[
+				"v",
+				"quyết tâm"
+			]
+		]
+	},
 	"再也": {
 		"py": "zàiyě",
 		"mn": [
 			[
 				"adv",
 				"(không) nữa"
+			]
+		]
+	},
+	"走出": {
+		"py": "zǒuchū",
+		"mn": [
+			[
+				"v",
+				"đi ra ngoài (một cánh cửa, v.v.) | rời đi (một căn phòng, v.v.)"
 			]
 		]
 	},
@@ -397,6 +459,15 @@
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"说服": {
+		"py": "shuōfú",
+		"mn": [
+			[
+				"v",
+				"thuyết phục"
 			]
 		]
 	},
@@ -524,6 +595,15 @@
 			]
 		]
 	},
+	"借给": {
+		"py": "jiègěi",
+		"mn": [
+			[
+				"v",
+				"cho mượn; cho vay"
+			]
+		]
+	},
 	"三百": {
 		"py": "sānbǎi",
 		"mn": [
@@ -556,6 +636,15 @@
 			[
 				"measure",
 				"đơn vị trọng lượng (=5 gam) | chỉ; hoa (đơn vị trọng lượng, mười chỉ/hoa là một lượng/lạng)"
+			]
+		]
+	},
+	"还给": {
+		"py": "huángěi",
+		"mn": [
+			[
+				"v",
+				"trả; trả lại; hoàn trả"
 			]
 		]
 	}

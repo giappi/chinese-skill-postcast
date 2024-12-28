@@ -65,6 +65,24 @@
 			]
 		]
 	},
+	"喷嚏": {
+		"py": "pēntì",
+		"mn": [
+			[
+				"n",
+				"hắt xì; hắt hơi"
+			]
+		]
+	},
+	"量": {
+		"py": "liáng",
+		"mn": [
+			[
+				"v",
+				"đong; đo; lượng | đắn đo; cân nhắc; suy tính; xem xét; ngắm nghía; đánh giá"
+			]
+		]
+	},
 	"体温": {
 		"py": "tǐwēn",
 		"mn": [
@@ -168,6 +186,19 @@
 			[
 				"part",
 				"nếu (trợ từ, biểu thị sự giả thiết)"
+			]
+		]
+	},
+	"及时": {
+		"py": "jíshí",
+		"mn": [
+			[
+				"adj",
+				"đúng lúc; kịp thời; kịp lúc; đúng thời vụ"
+			],
+			[
+				"adv",
+				"lập tức; ngay; kịp thời"
 			]
 		]
 	},

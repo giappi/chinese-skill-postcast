@@ -72,6 +72,15 @@
 			]
 		]
 	},
+	"药店": {
+		"py": "yàodiàn",
+		"mn": [
+			[
+				"n",
+				"hiệu thuốc; tiệm thuốc"
+			]
+		]
+	},
 	"买": {
 		"py": "mǎi",
 		"mn": [
@@ -142,6 +151,24 @@
 			[
 				"v",
 				"để nguội; làm lạnh (thức ăn) | phớt lờ; thờ ơ"
+			]
+		]
+	},
+	"穿上": {
+		"py": "chuānshàng",
+		"mn": [
+			[
+				"v",
+				"mặc; mang; mặc vào"
+			]
+		]
+	},
+	"外套": {
+		"py": "wàitào",
+		"mn": [
+			[
+				"n",
+				"áo khoác"
 			]
 		]
 	},

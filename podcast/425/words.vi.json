@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"周三": {
+		"py": "zhōusān",
+		"mn": [
+			[
+				"n",
+				"thứ Tư"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -106,6 +115,37 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"旷课": {
+		"py": "kuàngkè",
+		"mn": [
+			[
+				"v, sv",
+				"trốn học; vắng mặt không lý do"
+			]
+		]
+	},
+	"课堂": {
+		"py": "kètáng",
+		"mn": [
+			[
+				"n",
+				"lớp; lớp học"
+			]
+		]
+	},
+	"笔记": {
+		"py": "bǐjì",
+		"mn": [
+			[
+				"v",
+				"ghi chép, ghi chú"
+			],
+			[
+				"n",
+				"bài ghi chép; bút ký | bút ký; nhật ký"
 			]
 		]
 	},
@@ -219,6 +259,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"还给": {
+		"py": "huángěi",
+		"mn": [
+			[
+				"v",
+				"trả; trả lại; hoàn trả"
 			]
 		]
 	}

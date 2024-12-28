@@ -122,6 +122,19 @@
 			]
 		]
 	},
+	"皮肤": {
+		"py": "pífū",
+		"mn": [
+			[
+				"n",
+				"da; da dẻ; làn da"
+			],
+			[
+				"adj",
+				"hạn hẹp; nông cạn; thiển cận"
+			]
+		]
+	},
 	"白": {
 		"py": "bái",
 		"mn": [
@@ -140,6 +153,15 @@
 			[
 				"adv",
 				"mất công; công toi; uổng công; vô ích | không mất tiền; miễn phí"
+			]
+		]
+	},
+	"身材": {
+		"py": "shēncái",
+		"mn": [
+			[
+				"n",
+				"vóc người; vóc dáng; dáng người; hình vóc; tướng tá; thân hình"
 			]
 		]
 	}

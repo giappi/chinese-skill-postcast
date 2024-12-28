@@ -47,6 +47,15 @@
 			]
 		]
 	},
+	"文具店": {
+		"py": "wénjùdiàn",
+		"mn": [
+			[
+				"n",
+				"cửa hàng văn phòng phẩm"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -147,6 +156,32 @@
 			]
 		]
 	},
+	"支": {
+		"py": "zhī",
+		"mn": [
+			[
+				"v",
+				"chống; đỡ; chống đỡ; chống lên | chịu; chống đỡ; giúp đỡ; ủng hộ | điều động; sai khiến; xúi giục | chi; lĩnh; lãnh; lấy (tiền) | vểnh | chia ra; phân tán; tan vỡ"
+			],
+			[
+				"measure",
+				"đội; đơn vị (lượng từ) | bản; bài (dùng cho bài hát hoặc bài nhạc) | độ sáng (dùng độ sáng của đèn điện) | cây; cán (lượng từ dùng cho vật có hình cán dài)"
+			],
+			[
+				"n",
+				"chi; nhánh; chi nhánh | địa chi; can chi | Chi (tên người)"
+			]
+		]
+	},
+	"铅笔": {
+		"py": "qiānbǐ",
+		"mn": [
+			[
+				"n",
+				"bút chì; viết chì"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -182,6 +217,15 @@
 			[
 				"n",
 				"viên; hòn; cục; tảng; thỏi; miếng (hình dạng của vật)"
+			]
+		]
+	},
+	"橡皮": {
+		"py": "xiàngpí",
+		"mn": [
+			[
+				"n",
+				"cái tẩy; cục gôm; cục tẩy; gôm | cao su lưu hoá"
 			]
 		]
 	},
@@ -245,6 +289,15 @@
 			[
 				"measure",
 				"cuốn; vở; quyển; tập (dùng cho sách vở sổ sách) | vở; bản (dùng trong hí khúc; kịch) | tập (dùng cho phim dài nhiều tập)"
+			]
+		]
+	},
+	"笔记本": {
+		"py": "bǐjìběn",
+		"mn": [
+			[
+				"n",
+				"sổ ghi chép | laptop; máy tính xách tay"
 			]
 		]
 	}

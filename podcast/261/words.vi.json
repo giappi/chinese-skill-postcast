@@ -29,6 +29,19 @@
 			]
 		]
 	},
+	"吊带": {
+		"py": "diàodài",
+		"mn": [
+			[
+				"",
+				"đai đeo; dây đeo; thắt lưng | đai đeo tất; dây đeo tất"
+			],
+			[
+				"",
+				"áo 2 dây"
+			]
+		]
+	},
 	"不": {
 		"py": "bù",
 		"mn": [
@@ -47,6 +60,15 @@
 			]
 		]
 	},
+	"胡说": {
+		"py": "húshuō",
+		"mn": [
+			[
+				"v",
+				"nói bậy; nói xằng; nói càn; nói ẩu; nói bừa; nói nhảm; tào lao | xuyên tạc; nói xằng bậy"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -62,6 +84,19 @@
 			[
 				"n",
 				"chồng; anh xã; anh nhà"
+			]
+		]
+	},
+	"觉": {
+		"py": "jué",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; cảm giác (con người) | tỉnh; ngủ dậy; tỉnh ngủ; tỉnh giấc | giác ngộ; tỉnh ngộ"
+			],
+			[
+				"n",
+				"giác quan"
 			]
 		]
 	},
@@ -101,6 +136,24 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"情人眼里出西施": {
+		"py": "qíngrényǎnlǐchūxīshī",
+		"mn": [
+			[
+				"proverb",
+				"(văn học) trong mắt người yêu hiện ra 西施 (thành ngữ); (nghĩa bóng) Vẻ đẹp trong mắt của kẻ si tình"
+			]
+		]
+	},
+	"即使": {
+		"py": "jíshǐ",
+		"mn": [
+			[
+				"conj",
+				"cho dù; dù cho; dẫu cho; ngay cả khi | cho dù; dù cho; dẫu cho; ngay cả khi"
 			]
 		]
 	},
@@ -224,6 +277,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"西施": {
+		"py": "xīshī",
+		"mn": [
+			[
+				"n",
+				"Tây Thi (người con gái đẹp của nước Việt thời Xuân Thu mà vua Việt Câu Tiễn dâng cho vua Ngô Phù Sai làm kế mỹ nhân. Chữ'Tây Thi' về sau chỉ con gái đẹp)"
 			]
 		]
 	},

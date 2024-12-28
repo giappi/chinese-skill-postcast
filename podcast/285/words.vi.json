@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"儿童节": {
+		"py": "értóngjié",
+		"mn": [
+			[
+				"n",
+				"ngày quốc tế thiếu nhi; tết thiếu nhi"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -91,6 +100,15 @@
 			[
 				"adj",
 				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"迪斯尼乐园": {
+		"py": "dísīnílèyuán",
+		"mn": [
+			[
+				"n",
+				"công viên Disneyland (đông nam Los Angeles)"
 			]
 		]
 	},
@@ -252,6 +270,24 @@
 			]
 		]
 	},
+	"白雪公主": {
+		"py": "báixuěgōngzhǔ",
+		"mn": [
+			[
+				"n",
+				"Bạch Tuyết"
+			]
+		]
+	},
+	"小熊维尼": {
+		"py": "xiǎoxióngwéiní",
+		"mn": [
+			[
+				"n",
+				"Winnie-the-Pooh (nhân vật gấu trong truyện thiếu nhi của A. A. Milne do Disney chuyển thể)"
+			]
+		]
+	},
 	"这些": {
 		"py": "zhèxiē",
 		"mn": [
@@ -276,6 +312,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"人物": {
+		"py": "rénwù",
+		"mn": [
+			[
+				"n",
+				"nhân vật | nhân vật (trong tác phẩm văn học, nghệ thuật) | chân dung (trong tranh Trung Quốc)"
 			]
 		]
 	},
@@ -313,12 +358,47 @@
 			]
 		]
 	},
+	"期待": {
+		"py": "qīdài",
+		"mn": [
+			[
+				"v",
+				"mong đợi; kỳ vọng; đợi chờ"
+			]
+		]
+	},
 	"这次": {
 		"py": "zhècì",
 		"mn": [
 			[
 				"pro",
 				"lần này; dịp này"
+			]
+		]
+	},
+	"迪斯尼": {
+		"py": "dísīní",
+		"mn": [
+			[
+				"n",
+				"Disney (tên công ty, họ) | cũng được viết 迪士尼"
+			]
+		]
+	},
+	"之": {
+		"py": "zhī",
+		"mn": [
+			[
+				"part",
+				"của (văn viết) | trong; giữa; vốn dĩ | phần trăm; phân số thập phân"
+			],
+			[
+				"pro",
+				"đấy; đó; kia (không cụ thể) | nó; anh ấy; cô ấy; người đó; việc đó"
+			],
+			[
+				"v",
+				"đến; tới; hướng tới; hướng về"
 			]
 		]
 	},
@@ -357,6 +437,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"羡慕": {
+		"py": "xiànmù",
+		"mn": [
+			[
+				"v",
+				"ngưỡng mộ; ước ao; hâm mộ | đố kỵ; ghen ghét; thèm muốn"
 			]
 		]
 	},
@@ -421,6 +510,23 @@
 			[
 				"measure",
 				"giờ (đơn vị chỉ thời gian) | điểm (một phần năm của canh) | ít; tí; chút; vặt; nhỏ (số lượng nhỏ) | điều; điểm; việc"
+			]
+		]
+	},
+	"回头": {
+		"py": "huítóu",
+		"mn": [
+			[
+				"v, sv",
+				"ngoảnh lại; quay đầu lại; ngoảnh đầu lại | trở về; trở lại; quay lại | hối hận; hối lỗi; quay đầu lại; ăn năn hối lỗi; cải tà quy chánh"
+			],
+			[
+				"adv",
+				"một chút; chút nữa; một lát; lát nữa; chốc nữa"
+			],
+			[
+				"conj",
+				"nếu không"
 			]
 		]
 	},

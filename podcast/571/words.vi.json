@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"灯": {
+		"py": "dēng",
+		"mn": [
+			[
+				"n",
+				"đèn; bóng đèn | đèn (đốt bằng chất lỏng hoặc chất khí) | đèn (đèn radio; tivi) | họ Đăng"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -117,6 +126,15 @@
 			]
 		]
 	},
+	"灯泡": {
+		"py": "dēngpào",
+		"mn": [
+			[
+				"n",
+				"bóng đèn"
+			]
+		]
+	},
 	"应该": {
 		"py": "yīnggāi",
 		"mn": [
@@ -173,6 +191,15 @@
 			]
 		]
 	},
+	"保险丝": {
+		"py": "bǎoxiǎnsī",
+		"mn": [
+			[
+				"n",
+				"cầu chì (dây dẫn dùng để bảo hiểm mạch điện. Thường được làm bằng dây đồng mảnh hay các hợp kim của những kim loại dễ nóng chảy như chì, thiếc... Khi cường độ dòng điện trong mạch quá cao, dây bị cháy đứt, mạch điện bị ngắt, nên có thể ngừa được hoả hoạn hoặc tránh làm hỏng thiết bị điện)"
+			]
+		]
+	},
 	"烧": {
 		"py": "shāo",
 		"mn": [
@@ -209,6 +236,19 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"对面": {
+		"py": "duìmiàn",
+		"mn": [
+			[
+				"n",
+				"đối diện; trước mặt | phía trước; trước mặt; phía đối diện"
+			],
+			[
+				"adv",
+				"gặp mặt; giáp mặt; đối mặt; mặt đối mặt; ba mặt một lời"
 			]
 		]
 	},
@@ -255,6 +295,15 @@
 			]
 		]
 	},
+	"停电": {
+		"py": "tíngdiàn",
+		"mn": [
+			[
+				"v",
+				"cắt điện; cúp điện; mất điện"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -274,6 +323,15 @@
 			[
 				"adv",
 				"thực là; đúng là; thật là; có điều; chẳng qua là"
+			]
+		]
+	},
+	"物业": {
+		"py": "wùyè",
+		"mn": [
+			[
+				"n",
+				"bất động sản; dịch vụ sửa chữa; dịch vụ quản lí nhà đất | công ty quản lý bất động sản"
 			]
 		]
 	},
@@ -406,6 +464,15 @@
 			]
 		]
 	},
+	"来电": {
+		"py": "láidiàn",
+		"mn": [
+			[
+				"",
+				"điện báo; điện; điện tín; điện thoại gọi đến | có điện lại | nhận được điện báo"
+			]
+		]
+	},
 	"每天": {
 		"py": "měitiān",
 		"mn": [
@@ -516,6 +583,15 @@
 			]
 		]
 	},
+	"蜡烛": {
+		"py": "làzhú",
+		"mn": [
+			[
+				"n",
+				"cây nến; đèn cầy"
+			]
+		]
+	},
 	"咱们": {
 		"py": "zánmen",
 		"mn": [
@@ -580,6 +656,19 @@
 			]
 		]
 	},
+	"干脆": {
+		"py": "gāncuì",
+		"mn": [
+			[
+				"adj",
+				"thẳng thắn; dứt khoát; thẳng thừng"
+			],
+			[
+				"adv",
+				"cứ; dứt khoát"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -618,6 +707,15 @@
 			]
 		]
 	},
+	"厨房": {
+		"py": "chúfáng",
+		"mn": [
+			[
+				"n",
+				"bếp; phòng bếp; nhà bếp"
+			]
+		]
+	},
 	"打开": {
 		"py": "dǎkāi",
 		"mn": [
@@ -642,6 +740,15 @@
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"月光": {
+		"py": "yuèguāng",
+		"mn": [
+			[
+				"n",
+				"ánh trăng; ánh sáng trăng; thiềm quang; nguyệt quang"
 			]
 		]
 	},
@@ -677,6 +784,15 @@
 			[
 				"n, time",
 				"năm ngoái; năm qua; năm rồi; năm trước"
+			]
+		]
+	},
+	"那样": {
+		"py": "nàyàng",
+		"mn": [
+			[
+				"pro",
+				"thế; như vậy; như thế"
 			]
 		]
 	},
@@ -718,6 +834,28 @@
 			]
 		]
 	},
+	"地球": {
+		"py": "dìqiú",
+		"mn": [
+			[
+				"n",
+				"địa cầu; trái đất; quả đất"
+			]
+		]
+	},
+	"节约": {
+		"py": "jiéyuē",
+		"mn": [
+			[
+				"v",
+				"tiết kiệm (thường dùng trong phạm vi lớn)"
+			],
+			[
+				"adj",
+				"tiết kiệm"
+			]
+		]
+	},
 	"些": {
 		"py": "xiē",
 		"mn": [
@@ -728,6 +866,15 @@
 			[
 				"adv",
 				"hơn một chút (biểu thị so sánh)"
+			]
+		]
+	},
+	"资源": {
+		"py": "zīyuán",
+		"mn": [
+			[
+				"n",
+				"nguồn lực; tài nguyên; nguồn tài nguyên; tài nguyên thiên nhiên"
 			]
 		]
 	}

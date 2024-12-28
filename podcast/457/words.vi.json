@@ -111,6 +111,19 @@
 			]
 		]
 	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -245,6 +258,15 @@
 			]
 		]
 	},
+	"北大": {
+		"py": "běidà",
+		"mn": [
+			[
+				"",
+				"Đại học Bắc Kinh (viết tắt cho 北京大學 | 北京大学)"
+			]
+		]
+	},
 	"中文": {
 		"py": "zhōngwén",
 		"mn": [
@@ -298,6 +320,19 @@
 			]
 		]
 	},
+	"现代": {
+		"py": "xiàndài",
+		"mn": [
+			[
+				"n",
+				"hiện đại; ngày nay; thời đại hiện nay"
+			],
+			[
+				"adj",
+				"hiện đại"
+			]
+		]
+	},
 	"汉语": {
 		"py": "hànyǔ",
 		"mn": [
@@ -337,12 +372,34 @@
 			]
 		]
 	},
+	"负责": {
+		"py": "fùzé",
+		"mn": [
+			[
+				"v",
+				"phụ trách; chịu trách nhiệm"
+			],
+			[
+				"adj",
+				"có trách nhiệm"
+			]
+		]
+	},
 	"教学": {
 		"py": "jiàoxué",
 		"mn": [
 			[
 				"",
 				"dạy học; dạy; giáo học | bảo học"
+			]
+		]
+	},
+	"方面": {
+		"py": "fāngmiàn",
+		"mn": [
+			[
+				"n",
+				"mặt; phía; phương diện; lĩnh vực; khía cạnh"
 			]
 		]
 	},
@@ -400,6 +457,15 @@
 			[
 				"adv",
 				"hơn một chút (biểu thị so sánh)"
+			]
+		]
+	},
+	"语法": {
+		"py": "yǔfǎ",
+		"mn": [
+			[
+				"n",
+				"ngữ pháp"
 			]
 		]
 	},

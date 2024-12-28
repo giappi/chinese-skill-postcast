@@ -248,6 +248,15 @@
 			]
 		]
 	},
+	"新意": {
+		"py": "xīnyì",
+		"mn": [
+			[
+				"n",
+				"ý tưởng mới"
+			]
+		]
+	},
 	"而且": {
 		"py": "érqiě",
 		"mn": [
@@ -352,6 +361,19 @@
 			]
 		]
 	},
+	"健康": {
+		"py": "jiànkāng",
+		"mn": [
+			[
+				"adj",
+				"khoẻ mạnh; tráng kiện | tốt; tích cực | lành mạnh; chức năng (tốt cho sức khỏe, bổ trợ sức khỏe)"
+			],
+			[
+				"n",
+				"sức khỏe"
+			]
+		]
+	},
 	"又": {
 		"py": "yòu",
 		"mn": [
@@ -396,6 +418,15 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"主意": {
+		"py": "zhǔyì",
+		"mn": [
+			[
+				"n",
+				"ý kiến; ý tưởng; chủ ý; chủ kiến; chủ định; biện pháp; phương pháp"
 			]
 		]
 	},

@@ -281,6 +281,19 @@
 			]
 		]
 	},
+	"负责": {
+		"py": "fùzé",
+		"mn": [
+			[
+				"v",
+				"phụ trách; chịu trách nhiệm"
+			],
+			[
+				"adj",
+				"có trách nhiệm"
+			]
+		]
+	},
 	"今天": {
 		"py": "jīntiān",
 		"mn": [
@@ -296,6 +309,15 @@
 			[
 				"v",
 				"quên; không nhớ; quên mất; quên bẵng; quên khuấy"
+			]
+		]
+	},
+	"打扫": {
+		"py": "dǎsǎo",
+		"mn": [
+			[
+				"v",
+				"quét; quét dọn; dọn dẹp; thu dọn; quét tước"
 			]
 		]
 	},
@@ -362,6 +384,15 @@
 			[
 				"prep",
 				"bị | theo; theo như; cho rằng"
+			]
+		]
+	},
+	"早就": {
+		"py": "zǎojiù",
+		"mn": [
+			[
+				"adv",
+				"đã sớm; sớm đã; từ đầu"
 			]
 		]
 	},

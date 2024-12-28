@@ -1,4 +1,13 @@
 {
+	"好久不见": {
+		"py": "hǎojiǔbùjiàn",
+		"mn": [
+			[
+				"v",
+				"lâu rồi không gặp; lâu quá không gặp"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -204,12 +213,34 @@
 			]
 		]
 	},
+	"轻松": {
+		"py": "qīngsōng",
+		"mn": [
+			[
+				"adj",
+				"nhẹ nhõm; ung dung; thoải mái; thư giãn"
+			],
+			[
+				"v",
+				"thư giãn; thả lỏng"
+			]
+		]
+	},
 	"又": {
 		"py": "yòu",
 		"mn": [
 			[
 				"adv",
 				"lại (biểu thị lặp lại hoặc tiếp tục) | vừa...vừa.... | lại; lại thêm; lại còn (biểu thị tăng thêm) | nhưng; lại (biểu thị chuyển ý) | còn; thêm (biểu thị bổ sung) | thêm; cộng; với | vừa... lại; vừa... vừa (biểu thị hai sự việc có mâu thuẫn) | đâu (biểu thị nhấn mạnh)"
+			]
+		]
+	},
+	"有钱": {
+		"py": "yǒuqián",
+		"mn": [
+			[
+				"v",
+				"có tiền; có của; có tài sản; có tài"
 			]
 		]
 	},

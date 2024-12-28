@@ -109,6 +109,15 @@
 			]
 		]
 	},
+	"娘家": {
+		"py": "niángjiā",
+		"mn": [
+			[
+				"n",
+				"nhà mẹ đẻ (của phụ nữ đã có chồng)"
+			]
+		]
+	},
 	"人": {
 		"py": "rén",
 		"mn": [
@@ -223,6 +232,15 @@
 			]
 		]
 	},
+	"下馆子": {
+		"py": "xiàguǎnzi",
+		"mn": [
+			[
+				"v",
+				"ra ngoài ăn, ăn ở nhà hàng | phóng túng, ăn chơi, tiêu xài lãng phí"
+			]
+		]
+	},
 	"就是": {
 		"py": "jiùshì",
 		"mn": [
@@ -268,6 +286,15 @@
 			[
 				"n",
 				"mì gói; mì ăn liền (thức ăn)"
+			]
+		]
+	},
+	"幸好": {
+		"py": "xìnghǎo",
+		"mn": [
+			[
+				"adv",
+				"may mắn; may mà; may thay"
 			]
 		]
 	},

@@ -26,6 +26,15 @@
 			]
 		]
 	},
+	"总算": {
+		"py": "zǒngsuàn",
+		"mn": [
+			[
+				"adv",
+				"cuối cùng; cuối cùng cũng | cũng; nhìn chung; nói chung"
+			]
+		]
+	},
 	"要": {
 		"py": "yào",
 		"mn": [
@@ -71,6 +80,15 @@
 			[
 				"part",
 				"đấy; nhé; nhá; à (hợp âm của \"了\"， \"啊\")"
+			]
+		]
+	},
+	"瞧": {
+		"py": "qiáo",
+		"mn": [
+			[
+				"v",
+				"nhìn; xem; coi; trông | trị; chữa; điều trị | thăm; thăm hỏi"
 			]
 		]
 	},
@@ -309,6 +327,15 @@
 			]
 		]
 	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
+			]
+		]
+	},
 	"一直": {
 		"py": "yīzhí",
 		"mn": [
@@ -450,6 +477,15 @@
 			[
 				"n, time",
 				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"单身": {
+		"py": "dānshēn",
+		"mn": [
+			[
+				"n",
+				"độc thân; đơn thân"
 			]
 		]
 	},
@@ -762,6 +798,19 @@
 			]
 		]
 	},
+	"现实": {
+		"py": "xiànshí",
+		"mn": [
+			[
+				"n",
+				"hiện thực; thực tại; thực tế"
+			],
+			[
+				"adj",
+				"thực tế; thực dụng"
+			]
+		]
+	},
 	"哎": {
 		"py": "ài",
 		"mn": [
@@ -937,6 +986,19 @@
 			]
 		]
 	},
+	"气": {
+		"py": "qì",
+		"mn": [
+			[
+				"n",
+				"khí; hơi | khí; hơi; không khí | hơi thở | thời tiết; khí hậu; hiện tượng nóng lạnh | mùi | tinh thần; khí thế; trạng thái tinh thần | tác phong; dáng vẻ; phong thái | khí; sức lực | bệnh khí (đông y chỉ một số bệnh) | tức giận; khó chịu; giận"
+			],
+			[
+				"v",
+				"trêu tức; làm phát cáu; làm bực bội | tức; bực bội; nổi cáu; phát bực; tức giận | đè nén; chèn ép; ức hiếp; bắt nạt"
+			]
+		]
+	},
 	"当然": {
 		"py": "dāngrán",
 		"mn": [
@@ -1019,6 +1081,15 @@
 			[
 				"part",
 				"được; được rồi; đúng rồi; không sai"
+			]
+		]
+	},
+	"天壤之别": {
+		"py": "tiānrǎngzhībié",
+		"mn": [
+			[
+				"idioms",
+				"khác xa so với | một thế giới của sự khác biệt | (nghĩa bóng) sự khác biệt giữa đêm và ngày | (văn học) khác nhau như trời và đất (thành ngữ) | thái cực đối lập | khác nhau một trời một vực"
 			]
 		]
 	},
@@ -1177,6 +1248,15 @@
 			]
 		]
 	},
+	"敏感": {
+		"py": "mǐngǎn",
+		"mn": [
+			[
+				"adj",
+				"mẫn cảm; nhạy cảm | nhạy cảm"
+			]
+		]
+	},
 	"难怪": {
 		"py": "nánguài",
 		"mn": [
@@ -1199,6 +1279,32 @@
 			]
 		]
 	},
+	"随便": {
+		"py": "suíbiàn",
+		"mn": [
+			[
+				"adj",
+				"tự nhiên; thoải mái; sao cũng được | tuỳ tiện; cẩu thả; qua loa; hời hợt | tùy ý; không chỉn chu"
+			],
+			[
+				"v",
+				"tùy ý"
+			],
+			[
+				"conj",
+				"dù; bất cứ; bất kể"
+			]
+		]
+	},
+	"打听": {
+		"py": "dǎtīng",
+		"mn": [
+			[
+				"v",
+				"hỏi thăm; thăm dò; nghe ngóng; dò la"
+			]
+		]
+	},
 	"其实": {
 		"py": "qíshí",
 		"mn": [
@@ -1214,6 +1320,15 @@
 			[
 				"adv",
 				"càng; lại | hơn"
+			]
+		]
+	},
+	"压力": {
+		"py": "yālì",
+		"mn": [
+			[
+				"n",
+				"áp lực (vật lý) | gánh nặng; áp lực | áp lực (tâm lý; tinh thần)"
 			]
 		]
 	},
@@ -1252,6 +1367,15 @@
 			]
 		]
 	},
+	"催": {
+		"py": "cuī",
+		"mn": [
+			[
+				"v",
+				"giục; thúc giục | thúc; giục; thúc đẩy"
+			]
+		]
+	},
 	"不停": {
 		"py": "bùtíng",
 		"mn": [
@@ -1287,6 +1411,15 @@
 			]
 		]
 	},
+	"对象": {
+		"py": "duìxiàng",
+		"mn": [
+			[
+				"n",
+				"đối tượng | người yêu"
+			]
+		]
+	},
 	"向": {
 		"py": "xiàng",
 		"mn": [
@@ -1309,6 +1442,19 @@
 			[
 				"adj",
 				"cũ; trước; xưa kia; trước đây"
+			]
+		]
+	},
+	"抱怨": {
+		"py": "bàoyuàn",
+		"mn": [
+			[
+				"v",
+				"oán hận; oán giận; oán trách; than phiền; phàn nàn"
+			],
+			[
+				"n",
+				"sự than phiền; lời phàn nàn; sự khiếu nại"
 			]
 		]
 	},
@@ -1356,12 +1502,61 @@
 			]
 		]
 	},
+	"爸妈": {
+		"py": "bàmā",
+		"mn": [
+			[
+				"n",
+				"ba và mẹ"
+			]
+		]
+	},
+	"唠叨": {
+		"py": "láodāo",
+		"mn": [
+			[
+				"v",
+				"lải nhải; lảm nhảm; càu nhàu; làu bàu"
+			]
+		]
+	},
 	"儿女": {
 		"py": "érnǚ",
 		"mn": [
 			[
 				"n",
 				"con; con cái; con cháu; những người con | nam nữ; trai gái"
+			]
+		]
+	},
+	"婚姻": {
+		"py": "hūnyīn",
+		"mn": [
+			[
+				"n",
+				"hôn nhân; cưới xin; cưới vợ lấy chồng; cưới hỏi"
+			]
+		]
+	},
+	"大事": {
+		"py": "dàshì",
+		"mn": [
+			[
+				"n",
+				"việc lớn; việc hệ trọng; đại sự | cố sức; ra sức; cật lực"
+			]
+		]
+	},
+	"永远": {
+		"py": "yǒngyuǎn",
+		"mn": [
+			[
+				"adv",
+				"vĩnh viễn; mãi mãi; luôn luôn"
+			],
+			[
+				"n",
+				"mãi mãi"
 			]
 		]
 	},
@@ -1384,6 +1579,15 @@
 			[
 				"n",
 				"nhất; đứng đầu; số một"
+			]
+		]
+	},
+	"关心": {
+		"py": "guānxīn",
+		"mn": [
+			[
+				"v",
+				"quan tâm; lo lắng; trông nom; chú ý (người hoặc sự vật)"
 			]
 		]
 	},
@@ -1411,6 +1615,15 @@
 			[
 				"numb",
 				"sáu mươi"
+			]
+		]
+	},
+	"舅妈": {
+		"py": "jiùmā",
+		"mn": [
+			[
+				"n",
+				"mợ"
 			]
 		]
 	},
@@ -1483,6 +1696,24 @@
 			]
 		]
 	},
+	"花甲": {
+		"py": "huājiǎ",
+		"mn": [
+			[
+				"n",
+				"sáu mươi; sáu mươi tuổi"
+			]
+		]
+	},
+	"老人": {
+		"py": "lǎorén",
+		"mn": [
+			[
+				"n",
+				"người già; cụ già | cha mẹ già; ông bà cụ"
+			]
+		]
+	},
 	"女儿": {
 		"py": "nǚér",
 		"mn": [
@@ -1510,6 +1741,15 @@
 			]
 		]
 	},
+	"有的": {
+		"py": "yǒude",
+		"mn": [
+			[
+				"pro",
+				"có， có cái, một số; có"
+			]
+		]
+	},
 	"早": {
 		"py": "zǎo",
 		"mn": [
@@ -1527,6 +1767,19 @@
 			]
 		]
 	},
+	"抱": {
+		"py": "bào",
+		"mn": [
+			[
+				"v",
+				"bế; bồng; ẵm; ôm | bế; có (có con hoặc cháu lần đầu) | hợp lại; xúm lại; kết hợp; gom lại | ấp; ấp ủ; nuôi nấng | vừa vặn; vừa khít"
+			],
+			[
+				"measure",
+				"một ôm"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -1541,6 +1794,24 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"孙子": {
+		"py": "sūnzi",
+		"mn": [
+			[
+				"n",
+				"cháu trai; cháu ruột"
+			]
+		]
+	},
+	"不到": {
+		"py": "bùdào",
+		"mn": [
+			[
+				"v",
+				"không đến; ít hơn | vắng mặt; không đến; không xuất hiện | không chu đáo; không cẩn thận; không đến nơi đến chốn"
 			]
 		]
 	},
@@ -1562,6 +1833,15 @@
 			]
 		]
 	},
+	"儿子": {
+		"py": "érzi",
+		"mn": [
+			[
+				"n",
+				"con trai"
+			]
+		]
+	},
 	"两": {
 		"py": "liǎng",
 		"mn": [
@@ -1576,6 +1856,15 @@
 			[
 				"n",
 				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"周岁": {
+		"py": "zhōusuì",
+		"mn": [
+			[
+				"",
+				"một tuổi; đầy tuổi; tròn tuổi; tuổi chẵn"
 			]
 		]
 	},
@@ -1626,6 +1915,15 @@
 			]
 		]
 	},
+	"串门": {
+		"py": "chuànmén",
+		"mn": [
+			[
+				"sv",
+				"chơi; thăm; la cà; lê la tán dóc"
+			]
+		]
+	},
 	"带": {
 		"py": "dài",
 		"mn": [
@@ -1645,6 +1943,24 @@
 			[
 				"pro",
 				"nó; anh ấy; hắn; người ấy; anh ta; y; cậu ấy (đàn ông) | khác; ngoài | hư chỉ (dùng giữa động từ hoặc số từ) | ai đó; nhiều người; mọi người"
+			]
+		]
+	},
+	"宝贝": {
+		"py": "bǎobèi",
+		"mn": [
+			[
+				"n",
+				"bảo bối; đồ quý; của quý | cục cưng; bé cưng; bảo bối | kẻ bất tài; kẻ lố bịch; người vô dụng (cách gọi kẻ bất tài, rông càn quái gở)"
+			]
+		]
+	},
+	"羡慕": {
+		"py": "xiànmù",
+		"mn": [
+			[
+				"v",
+				"ngưỡng mộ; ước ao; hâm mộ | đố kỵ; ghen ghét; thèm muốn"
 			]
 		]
 	},
@@ -1680,6 +1996,37 @@
 			[
 				"n",
 				"trước đây; trước kia; ngày trước; khi trước; ngày xưa; hồi xưa"
+			]
+		]
+	},
+	"顾不上": {
+		"py": "gùbùshàng",
+		"mn": [
+			[
+				"v",
+				"không kịp; không để ý; không rảnh làm gì"
+			]
+		]
+	},
+	"替": {
+		"py": "tì",
+		"mn": [
+			[
+				"v",
+				"thay thế; thay; giúp | suy tàn (triều đại) | dừng; hoãn"
+			],
+			[
+				"prep",
+				"cho; vì; thay"
+			]
+		]
+	},
+	"操心": {
+		"py": "cāoxīn",
+		"mn": [
+			[
+				"v, sv",
+				"lo lắng; bận tâm; nhọc lòng; lo nghĩ; lao tâm khổ trí; bận tâm lo nghĩ"
 			]
 		]
 	},
@@ -1724,6 +2071,41 @@
 			[
 				"adj",
 				"bằng; bao gồm; đầy đủ; toàn diện"
+			]
+		]
+	},
+	"轮": {
+		"py": "lún",
+		"mn": [
+			[
+				"n",
+				"bánh xe | ca-nô; tàu thuỷ | tròn; vành; vòng (vật giống bánh xe)"
+			],
+			[
+				"measure",
+				"vầng; vành | vòng | giáp"
+			],
+			[
+				"v",
+				"lần lượt; luân phiên; thay phiên"
+			]
+		]
+	},
+	"唉": {
+		"py": "ài",
+		"mn": [
+			[
+				"intj",
+				"dào; hừ. (tỏ ý thương cảm hoặc ái ngại, thở dài) | thôi; rồi (biểu thị đồng ý hoặc công nhận)"
+			]
+		]
+	},
+	"苦日子": {
+		"py": "kǔrìzi",
+		"mn": [
+			[
+				"n",
+				"thời gian khó khăn"
 			]
 		]
 	},

@@ -129,6 +129,15 @@
 			]
 		]
 	},
+	"瞎说": {
+		"py": "xiāshuō",
+		"mn": [
+			[
+				"v",
+				"nói mò; nói bừa; nói nhảm"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -165,6 +174,15 @@
 			[
 				"pro",
 				"cái đó; cái ấy | cái ấy; việc ấy | ghê lắm (dùng trước động từ, hình dung từ, biểu thị sự khoa trương) | ấy (dùng biểu thị điều khó nói ra, có ý uyển chuyển, khôi hài) | tê"
+			]
+		]
+	},
+	"美女": {
+		"py": "měinǚ",
+		"mn": [
+			[
+				"n",
+				"mỹ nữ; con gái đẹp; mỹ nhân; người đẹp; chị đẹp"
 			]
 		]
 	},
@@ -234,6 +252,15 @@
 			[
 				"pro",
 				"cô ấy; chị ấy; bà ấy (phái nữ) | cô ấy (chỉ những sự vật đáng kính trọng và yêu quý)"
+			]
+		]
+	},
+	"搭讪": {
+		"py": "dāshàn",
+		"mn": [
+			[
+				"v",
+				"bắt chuyện"
 			]
 		]
 	},
@@ -322,6 +349,15 @@
 			[
 				"adv",
 				"chưa; chưa từng"
+			]
+		]
+	},
+	"艳福": {
+		"py": "yànfú",
+		"mn": [
+			[
+				"n",
+				"may mắn với phụ nữ | diễm phúc"
 			]
 		]
 	}

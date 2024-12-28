@@ -282,12 +282,13 @@ function kindName(k)
             "v":    "động từ",
             "n":    "danh từ",
             "adj":  "tính từ",
-            "pro":  "đại từ",
+            "pro":  "đại  từ",
             "prep": "giới từ",
             "av":   "trợ động từ",
             "intj": "thán từ",
-            "numb": "số đếm",
-            "measure":  "lượng từ",
+            "conj": "từ---nối",
+            "numb": "số  đếm",
+            "measure":  "phân loại từ",
             "sentence": "cụm từ",
     })[k] || k;
 }

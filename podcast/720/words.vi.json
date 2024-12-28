@@ -252,6 +252,15 @@
 			]
 		]
 	},
+	"组成": {
+		"py": "zǔchéng",
+		"mn": [
+			[
+				"v",
+				"gồm; cấu thành; tạo thành; hợp thành; thành lập; bao gồm; cấu tạo nên"
+			]
+		]
+	},
 	"红": {
 		"py": "hóng",
 		"mn": [
@@ -262,6 +271,23 @@
 			[
 				"n",
 				"tên Hồng; họ Hồng | lời; lãi; hoa hồng"
+			]
+		]
+	},
+	"黄": {
+		"py": "huáng",
+		"mn": [
+			[
+				"adj",
+				"vàng; màu vàng | đồi truỵ"
+			],
+			[
+				"n",
+				"vàng (kim loại) | lòng đỏ trứng | hoàng hà; sông Hoàng Hà | họ Hoàng; Huỳnh | vua; hoàng đế; đế vương"
+			],
+			[
+				"v",
+				"thất bại; không thực hiện được (kế hoạch)"
 			]
 		]
 	},
@@ -279,6 +305,15 @@
 			[
 				"n",
 				"họ Lục"
+			]
+		]
+	},
+	"车队": {
+		"py": "chēduì",
+		"mn": [
+			[
+				"n",
+				"công-voa (đoàn xe có hộ tống, cùng đến một địa điểm nhất định)"
 			]
 		]
 	}

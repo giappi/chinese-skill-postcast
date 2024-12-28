@@ -156,6 +156,15 @@
 			]
 		]
 	},
+	"消息": {
+		"py": "xiāoxi",
+		"mn": [
+			[
+				"n",
+				"tin; tin tức; thông tin"
+			]
+		]
+	},
 	"真": {
 		"py": "zhēn",
 		"mn": [
@@ -170,6 +179,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"灵通": {
+		"py": "língtōng",
+		"mn": [
+			[
+				"adj",
+				"nhanh; thạo tin (tin tức) | linh hoạt; nhanh nhẹn; nhanh nhẩu"
 			]
 		]
 	},
@@ -343,6 +361,15 @@
 			]
 		]
 	},
+	"公交": {
+		"py": "gōngjiāo",
+		"mn": [
+			[
+				"n",
+				"giao thông công cộng"
+			]
+		]
+	},
 	"车站": {
 		"py": "chēzhàn",
 		"mn": [
@@ -371,6 +398,15 @@
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"报纸": {
+		"py": "bàozhǐ",
+		"mn": [
+			[
+				"n",
+				"báo; báo giấy | giấy báo"
 			]
 		]
 	},
@@ -483,6 +519,15 @@
 			]
 		]
 	},
+	"招呼": {
+		"py": "zhāohu",
+		"mn": [
+			[
+				"v",
+				"gọi; kêu | chào; chào hỏi; thăm hỏi | căn dặn; bảo ban; dặn dò; nhắc nhở | chăm sóc; quan tâm | lưu tâm; chú ý; để ý; cẩn thận"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -522,12 +567,34 @@
 			]
 		]
 	},
+	"紧张": {
+		"py": "jǐnzhāng",
+		"mn": [
+			[
+				"adj",
+				"hồi hộp; lo lắng; căng thẳng | khẩn trương; căng thẳng | eo hẹp; túng thiếu; khan hiếm"
+			]
+		]
+	},
 	"今天": {
 		"py": "jīntiān",
 		"mn": [
 			[
 				"time, n",
 				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"打扮": {
+		"py": "dǎbàn",
+		"mn": [
+			[
+				"v",
+				"trang điểm; trang trí; trang hoàng; ăn diện; ăn mặc"
+			],
+			[
+				"n",
+				"diện; làm dáng; kiểu cách; cách ăn mặc"
 			]
 		]
 	},

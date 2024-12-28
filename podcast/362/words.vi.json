@@ -174,12 +174,39 @@
 			]
 		]
 	},
+	"卡通": {
+		"py": "kǎtōng",
+		"mn": [
+			[
+				"n",
+				"hoạt hình; phim hoạt hình"
+			]
+		]
+	},
+	"图案": {
+		"py": "túàn",
+		"mn": [
+			[
+				"n",
+				"đồ án; hoa văn; hình vẽ; học tiết"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"书包": {
+		"py": "shūbāo",
+		"mn": [
+			[
+				"n",
+				"túi sách; cặp sách"
 			]
 		]
 	},
@@ -249,6 +276,24 @@
 			[
 				"adj",
 				"đơn chiếc; lẻ loi; một mình; đơn độc"
+			]
+		]
+	},
+	"愤怒": {
+		"py": "fènnù",
+		"mn": [
+			[
+				"adj",
+				"phẫn nộ; căm phẫn; tức giận; giận dữ"
+			]
+		]
+	},
+	"小鸟": {
+		"py": "xiǎoniǎo",
+		"mn": [
+			[
+				"n",
+				"birdie (thấp hơn gậy tiêu chuẩn 1 gậy) | chim non"
 			]
 		]
 	},

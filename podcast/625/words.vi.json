@@ -26,6 +26,15 @@
 			]
 		]
 	},
+	"迷路": {
+		"py": "mílù",
+		"mn": [
+			[
+				"v",
+				"lạc;  đi lạc; lạc đường | lạc lối; lạc hướng; mất phương hướng"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -217,6 +226,28 @@
 			]
 		]
 	},
+	"大楼": {
+		"py": "dàlóu",
+		"mn": [
+			[
+				"n",
+				"cao ốc; nhà cao tầng"
+			]
+		]
+	},
+	"对面": {
+		"py": "duìmiàn",
+		"mn": [
+			[
+				"n",
+				"đối diện; trước mặt | phía trước; trước mặt; phía đối diện"
+			],
+			[
+				"adv",
+				"gặp mặt; giáp mặt; đối mặt; mặt đối mặt; ba mặt một lời"
+			]
+		]
+	},
 	"家": {
 		"py": "jiā",
 		"mn": [
@@ -240,6 +271,15 @@
 			[
 				"n",
 				"bệnh viện; nhà thương"
+			]
+		]
+	},
+	"那里": {
+		"py": "nàlǐ",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia"
 			]
 		]
 	},

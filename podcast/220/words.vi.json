@@ -95,6 +95,15 @@
 			]
 		]
 	},
+	"唉": {
+		"py": "ài",
+		"mn": [
+			[
+				"intj",
+				"dào; hừ. (tỏ ý thương cảm hoặc ái ngại, thở dài) | thôi; rồi (biểu thị đồng ý hoặc công nhận)"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -126,6 +135,24 @@
 			[
 				"n",
 				"họ Đóa"
+			]
+		]
+	},
+	"鲜花": {
+		"py": "xiānhuā",
+		"mn": [
+			[
+				"n",
+				"hoa tươi"
+			]
+		]
+	},
+	"插": {
+		"py": "chā",
+		"mn": [
+			[
+				"v",
+				"chêm vào; nhúng; cắm; chen; chen vào; xen vào; cài vào; giặm | cắm vào; chọc vào; xuyên vào; đút vào | gài; chốt"
 			]
 		]
 	},

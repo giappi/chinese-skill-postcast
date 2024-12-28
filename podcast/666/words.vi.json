@@ -86,6 +86,19 @@
 			]
 		]
 	},
+	"一块": {
+		"py": "yīkuài",
+		"mn": [
+			[
+				"n",
+				"cùng nơi; cùng chỗ; cùng nhau; cùng một nơi"
+			],
+			[
+				"adv",
+				"cùng"
+			]
+		]
+	},
 	"吃饭": {
 		"py": "chīfàn",
 		"mn": [
@@ -188,6 +201,24 @@
 			[
 				"adj",
 				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"解决": {
+		"py": "jiějué",
+		"mn": [
+			[
+				"v",
+				"xử lý; giải quyết; dàn xếp; tháo gỡ; thu xếp | tiêu diệt; thủ tiêu; giải quyết (dùng vũ lực tấn công)"
+			]
+		]
+	},
+	"终身大事": {
+		"py": "zhōngshēndàshì",
+		"mn": [
+			[
+				"idioms",
+				"bước ngoặt lớn của quá trình nhập khẩu suốt đời (đặc biệt là hôn nhân)"
 			]
 		]
 	},
@@ -500,6 +531,15 @@
 			]
 		]
 	},
+	"条件": {
+		"py": "tiáojiàn",
+		"mn": [
+			[
+				"n",
+				"điều kiện | điều kiện; đòi hỏi; yêu cầu; điều khoản | tình trạng; tình hình"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -656,6 +696,15 @@
 			]
 		]
 	},
+	"偏见": {
+		"py": "piānjiàn",
+		"mn": [
+			[
+				"n",
+				"thành kiến; phiến diện"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
@@ -671,6 +720,15 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"年代": {
+		"py": "niándài",
+		"mn": [
+			[
+				"n",
+				"niên đại; thời đại; thời kỳ | thập kỷ; những năm | năm; thời gian"
 			]
 		]
 	},
@@ -727,6 +785,33 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"可笑": {
+		"py": "kěxiào",
+		"mn": [
+			[
+				"adj",
+				"buồn cười; nực cười; đáng cười | hài; vui nhộn; hài hước; buồn cười"
+			]
+		]
+	},
+	"而是": {
+		"py": "érshì",
+		"mn": [
+			[
+				"conj",
+				"mà là; nhưng là"
+			]
+		]
+	},
+	"落伍": {
+		"py": "luòwǔ",
+		"mn": [
+			[
+				"v",
+				"lạc đơn vị; lạc đội ngũ | lạc hậu; tụt hậu; thụt lùi"
 			]
 		]
 	},
@@ -790,12 +875,30 @@
 			]
 		]
 	},
+	"热潮": {
+		"py": "rècháo",
+		"mn": [
+			[
+				"n",
+				"phong trào lớn; phong trào sôi nổi; phong trào rầm rộ"
+			]
+		]
+	},
 	"除了": {
 		"py": "chúle",
 		"mn": [
 			[
 				"prep",
 				"ngoài ra; trừ ra; ngoại trừ | ngoài... ra | ngoài... ra thì chỉ có... (dùng với'就是' biểu thị không phải thế này thì thế kia)"
+			]
+		]
+	},
+	"五花八门": {
+		"py": "wǔhuābāmén",
+		"mn": [
+			[
+				"idioms",
+				"loè loẹt; đa dạng; đủ mẫu mã"
 			]
 		]
 	},
@@ -852,6 +955,24 @@
 			]
 		]
 	},
+	"属于": {
+		"py": "shǔyú",
+		"mn": [
+			[
+				"v",
+				"của; thuộc về"
+			]
+		]
+	},
+	"旧时代": {
+		"py": "jiùshídài",
+		"mn": [
+			[
+				"n",
+				"thời gian trước đây | ngày xưa"
+			]
+		]
+	},
 	"比如": {
 		"py": "bǐrú",
 		"mn": [
@@ -892,12 +1013,30 @@
 			]
 		]
 	},
+	"一代": {
+		"py": "yīdài",
+		"mn": [
+			[
+				"",
+				"thế hệ"
+			]
+		]
+	},
 	"他们": {
 		"py": "tāmen",
 		"mn": [
 			[
 				"pro",
 				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"那时": {
+		"py": "nàshí",
+		"mn": [
+			[
+				"pro",
+				"lúc đó; khi đó"
 			]
 		]
 	},
@@ -914,12 +1053,47 @@
 			]
 		]
 	},
+	"恋爱": {
+		"py": "liànài",
+		"mn": [
+			[
+				"v",
+				"yêu đương; yêu nhau"
+			],
+			[
+				"n",
+				"tình yêu; mối tình"
+			]
+		]
+	},
 	"只能": {
 		"py": "zhǐnéng",
 		"mn": [
 			[
 				"adv",
 				"chỉ có thể; chỉ đành; đành phải"
+			]
+		]
+	},
+	"通过": {
+		"py": "tōngguò",
+		"mn": [
+			[
+				"v",
+				"qua; đi qua; vượt qua; chui qua | qua; phê duyệt; kiểm duyệt; thông qua | thông qua; đồng ý; phê chuẩn (đại biểu) | đỗ; qua; thông qua; vượt qua (tiêu chuẩn, yêu cầu)"
+			],
+			[
+				"prep",
+				"qua; thông qua"
+			]
+		]
+	},
+	"寻找": {
+		"py": "xúnzhǎo",
+		"mn": [
+			[
+				"v",
+				"tìm; tìm kiếm; kiếm tìm; tìm tòi"
 			]
 		]
 	},
@@ -972,6 +1146,15 @@
 			[
 				"pro",
 				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"真爱": {
+		"py": "zhēnài",
+		"mn": [
+			[
+				"adj",
+				"tình yêu đích thực"
 			]
 		]
 	},
@@ -1034,6 +1217,15 @@
 			]
 		]
 	},
+	"交给": {
+		"py": "jiāogěi",
+		"mn": [
+			[
+				"v",
+				"Giao cho | giao"
+			]
+		]
+	},
 	"看来": {
 		"py": "kànlái",
 		"mn": [
@@ -1044,6 +1236,15 @@
 			[
 				"v",
 				"theo cách nhìn của; theo góc nhìn của; theo quan điểm của"
+			]
+		]
+	},
+	"时代": {
+		"py": "shídài",
+		"mn": [
+			[
+				"n",
+				"đời; thời đại; thời kỳ | thời; lúc; độ tuổi"
 			]
 		]
 	},
@@ -1069,12 +1270,30 @@
 			]
 		]
 	},
+	"未必": {
+		"py": "wèibì",
+		"mn": [
+			[
+				"adv",
+				"chưa hẳn; không hẳn; chưa chắc"
+			]
+		]
+	},
 	"找到": {
 		"py": "zhǎodào",
 		"mn": [
 			[
 				"v",
 				"tìm được; tìm thấy; tìm ra"
+			]
+		]
+	},
+	"况且": {
+		"py": "kuàngqiě",
+		"mn": [
+			[
+				"conj",
+				"hơn nữa; vả lại; ngoài ra; vả chăng, huống hồ"
 			]
 		]
 	},
@@ -1091,6 +1310,15 @@
 			]
 		]
 	},
+	"节奏": {
+		"py": "jiézòu",
+		"mn": [
+			[
+				"n",
+				"nhịp nhàng; tiết tấu; nhịp độ | tiết tấu; nhịp điệu (trong âm nhạc)"
+			]
+		]
+	},
 	"那么": {
 		"py": "nàme",
 		"mn": [
@@ -1101,6 +1329,24 @@
 			[
 				"conj",
 				"thì; vậy thì"
+			]
+		]
+	},
+	"紧张": {
+		"py": "jǐnzhāng",
+		"mn": [
+			[
+				"adj",
+				"hồi hộp; lo lắng; căng thẳng | khẩn trương; căng thẳng | eo hẹp; túng thiếu; khan hiếm"
+			]
+		]
+	},
+	"压力": {
+		"py": "yālì",
+		"mn": [
+			[
+				"n",
+				"áp lực (vật lý) | gánh nặng; áp lực | áp lực (tâm lý; tinh thần)"
 			]
 		]
 	},
@@ -1118,6 +1364,24 @@
 			[
 				"n",
 				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"交际": {
+		"py": "jiāojì",
+		"mn": [
+			[
+				"v",
+				"giao tiếp; xã giao; giao thiệp"
+			]
+		]
+	},
+	"圈子": {
+		"py": "quānzi",
+		"mn": [
+			[
+				"n",
+				"vòng tròn (vật hình tròn) | giới; lĩnh vực; khuôn khổ | phạm vi; vòng tròn (quan hệ; giao tiếp)"
 			]
 		]
 	},
@@ -1144,6 +1408,19 @@
 			[
 				"adv",
 				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"恰恰": {
+		"py": "qiàqià",
+		"mn": [
+			[
+				"adv",
+				"vừa vặn; vừa lúc; vừa may; vừa đúng; vừa hay"
+			],
+			[
+				"n",
+				"cha cha (điệu nhảy)"
 			]
 		]
 	},
@@ -1181,12 +1458,34 @@
 			]
 		]
 	},
+	"扩大": {
+		"py": "kuòdà",
+		"mn": [
+			[
+				"v",
+				"mở rộng; tăng thêm; khuếch trương; phóng to (phạm vi quy mô)"
+			]
+		]
+	},
 	"交往": {
 		"py": "jiāowǎng",
 		"mn": [
 			[
 				"v",
 				"biết; giao du; qua lại; kết giao; giao lưu; tiếp xúc; đi lại; quan hệ qua lại"
+			]
+		]
+	},
+	"范围": {
+		"py": "fànwéi",
+		"mn": [
+			[
+				"n",
+				"phạm vi"
+			],
+			[
+				"v",
+				"hạn chế; giới hạn; kiểm soát"
 			]
 		]
 	},
@@ -1235,12 +1534,43 @@
 			]
 		]
 	},
+	"进一步": {
+		"py": "jìnyībù",
+		"mn": [
+			[
+				"adv",
+				"tiến một bước; thêm một bước"
+			]
+		]
+	},
 	"算了": {
 		"py": "suànle",
 		"mn": [
 			[
 				"v",
 				"bỏ qua đi, để nó trôi qua, quên nó đi, thôi bỏ đi; chớ | xong rồi"
+			]
+		]
+	},
+	"呗": {
+		"py": "bei",
+		"mn": [
+			[
+				"part",
+				"chứ; đi chứ (dùng ở cuối câu, biểu thị sự thực hoặc lý lẽ rõ ràng, rất dễ hiểu) | thôi; thì; vậy (dùng trong phân câu hoặc cuối câu, biểu thị ngữ khí miễn cưỡng đồng ý hoặc nhượng bộ)"
+			]
+		]
+	},
+	"损失": {
+		"py": "sǔnshī",
+		"mn": [
+			[
+				"n",
+				"tổn thất; thiệt hại; mất mát"
+			],
+			[
+				"v",
+				"tổn thất; thiệt hại"
 			]
 		]
 	},
@@ -1258,6 +1588,15 @@
 			[
 				"n",
 				"hai phía; song phương; đôi bên | họ Lượng"
+			]
+		]
+	},
+	"陌生人": {
+		"py": "mòshēngrén",
+		"mn": [
+			[
+				"n",
+				"người lạ; người không quen biết"
 			]
 		]
 	},
@@ -1292,12 +1631,34 @@
 			]
 		]
 	},
+	"谈论": {
+		"py": "tánlùn",
+		"mn": [
+			[
+				"v",
+				"bàn bạc; bàn tán; thảo luận"
+			]
+		]
+	},
 	"是不是": {
 		"py": "shìbùshì",
 		"mn": [
 			[
 				"sentence",
 				"phải không; có phải ... không"
+			]
+		]
+	},
+	"甚至": {
+		"py": "shènzhì",
+		"mn": [
+			[
+				"conj",
+				"thậm chí; ngay cả; đến nỗi; hơn nữa"
+			],
+			[
+				"adv",
+				"thậm chí; ngay cả; đến mức"
 			]
 		]
 	},
@@ -1326,6 +1687,33 @@
 			]
 		]
 	},
+	"尴尬": {
+		"py": "gāngà",
+		"mn": [
+			[
+				"adj",
+				"ngại; ngượng; xấu hổ; bối rối; lúng túng; khó xử"
+			]
+		]
+	},
+	"怀疑": {
+		"py": "huáiyí",
+		"mn": [
+			[
+				"v",
+				"nghi; nghi ngờ | đoán; đoán chừng"
+			]
+		]
+	},
+	"如今": {
+		"py": "rújīn",
+		"mn": [
+			[
+				"n, time",
+				"bây giờ; giờ đây; đến nay; ngày nay; như hôm nay; hiện nay"
+			]
+		]
+	},
 	"比": {
 		"py": "bǐ",
 		"mn": [
@@ -1344,6 +1732,28 @@
 			[
 				"adv",
 				"gần đây"
+			]
+		]
+	},
+	"想象": {
+		"py": "xiǎngxiàng",
+		"mn": [
+			[
+				"v",
+				"nghĩ ra; tưởng tượng ra; tưởng tượng; hình dung"
+			],
+			[
+				"n",
+				"sự tưởng tượng; trí tưởng tượng"
+			]
+		]
+	},
+	"潇洒": {
+		"py": "xiāosǎ",
+		"mn": [
+			[
+				"adj",
+				"tự nhiên; phóng khoáng; tiêu sái (phong độ, cử chỉ...) | tự do; tự tại"
 			]
 		]
 	},
@@ -1379,6 +1789,19 @@
 			[
 				"n",
 				"bạn trai"
+			]
+		]
+	},
+	"体验": {
+		"py": "tǐyàn",
+		"mn": [
+			[
+				"v",
+				"trải nghiệm"
+			],
+			[
+				"n",
+				"trải nghiệm; kinh nghiệm; sự trải nghiệm"
 			]
 		]
 	},

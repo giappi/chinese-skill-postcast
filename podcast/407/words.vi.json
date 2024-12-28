@@ -55,6 +55,15 @@
 			]
 		]
 	},
+	"节目": {
+		"py": "jiémù",
+		"mn": [
+			[
+				"n",
+				"tiết mục; chương trình (biểu diễn)"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -117,6 +126,28 @@
 			]
 		]
 	},
+	"怪不得": {
+		"py": "guàibùdé",
+		"mn": [
+			[
+				"adv",
+				"thảo nào; chẳng trách; chả trách; hèn chi"
+			],
+			[
+				"v",
+				"không nên trách; chẳng thể trách"
+			]
+		]
+	},
+	"兴高采烈": {
+		"py": "xìnggāocǎiliè",
+		"mn": [
+			[
+				"idioms",
+				"phấn khích; hân hoan; vui mừng; vui vẻ; vô cùng thích thú"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -132,6 +163,24 @@
 			[
 				"n",
 				"vừa; vừa mới; vừa rồi; ban nãy"
+			]
+		]
+	},
+	"姚明": {
+		"py": "yáomíng",
+		"mn": [
+			[
+				"n",
+				"Yao Ming (1980-), cầu thủ bóng rổ Trung Quốc đã nghỉ hưu, chơi cho CBA Shanghai Sharks 1997-2002 và NBA Houston Rockets 2002-2011"
+			]
+		]
+	},
+	"扣篮": {
+		"py": "kòulán",
+		"mn": [
+			[
+				"v",
+				"Úp rổ"
 			]
 		]
 	},
@@ -183,6 +232,15 @@
 			]
 		]
 	},
+	"不愧": {
+		"py": "bùkuì",
+		"mn": [
+			[
+				"adv",
+				"xứng đáng, không hổ"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -201,6 +259,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"偶像": {
+		"py": "ǒuxiàng",
+		"mn": [
+			[
+				"n",
+				"thần tượng"
 			]
 		]
 	},
@@ -223,6 +290,15 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"崇拜": {
+		"py": "chóngbài",
+		"mn": [
+			[
+				"v",
+				"tôn thờ; sùng bái; ngưỡng mộ"
 			]
 		]
 	},
@@ -373,6 +449,15 @@
 			[
 				"adj",
 				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"打球": {
+		"py": "dǎqiú",
+		"mn": [
+			[
+				"v",
+				"chơi bóng; đánh bóng"
 			]
 		]
 	}

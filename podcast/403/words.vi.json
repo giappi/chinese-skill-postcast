@@ -33,6 +33,15 @@
 			]
 		]
 	},
+	"环球": {
+		"py": "huánqiú",
+		"mn": [
+			[
+				"n",
+				"vòng quanh trái đất | toàn cầu; toàn thế giới"
+			]
+		]
+	},
 	"旅行": {
 		"py": "lǚxíng",
 		"mn": [
@@ -82,6 +91,15 @@
 			[
 				"n",
 				"người Mãn; dân tộc Mãn | họ Mãn"
+			]
+		]
+	},
+	"屋子": {
+		"py": "wūzi",
+		"mn": [
+			[
+				"n",
+				"phòng; buồng; gian nhà; gian phòng"
 			]
 		]
 	},
@@ -337,6 +355,15 @@
 			]
 		]
 	},
+	"日用品": {
+		"py": "rìyòngpǐn",
+		"mn": [
+			[
+				"n",
+				"hàng tiêu dùng; nhu yếu phẩm; vật dụng hàng ngày"
+			]
+		]
+	},
 	"过去": {
 		"py": "guòqù",
 		"mn": [
@@ -410,6 +437,15 @@
 			]
 		]
 	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -442,6 +478,23 @@
 			[
 				"adv",
 				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
 			]
 		]
 	},
@@ -560,6 +613,19 @@
 			[
 				"onom, intj",
 				"à; ồ (biểu thị bất chợt hiểu ra; nhận ra điều gì đó)"
+			]
+		]
+	},
+	"对了": {
+		"py": "duìle",
+		"mn": [
+			[
+				"conj",
+				"đúng rồi (sực nhớ ra còn điều gì chưa nói)"
+			],
+			[
+				"intj",
+				"đúng; đúng rồi"
 			]
 		]
 	},
@@ -818,12 +884,56 @@
 			]
 		]
 	},
+	"付": {
+		"py": "fù",
+		"mn": [
+			[
+				"v",
+				"chi; chi tiền | giao cho; đưa cho; gửi gắm; giao phó"
+			],
+			[
+				"n",
+				"họ Phó"
+			]
+		]
+	},
+	"小费": {
+		"py": "xiǎofèi",
+		"mn": [
+			[
+				"n",
+				"tiền bo; tiền boa; tiền típ"
+			]
+		]
+	},
+	"习惯": {
+		"py": "xíguàn",
+		"mn": [
+			[
+				"n",
+				"thói quen; tập quán; thói; tập tục; tục lệ"
+			],
+			[
+				"v",
+				"quen; quen với (việc làm gì đó)"
+			]
+		]
+	},
 	"但是": {
 		"py": "dànshì",
 		"mn": [
 			[
 				"conj",
 				"nhưng; nhưng mà; song (biểu thị sự chuyển ý ngược lại) | mà; nhưng (nối kết từ có ý chuyển nghịch nhưng lại thống nhất, cách dùng như liên từ 而)"
+			]
+		]
+	},
+	"一知半解": {
+		"py": "yīzhībànjiě",
+		"mn": [
+			[
+				"idioms",
+				"kiến thức nửa vời; hiểu biết lơ mơ; hiểu biết nông cạn"
 			]
 		]
 	},
@@ -905,12 +1015,65 @@
 			]
 		]
 	},
+	"具体": {
+		"py": "jùtǐ",
+		"mn": [
+			[
+				"adj",
+				"cụ thể; rõ ràng | cụ thể"
+			],
+			[
+				"v",
+				"cụ thể; cụ thể hóa"
+			]
+		]
+	},
+	"呗": {
+		"py": "bei",
+		"mn": [
+			[
+				"part",
+				"chứ; đi chứ (dùng ở cuối câu, biểu thị sự thực hoặc lý lẽ rõ ràng, rất dễ hiểu) | thôi; thì; vậy (dùng trong phân câu hoặc cuối câu, biểu thị ngữ khí miễn cưỡng đồng ý hoặc nhượng bộ)"
+			]
+		]
+	},
 	"时候": {
 		"py": "shíhou",
 		"mn": [
 			[
 				"n",
 				"lúc; khi | lúc; lúc đó; khi ấy( chỉ một khoảng thời gian nhất định)"
+			]
+		]
+	},
+	"丢人现眼": {
+		"py": "diūrénxiànyǎn",
+		"mn": [
+			[
+				"idioms",
+				"mất mặt; mất thể diện"
+			]
+		]
+	},
+	"呵呵": {
+		"py": "hēhē",
+		"mn": [
+			[
+				"onom",
+				"ha ha; ha hả; hề hề (tiếng cười)"
+			]
+		]
+	},
+	"平常": {
+		"py": "píngcháng",
+		"mn": [
+			[
+				"adj",
+				"bình thường; giản dị"
+			],
+			[
+				"n",
+				"thường; bình thường"
 			]
 		]
 	},
@@ -1020,12 +1183,30 @@
 			]
 		]
 	},
+	"感谢": {
+		"py": "gǎnxiè",
+		"mn": [
+			[
+				"v",
+				"cảm tạ; cảm ơn"
+			]
+		]
+	},
 	"方式": {
 		"py": "fāngshì",
 		"mn": [
 			[
 				"n",
 				"cách; kiểu; phương thức; cách thức; phương pháp"
+			]
+		]
+	},
+	"国外": {
+		"py": "guówài",
+		"mn": [
+			[
+				"n",
+				"nước ngoài"
 			]
 		]
 	},
@@ -1072,6 +1253,15 @@
 			]
 		]
 	},
+	"随地": {
+		"py": "suídì",
+		"mn": [
+			[
+				"adv",
+				"bất cứ nơi nào; bất cứ chỗ nào; mọi nơi"
+			]
+		]
+	},
 	"可能": {
 		"py": "kěnéng",
 		"mn": [
@@ -1115,6 +1305,15 @@
 			]
 		]
 	},
+	"上去": {
+		"py": "shàngqù",
+		"mn": [
+			[
+				"v",
+				"đi lên; lên (từ thấp đến cao) | lên; ra (thấp lên cao, xa tới gần) | lên; vào; gộp vào"
+			]
+		]
+	},
 	"像": {
 		"py": "xiàng",
 		"mn": [
@@ -1147,6 +1346,24 @@
 			[
 				"n, nlocal",
 				"Trung Hoa; Trung Quốc; nước cộng hoà nhân dân Trung Hoa"
+			]
+		]
+	},
+	"古代": {
+		"py": "gǔdài",
+		"mn": [
+			[
+				"n",
+				"cổ đại; thời cổ | xã hội cổ đại; thời đại xã hội nô lệ; xã hội nguyên thuỷ | hồi xưa; thuở xưa; ngày xưa"
+			]
+		]
+	},
+	"赏钱": {
+		"py": "shǎngqián",
+		"mn": [
+			[
+				"n",
+				"tiền thưởng (cho người khác) | phong bao"
 			]
 		]
 	},
@@ -1322,6 +1539,15 @@
 			]
 		]
 	},
+	"各国": {
+		"py": "gèguó",
+		"mn": [
+			[
+				"n",
+				"mỗi quốc gia | mọi quốc gia | nhiều nước khác nhau"
+			]
+		]
+	},
 	"各": {
 		"py": "gè",
 		"mn": [
@@ -1332,6 +1558,24 @@
 			[
 				"adv",
 				"mỗi; mỗi cái; mỗi bên"
+			]
+		]
+	},
+	"地区": {
+		"py": "dìqū",
+		"mn": [
+			[
+				"n",
+				"khu; miền; vùng | khu vực; chuyên khu; khu vực hành chính | thuộc địa"
+			]
+		]
+	},
+	"比例": {
+		"py": "bǐlì",
+		"mn": [
+			[
+				"n",
+				"tỉ lệ; số lượng | tỷ lệ | tỷ lệ"
 			]
 		]
 	},
@@ -1378,6 +1622,19 @@
 			]
 		]
 	},
+	"省": {
+		"py": "shěng",
+		"mn": [
+			[
+				"v",
+				"tiết kiệm | bỏ bớt; giảm bớt; miễn; giảm; tránh; đỡ"
+			],
+			[
+				"n",
+				"tỉnh | thủ phủ của tỉnh | tỉnh lược; giản lược (từ ngữ)"
+			]
+		]
+	},
 	"不管": {
 		"py": "bùguǎn",
 		"mn": [
@@ -1388,6 +1645,15 @@
 			[
 				"v",
 				"mặc; bỏ mặc; mặc kệ; bỏ liều; bất chấp; kệ; mặc bay"
+			]
+		]
+	},
+	"国家": {
+		"py": "guójiā",
+		"mn": [
+			[
+				"n",
+				"nhà nước; quốc gia"
 			]
 		]
 	},
@@ -1456,6 +1722,32 @@
 			]
 		]
 	},
+	"随便": {
+		"py": "suíbiàn",
+		"mn": [
+			[
+				"adj",
+				"tự nhiên; thoải mái; sao cũng được | tuỳ tiện; cẩu thả; qua loa; hời hợt | tùy ý; không chỉn chu"
+			],
+			[
+				"v",
+				"tùy ý"
+			],
+			[
+				"conj",
+				"dù; bất cứ; bất kể"
+			]
+		]
+	},
+	"入乡随俗": {
+		"py": "rùxiāngsuísú",
+		"mn": [
+			[
+				"idioms",
+				"nhập gia tùy tục"
+			]
+		]
+	},
 	"什么": {
 		"py": "shénme",
 		"mn": [
@@ -1475,6 +1767,15 @@
 			[
 				"n",
 				"lần đầu; lần thứ nhất; lần đầu tiên"
+			]
+		]
+	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
 			]
 		]
 	},
@@ -1522,6 +1823,19 @@
 			]
 		]
 	},
+	"真正": {
+		"py": "zhēnzhèng",
+		"mn": [
+			[
+				"adv",
+				"thực sự; thật sự"
+			],
+			[
+				"adj",
+				"chính hiệu; đích thực; thực thụ"
+			]
+		]
+	},
 	"之后": {
 		"py": "zhīhòu",
 		"mn": [
@@ -1566,12 +1880,30 @@
 			]
 		]
 	},
+	"高深": {
+		"py": "gāoshēn",
+		"mn": [
+			[
+				"",
+				"uyên thâm; cao thâm; cao xa; sâu xa; thâm thuý; nông sâu; cao sâu"
+			]
+		]
+	},
 	"学问": {
 		"py": "xuéwèn",
 		"mn": [
 			[
 				"n",
 				"tri thức; kiến thức; học thức | học vấn; kiến thức (hệ thống tri thức phản ánh chính xác sự vật khách quan)"
+			]
+		]
+	},
+	"餐馆": {
+		"py": "cānguǎn",
+		"mn": [
+			[
+				"n",
+				"nhà hàng; quán ăn; tiệm ăn"
 			]
 		]
 	},
@@ -1594,6 +1926,19 @@
 			[
 				"v",
 				"sinh hoạt; sinh sống | sinh tồn; tồn tại"
+			]
+		]
+	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
 			]
 		]
 	},
@@ -1643,6 +1988,32 @@
 			[
 				"v",
 				"giúp; giúp đỡ"
+			]
+		]
+	},
+	"岂不是": {
+		"py": "qǐbùshì",
+		"mn": [
+			[
+				"adv",
+				"chẳng phải sao; há chẳng phải"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
 			]
 		]
 	},
@@ -1729,6 +2100,15 @@
 			]
 		]
 	},
+	"之间": {
+		"py": "zhījiān",
+		"mn": [
+			[
+				"n",
+				"giữa | trong; giữa"
+			]
+		]
+	},
 	"机场": {
 		"py": "jīchǎng",
 		"mn": [
@@ -1795,6 +2175,15 @@
 			]
 		]
 	},
+	"答谢": {
+		"py": "dáxiè",
+		"mn": [
+			[
+				"v",
+				"đáp tạ; đáp ơn; tạ ơn; đền đáp"
+			]
+		]
+	},
 	"别人": {
 		"py": "biérén",
 		"mn": [
@@ -1827,6 +2216,15 @@
 			[
 				"n",
 				"đô la mỹ"
+			]
+		]
+	},
+	"即可": {
+		"py": "jíkě",
+		"mn": [
+			[
+				"adv",
+				"là có thể; là được rồi; có thể rồi"
 			]
 		]
 	},
@@ -1874,12 +2272,30 @@
 			]
 		]
 	},
+	"打扫": {
+		"py": "dǎsǎo",
+		"mn": [
+			[
+				"v",
+				"quét; quét dọn; dọn dẹp; thu dọn; quét tước"
+			]
+		]
+	},
 	"服务员": {
 		"py": "fúwùyuán",
 		"mn": [
 			[
 				"n",
 				"người phục vụ; nhân viên phục vụ"
+			]
+		]
+	},
+	"基本上": {
+		"py": "jīběnshàng",
+		"mn": [
+			[
+				"adv",
+				"chủ yếu; cốt yếu | nói chung; về cơ bản"
 			]
 		]
 	},
@@ -1918,12 +2334,30 @@
 			]
 		]
 	},
+	"枕头": {
+		"py": "zhěntou",
+		"mn": [
+			[
+				"n",
+				"gối; cái gối; chiếc gối"
+			]
+		]
+	},
 	"放": {
 		"py": "fàng",
 		"mn": [
 			[
 				"v",
 				"đặt; để; cất | cho; bỏ; thêm | chăn; thả | ngừng; nghỉ; tan (học tập, công tác) | phát; chiếu | tạm dừng; gác lại; để đấy (sự việc nào đó) | tha; thả; bỏ qua; phóng thích | phóng túng; buông thả | đày; lưu đày | phóng; bắn | đốt; châm | nới; mở rộng; kéo dài | nở; mở (hoa) | giữ; kiềm chế | làm đổ; làm lật | cho vay (cho vay lấy lãi)"
+			]
+		]
+	},
+	"高级": {
+		"py": "gāojí",
+		"mn": [
+			[
+				"adj",
+				"cấp cao; bậc cao | cao cấp; hảo hạng; thượng đẳng"
 			]
 		]
 	},
@@ -1997,6 +2431,27 @@
 			]
 		]
 	},
+	"绝": {
+		"py": "jué",
+		"mn": [
+			[
+				"adj",
+				"hết đường; tắc đường; đường cùng | vô song; tuyệt vời"
+			],
+			[
+				"v",
+				"đoạn tuyệt; cự tuyệt; cắt đứt | hết; sạch; cùng tận | chết; qua đời"
+			],
+			[
+				"adv",
+				"cực; nhất | tuyệt đối (dùng trước từ phủ định)"
+			],
+			[
+				"n",
+				"thể thơ"
+			]
+		]
+	},
 	"警察": {
 		"py": "jǐngchá",
 		"mn": [
@@ -2016,6 +2471,15 @@
 			[
 				"adv",
 				"có lẽ; có thể; chắc là"
+			]
+		]
+	},
+	"公务": {
+		"py": "gōngwù",
+		"mn": [
+			[
+				"n",
+				"công vụ; việc công; việc nước"
 			]
 		]
 	},
@@ -2047,6 +2511,15 @@
 			[
 				"pro",
 				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"井底之蛙": {
+		"py": "jǐngdǐzhīwā",
+		"mn": [
+			[
+				"idioms",
+				"ếch ngồi đáy giếng; hiểu biết nông cạn; cóc ngồi đáy giếng"
 			]
 		]
 	},
@@ -2090,6 +2563,19 @@
 			]
 		]
 	},
+	"夸张": {
+		"py": "kuāzhāng",
+		"mn": [
+			[
+				"adj",
+				"khoa trương; khuếch đại; lố; quá; thái quá"
+			],
+			[
+				"n",
+				"nói quá; cường điệu hóa; sự phóng đại; sự khoa trương"
+			]
+		]
+	},
 	"不过": {
 		"py": "bùguò",
 		"mn": [
@@ -2109,6 +2595,24 @@
 			[
 				"adv",
 				"còn; vẫn còn; còn có"
+			]
+		]
+	},
+	"方面": {
+		"py": "fāngmiàn",
+		"mn": [
+			[
+				"n",
+				"mặt; phía; phương diện; lĩnh vực; khía cạnh"
+			]
+		]
+	},
+	"假装": {
+		"py": "jiǎzhuāng",
+		"mn": [
+			[
+				"v",
+				"giả vờ; đóng giả; vờ vịt; tỏ ra"
 			]
 		]
 	},
@@ -2148,6 +2652,27 @@
 			[
 				"measure",
 				"phần"
+			]
+		]
+	},
+	"自然": {
+		"py": "zìrán",
+		"mn": [
+			[
+				"n",
+				"thiên nhiên; tự nhiên; giới tự nhiên"
+			],
+			[
+				"adj",
+				"tự nhiên (có sẵn) | tự nhiên (hình hành và phát triển)"
+			],
+			[
+				"adv",
+				"đương nhiên; tự nhiên"
+			],
+			[
+				"conj",
+				"tất nhiên; hiển nhiên"
 			]
 		]
 	},
@@ -2203,6 +2728,15 @@
 			]
 		]
 	},
+	"顾客": {
+		"py": "gùkè",
+		"mn": [
+			[
+				"n",
+				"khách hàng"
+			]
+		]
+	},
 	"完": {
 		"py": "wán",
 		"mn": [
@@ -2254,12 +2788,38 @@
 			]
 		]
 	},
+	"自觉": {
+		"py": "zìjué",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; cảm giác; tự cảm thấy"
+			],
+			[
+				"adj",
+				"tự giác; ý thức"
+			]
+		]
+	},
 	"留下": {
 		"py": "liúxià",
 		"mn": [
 			[
 				"v",
 				"để lại; lưu lại; ghi lại; giữ lại; ở lại; bỏ lại"
+			]
+		]
+	},
+	"足够": {
+		"py": "zúgòu",
+		"mn": [
+			[
+				"adj",
+				"đủ; đầy đủ"
+			],
+			[
+				"v",
+				"đủ; mãn nguyện; thoả mãn; hài lòng"
 			]
 		]
 	},
@@ -2289,6 +2849,33 @@
 			]
 		]
 	},
+	"体现": {
+		"py": "tǐxiàn",
+		"mn": [
+			[
+				"v",
+				"thể hiện; nói lên"
+			]
+		]
+	},
+	"修养": {
+		"py": "xiūyǎng",
+		"mn": [
+			[
+				"n",
+				"trình độ | văn hóa; kỷ luật; sự tu dưỡng; thái độ đúng mực"
+			]
+		]
+	},
+	"对于": {
+		"py": "duìyú",
+		"mn": [
+			[
+				"prep",
+				"đối với; với; về"
+			]
+		]
+	},
 	"外国人": {
 		"py": "wàiguórén",
 		"mn": [
@@ -2298,12 +2885,39 @@
 			]
 		]
 	},
+	"就算": {
+		"py": "jiùsuàn",
+		"mn": [
+			[
+				"conj",
+				"dù; cho dù; ngay cả"
+			]
+		]
+	},
+	"人家": {
+		"py": "rénjiā",
+		"mn": [
+			[
+				"n",
+				"nhà; hộ; gia đình | nhà người ta; nhà chồng tương lai; gia đình chồng tương lai"
+			]
+		]
+	},
 	"原谅": {
 		"py": "yuánliàng",
 		"mn": [
 			[
 				"v",
 				"tha thứ; thứ lỗi; tha lỗi"
+			]
+		]
+	},
+	"不必": {
+		"py": "bùbì",
+		"mn": [
+			[
+				"adv",
+				"khỏi; không cần; khỏi phải; không đáng"
 			]
 		]
 	},
@@ -2317,6 +2931,15 @@
 			[
 				"adv",
 				"quá; rất"
+			]
+		]
+	},
+	"紧张": {
+		"py": "jǐnzhāng",
+		"mn": [
+			[
+				"adj",
+				"hồi hộp; lo lắng; căng thẳng | khẩn trương; căng thẳng | eo hẹp; túng thiếu; khan hiếm"
 			]
 		]
 	},

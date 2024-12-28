@@ -1,4 +1,13 @@
 {
+	"听众": {
+		"py": "tīngzhòng",
+		"mn": [
+			[
+				"n",
+				"người nghe; thính giả"
+			]
+		]
+	},
 	"们": {
 		"py": "men",
 		"mn": [
@@ -56,6 +65,19 @@
 			]
 		]
 	},
+	"未来": {
+		"py": "wèilái",
+		"mn": [
+			[
+				"n",
+				"sau này; mai sau; tương lai"
+			],
+			[
+				"adj",
+				"tới; sau; tiếp theo"
+			]
+		]
+	},
 	"小时": {
 		"py": "xiǎoshí",
 		"mn": [
@@ -97,6 +119,15 @@
 			[
 				"time, n",
 				"ngày hôm nay; hôm nay; ngày rày; bữa ni; bữa nay"
+			]
+		]
+	},
+	"夜间": {
+		"py": "yèjiān",
+		"mn": [
+			[
+				"n, time",
+				"ban đêm"
 			]
 		]
 	},
@@ -178,6 +209,15 @@
 			]
 		]
 	},
+	"气温": {
+		"py": "qìwēn",
+		"mn": [
+			[
+				"n",
+				"nhiệt độ; nhiệt độ không khí"
+			]
+		]
+	},
 	"十七": {
 		"py": "shíqī",
 		"mn": [
@@ -213,6 +253,15 @@
 			]
 		]
 	},
+	"白天": {
+		"py": "báitiān",
+		"mn": [
+			[
+				"n",
+				"ban ngày"
+			]
+		]
+	},
 	"五": {
 		"py": "wǔ",
 		"mn": [
@@ -236,6 +285,15 @@
 			[
 				"n",
 				"lục (một âm trong nhạc cổ, tương đương với số 5 trong giản phổ) | họ Lục"
+			]
+		]
+	},
+	"最高": {
+		"py": "zuìgāo",
+		"mn": [
+			[
+				"adj",
+				"cao nhất | tối cao (tòa án, v.v.) | cao nhất | chí cao"
 			]
 		]
 	}

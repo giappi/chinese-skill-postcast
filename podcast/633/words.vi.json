@@ -30,6 +30,15 @@
 			]
 		]
 	},
+	"闯": {
+		"py": "chuǎng",
+		"mn": [
+			[
+				"v",
+				"xông; vượt; nhào vô; xông vào; xông xáo | rèn luyện; tôi luyện; tích lũy (trong thực tế) | bôn ba; tung hoành; bôn tẩu; tất bật; đi khắp nơi | chịu; gánh chịu; gây ra | lao vào; xông pha; lăn lộn"
+			]
+		]
+	},
 	"红灯": {
 		"py": "hóngdēng",
 		"mn": [
@@ -74,6 +83,15 @@
 			]
 		]
 	},
+	"急事": {
+		"py": "jíshì",
+		"mn": [
+			[
+				"n",
+				"việc gấp; trường hợp khẩn cấp"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -93,6 +111,19 @@
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"罚款": {
+		"py": "fákuǎn",
+		"mn": [
+			[
+				"n",
+				"tiền phạt"
+			],
+			[
+				"v",
+				"phạt tiền"
 			]
 		]
 	},
@@ -128,6 +159,23 @@
 			[
 				"av",
 				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
 			]
 		]
 	},
@@ -223,6 +271,24 @@
 			[
 				"n",
 				"họ Mãi"
+			]
+		]
+	},
+	"白菜": {
+		"py": "báicài",
+		"mn": [
+			[
+				"n",
+				"cải bao; cải thảo | cải (cây thân thảo sống một năm hoặc hai năm, cây nhỏ, lá lớn, màu xanh nhạt hoặc xanh đậm)"
+			]
+		]
+	},
+	"讨价还价": {
+		"py": "tǎojiàhuánjià",
+		"mn": [
+			[
+				"idioms",
+				"mặc cả; trả giá; cò kè; kì kèo; thương lượng"
 			]
 		]
 	}

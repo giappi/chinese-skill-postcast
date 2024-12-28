@@ -168,6 +168,15 @@
 			]
 		]
 	},
+	"假的": {
+		"py": "jiǎde",
+		"mn": [
+			[
+				"adj",
+				"giả; giả mạo; không có thật"
+			]
+		]
+	},
 	"不过": {
 		"py": "bùguò",
 		"mn": [
@@ -213,6 +222,15 @@
 			[
 				"adv",
 				"chậm rãi; chầm chậm; dần dần; từ từ | dần dà; dần dần; từ từ"
+			]
+		]
+	},
+	"好起来": {
+		"py": "hǎoqǐlái",
+		"mn": [
+			[
+				"v",
+				"để trở nên tốt hơn | để mau khỏi bệnh | để cải thiện"
 			]
 		]
 	},
@@ -291,6 +309,15 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"女生": {
+		"py": "nǚshēng",
+		"mn": [
+			[
+				"n",
+				"nữ sinh; học sinh nữ | cô gái; người con gái"
 			]
 		]
 	},

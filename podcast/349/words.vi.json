@@ -17,6 +17,19 @@
 			]
 		]
 	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
+			]
+		]
+	},
 	"一般": {
 		"py": "yībān",
 		"mn": [
@@ -87,6 +100,15 @@
 			[
 				"n",
 				"bữa trưa"
+			]
+		]
+	},
+	"有的": {
+		"py": "yǒude",
+		"mn": [
+			[
+				"pro",
+				"có， có cái, một số; có"
 			]
 		]
 	},
@@ -164,6 +186,15 @@
 			]
 		]
 	},
+	"饭馆": {
+		"py": "fànguǎn",
+		"mn": [
+			[
+				"n, nlocal",
+				"tiệm cơm; quán cơm; hiệu ăn; nhà hàng; khách sạn"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -199,6 +230,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"楼下": {
+		"py": "lóuxià",
+		"mn": [
+			[
+				"n",
+				"tầng dưới"
 			]
 		]
 	},

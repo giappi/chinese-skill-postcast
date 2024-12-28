@@ -16,6 +16,15 @@
 			]
 		]
 	},
+	"倒霉": {
+		"py": "dǎoméi",
+		"mn": [
+			[
+				"adj",
+				"xui; xui xẻo; xúi quẩy; không may"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -52,6 +61,15 @@
 			]
 		]
 	},
+	"钱包": {
+		"py": "qiánbāo",
+		"mn": [
+			[
+				"n",
+				"ví tiền; túi tiền; ví"
+			]
+		]
+	},
 	"丢": {
 		"py": "diū",
 		"mn": [
@@ -67,6 +85,24 @@
 			[
 				"adv",
 				"như tục ngữ nói / như họ nói ..."
+			]
+		]
+	},
+	"破财": {
+		"py": "pòcái",
+		"mn": [
+			[
+				"v",
+				"rủi ro; xui xẻo; hao tài; tổn tài"
+			]
+		]
+	},
+	"消灾": {
+		"py": "xiāozāi",
+		"mn": [
+			[
+				"v",
+				"để tránh tai họa"
 			]
 		]
 	},
@@ -101,6 +137,15 @@
 			[
 				"pro",
 				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"垂头丧气": {
+		"py": "chuítóusàngqì",
+		"mn": [
+			[
+				"idioms",
+				"ủ rũ; buồn nản; chán ngán; thất vọng; xìu mặt; mất tinh thần; buồn bã chán nản"
 			]
 		]
 	},

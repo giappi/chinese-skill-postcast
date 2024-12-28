@@ -175,6 +175,15 @@
 			]
 		]
 	},
+	"爸妈": {
+		"py": "bàmā",
+		"mn": [
+			[
+				"n",
+				"ba và mẹ"
+			]
+		]
+	},
 	"玩儿": {
 		"py": "wánr",
 		"mn": [
@@ -285,6 +294,15 @@
 			[
 				"v",
 				"du ngoạn; du lịch"
+			]
+		]
+	},
+	"旺季": {
+		"py": "wàngjì",
+		"mn": [
+			[
+				"n",
+				"mùa thịnh vượng; mùa rộ; mùa đắt hàng; mùa cao điểm (trong sản xuất và kinh doanh)"
 			]
 		]
 	},
@@ -532,6 +550,19 @@
 			]
 		]
 	},
+	"一方面": {
+		"py": "yīfāngmiàn",
+		"mn": [
+			[
+				"n",
+				"một mặt; một khía cạnh"
+			],
+			[
+				"conj",
+				"một mặt"
+			]
+		]
+	},
 	"主要": {
 		"py": "zhǔyào",
 		"mn": [
@@ -643,6 +674,15 @@
 			[
 				"adv",
 				"luôn luôn; lúc nào cũng; bao giờ cũng | chung quy; vẫn"
+			]
+		]
+	},
+	"而": {
+		"py": "ér",
+		"mn": [
+			[
+				"conj",
+				"và (không nối với danh từ) | mà （hai vế đẳng lập) | mà (nối hai thành phần có ý khẳng định và phủ định bổ sung cho nhau) | mà; mà lại; còn (nối các thành phần có ý nghĩa tương phản) | mà (nối các bộ phận có ý nghĩa nhân quả) | mà; nếu (đặt giữa chủ ngữ và vị ngữ) | mà; một cách (nối thành phần chỉ phương cách, thời gian với động từ) | đến; rồi (liên từ)"
 			]
 		]
 	},
@@ -763,6 +803,15 @@
 			]
 		]
 	},
+	"况且": {
+		"py": "kuàngqiě",
+		"mn": [
+			[
+				"conj",
+				"hơn nữa; vả lại; ngoài ra; vả chăng, huống hồ"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
@@ -802,6 +851,15 @@
 			]
 		]
 	},
+	"三四": {
+		"py": "sānsì",
+		"mn": [
+			[
+				"numb",
+				"vài bốn"
+			]
+		]
+	},
 	"个": {
 		"py": "gè",
 		"mn": [
@@ -833,6 +891,23 @@
 			[
 				"measure",
 				"giờ; tiếng"
+			]
+		]
+	},
+	"并": {
+		"py": "bìng",
+		"mn": [
+			[
+				"conj",
+				"và; đồng thời; hơn nữa; mà còn"
+			],
+			[
+				"v",
+				"kề; sát; cạnh; đi đôi; dàn hàng; bày song song | hợp lại; nhập lại; gộp lại; chập lại; ghép lại; sát nhập"
+			],
+			[
+				"adv",
+				"cùng; đồng thời | chả; chẳng; không hề; không phải; chẳng phải | cùng; đều; tất cả đều"
 			]
 		]
 	},
@@ -953,6 +1028,15 @@
 			]
 		]
 	},
+	"公里": {
+		"py": "gōnglǐ",
+		"mn": [
+			[
+				"measure",
+				"kilomet; cây số"
+			]
+		]
+	},
 	"哇": {
 		"py": "wā",
 		"mn": [
@@ -1014,6 +1098,28 @@
 			]
 		]
 	},
+	"尝试": {
+		"py": "chángshì",
+		"mn": [
+			[
+				"v",
+				"thử; thử nghiệm; cố gắng"
+			]
+		]
+	},
+	"体验": {
+		"py": "tǐyàn",
+		"mn": [
+			[
+				"v",
+				"trải nghiệm"
+			],
+			[
+				"n",
+				"trải nghiệm; kinh nghiệm; sự trải nghiệm"
+			]
+		]
+	},
 	"一下": {
 		"py": "yīxià",
 		"mn": [
@@ -1045,6 +1151,23 @@
 			]
 		]
 	},
+	"之": {
+		"py": "zhī",
+		"mn": [
+			[
+				"part",
+				"của (văn viết) | trong; giữa; vốn dĩ | phần trăm; phân số thập phân"
+			],
+			[
+				"pro",
+				"đấy; đó; kia (không cụ thể) | nó; anh ấy; cô ấy; người đó; việc đó"
+			],
+			[
+				"v",
+				"đến; tới; hướng tới; hướng về"
+			]
+		]
+	},
 	"行": {
 		"py": "xíng",
 		"mn": [
@@ -1063,6 +1186,15 @@
 			[
 				"adv",
 				"sắp sửa; sẽ"
+			]
+		]
+	},
+	"一帆风顺": {
+		"py": "yīfānfēngshùn",
+		"mn": [
+			[
+				"idioms",
+				"thuận buồm xuôi gió; xuôi chèo mát mái"
 			]
 		]
 	}

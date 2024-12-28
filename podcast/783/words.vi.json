@@ -183,6 +183,23 @@
 			]
 		]
 	},
+	"风": {
+		"py": "fēng",
+		"mn": [
+			[
+				"n",
+				"gió | phong tục; tập tục; thói quen | cảnh; cảnh tượng; cảnh sắc; phong cảnh; quang cảnh | tác phong; phong thái; phong cách | tin; tin tức; tin đồn | dân ca | bệnh; bệnh tật | họ Phong"
+			],
+			[
+				"v",
+				"thổi; quạt; phơi khô; làm khô; hong khô (sạch)"
+			],
+			[
+				"adj",
+				"đồn; đồn đại (không có căn cứ) | nhanh; nhanh chóng | phóng túng; phóng đãng; lẳng lơ"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [

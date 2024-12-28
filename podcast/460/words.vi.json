@@ -81,6 +81,15 @@
 			]
 		]
 	},
+	"事务所": {
+		"py": "shìwùsuǒ",
+		"mn": [
+			[
+				"n",
+				"văn phòng, cơ sở, công ty"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -201,6 +210,15 @@
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"委托": {
+		"py": "wěituō",
+		"mn": [
+			[
+				"v",
+				"giao; nhờ; ủy thác"
 			]
 		]
 	},
@@ -343,6 +361,15 @@
 			]
 		]
 	},
+	"面谈": {
+		"py": "miàntán",
+		"mn": [
+			[
+				"v",
+				"gặp mặt; đàm phán; thỏa thuận"
+			]
+		]
+	},
 	"比较": {
 		"py": "bǐjiào",
 		"mn": [
@@ -388,6 +415,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"办公室": {
+		"py": "bàngōngshì",
+		"mn": [
+			[
+				"n",
+				"văn phòng; phòng làm việc | phòng hành chính (bộ phận hành chính trong cơ quan, trường học, doanh nghiệp)"
 			]
 		]
 	},

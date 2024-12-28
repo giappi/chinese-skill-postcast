@@ -8,6 +8,27 @@
 			]
 		]
 	},
+	"第": {
+		"py": "dì",
+		"mn": [
+			[
+				"pref",
+				"thứ; đệ; thứ tự; thứ hạng"
+			],
+			[
+				"n",
+				"khoa đệ; khoa thi; hạng thi | phủ; dinh; dinh thự (nơi ở của quan lại thời xưa) | họ Đệ"
+			],
+			[
+				"adv",
+				"cứ; chỉ; chỉ cần"
+			],
+			[
+				"conj",
+				"nhưng"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -110,6 +131,15 @@
 			]
 		]
 	},
+	"中奖": {
+		"py": "zhòngjiǎng",
+		"mn": [
+			[
+				"v",
+				"trúng thưởng; trúng giải"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -134,6 +164,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"宾馆": {
+		"py": "bīnguǎn",
+		"mn": [
+			[
+				"n",
+				"nhà khách; khách sạn"
 			]
 		]
 	},
@@ -265,6 +304,15 @@
 			]
 		]
 	},
+	"澡": {
+		"py": "zǎo",
+		"mn": [
+			[
+				"v",
+				"tắm; rửa; tắm rửa (cơ thể)"
+			]
+		]
+	},
 	"坐": {
 		"py": "zuò",
 		"mn": [
@@ -372,6 +420,19 @@
 			]
 		]
 	},
+	"突然": {
+		"py": "tūrán",
+		"mn": [
+			[
+				"adv",
+				"đột nhiên; bỗng nhiên; bất ngờ"
+			],
+			[
+				"adj",
+				"đột ngột"
+			]
+		]
+	},
 	"感觉": {
 		"py": "gǎnjué",
 		"mn": [
@@ -382,6 +443,19 @@
 			[
 				"n",
 				"cảm giác"
+			]
+		]
+	},
+	"震": {
+		"py": "zhèn",
+		"mn": [
+			[
+				"v",
+				"chấn động; rung động; dao động | quá mức; ghê gớm (tinh thần bị kích động)"
+			],
+			[
+				"n",
+				"địa chấn; động đất | chấn (một trong tám Bát quái, tiêu biểu cho sấm sét) | sấm; sấm chớp | họ Chấn"
 			]
 		]
 	},
@@ -400,6 +474,28 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"厉害": {
+		"py": "lìhài",
+		"mn": [
+			[
+				"adj",
+				"lợi hại; kịch liệt; ghê gớm; dữ dội | giỏi; lợi hại; cừ; đáng gờm | mạnh; dữ dội; kinh hồn"
+			]
+		]
+	},
+	"接着": {
+		"py": "jiēzhe",
+		"mn": [
+			[
+				"v",
+				"đón; đỡ lấy; đón lấy; bắt lấy; chụp lấy | tiếp theo; kế tiếp; tiếp tục; đến lượt"
+			],
+			[
+				"adv",
+				"tiếp theo; tiếp lời; tiếp tục, ngay sau đó, tiếp đó; tiếp liền"
 			]
 		]
 	},
@@ -425,12 +521,43 @@
 			]
 		]
 	},
+	"灯": {
+		"py": "dēng",
+		"mn": [
+			[
+				"n",
+				"đèn; bóng đèn | đèn (đốt bằng chất lỏng hoặc chất khí) | đèn (đèn radio; tivi) | họ Đăng"
+			]
+		]
+	},
+	"晃动": {
+		"py": "huàngdòng",
+		"mn": [
+			[
+				"v",
+				"lắc lư; lay động; đu đưa; lung lay"
+			]
+		]
+	},
 	"马上": {
 		"py": "mǎshàng",
 		"mn": [
 			[
 				"adv",
 				"ngay; lập tức; tức khắc; liền lập tức; ngay lập tức"
+			]
+		]
+	},
+	"反应": {
+		"py": "fǎnyìng",
+		"mn": [
+			[
+				"v",
+				"phản ứng"
+			],
+			[
+				"n",
+				"hiệu ứng; phản ứng"
 			]
 		]
 	},
@@ -476,6 +603,19 @@
 			]
 		]
 	},
+	"地震": {
+		"py": "dìzhèn",
+		"mn": [
+			[
+				"v",
+				"xảy ra động đất"
+			],
+			[
+				"n",
+				"địa chấn; động đất; hiện tượng động đất; trận động đất"
+			]
+		]
+	},
 	"谢天谢地": {
 		"py": "xiètiānxièdì",
 		"mn": [
@@ -507,6 +647,15 @@
 			]
 		]
 	},
+	"造成": {
+		"py": "zàochéng",
+		"mn": [
+			[
+				"v",
+				"tạo thành; tạo ra; gây nên; dẫn đến; gây ra"
+			]
+		]
+	},
 	"人员": {
 		"py": "rényuán",
 		"mn": [
@@ -516,12 +665,30 @@
 			]
 		]
 	},
+	"伤亡": {
+		"py": "shāngwáng",
+		"mn": [
+			[
+				"v",
+				"thương vong"
+			]
+		]
+	},
 	"最后": {
 		"py": "zuìhòu",
 		"mn": [
 			[
 				"n",
 				"cuối cùng; sau cùng"
+			]
+		]
+	},
+	"平安": {
+		"py": "píngān",
+		"mn": [
+			[
+				"adj",
+				"bình an; bình yên; yên ổn; an toàn"
 			]
 		]
 	},

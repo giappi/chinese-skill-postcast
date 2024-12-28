@@ -125,6 +125,15 @@
 			]
 		]
 	},
+	"吵架": {
+		"py": "chǎojià",
+		"mn": [
+			[
+				"v",
+				"cãi nhau; cãi lộn"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -354,6 +363,40 @@
 			]
 		]
 	},
+	"束": {
+		"py": "shù",
+		"mn": [
+			[
+				"v",
+				"buộc; cột; thắt; đeo | gò bó; hạn chế;khống chế"
+			],
+			[
+				"measure",
+				"bó"
+			],
+			[
+				"n",
+				"chùm | họ Thúc"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
+			]
+		]
+	},
 	"回去": {
 		"py": "huíqù",
 		"mn": [
@@ -412,6 +455,15 @@
 			[
 				"n",
 				"tên Hồng; họ Hồng | lời; lãi; hoa hồng"
+			]
+		]
+	},
+	"情人节": {
+		"py": "qíngrénjié",
+		"mn": [
+			[
+				"n",
+				"lễ tình nhân"
 			]
 		]
 	},

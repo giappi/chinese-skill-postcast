@@ -12,6 +12,15 @@
 			]
 		]
 	},
+	"暑假": {
+		"py": "shǔjià",
+		"mn": [
+			[
+				"n",
+				"nghỉ hè; kỳ nghỉ hè"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -98,6 +107,24 @@
 			]
 		]
 	},
+	"海边": {
+		"py": "hǎibiān",
+		"mn": [
+			[
+				"n",
+				"bờ biển"
+			]
+		]
+	},
+	"度假": {
+		"py": "dùjià",
+		"mn": [
+			[
+				"v",
+				"nghỉ; đi nghỉ; nghỉ dưỡng; nghỉ mát"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -147,6 +174,15 @@
 			[
 				"n",
 				"học vấn; kiến thức | học (chỉ ngành học) | trường học; trường | học thuật; học thuyết"
+			]
+		]
+	},
+	"做饭": {
+		"py": "zuòfàn",
+		"mn": [
+			[
+				"v",
+				"làm cơm; nấu cơm; nấu ăn; nấu bếp"
 			]
 		]
 	}

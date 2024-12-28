@@ -98,6 +98,15 @@
 			]
 		]
 	},
+	"做人": {
+		"py": "zuòrén",
+		"mn": [
+			[
+				"v",
+				"đối đãi; đối xử; đối nhân xử thế | làm người"
+			]
+		]
+	},
 	"要": {
 		"py": "yào",
 		"mn": [
@@ -119,12 +128,30 @@
 			]
 		]
 	},
+	"诚实": {
+		"py": "chéngshí",
+		"mn": [
+			[
+				"adj",
+				"thành thật; trung thực"
+			]
+		]
+	},
 	"不能": {
 		"py": "bùnéng",
 		"mn": [
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"说谎": {
+		"py": "shuōhuǎng",
+		"mn": [
+			[
+				"sv, v",
+				"nói dối; nói láo"
 			]
 		]
 	},

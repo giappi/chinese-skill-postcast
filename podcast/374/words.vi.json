@@ -65,6 +65,15 @@
 			]
 		]
 	},
+	"别提了": {
+		"py": "biétíle",
+		"mn": [
+			[
+				"v",
+				"đừng nói nữa; đừng nhắc tới nữa"
+			]
+		]
+	},
 	"刚": {
 		"py": "gāng",
 		"mn": [
@@ -196,6 +205,15 @@
 			[
 				"adj",
 				"chật chội; kích; chèn ép"
+			]
+		]
+	},
+	"公交": {
+		"py": "gōngjiāo",
+		"mn": [
+			[
+				"n",
+				"giao thông công cộng"
 			]
 		]
 	}

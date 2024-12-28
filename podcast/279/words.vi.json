@@ -74,6 +74,15 @@
 			]
 		]
 	},
+	"奢侈": {
+		"py": "shēchǐ",
+		"mn": [
+			[
+				"adj",
+				"xa xỉ; hào hoa"
+			]
+		]
+	},
 	"那么": {
 		"py": "nàme",
 		"mn": [
@@ -97,6 +106,15 @@
 			[
 				"adj",
 				"cuối; muộn; sắp hết | sau; kế | cuối"
+			]
+		]
+	},
+	"公交": {
+		"py": "gōngjiāo",
+		"mn": [
+			[
+				"n",
+				"giao thông công cộng"
 			]
 		]
 	},

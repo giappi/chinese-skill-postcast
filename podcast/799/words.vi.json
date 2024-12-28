@@ -1,4 +1,13 @@
 {
+	"图书馆": {
+		"py": "túshūguǎn",
+		"mn": [
+			[
+				"n",
+				"thư viện"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -110,6 +119,23 @@
 			[
 				"pro",
 				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"大概": {
+		"py": "dàgài",
+		"mn": [
+			[
+				"adv",
+				"có thể; có lẽ; khoảng; độ; tầm; chắc"
+			],
+			[
+				"n",
+				"đại khái; nét chính; sơ lược; ý chính"
+			],
+			[
+				"adj",
+				"sơ sơ; chung chung"
 			]
 		]
 	},
@@ -273,6 +299,15 @@
 			]
 		]
 	},
+	"自助": {
+		"py": "zìzhù",
+		"mn": [
+			[
+				"v",
+				"tự; tự giúp mình; tự phục vụ | làm phụ tá; làm trợ lý"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -359,6 +394,24 @@
 			]
 		]
 	},
+	"扫描": {
+		"py": "sǎomiáo",
+		"mn": [
+			[
+				"v",
+				"scan; quét | lướt nhìn | quét (kiểm tra; tìm kiếm)"
+			]
+		]
+	},
+	"借书证": {
+		"py": "jièshūzhèng",
+		"mn": [
+			[
+				"n",
+				"thẻ mượn sách; thẻ đọc sách"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -373,6 +426,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"条形码": {
+		"py": "tiáoxíngmǎ",
+		"mn": [
+			[
+				"n",
+				"mã vạch; mã hàng hoá; ký hiệu hàng hoá"
 			]
 		]
 	},
@@ -394,6 +456,24 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"屏幕": {
+		"py": "píngmù",
+		"mn": [
+			[
+				"n",
+				"màn hình"
+			]
+		]
+	},
+	"显示": {
+		"py": "xiǎnshì",
+		"mn": [
+			[
+				"v",
+				"biểu thị; tỏ rõ; chứng tỏ; hiển thị | khoe; khoe khoang; phô trương; ra vẻ"
 			]
 		]
 	},
@@ -531,6 +611,15 @@
 			]
 		]
 	},
+	"书名": {
+		"py": "shūmíng",
+		"mn": [
+			[
+				"n",
+				"tên của một cuốn sách | danh tiếng như nhà thư pháp"
+			]
+		]
+	},
 	"日期": {
 		"py": "rìqī",
 		"mn": [
@@ -562,6 +651,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"还书": {
+		"py": "huánshū",
+		"mn": [
+			[
+				"v",
+				"trả sách"
 			]
 		]
 	},
@@ -652,6 +750,19 @@
 			[
 				"n",
 				"tiện lợi"
+			]
+		]
+	},
+	"指导": {
+		"py": "zhǐdǎo",
+		"mn": [
+			[
+				"v",
+				"chỉ đạo; hướng dẫn; chỉ bảo"
+			],
+			[
+				"n",
+				"chỉ dẫn; sự chỉ dẫn; sự hướng dẫn; sự dẫn dắt"
 			]
 		]
 	}

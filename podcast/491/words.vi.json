@@ -121,6 +121,15 @@
 			]
 		]
 	},
+	"长城": {
+		"py": "chángchéng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Trường Thành; Vạn Lý Trường Thành"
+			]
+		]
+	},
 	"觉得": {
 		"py": "juéde",
 		"mn": [
@@ -145,6 +154,15 @@
 			[
 				"pro",
 				"chúng; chúng nó (đại từ chỉ con vật hoặc đồ vật số nhiều)"
+			]
+		]
+	},
+	"各有千秋": {
+		"py": "gèyǒuqiānqiū",
+		"mn": [
+			[
+				"idioms",
+				"mỗi người mỗi vẻ; mỗi thứ đều có cái hay của nó; mỗi người một sở trường riêng"
 			]
 		]
 	}

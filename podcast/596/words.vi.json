@@ -56,6 +56,40 @@
 			]
 		]
 	},
+	"头": {
+		"py": "tóu",
+		"mn": [
+			[
+				"n",
+				"đầu; cái đầu | tóc; đầu tóc; kiểu tóc | đầu mục; người đứng đầu; người cầm đầu | đầu; đỉnh; chóp (vật thể) | điểm đầu; điểm chót của sự việc | phía; mặt; bên; phương diện | phần còn lại; phần sót lại; phần thừa ra"
+			],
+			[
+				"measure",
+				"con (gia súc) | củ"
+			],
+			[
+				"numb",
+				"nhất; đầu; số một; thứ nhất; hạng nhất"
+			],
+			[
+				"adj",
+				"đầu; đầu tiên; đứng đầu; dẫn đầu | trước; trước kia; trước đây"
+			],
+			[
+				"prep",
+				"trước; gần; tiếp cận"
+			]
+		]
+	},
+	"脖子": {
+		"py": "bózi",
+		"mn": [
+			[
+				"n",
+				"cái cổ; cổ"
+			]
+		]
+	},
 	"手": {
 		"py": "shǒu",
 		"mn": [
@@ -81,12 +115,56 @@
 			]
 		]
 	},
+	"胳膊": {
+		"py": "gēbo",
+		"mn": [
+			[
+				"n",
+				"cánh tay; tay"
+			]
+		]
+	},
 	"肚子": {
 		"py": "dùzi",
 		"mn": [
 			[
 				"n",
 				"bụng; cái bụng | bắp; bụng (vật có hình dáng giống cái bụng) | bụng; lòng; tâm; tấm lòng"
+			]
+		]
+	},
+	"背": {
+		"py": "bèi",
+		"mn": [
+			[
+				"n",
+				"lưng; cái lưng | mu; sống; gáy; sau; mặt sau"
+			],
+			[
+				"v",
+				"quay lưng; quay lưng lại | thuộc; thuộc lòng | vi phạm; làm trái; đi ngược lại | bỏ; bỏ đi; rời bỏ; rời khỏi | núp; trốn, giấu; giấu diếm; lén lút"
+			],
+			[
+				"adj",
+				"xui; xui xẻo; đen đủi; không may | vắng; hẻo lánh; vắng vẻ | nặng tai; nghe kém; nghễnh ngãng; nghe không rõ"
+			]
+		]
+	},
+	"腰": {
+		"py": "yāo",
+		"mn": [
+			[
+				"n",
+				"lưng; eo; cật | lưng quần；lưng váy | hầu bao | giữa; lưng chừng | eo; thắt lại"
+			]
+		]
+	},
+	"屁股": {
+		"py": "pìgu",
+		"mn": [
+			[
+				"n",
+				"mông; đít; phần đít; phần mông; mông đít | đuôi; đầu mút"
 			]
 		]
 	},

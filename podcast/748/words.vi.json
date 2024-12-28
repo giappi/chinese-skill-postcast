@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"节食": {
+		"py": "jiéshí",
+		"mn": [
+			[
+				"v",
+				"ăn kiêng; giảm cân; ăn ít"
+			]
+		]
+	},
 	"两": {
 		"py": "liǎng",
 		"mn": [
@@ -120,12 +129,47 @@
 			]
 		]
 	},
+	"馋": {
+		"py": "chán",
+		"mn": [
+			[
+				"v",
+				"thèm; ham; thèm ăn; tham ăn; háu ăn"
+			],
+			[
+				"adj",
+				"thèm muốn; ước ao"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"要命": {
+		"py": "yàomìng",
+		"mn": [
+			[
+				"v",
+				"chết người; mất mạng"
+			],
+			[
+				"adj",
+				"cực kỳ; vô cùng | khó chịu (hình dung khiến người ta không thể chịu đựng được)"
+			]
+		]
+	},
+	"立刻": {
+		"py": "lìkè",
+		"mn": [
+			[
+				"adv",
+				"ngay; luôn; lập tức; tức khắc; liền lập tức; ngay lập tức"
 			]
 		]
 	},
@@ -164,6 +208,31 @@
 			[
 				"part",
 				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"头": {
+		"py": "tóu",
+		"mn": [
+			[
+				"n",
+				"đầu; cái đầu | tóc; đầu tóc; kiểu tóc | đầu mục; người đứng đầu; người cầm đầu | đầu; đỉnh; chóp (vật thể) | điểm đầu; điểm chót của sự việc | phía; mặt; bên; phương diện | phần còn lại; phần sót lại; phần thừa ra"
+			],
+			[
+				"measure",
+				"con (gia súc) | củ"
+			],
+			[
+				"numb",
+				"nhất; đầu; số một; thứ nhất; hạng nhất"
+			],
+			[
+				"adj",
+				"đầu; đầu tiên; đứng đầu; dẫn đầu | trước; trước kia; trước đây"
+			],
+			[
+				"prep",
+				"trước; gần; tiếp cận"
 			]
 		]
 	},
@@ -240,6 +309,15 @@
 			]
 		]
 	},
+	"自助": {
+		"py": "zìzhù",
+		"mn": [
+			[
+				"v",
+				"tự; tự giúp mình; tự phục vụ | làm phụ tá; làm trợ lý"
+			]
+		]
+	},
 	"挑": {
 		"py": "tiāo",
 		"mn": [
@@ -254,6 +332,15 @@
 			[
 				"n",
 				"gánh hàng"
+			]
+		]
+	},
+	"巴西": {
+		"py": "bāxī",
+		"mn": [
+			[
+				"n",
+				"Brazil; Ba Tây (viết tắt là Braz)"
 			]
 		]
 	},
@@ -396,6 +483,24 @@
 			]
 		]
 	},
+	"新鲜": {
+		"py": "xīnxiān",
+		"mn": [
+			[
+				"adj",
+				"tươi; tươi ngon (rau, quả, hoa, thịt, trứng, cá...) | trong lành (không khí) | mới xuất hiện; mới mẻ; tươi mới"
+			]
+		]
+	},
+	"味道": {
+		"py": "wèidào",
+		"mn": [
+			[
+				"n",
+				"vị; mùi; mùi vị | tư vị; cảm giác | thích thú; thú vị"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -510,6 +615,46 @@
 			]
 		]
 	},
+	"食欲": {
+		"py": "shíyù",
+		"mn": [
+			[
+				"n",
+				"thèm ăn; ngon miệng"
+			]
+		]
+	},
+	"完全": {
+		"py": "wánquán",
+		"mn": [
+			[
+				"adj",
+				"đầy đủ; trọn vẹn; hoàn hảo; tốt nhất; chính xác"
+			],
+			[
+				"adv",
+				"hoàn toàn"
+			]
+		]
+	},
+	"调动": {
+		"py": "diàodòng",
+		"mn": [
+			[
+				"v",
+				"điều động; thay đổi; thuyên chuyển | động viên; huy động; vận động"
+			]
+		]
+	},
+	"起来": {
+		"py": "qǐlái",
+		"mn": [
+			[
+				"v",
+				"ngồi dậy; đứng dậy | ngủ dậy; thức dậy | nổi dậy; vùng lên; dâng lên"
+			]
+		]
+	},
 	"拿": {
 		"py": "ná",
 		"mn": [
@@ -529,6 +674,15 @@
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"盘子": {
+		"py": "pánzi",
+		"mn": [
+			[
+				"n",
+				"khay; đĩa; mâm | tình hình buôn bán; giao dịch buôn bán"
 			]
 		]
 	},
@@ -615,6 +769,15 @@
 			[
 				"n",
 				"sự nỗ lực; cố gắng; sự chăm chỉ"
+			]
+		]
+	},
+	"毁于一旦": {
+		"py": "huǐyúyīdàn",
+		"mn": [
+			[
+				"idioms",
+				"hủy hoại trong chốc lát; phá hủy trong chốc lát"
 			]
 		]
 	}

@@ -43,6 +43,28 @@
 			]
 		]
 	},
+	"继续": {
+		"py": "jìxù",
+		"mn": [
+			[
+				"v",
+				"tiếp tục; kéo dài (hoạt động) | chuyển sang; kế thừa; kế tục; tiếp nối; theo chân nối gót"
+			],
+			[
+				"adv",
+				"không ngừng; liên tục; tiếp tục"
+			]
+		]
+	},
+	"深造": {
+		"py": "shēnzào",
+		"mn": [
+			[
+				"v",
+				"học thêm; chuyên sâu; đào tạo sâu"
+			]
+		]
+	},
 	"对": {
 		"py": "duì",
 		"mn": [
@@ -122,6 +144,15 @@
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"硕士": {
+		"py": "shuòshì",
+		"mn": [
+			[
+				"n",
+				"thạc sĩ; cao học"
 			]
 		]
 	},
@@ -308,6 +339,24 @@
 			]
 		]
 	},
+	"在职": {
+		"py": "zàizhí",
+		"mn": [
+			[
+				"adj",
+				"tại chức; đương chức"
+			]
+		]
+	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
+			]
+		]
+	},
 	"但": {
 		"py": "dàn",
 		"mn": [
@@ -366,6 +415,24 @@
 			[
 				"part",
 				"bị (dùng trước động từ tạo thành nhóm từ biểu thị sự bị động)"
+			]
+		]
+	},
+	"名校": {
+		"py": "míngxiào",
+		"mn": [
+			[
+				"n",
+				"trường nổi tiếng"
+			]
+		]
+	},
+	"录取": {
+		"py": "lùqǔ",
+		"mn": [
+			[
+				"v",
+				"tuyển chọn; nhận vào; chấm đậu; trúng tuyển; tuyển sinh"
 			]
 		]
 	},
@@ -479,6 +546,24 @@
 			]
 		]
 	},
+	"物有所值": {
+		"py": "wùyǒusuǒzhí",
+		"mn": [
+			[
+				"n",
+				"Giá trị của đồng tiền"
+			]
+		]
+	},
+	"金融": {
+		"py": "jīnróng",
+		"mn": [
+			[
+				"n",
+				"tài chính"
+			]
+		]
+	},
 	"专业": {
 		"py": "zhuānyè",
 		"mn": [
@@ -489,6 +574,15 @@
 			[
 				"adj",
 				"chuyên nghiệp"
+			]
+		]
+	},
+	"本科": {
+		"py": "běnkē",
+		"mn": [
+			[
+				"n",
+				"đại học; chính quy"
 			]
 		]
 	},
@@ -510,12 +604,30 @@
 			]
 		]
 	},
+	"做到": {
+		"py": "zuòdào",
+		"mn": [
+			[
+				"v",
+				"làm được; thực hiện được"
+			]
+		]
+	},
 	"公司": {
 		"py": "gōngsī",
 		"mn": [
 			[
 				"n",
 				"công ty"
+			]
+		]
+	},
+	"高层": {
+		"py": "gāocéng",
+		"mn": [
+			[
+				"n",
+				"cao tầng | cao cấp; cao"
 			]
 		]
 	},
@@ -529,6 +641,15 @@
 			[
 				"adv",
 				"có lẽ; có thể"
+			]
+		]
+	},
+	"资本": {
+		"py": "zīběn",
+		"mn": [
+			[
+				"n",
+				"tư sản | tư bản | vốn; vốn liếng; vốn điều lệ"
 			]
 		]
 	},
@@ -581,6 +702,15 @@
 			[
 				"n",
 				"ưu thế; thế trội; thế mạnh; lợi thế; điểm mạnh"
+			]
+		]
+	},
+	"会计": {
+		"py": "kuàijì",
+		"mn": [
+			[
+				"n",
+				"kế toán | kế toán viên"
 			]
 		]
 	},
@@ -653,6 +783,15 @@
 			]
 		]
 	},
+	"职场": {
+		"py": "zhíchǎng",
+		"mn": [
+			[
+				"n",
+				"nơi công sở; nơi làm việc; môi trường công sở; thị trường lao động"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -714,6 +853,15 @@
 			]
 		]
 	},
+	"强烈": {
+		"py": "qiángliè",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mãnh liệt; mạnh mẽ | đậm; rõ ràng; mạnh mẽ | mạnh mẽ; quyết liệt"
+			]
+		]
+	},
 	"建议": {
 		"py": "jiànyì",
 		"mn": [
@@ -724,6 +872,15 @@
 			[
 				"n",
 				"sự kiến nghị; đề xuất; lời khuyên"
+			]
+		]
+	},
+	"几年": {
+		"py": "jǐnián",
+		"mn": [
+			[
+				"n",
+				"một vài năm | bao nhiêu năm | vài năm"
 			]
 		]
 	}

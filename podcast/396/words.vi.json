@@ -17,6 +17,24 @@
 			]
 		]
 	},
+	"宾馆": {
+		"py": "bīnguǎn",
+		"mn": [
+			[
+				"n",
+				"nhà khách; khách sạn"
+			]
+		]
+	},
+	"竭诚": {
+		"py": "jiéchéng",
+		"mn": [
+			[
+				"adv",
+				"hết sức trung thành; tận tuỵ; vô cùng chân thành; toàn tâm toàn ý; hết lòng hết dạ; hết lòng"
+			]
+		]
+	},
 	"为": {
 		"py": "wèi",
 		"mn": [
@@ -127,6 +145,15 @@
 			]
 		]
 	},
+	"商务": {
+		"py": "shāngwù",
+		"mn": [
+			[
+				"n",
+				"thương vụ; công việc buôn bán, thương mại; thương sự; kinh doanh"
+			]
+		]
+	},
 	"套间": {
 		"py": "tàojiān",
 		"mn": [
@@ -168,6 +195,15 @@
 			[
 				"v",
 				"kể; bảo; nói cho; báo cho; chỉ bảo; mách; mách cho; dặn dò; nói với"
+			]
+		]
+	},
+	"确切": {
+		"py": "quèqiè",
+		"mn": [
+			[
+				"adj",
+				"chuẩn xác; xác đáng; chính xác | chắc chắn"
 			]
 		]
 	},
@@ -266,12 +302,30 @@
 			]
 		]
 	},
+	"国庆节": {
+		"py": "guóqìngjié",
+		"mn": [
+			[
+				"n",
+				"ngày Quốc khánh"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"黄金周": {
+		"py": "huángjīnzhōu",
+		"mn": [
+			[
+				"n",
+				"tuần lễ vàng (các kỳ nghỉ lễ ở Trung Quốc kéo dài 7 ngày)"
 			]
 		]
 	},

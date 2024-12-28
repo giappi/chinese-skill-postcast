@@ -143,6 +143,15 @@
 			]
 		]
 	},
+	"生病": {
+		"py": "shēngbìng",
+		"mn": [
+			[
+				"v",
+				"sinh bệnh; phát bệnh; bị ốm"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -171,6 +180,15 @@
 			[
 				"intj",
 				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"没什么": {
+		"py": "méishénme",
+		"mn": [
+			[
+				"sentence",
+				"không sao; không việc gì; không hề gì"
 			]
 		]
 	},
@@ -208,6 +226,15 @@
 			]
 		]
 	},
+	"粥": {
+		"py": "zhōu",
+		"mn": [
+			[
+				"n",
+				"cháo"
+			]
+		]
+	},
 	"个": {
 		"py": "gè",
 		"mn": [
@@ -226,6 +253,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"煎蛋": {
+		"py": "jiāndàn",
+		"mn": [
+			[
+				"n",
+				"trứng chiên; trứng rán"
 			]
 		]
 	},
@@ -260,6 +296,15 @@
 			[
 				"n",
 				"cái đĩa; đĩa | đĩa; đĩa video; đĩa cứng | đĩa mềm | đĩa (vật giống hình đĩa)"
+			]
+		]
+	},
+	"咸菜": {
+		"py": "xiáncài",
+		"mn": [
+			[
+				"n",
+				"dưa muối; dưa"
 			]
 		]
 	},

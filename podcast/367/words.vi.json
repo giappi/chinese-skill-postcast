@@ -1,4 +1,17 @@
 {
+	"嘘": {
+		"py": "xū",
+		"mn": [
+			[
+				"v",
+				"thở; hà hơi (thở ra từ miệng) | thở dài | táp (lửa; hơi nước) | làm nóng; hâm nóng; hấp lại | đuổi; cản trở; cản"
+			],
+			[
+				"intj",
+				"xuỵt (biểu thị sự ngăn cản)"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -233,6 +246,15 @@
 			]
 		]
 	},
+	"小声": {
+		"py": "xiǎoshēng",
+		"mn": [
+			[
+				"v",
+				"(nói) thì thầm | bằng một giọng nói nhỏ"
+			]
+		]
+	},
 	"点": {
 		"py": "diǎn",
 		"mn": [
@@ -297,6 +319,28 @@
 			]
 		]
 	},
+	"空气": {
+		"py": "kōngqì",
+		"mn": [
+			[
+				"n",
+				"không khí | bầu không khí; môi trường"
+			]
+		]
+	},
+	"影响": {
+		"py": "yǐngxiǎng",
+		"mn": [
+			[
+				"v",
+				"ảnh hưởng"
+			],
+			[
+				"n",
+				"sự ảnh hưởng"
+			]
+		]
+	},
 	"下": {
 		"py": "xià",
 		"mn": [
@@ -348,6 +392,15 @@
 			]
 		]
 	},
+	"地区": {
+		"py": "dìqū",
+		"mn": [
+			[
+				"n",
+				"khu; miền; vùng | khu vực; chuyên khu; khu vực hành chính | thuộc địa"
+			]
+		]
+	},
 	"会": {
 		"py": "huì",
 		"mn": [
@@ -362,6 +415,15 @@
 			[
 				"n",
 				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"出现": {
+		"py": "chūxiàn",
+		"mn": [
+			[
+				"v",
+				"xuất hiện; nảy sinh; ló ra; nổi lên; hiện ra"
 			]
 		]
 	},
@@ -412,6 +474,15 @@
 			]
 		]
 	},
+	"周二": {
+		"py": "zhōuèr",
+		"mn": [
+			[
+				"n",
+				"Thứ ba"
+			]
+		]
+	},
 	"上午": {
 		"py": "shàngwǔ",
 		"mn": [
@@ -430,6 +501,37 @@
 			]
 		]
 	},
+	"阳光": {
+		"py": "yángguāng",
+		"mn": [
+			[
+				"n",
+				"ánh nắng; ánh mặt trời; ánh sáng mặt trời"
+			],
+			[
+				"adj",
+				"lạc quan; vui vẻ | rõ ràng; minh bạch"
+			]
+		]
+	},
+	"明媚": {
+		"py": "míngmèi",
+		"mn": [
+			[
+				"adj",
+				"tươi đẹp ;rực rỡ"
+			]
+		]
+	},
+	"气温": {
+		"py": "qìwēn",
+		"mn": [
+			[
+				"n",
+				"nhiệt độ; nhiệt độ không khí"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -440,6 +542,24 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"有所": {
+		"py": "yǒusuǒ",
+		"mn": [
+			[
+				"v",
+				"có chút; có phần; có chỗ; có điểm; có một vài; có một số"
+			]
+		]
+	},
+	"回升": {
+		"py": "huíshēng",
+		"mn": [
+			[
+				"v",
+				"tăng trở lại; lên lại"
 			]
 		]
 	},
@@ -504,6 +624,24 @@
 			]
 		]
 	},
+	"夜间": {
+		"py": "yèjiān",
+		"mn": [
+			[
+				"n, time",
+				"ban đêm"
+			]
+		]
+	},
+	"湿度": {
+		"py": "shīdù",
+		"mn": [
+			[
+				"n",
+				"độ ẩm"
+			]
+		]
+	},
 	"大": {
 		"py": "dà",
 		"mn": [
@@ -518,6 +656,15 @@
 			[
 				"n",
 				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"降雨": {
+		"py": "jiàngyǔ",
+		"mn": [
+			[
+				"v",
+				"mưa; mưa rơi | lượng mưa; trận mưa"
 			]
 		]
 	},
@@ -548,6 +695,54 @@
 			]
 		]
 	},
+	"强": {
+		"py": "qiáng",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mạnh mẽ | kiên cường; cao; mạnh mẽ (tình cảm, ý chí) | tốt; ưu việt; hơn | dư; thừa; hơn"
+			],
+			[
+				"adv",
+				"cưỡng bức; cưỡng ép"
+			],
+			[
+				"n",
+				"họ Cường"
+			],
+			[
+				"v",
+				"tăng cường; làm mạnh mẽ; làm lớn mạnh"
+			]
+		]
+	},
+	"大幅度": {
+		"py": "dàfúdù",
+		"mn": [
+			[
+				"adv",
+				"đáng kể; một cách đáng kể"
+			]
+		]
+	},
+	"降温": {
+		"py": "jiàngwēn",
+		"mn": [
+			[
+				"v",
+				"hạ nhiệt; giảm nhiệt; hạ nhiệt độ | nhiệt độ giảm; nhiệt độ hạ thấp | giảm; giảm nhiệt; nguội lạnh (nhiệt huyết)"
+			]
+		]
+	},
+	"温度": {
+		"py": "wēndù",
+		"mn": [
+			[
+				"n",
+				"nhiệt độ; ôn độ; độ nóng; ổn độ"
+			]
+		]
+	},
 	"可能": {
 		"py": "kěnéng",
 		"mn": [
@@ -565,6 +760,15 @@
 			]
 		]
 	},
+	"跌": {
+		"py": "diē",
+		"mn": [
+			[
+				"v",
+				"ngã; té; ngã xuống | rơi xuống; rớt (vật thể) | hạ; giảm; xuống; sụt (vật giá)"
+			]
+		]
+	},
 	"至": {
 		"py": "zhì",
 		"mn": [
@@ -579,6 +783,15 @@
 			[
 				"prep",
 				"đến; cho đến khi"
+			]
+		]
+	},
+	"摄氏度": {
+		"py": "shèshìdù",
+		"mn": [
+			[
+				"n",
+				"độ C"
 			]
 		]
 	},
@@ -708,6 +921,15 @@
 			]
 		]
 	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
+			]
+		]
+	},
 	"家": {
 		"py": "jiā",
 		"mn": [
@@ -762,6 +984,19 @@
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"算是": {
+		"py": "suànshì",
+		"mn": [
+			[
+				"v",
+				"coi như; xem như; được coi là; được xem là"
+			],
+			[
+				"adv",
+				"rốt cuộc; cuối cùng"
 			]
 		]
 	}

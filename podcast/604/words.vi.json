@@ -35,6 +35,24 @@
 			]
 		]
 	},
+	"生病": {
+		"py": "shēngbìng",
+		"mn": [
+			[
+				"v",
+				"sinh bệnh; phát bệnh; bị ốm"
+			]
+		]
+	},
+	"住院": {
+		"py": "zhùyuàn",
+		"mn": [
+			[
+				"v",
+				"nằm viện; vào viện; nằm bệnh viện; nhập viện"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -93,6 +111,15 @@
 			[
 				"n",
 				"bệnh viện; nhà thương"
+			]
+		]
+	},
+	"探病": {
+		"py": "tànbìng",
+		"mn": [
+			[
+				"v",
+				"thăm một người bệnh hoặc bệnh nhân"
 			]
 		]
 	},
@@ -235,6 +262,15 @@
 			]
 		]
 	},
+	"宝贝": {
+		"py": "bǎobèi",
+		"mn": [
+			[
+				"n",
+				"bảo bối; đồ quý; của quý | cục cưng; bé cưng; bảo bối | kẻ bất tài; kẻ lố bịch; người vô dụng (cách gọi kẻ bất tài, rông càn quái gở)"
+			]
+		]
+	},
 	"女儿": {
 		"py": "nǚér",
 		"mn": [
@@ -315,6 +351,15 @@
 			]
 		]
 	},
+	"鲜花": {
+		"py": "xiānhuā",
+		"mn": [
+			[
+				"n",
+				"hoa tươi"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -358,6 +403,15 @@
 			]
 		]
 	},
+	"老人": {
+		"py": "lǎorén",
+		"mn": [
+			[
+				"n",
+				"người già; cụ già | cha mẹ già; ông bà cụ"
+			]
+		]
+	},
 	"时候": {
 		"py": "shíhou",
 		"mn": [
@@ -386,6 +440,15 @@
 			[
 				"v",
 				"bất cứ ai | bị chiếm đóng (như trong phòng vệ sinh) | Mọi người | người nào | Có ai đó ở đó"
+			]
+		]
+	},
+	"关心": {
+		"py": "guānxīn",
+		"mn": [
+			[
+				"v",
+				"quan tâm; lo lắng; trông nom; chú ý (người hoặc sự vật)"
 			]
 		]
 	}

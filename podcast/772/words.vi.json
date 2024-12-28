@@ -70,6 +70,24 @@
 			]
 		]
 	},
+	"别提了": {
+		"py": "biétíle",
+		"mn": [
+			[
+				"v",
+				"đừng nói nữa; đừng nhắc tới nữa"
+			]
+		]
+	},
+	"自从": {
+		"py": "zìcóng",
+		"mn": [
+			[
+				"prep",
+				"từ; từ khi; từ lúc; kể từ; kể từ khi"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -89,6 +107,15 @@
 			[
 				"n",
 				"việc làm; nghề nghiệp; công việc; nghề ngỗng | nhiệm vụ; nghiệp vụ; công tác"
+			]
+		]
+	},
+	"以来": {
+		"py": "yǐlái",
+		"mn": [
+			[
+				"n",
+				"đến nay; trước nay"
 			]
 		]
 	},
@@ -124,6 +151,15 @@
 			[
 				"v",
 				"nhận được; tiếp nhận"
+			]
+		]
+	},
+	"同病相怜": {
+		"py": "tóngbìngxiānglián",
+		"mn": [
+			[
+				"idioms",
+				"đồng bệnh tương lân; cùng cảnh ngộ thì thông cảm nhau; vét bồ thương kẻ ăn đong"
 			]
 		]
 	},
@@ -176,6 +212,15 @@
 			]
 		]
 	},
+	"怀念": {
+		"py": "huáiniàn",
+		"mn": [
+			[
+				"v",
+				"nhớ; hoài niệm; nhớ nhung; tưởng nhớ"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -224,6 +269,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"童年": {
+		"py": "tóngnián",
+		"mn": [
+			[
+				"n, time",
+				"thời thơ ấu; tuổi thơ ấu; thời niên thiếu"
 			]
 		]
 	},

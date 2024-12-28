@@ -47,6 +47,15 @@
 			]
 		]
 	},
+	"手艺": {
+		"py": "shǒuyì",
+		"mn": [
+			[
+				"n",
+				"tay nghề; kỹ thuật"
+			]
+		]
+	},
 	"哇": {
 		"py": "wā",
 		"mn": [
@@ -66,6 +75,15 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"夸奖": {
+		"py": "kuājiǎng",
+		"mn": [
+			[
+				"v",
+				"khen; khen ngợi; ca ngợi"
 			]
 		]
 	},
@@ -249,6 +267,15 @@
 			]
 		]
 	},
+	"厨房": {
+		"py": "chúfáng",
+		"mn": [
+			[
+				"n",
+				"bếp; phòng bếp; nhà bếp"
+			]
+		]
+	},
 	"把": {
 		"py": "bǎ",
 		"mn": [
@@ -324,6 +351,24 @@
 			[
 				"part",
 				"quá (dùng ở cuối câu, tỏ ý ca ngợi) | nhỉ; nhá; nhé; đấy; đi thôi (dùng cuối câu, tỏ ý khẳng định, thúc giục, dặn dò) | hả; chứ (dùng ở cuối câu, tỏ ý nghi vấn) | đấy; ư; đó (dùng giữa câu, dừng một chút để người nghe chú ý đến lời nói tiếp theo) | này; nào; a (dùng sau những vật được liệt kê) | nha; nhá; ư (thể hiện sự thiếu kiên nhẫn; hoặc điều hiển nhiên)"
+			]
+		]
+	},
+	"筷子": {
+		"py": "kuàizi",
+		"mn": [
+			[
+				"n",
+				"đũa; đôi đũa"
+			]
+		]
+	},
+	"地上": {
+		"py": "dìshàng",
+		"mn": [
+			[
+				"n",
+				"mặt đất; dưới đất"
 			]
 		]
 	},

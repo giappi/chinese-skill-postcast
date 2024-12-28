@@ -1,4 +1,13 @@
 {
+	"惨": {
+		"py": "cǎn",
+		"mn": [
+			[
+				"adj",
+				"bi thảm; thê thảm; thảm thương; thảm thiết | vô cùng; cực kỳ; ghê gớm; thê thảm | độc ác; hung ác; tàn ác | ảm đạm; tối tăm"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -23,6 +32,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"电脑": {
+		"py": "diànnǎo",
+		"mn": [
+			[
+				"n",
+				"máy vi tính; máy tính"
 			]
 		]
 	},
@@ -114,6 +132,40 @@
 			[
 				"n",
 				"chủ tiệm; ông chủ | ông bầu; bà bầu; bầu gánh (hát; kịch; tuồng...)"
+			]
+		]
+	},
+	"非": {
+		"py": "fēi",
+		"mn": [
+			[
+				"adv",
+				"phải; nhất định | không; không phải; không phải là | hỏng; tệ; xấu; không tốt"
+			],
+			[
+				"v",
+				"phản đối; chê trách; trách mắng; không đồng ý | vi phạm; phi pháp; phạm pháp; phạm luật; không hợp | không; không phải"
+			],
+			[
+				"n",
+				"Châu Phi"
+			],
+			[
+				"adj",
+				"sai; trái; không đúng; sai lầm"
+			],
+			[
+				"pref",
+				"phi; không"
+			]
+		]
+	},
+	"炒": {
+		"py": "chǎo",
+		"mn": [
+			[
+				"v",
+				"xào; tráng; rang | tạo, tung, thổi phồng (tin tức, scandal...) | đầu tư, đầu cơ | sa thải, đuổi"
 			]
 		]
 	},

@@ -21,6 +21,15 @@
 			]
 		]
 	},
+	"半夜三更": {
+		"py": "bànyèsāngēng",
+		"mn": [
+			[
+				"idioms",
+				"khuya khoắt; nửa đêm canh ba; đêm hôm khuya khoắt; nửa đêm nửa hôm; giữa đêm giữa hôm"
+			]
+		]
+	},
 	"唱歌": {
 		"py": "chànggē",
 		"mn": [
@@ -122,6 +131,15 @@
 			]
 		]
 	},
+	"收敛": {
+		"py": "shōuliǎn",
+		"mn": [
+			[
+				"v",
+				"thu lại; biến mất; vụt tắt (nụ cười, tia sáng) | kiềm chế; bớt phóng túng; tém tém lại; bớt bớt lại | cầm; giảm tiết; làm co lại"
+			]
+		]
+	},
 	"一点儿": {
 		"py": "yīdiǎnr",
 		"mn": [
@@ -189,6 +207,23 @@
 			[
 				"adv",
 				"sao; nào; đâu; sao mà (thể hiện sự phủ định)"
+			]
+		]
+	},
+	"结果": {
+		"py": "jiéguǒ",
+		"mn": [
+			[
+				"n",
+				"kết quả"
+			],
+			[
+				"conj",
+				"rốt cuộc; kết cục là; kết quả là"
+			],
+			[
+				"v",
+				"giết; xử; kết liễu"
 			]
 		]
 	},

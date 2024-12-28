@@ -108,6 +108,15 @@
 			]
 		]
 	},
+	"遗传": {
+		"py": "yíchuán",
+		"mn": [
+			[
+				"v",
+				"di truyền"
+			]
+		]
+	},
 	"爸爸": {
 		"py": "bàba",
 		"mn": [
@@ -234,6 +243,15 @@
 			]
 		]
 	},
+	"姑娘": {
+		"py": "gūniang",
+		"mn": [
+			[
+				"n",
+				"cô nương; cô gái (chỉ con gái chưa lấy chồng)"
+			]
+		]
+	},
 	"哎": {
 		"py": "āi",
 		"mn": [
@@ -292,12 +310,43 @@
 			]
 		]
 	},
+	"皮肤": {
+		"py": "pífū",
+		"mn": [
+			[
+				"n",
+				"da; da dẻ; làn da"
+			],
+			[
+				"adj",
+				"hạn hẹp; nông cạn; thiển cận"
+			]
+		]
+	},
 	"高高": {
 		"py": "gāogāo",
 		"mn": [
 			[
 				"adj",
 				"cao cao"
+			]
+		]
+	},
+	"个子": {
+		"py": "gèzi",
+		"mn": [
+			[
+				"n",
+				"vóc dáng; vóc người; thân hình; khổ người; dáng người | kích thước"
+			]
+		]
+	},
+	"可惜": {
+		"py": "kěxī",
+		"mn": [
+			[
+				"adj",
+				"đáng tiếc; tiếc là; tiếc thay"
 			]
 		]
 	}

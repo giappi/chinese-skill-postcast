@@ -1,4 +1,13 @@
 {
+	"暑假": {
+		"py": "shǔjià",
+		"mn": [
+			[
+				"n",
+				"nghỉ hè; kỳ nghỉ hè"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -93,6 +102,15 @@
 			]
 		]
 	},
+	"驴友": {
+		"py": "lǘyǒu",
+		"mn": [
+			[
+				"n",
+				"bạn du lịch"
+			]
+		]
+	},
 	"一起": {
 		"py": "yīqǐ",
 		"mn": [
@@ -103,6 +121,15 @@
 			[
 				"n",
 				"ở cùng một nơi, một chỗ."
+			]
+		]
+	},
+	"徒步": {
+		"py": "túbù",
+		"mn": [
+			[
+				"v",
+				"đi bộ; bộ hành"
 			]
 		]
 	},
@@ -137,6 +164,19 @@
 			]
 		]
 	},
+	"流行": {
+		"py": "liúxíng",
+		"mn": [
+			[
+				"adj",
+				"thịnh hành; phổ biến"
+			],
+			[
+				"v",
+				"thịnh hành; phổ biến"
+			]
+		]
+	},
 	"真": {
 		"py": "zhēn",
 		"mn": [
@@ -151,6 +191,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"时髦": {
+		"py": "shímáo",
+		"mn": [
+			[
+				"adj",
+				"mốt; thời thượng; xu hướng; thịnh hành; sành điệu; thời trang"
 			]
 		]
 	},
@@ -193,12 +242,30 @@
 			]
 		]
 	},
+	"行程": {
+		"py": "xíngchéng",
+		"mn": [
+			[
+				"n",
+				"lộ trình; hành trình | tiến trình | quãng xung (quãng vận động qua lại của pít-xtông, từ đầu đến cuối ống hơi lúc động cơ hoạt động)"
+			]
+		]
+	},
 	"啊": {
 		"py": "ā",
 		"mn": [
 			[
 				"intj",
 				"ô; ồ (tỏ ý ngạc nhiên, vui mừng hoặc khen)"
+			]
+		]
+	},
+	"羡慕": {
+		"py": "xiànmù",
+		"mn": [
+			[
+				"v",
+				"ngưỡng mộ; ước ao; hâm mộ | đố kỵ; ghen ghét; thèm muốn"
 			]
 		]
 	},
@@ -212,6 +279,15 @@
 			[
 				"n",
 				"họ Chúc"
+			]
+		]
+	},
+	"假期": {
+		"py": "jiàqī",
+		"mn": [
+			[
+				"n",
+				"kỳ nghỉ; thời gian nghỉ"
 			]
 		]
 	},

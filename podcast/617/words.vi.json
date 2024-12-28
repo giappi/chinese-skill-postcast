@@ -39,6 +39,19 @@
 			]
 		]
 	},
+	"允许": {
+		"py": "yǔnxǔ",
+		"mn": [
+			[
+				"v",
+				"cho phép; được phép"
+			],
+			[
+				"n",
+				"sự cho phép"
+			]
+		]
+	},
 	"周五": {
 		"py": "zhōuwǔ",
 		"mn": [
@@ -67,6 +80,15 @@
 			[
 				"n",
 				"một hôm; một hôm nào đó | cả ngày; cả ngày đêm"
+			]
+		]
+	},
+	"假": {
+		"py": "jià",
+		"mn": [
+			[
+				"n",
+				"kỳ nghỉ (ngày lễ; dịp lễ) | phép nghỉ"
 			]
 		]
 	},
@@ -147,6 +169,15 @@
 			]
 		]
 	},
+	"拒绝": {
+		"py": "jùjué",
+		"mn": [
+			[
+				"v",
+				"cự tuyệt; từ chối; khước từ"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -162,6 +193,15 @@
 			[
 				"n",
 				"vợ; bà xã"
+			]
+		]
+	},
+	"怀孕": {
+		"py": "huáiyùn",
+		"mn": [
+			[
+				"v, sv",
+				"mang thai; có thai; có chửa; có mang"
 			]
 		]
 	},
@@ -315,12 +355,30 @@
 			]
 		]
 	},
+	"请假": {
+		"py": "qǐngjià",
+		"mn": [
+			[
+				"sv, v",
+				"xin nghỉ; xin phép nghỉ (do bệnh tật hay gặp khó khăn)"
+			]
+		]
+	},
 	"应该": {
 		"py": "yīnggāi",
 		"mn": [
 			[
 				"part",
 				"nên; cần phải; phải; cần | có lẽ; chắc; hẳn là"
+			]
+		]
+	},
+	"优先": {
+		"py": "yōuxiān",
+		"mn": [
+			[
+				"v",
+				"ưu tiên"
 			]
 		]
 	},
@@ -398,6 +456,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"意见": {
+		"py": "yìjiàn",
+		"mn": [
+			[
+				"n",
+				"ý kiến | phàn nàn; thành kiến; ý kiến; sự không hài lòng (biểu thị sự không bằng lòng đối với người và sự vật)"
 			]
 		]
 	},
@@ -533,6 +600,15 @@
 			[
 				"n",
 				"công ty"
+			]
+		]
+	},
+	"老资格": {
+		"py": "lǎozīgé",
+		"mn": [
+			[
+				"n",
+				"cựu chiến binh"
 			]
 		]
 	},
@@ -721,6 +797,15 @@
 			]
 		]
 	},
+	"那样": {
+		"py": "nàyàng",
+		"mn": [
+			[
+				"pro",
+				"thế; như vậy; như thế"
+			]
+		]
+	},
 	"工作": {
 		"py": "gōngzuò",
 		"mn": [
@@ -753,6 +838,15 @@
 			[
 				"measure",
 				"số năm (chỉ số lượng)"
+			]
+		]
+	},
+	"新人": {
+		"py": "xīnrén",
+		"mn": [
+			[
+				"n",
+				"con người mới | nhân vật mới; tài năng mới (về một mặt nào đó) | cô dâu, chú rể (thường chỉ cô dâu); cô dâu chú rể"
 			]
 		]
 	},

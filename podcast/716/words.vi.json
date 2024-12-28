@@ -17,12 +17,51 @@
 			]
 		]
 	},
+	"渴": {
+		"py": "kě",
+		"mn": [
+			[
+				"adj",
+				"khát; khát nước"
+			],
+			[
+				"adv",
+				"đòi hỏi; khát khao; ao ước"
+			],
+			[
+				"v",
+				"để cho khát; khiến cho khát"
+			],
+			[
+				"n",
+				"họ Khát"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"嗓子": {
+		"py": "sǎngzi",
+		"mn": [
+			[
+				"n",
+				"họng; cổ họng | giọng; giọng hát; giọng nói"
+			]
+		]
+	},
+	"冒烟": {
+		"py": "màoyān",
+		"mn": [
+			[
+				"v",
+				"bốc khói | nổi giận; tức giận"
 			]
 		]
 	},
@@ -139,6 +178,23 @@
 			]
 		]
 	},
+	"随便": {
+		"py": "suíbiàn",
+		"mn": [
+			[
+				"adj",
+				"tự nhiên; thoải mái; sao cũng được | tuỳ tiện; cẩu thả; qua loa; hời hợt | tùy ý; không chỉn chu"
+			],
+			[
+				"v",
+				"tùy ý"
+			],
+			[
+				"conj",
+				"dù; bất cứ; bất kể"
+			]
+		]
+	},
 	"可乐": {
 		"py": "kělè",
 		"mn": [
@@ -149,6 +205,24 @@
 			[
 				"adj",
 				"vui; vui nhộn; vui vẻ"
+			]
+		]
+	},
+	"雪碧": {
+		"py": "xuěbì",
+		"mn": [
+			[
+				"n",
+				"nước ngọt sprite; sprite"
+			]
+		]
+	},
+	"芬达": {
+		"py": "fēndá",
+		"mn": [
+			[
+				"n",
+				"Fanta"
 			]
 		]
 	},
@@ -187,12 +261,30 @@
 			]
 		]
 	},
+	"碳酸": {
+		"py": "tànsuān",
+		"mn": [
+			[
+				"n",
+				"Có ga"
+			]
+		]
+	},
 	"饮料": {
 		"py": "yǐnliào",
 		"mn": [
 			[
 				"n",
 				"đồ uống; thức uống"
+			]
+		]
+	},
+	"热量": {
+		"py": "rèliàng",
+		"mn": [
+			[
+				"n",
+				"nhiệt lượng"
 			]
 		]
 	},
@@ -284,6 +376,15 @@
 			[
 				"n",
 				"nước cam"
+			]
+		]
+	},
+	"葡萄汁": {
+		"py": "pútáozhī",
+		"mn": [
+			[
+				"n",
+				"Nước nho"
 			]
 		]
 	},
@@ -443,6 +544,15 @@
 			[
 				"measure",
 				"bình; lọ; chai; hộp"
+			]
+		]
+	},
+	"矿泉水": {
+		"py": "kuàngquánshuǐ",
+		"mn": [
+			[
+				"n",
+				"nước khoáng; nước suối"
 			]
 		]
 	}

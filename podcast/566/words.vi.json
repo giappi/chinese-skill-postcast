@@ -25,12 +25,30 @@
 			]
 		]
 	},
+	"崇拜": {
+		"py": "chóngbài",
+		"mn": [
+			[
+				"v",
+				"tôn thờ; sùng bái; ngưỡng mộ"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"偶像": {
+		"py": "ǒuxiàng",
+		"mn": [
+			[
+				"n",
+				"thần tượng"
 			]
 		]
 	},
@@ -222,12 +240,34 @@
 			]
 		]
 	},
+	"健康": {
+		"py": "jiànkāng",
+		"mn": [
+			[
+				"adj",
+				"khoẻ mạnh; tráng kiện | tốt; tích cực | lành mạnh; chức năng (tốt cho sức khỏe, bổ trợ sức khỏe)"
+			],
+			[
+				"n",
+				"sức khỏe"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"伟大": {
+		"py": "wěidà",
+		"mn": [
+			[
+				"adj",
+				"lớn; to lớn; vĩ đại; lớn lao"
 			]
 		]
 	}

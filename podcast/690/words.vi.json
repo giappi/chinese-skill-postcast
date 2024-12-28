@@ -44,6 +44,15 @@
 			]
 		]
 	},
+	"迷路": {
+		"py": "mílù",
+		"mn": [
+			[
+				"v",
+				"lạc;  đi lạc; lạc đường | lạc lối; lạc hướng; mất phương hướng"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -71,6 +80,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"大楼": {
+		"py": "dàlóu",
+		"mn": [
+			[
+				"n",
+				"cao ốc; nhà cao tầng"
 			]
 		]
 	},
@@ -169,6 +187,15 @@
 			]
 		]
 	},
+	"药店": {
+		"py": "yàodiàn",
+		"mn": [
+			[
+				"n",
+				"hiệu thuốc; tiệm thuốc"
+			]
+		]
+	},
 	"左右": {
 		"py": "zuǒyòu",
 		"mn": [
@@ -179,6 +206,15 @@
 			[
 				"v",
 				"chi phối; thao túng; ảnh hưởng"
+			]
+		]
+	},
+	"两边": {
+		"py": "liǎngbiān",
+		"mn": [
+			[
+				"n",
+				"hai bên | hai bên; hai hướng; hai nơi | hai bên; hai phía; hai phương diện"
 			]
 		]
 	},

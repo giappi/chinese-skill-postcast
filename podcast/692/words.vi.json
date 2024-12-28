@@ -143,6 +143,15 @@
 			]
 		]
 	},
+	"要么": {
+		"py": "yàome",
+		"mn": [
+			[
+				"conj",
+				"hoặc là"
+			]
+		]
+	},
 	"只能": {
 		"py": "zhǐnéng",
 		"mn": [
@@ -175,6 +184,15 @@
 			[
 				"adj",
 				"như nhau; y hệt; giống hệt"
+			]
+		]
+	},
+	"哪样": {
+		"py": "nǎyàng",
+		"mn": [
+			[
+				"pro",
+				"loại nào; thứ nào; thứ gì | bất kì loại nào; bất kỳ loại nào"
 			]
 		]
 	},

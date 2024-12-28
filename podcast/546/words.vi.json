@@ -74,6 +74,24 @@
 			]
 		]
 	},
+	"贝克汉姆": {
+		"py": "bèikèhànmǔ",
+		"mn": [
+			[
+				"n",
+				"David Beckham"
+			]
+		]
+	},
+	"超级": {
+		"py": "chāojí",
+		"mn": [
+			[
+				"adj",
+				"siêu; siêu cấp"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -110,6 +128,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"粉丝": {
+		"py": "fěnsī",
+		"mn": [
+			[
+				"n",
+				"fan; người hâm mộ | miến"
 			]
 		]
 	},

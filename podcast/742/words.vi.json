@@ -95,6 +95,15 @@
 			]
 		]
 	},
+	"愚人节": {
+		"py": "yúrénjié",
+		"mn": [
+			[
+				"time, n",
+				"ngày nói dối; cá tháng tư; ngày cá tháng tư"
+			]
+		]
+	},
 	"大": {
 		"py": "dà",
 		"mn": [
@@ -109,6 +118,19 @@
 			[
 				"n",
 				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"礼": {
+		"py": "lǐ",
+		"mn": [
+			[
+				"n",
+				"lễ; nghi lễ | lễ phép; lễ độ | quà; lễ vật; quà biếu; tặng phẩm | lễ nghi; giáo dục; quy tắc; chuẩn mực (đạo đức) | họ Lễ"
+			],
+			[
+				"v",
+				"đối xử (có lễ nghĩa, lịch sự)"
 			]
 		]
 	},
@@ -139,6 +161,15 @@
 			]
 		]
 	},
+	"倒霉蛋": {
+		"py": "dǎoméidàn",
+		"mn": [
+			[
+				"n",
+				"con quỷ tội nghiệp (mang nghĩa chỉ một người không may mắn, thường được dùng trong khẩu ngữ, có ý thương cảm hoặc trêu chọc một cách nhẹ nhàng) | người xui xẻo"
+			]
+		]
+	},
 	"要": {
 		"py": "yào",
 		"mn": [
@@ -157,6 +188,15 @@
 			[
 				"conj",
 				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"挨": {
+		"py": "ái",
+		"mn": [
+			[
+				"v",
+				"chịu đựng; gặp phải; bị | chịu sống khổ sở; kéo lê ngày tháng; sống lây lất | kéo dài; nối dài; gia hạn; lôi theo; kéo theo; đà đận; chần chừ; nấn ná"
 			]
 		]
 	},

@@ -100,6 +100,15 @@
 			]
 		]
 	},
+	"驾照": {
+		"py": "jiàzhào",
+		"mn": [
+			[
+				"n",
+				"bằng lái xe; bằng lái"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -158,6 +167,19 @@
 			[
 				"adv",
 				"tuần sau; tuần tới"
+			]
+		]
+	},
+	"考试": {
+		"py": "kǎoshì",
+		"mn": [
+			[
+				"v, sv",
+				"thi; kiểm tra; sát hạch"
+			],
+			[
+				"n",
+				"cuộc thi; kỳ thi; bài kiểm tra"
 			]
 		]
 	},
@@ -240,6 +262,23 @@
 			]
 		]
 	},
+	"根本": {
+		"py": "gēnběn",
+		"mn": [
+			[
+				"n",
+				"căn bản; gốc rễ; cội nguồn; cốt lõi"
+			],
+			[
+				"adj",
+				"chính; chủ yếu; trọng yếu; quan trọng"
+			],
+			[
+				"adv",
+				"hoàn toàn | căn bản; trước giờ; từ trước đến nay"
+			]
+		]
+	},
 	"没": {
 		"py": "méi",
 		"mn": [
@@ -250,6 +289,19 @@
 			[
 				"adv",
 				"chưa; chưa từng"
+			]
+		]
+	},
+	"想象": {
+		"py": "xiǎngxiàng",
+		"mn": [
+			[
+				"v",
+				"nghĩ ra; tưởng tượng ra; tưởng tượng; hình dung"
+			],
+			[
+				"n",
+				"sự tưởng tượng; trí tưởng tượng"
 			]
 		]
 	},
@@ -301,6 +353,19 @@
 			]
 		]
 	},
+	"理论": {
+		"py": "lǐlùn",
+		"mn": [
+			[
+				"n",
+				"lý luận; lý thuyết"
+			],
+			[
+				"v",
+				"tranh luận phải trái; tranh luận"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -319,6 +384,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"路考": {
+		"py": "lùkǎo",
+		"mn": [
+			[
+				"v",
+				"đường đi (trong thi bằng lái xe)"
 			]
 		]
 	},
@@ -350,6 +424,15 @@
 			[
 				"pro",
 				"thế nào; sao; làm sao | thế; như thế | sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)"
+			]
+		]
+	},
+	"流程": {
+		"py": "liúchéng",
+		"mn": [
+			[
+				"n",
+				"luồng nước; dòng nước | quy trình; thủ tục; quá trình"
 			]
 		]
 	},
@@ -460,6 +543,24 @@
 			]
 		]
 	},
+	"后视镜": {
+		"py": "hòushìjìng",
+		"mn": [
+			[
+				"n",
+				"Gương chiếu hậu"
+			]
+		]
+	},
+	"调整": {
+		"py": "tiáozhěng",
+		"mn": [
+			[
+				"v",
+				"chỉnh; điều chỉnh"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -496,6 +597,15 @@
 			[
 				"pro",
 				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"位置": {
+		"py": "wèizhì",
+		"mn": [
+			[
+				"n",
+				"chỗ; vị trí | địa vị | vị trí"
 			]
 		]
 	},
@@ -542,6 +652,15 @@
 			]
 		]
 	},
+	"系": {
+		"py": "jì",
+		"mn": [
+			[
+				"v",
+				"thắt; buộc; cài; đeo"
+			]
+		]
+	},
 	"安全带": {
 		"py": "ānquándài",
 		"mn": [
@@ -560,6 +679,15 @@
 			]
 		]
 	},
+	"考官": {
+		"py": "kǎoguān",
+		"mn": [
+			[
+				"n",
+				"giám khảo; quan khảo thí"
+			]
+		]
+	},
 	"让": {
 		"py": "ràng",
 		"mn": [
@@ -574,6 +702,32 @@
 			[
 				"n",
 				"họ Nhượng"
+			]
+		]
+	},
+	"沿": {
+		"py": "yán",
+		"mn": [
+			[
+				"n",
+				"mép; rìa"
+			],
+			[
+				"v",
+				"theo (phương pháp, cách thức... đã có sẵn) | viền"
+			],
+			[
+				"prep",
+				"xuôi theo; men theo; dọc theo"
+			]
+		]
+	},
+	"街": {
+		"py": "jiē",
+		"mn": [
+			[
+				"n",
+				"phố; đường phố | chợ; hội chợ; phiên chợ"
 			]
 		]
 	},
@@ -595,6 +749,15 @@
 			]
 		]
 	},
+	"考察": {
+		"py": "kǎochá",
+		"mn": [
+			[
+				"v",
+				"khảo sát; quan sát; điều tra thực tế | khảo sát; kiểm chứng"
+			]
+		]
+	},
 	"遇到": {
 		"py": "yùdào",
 		"mn": [
@@ -610,6 +773,15 @@
 			[
 				"n",
 				"đèn giao thông; đèn xanh đèn đỏ"
+			]
+		]
+	},
+	"人行横道": {
+		"py": "rénxínghéngdào",
+		"mn": [
+			[
+				"n",
+				"vạch qua đường"
 			]
 		]
 	},
@@ -663,6 +835,24 @@
 			]
 		]
 	},
+	"车速": {
+		"py": "chēsù",
+		"mn": [
+			[
+				"n",
+				"tốc độ xe | tốc độ tiện"
+			]
+		]
+	},
+	"控制": {
+		"py": "kòngzhì",
+		"mn": [
+			[
+				"v",
+				"kiềm chế; kiểm soát; điều khiển; làm chủ | khống chế; kiểm soát"
+			]
+		]
+	},
 	"还有": {
 		"py": "háiyǒu",
 		"mn": [
@@ -698,6 +888,28 @@
 			]
 		]
 	},
+	"及时": {
+		"py": "jíshí",
+		"mn": [
+			[
+				"adj",
+				"đúng lúc; kịp thời; kịp lúc; đúng thời vụ"
+			],
+			[
+				"adv",
+				"lập tức; ngay; kịp thời"
+			]
+		]
+	},
+	"换挡": {
+		"py": "huàndǎng",
+		"mn": [
+			[
+				"v",
+				"Sang số"
+			]
+		]
+	},
 	"这些": {
 		"py": "zhèxiē",
 		"mn": [
@@ -713,6 +925,15 @@
 			[
 				"v",
 				"nghe như; nghe có vẻ"
+			]
+		]
+	},
+	"还好": {
+		"py": "háihǎo",
+		"mn": [
+			[
+				"adj",
+				"tạm được; cũng được; vẫn ổn | may; may sao; cũng may; vẫn may; còn may"
 			]
 		]
 	},
@@ -743,6 +964,55 @@
 			]
 		]
 	},
+	"变换": {
+		"py": "biànhuàn",
+		"mn": [
+			[
+				"v",
+				"hoán đổi; thay đổi; biến đổi; chuyển mạch; đảo mạch | đổi thay"
+			]
+		]
+	},
+	"车道": {
+		"py": "chēdào",
+		"mn": [
+			[
+				"n",
+				"đường xe chạy; làn xe; lane (phân biệt với đường dành cho người đi bộ)"
+			]
+		]
+	},
+	"超车": {
+		"py": "chāochē",
+		"mn": [
+			[
+				"v",
+				"vượt qua; bắt kịp; qua mặt xe"
+			]
+		]
+	},
+	"过程": {
+		"py": "guòchéng",
+		"mn": [
+			[
+				"n",
+				"quá trình"
+			]
+		]
+	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
+			]
+		]
+	},
 	"打": {
 		"py": "dǎ",
 		"mn": [
@@ -753,6 +1023,15 @@
 			[
 				"prep",
 				"từ | căn nguyên; nguyên do"
+			]
+		]
+	},
+	"转向灯": {
+		"py": "zhuǎnxiàngdēng",
+		"mn": [
+			[
+				"n",
+				"Đèn báo rẽ, đèn xi nhan"
 			]
 		]
 	},
@@ -778,6 +1057,24 @@
 			[
 				"adv",
 				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"超速": {
+		"py": "chāosù",
+		"mn": [
+			[
+				"v",
+				"vượt quá giới hạn tốc độ / tới tốc độ / tốc độ cao"
+			]
+		]
+	},
+	"靠边": {
+		"py": "kàobiān",
+		"mn": [
+			[
+				"v",
+				"dựa vào (bên cạnh, bên lề) | gần đúng; gần sát; có lý"
 			]
 		]
 	},
@@ -812,12 +1109,34 @@
 			]
 		]
 	},
+	"掌握": {
+		"py": "zhǎngwò",
+		"mn": [
+			[
+				"v",
+				"nắm chắc; nắm vững; hiểu rõ | chủ toạ; chủ trì; khống chế; cai quản; kiểm soát"
+			]
+		]
+	},
 	"不": {
 		"py": "bù",
 		"mn": [
 			[
 				"adv",
 				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"距离": {
+		"py": "jùlí",
+		"mn": [
+			[
+				"v",
+				"cách; cách khoảng"
+			],
+			[
+				"n",
+				"cự ly; khoảng cách; sự khác biệt"
 			]
 		]
 	},
@@ -839,6 +1158,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"结束": {
+		"py": "jiéshù",
+		"mn": [
+			[
+				"v",
+				"hết; kết thúc; chấm dứt"
 			]
 		]
 	},
@@ -972,6 +1300,23 @@
 			]
 		]
 	},
+	"大概": {
+		"py": "dàgài",
+		"mn": [
+			[
+				"adv",
+				"có thể; có lẽ; khoảng; độ; tầm; chắc"
+			],
+			[
+				"n",
+				"đại khái; nét chính; sơ lược; ý chính"
+			],
+			[
+				"adj",
+				"sơ sơ; chung chung"
+			]
+		]
+	},
 	"次": {
 		"py": "cì",
 		"mn": [
@@ -1007,6 +1352,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"场地": {
+		"py": "chǎngdì",
+		"mn": [
+			[
+				"n",
+				"chỗ; nơi; sân bãi; địa điểm; hội trường; hiện trường"
 			]
 		]
 	},
@@ -1047,6 +1401,19 @@
 			[
 				"n",
 				"thời gian; ngày giờ | khoảng thời gian | giờ (thời điểm cụ thể)"
+			]
+		]
+	},
+	"练习": {
+		"py": "liànxí",
+		"mn": [
+			[
+				"v",
+				"tập; luyện tập; ôn tập; rèn tập"
+			],
+			[
+				"n",
+				"bài tập; bài luyện tập"
 			]
 		]
 	},

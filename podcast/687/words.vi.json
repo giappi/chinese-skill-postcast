@@ -95,6 +95,15 @@
 			]
 		]
 	},
+	"目前": {
+		"py": "mùqián",
+		"mn": [
+			[
+				"n",
+				"hiện nay; trước mắt; hiện tại"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -306,6 +315,15 @@
 			]
 		]
 	},
+	"前天": {
+		"py": "qiántiān",
+		"mn": [
+			[
+				"n, time",
+				"hôm kia; hôm trước; bữa trước; hôm xưa"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -376,6 +394,19 @@
 			[
 				"n",
 				"cấp 3; trung học phổ thông"
+			]
+		]
+	},
+	"同班": {
+		"py": "tóngbān",
+		"mn": [
+			[
+				"v",
+				"cùng lớp; cùng tiểu đội"
+			],
+			[
+				"n",
+				"bạn cùng lớp"
 			]
 		]
 	},
@@ -523,6 +554,32 @@
 			]
 		]
 	},
+	"组织": {
+		"py": "zǔzhī",
+		"mn": [
+			[
+				"n",
+				"tổ chức (tập thể) | hệ thống; quan hệ phối hợp | kiểu sợi"
+			],
+			[
+				"v",
+				"lập; tổ chức; thành lập"
+			]
+		]
+	},
+	"聚会": {
+		"py": "jùhuì",
+		"mn": [
+			[
+				"v",
+				"tụ tập; tụ họp; gặp; gặp gỡ (người)"
+			],
+			[
+				"n",
+				"cuộc hội họp; buổi gặp gỡ; buổi họp mặt; buổi tụ tập"
+			]
+		]
+	},
 	"真": {
 		"py": "zhēn",
 		"mn": [
@@ -537,6 +594,27 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"假": {
+		"py": "jiǎ",
+		"mn": [
+			[
+				"conj",
+				"nếu như; giá như; giả sử; giả dụ; giả định"
+			],
+			[
+				"v",
+				"mượn; vay | nhờ; dựa vào; nhờ vào; lợi dụng | giả; giả thuyết; giải thiết"
+			],
+			[
+				"adj",
+				"giả; dối; giả dối; không thật"
+			],
+			[
+				"n",
+				"giả; giả mạo; hàng giả"
 			]
 		]
 	},
@@ -558,6 +636,15 @@
 			[
 				"adj",
 				"thường xuyên; theo tuyến"
+			]
+		]
+	},
+	"至少": {
+		"py": "zhìshǎo",
+		"mn": [
+			[
+				"adv",
+				"chí ít; ít nhất; ít ra; ít lắm"
 			]
 		]
 	},
@@ -688,6 +775,15 @@
 			[
 				"prep",
 				"bị | theo; theo như; cho rằng"
+			]
+		]
+	},
+	"过来": {
+		"py": "guòlái",
+		"mn": [
+			[
+				"v",
+				"đến; qua; sang đây; qua đây; lại đây | qua; thông qua; vượt qua | lại; lên"
 			]
 		]
 	}

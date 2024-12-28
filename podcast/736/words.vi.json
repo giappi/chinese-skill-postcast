@@ -81,6 +81,15 @@
 			]
 		]
 	},
+	"五金店": {
+		"py": "wǔjīndiàn",
+		"mn": [
+			[
+				"n",
+				"cửa hàng phần cứng | cửa hàng của sắt"
+			]
+		]
+	},
 	"里": {
 		"py": "lǐ",
 		"mn": [
@@ -147,6 +156,15 @@
 			]
 		]
 	},
+	"电钻": {
+		"py": "diànzuàn",
+		"mn": [
+			[
+				"n",
+				"máy khoan; khoan điện"
+			]
+		]
+	},
 	"在": {
 		"py": "zài",
 		"mn": [
@@ -204,6 +222,15 @@
 			]
 		]
 	},
+	"锤子": {
+		"py": "chuízi",
+		"mn": [
+			[
+				"n",
+				"cái búa"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -226,6 +253,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"螺丝刀": {
+		"py": "luósīdāo",
+		"mn": [
+			[
+				"n",
+				"cái vặn vít; tua vít"
 			]
 		]
 	},
@@ -256,6 +292,15 @@
 			[
 				"pro",
 				"những... ấy; những... đó; những... kia"
+			]
+		]
+	},
+	"工具": {
+		"py": "gōngjù",
+		"mn": [
+			[
+				"n",
+				"công cụ; đồ nghề; dụng cụ | công cụ; phương tiện (ví với phương tiện để đạt được mục đích)"
 			]
 		]
 	},
@@ -374,6 +419,15 @@
 			]
 		]
 	},
+	"电锯": {
+		"py": "diànjù",
+		"mn": [
+			[
+				"n",
+				"Cái cưa điện"
+			]
+		]
+	},
 	"只是": {
 		"py": "zhǐshì",
 		"mn": [
@@ -414,6 +468,15 @@
 			]
 		]
 	},
+	"维修": {
+		"py": "wéixiū",
+		"mn": [
+			[
+				"v",
+				"sửa; tu sửa; bảo dưỡng; sửa chữa"
+			]
+		]
+	},
 	"又不是": {
 		"py": "yòubùshì",
 		"mn": [
@@ -429,6 +492,15 @@
 			[
 				"adv",
 				"lần nữa; lại lần nữa; lại | từ đầu; làm lại từ đầu; làm lại"
+			]
+		]
+	},
+	"装修": {
+		"py": "zhuāngxiū",
+		"mn": [
+			[
+				"v",
+				"sửa sang; chỉnh trang; bài trí; sửa chữa; trang hoàng"
 			]
 		]
 	},
@@ -455,6 +527,15 @@
 			[
 				"adv",
 				"thẳng; một mạch; mãi; cứ; luôn luôn | chung quy; dù sao vẫn; cuối cùng | đại khái, tương đương"
+			]
+		]
+	},
+	"用场": {
+		"py": "yòngchǎng",
+		"mn": [
+			[
+				"n",
+				"công dụng; tác dụng; phạm vi sử dụng"
 			]
 		]
 	},
@@ -533,6 +614,15 @@
 			]
 		]
 	},
+	"首饰": {
+		"py": "shǒushì",
+		"mn": [
+			[
+				"n",
+				"đồ trang sức; đồ nữ trang"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -543,6 +633,19 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"却": {
+		"py": "què",
+		"mn": [
+			[
+				"adv",
+				"lại; nhưng; mà lại; nhưng mà"
+			],
+			[
+				"v",
+				"lùi; lui; lui bước | đẩy lùi; đánh lùi | chối từ; khước từ; từ chối | mất; đi"
 			]
 		]
 	},
@@ -583,6 +686,46 @@
 			[
 				"n",
 				"người phụ nữ nam tính"
+			]
+		]
+	},
+	"而": {
+		"py": "ér",
+		"mn": [
+			[
+				"conj",
+				"và (không nối với danh từ) | mà （hai vế đẳng lập) | mà (nối hai thành phần có ý khẳng định và phủ định bổ sung cho nhau) | mà; mà lại; còn (nối các thành phần có ý nghĩa tương phản) | mà (nối các bộ phận có ý nghĩa nhân quả) | mà; nếu (đặt giữa chủ ngữ và vị ngữ) | mà; một cách (nối thành phần chỉ phương cách, thời gian với động từ) | đến; rồi (liên từ)"
+			]
+		]
+	},
+	"感到": {
+		"py": "gǎndào",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy"
+			]
+		]
+	},
+	"万分": {
+		"py": "wànfēn",
+		"mn": [
+			[
+				"adv",
+				"muôn phần; hết sức; vô cùng"
+			]
+		]
+	},
+	"荣幸": {
+		"py": "róngxìng",
+		"mn": [
+			[
+				"adj",
+				"vinh hạnh; hân hạnh; vinh dự"
+			],
+			[
+				"n",
+				"niềm vinh hạnh"
 			]
 		]
 	}

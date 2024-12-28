@@ -122,6 +122,24 @@
 			]
 		]
 	},
+	"厨房": {
+		"py": "chúfáng",
+		"mn": [
+			[
+				"n",
+				"bếp; phòng bếp; nhà bếp"
+			]
+		]
+	},
+	"分机": {
+		"py": "fēnjī",
+		"mn": [
+			[
+				"n",
+				"máy nội bộ; máy phụ; máy con (điện thoại)"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -333,6 +351,15 @@
 			]
 		]
 	},
+	"躺": {
+		"py": "tǎng",
+		"mn": [
+			[
+				"v",
+				"nằm"
+			]
+		]
+	},
 	"休息": {
 		"py": "xiūxi",
 		"mn": [
@@ -457,12 +484,30 @@
 			]
 		]
 	},
+	"下地": {
+		"py": "xiàdì",
+		"mn": [
+			[
+				"v",
+				"ra đồng (làm việc) | dậy được; xuống giường (chỉ những người ốm)"
+			]
+		]
+	},
 	"走走": {
 		"py": "zǒuzǒu",
 		"mn": [
 			[
 				"v",
 				"Đi dạo, tản bộ"
+			]
+		]
+	},
+	"一天到晚": {
+		"py": "yītiāndàowǎn",
+		"mn": [
+			[
+				"idioms",
+				"suốt ngày; từ sáng đến tối"
 			]
 		]
 	},
@@ -489,6 +534,15 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"懒得": {
+		"py": "lǎnde",
+		"mn": [
+			[
+				"v",
+				"lười; chẳng muốn; chẳng thích (làm việc)"
 			]
 		]
 	},
@@ -524,6 +578,15 @@
 			[
 				"intj",
 				"hả (hỏi dồn)"
+			]
+		]
+	},
+	"生病": {
+		"py": "shēngbìng",
+		"mn": [
+			[
+				"v",
+				"sinh bệnh; phát bệnh; bị ốm"
 			]
 		]
 	},
@@ -566,12 +629,43 @@
 			]
 		]
 	},
+	"辛辣": {
+		"py": "xīnlà",
+		"mn": [
+			[
+				"adj",
+				"chua cay; sâu cay; chanh chua (giọng văn, lời nói)"
+			]
+		]
+	},
+	"油腻": {
+		"py": "yóunì",
+		"mn": [
+			[
+				"adj",
+				"ngậy; ngấy; béo ngậy; chứa nhiều dầu; nhiều dầu mỡ"
+			],
+			[
+				"n",
+				"thức ăn nhiều dầu mỡ (chỉ loại thực phẩm chứa nhiều chất béo, dầu mỡ) | vết dầu mỡ (dùng để chỉ chất bẩn do dầu mỡ tạo thành)"
+			]
+		]
+	},
 	"要不": {
 		"py": "yàobù",
 		"mn": [
 			[
 				"conj",
 				"nếu không; hay là; nếu không thì | hoặc là... hoặc là; không thì... không thì | bằng không; nếu không thì"
+			]
+		]
+	},
+	"脱水": {
+		"py": "tuōshuǐ",
+		"mn": [
+			[
+				"v",
+				"mất nước; chứng mất nước (cơ thể con người) | mất nước (vật thể) | cạn nước; khô nước (ruộng nương)"
 			]
 		]
 	},
@@ -634,6 +728,19 @@
 			]
 		]
 	},
+	"不光": {
+		"py": "bùguāng",
+		"mn": [
+			[
+				"adv",
+				"không chỉ; chẳng cứ"
+			],
+			[
+				"conj",
+				"không những; chẳng những; không chỉ"
+			]
+		]
+	},
 	"什么": {
 		"py": "shénme",
 		"mn": [
@@ -662,6 +769,33 @@
 			[
 				"v",
 				"được; có | được; là (chỉ kết quả tính toán) | phù hợp; thích hợp; đắc | đắc ý; đắc chí | hoàn thành; xong; hoàn tất | được; được thôi; thôi đi (dùng khi kết thúc cuộc nói chuyện, biểu thị sự đồng ý hoặc can ngăn, cấm đoán) | thôi (dùng khi tình huống xấu, biểu thị không biết phải làm thế nào) | được; được phép (dùng trước một động từ khác biểu thị cho phép, thường dùng trong pháp lệnh và công văn) | có thể; có lẽ (dùng trước động từ khác biểu thị khả năng, thường dùng trong câu phủ định) | được"
+			]
+		]
+	},
+	"不懂": {
+		"py": "bùdǒng",
+		"mn": [
+			[
+				"phrase",
+				"Không hiểu"
+			]
+		]
+	},
+	"瞎说": {
+		"py": "xiāshuō",
+		"mn": [
+			[
+				"v",
+				"nói mò; nói bừa; nói nhảm"
+			]
+		]
+	},
+	"老话": {
+		"py": "lǎohuà",
+		"mn": [
+			[
+				"n",
+				"cách ngôn; châm ngôn | chuyện cũ; chuyện xưa"
 			]
 		]
 	},
@@ -734,12 +868,30 @@
 			]
 		]
 	},
+	"敷": {
+		"py": "fū",
+		"mn": [
+			[
+				"v",
+				"đắp; xoa; trét; thoa | đặt; lắp | đủ | tường thuật; trình bày"
+			]
+		]
+	},
 	"几个": {
 		"py": "jǐgè",
 		"mn": [
 			[
 				"n",
 				"vài cái; vài thứ; nhiều hơn hai cái"
+			]
+		]
+	},
+	"冰袋": {
+		"py": "bīngdài",
+		"mn": [
+			[
+				"n",
+				"túi chườm nước đá"
 			]
 		]
 	},

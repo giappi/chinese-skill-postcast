@@ -95,6 +95,24 @@
 			]
 		]
 	},
+	"大雨": {
+		"py": "dàyǔ",
+		"mn": [
+			[
+				"n",
+				"mưa to; mưa lớn (lượng mưa trong 24 giờ đạt từ 25 - 50 mm); mưa giông"
+			]
+		]
+	},
+	"淋湿": {
+		"py": "línshī",
+		"mn": [
+			[
+				"v",
+				"ướt; làm ướt; ướt sũng"
+			]
+		]
+	},
 	"啊": {
 		"py": "á",
 		"mn": [
@@ -356,6 +374,15 @@
 			]
 		]
 	},
+	"热水": {
+		"py": "rèshuǐ",
+		"mn": [
+			[
+				"n",
+				"nước nóng"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -395,6 +422,15 @@
 			[
 				"v",
 				"bị cảm; cảm"
+			]
+		]
+	},
+	"当务之急": {
+		"py": "dāngwùzhījí",
+		"mn": [
+			[
+				"n",
+				"việc khẩn cấp trước mắt; nhiệm vụ cấp bách hiện nay"
 			]
 		]
 	},
@@ -475,6 +511,15 @@
 			]
 		]
 	},
+	"热水澡": {
+		"py": "rèshuǐzǎo",
+		"mn": [
+			[
+				"v",
+				"tắm nước nóng hoặc vòi hoa sen"
+			]
+		]
+	},
 	"换": {
 		"py": "huàn",
 		"mn": [
@@ -498,6 +543,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"干爽": {
+		"py": "gānshuǎng",
+		"mn": [
+			[
+				"adj",
+				"khô mát (khí hậu) | khô; khô ráo; khô xốp (đất đai, đường xá)"
 			]
 		]
 	}

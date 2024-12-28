@@ -99,12 +99,30 @@
 			]
 		]
 	},
+	"搭": {
+		"py": "dā",
+		"mn": [
+			[
+				"v",
+				"bắc; dựng; làm | mắc; vắt; đắp; phủ; khoác; treo | nối; nhập lại; ăn khớp | thêm vào; góp vào | phối hợp; phân phối; trộn | khiêng; khênh; nhấc | ngồi; đi; đáp (xe, thuyền, máy bay)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"顺风车": {
+		"py": "shùnfēngchē",
+		"mn": [
+			[
+				"n",
+				"(nghĩa bóng) (đi trên ai đó's) coattails | (tận dụng) một cơ hội | phương tiện cung cấp cho một chuyến đi miễn phí"
 			]
 		]
 	},
@@ -186,12 +204,30 @@
 			]
 		]
 	},
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
+			]
+		]
+	},
 	"忘": {
 		"py": "wàng",
 		"mn": [
 			[
 				"v",
 				"quên; bỏ quên"
+			]
+		]
+	},
+	"系": {
+		"py": "jì",
+		"mn": [
+			[
+				"v",
+				"thắt; buộc; cài; đeo"
 			]
 		]
 	},
@@ -222,6 +258,15 @@
 			[
 				"n",
 				"cảnh sát; cảnh binh; chú cảnh sát"
+			]
+		]
+	},
+	"罚": {
+		"py": "fá",
+		"mn": [
+			[
+				"v",
+				"phạt; xử phạt"
 			]
 		]
 	},
@@ -337,6 +382,19 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"车子": {
+		"py": "chēzi",
+		"mn": [
+			[
+				"",
+				"xe (thường chỉ xe nhỏ)"
+			],
+			[
+				"方",
+				"xe đạp"
 			]
 		]
 	},

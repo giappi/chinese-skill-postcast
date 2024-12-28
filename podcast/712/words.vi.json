@@ -39,12 +39,52 @@
 			]
 		]
 	},
+	"臭烘烘": {
+		"py": "chòuhōnghōng",
+		"mn": [
+			[
+				"adj",
+				"thối hoắc; thối ình; thối tha; hôi hám"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"臭豆腐": {
+		"py": "chòudòufu",
+		"mn": [
+			[
+				"n",
+				"đậu phụ thối (món ăn)"
+			]
+		]
+	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
+			]
+		]
+	},
+	"特意": {
+		"py": "tèyì",
+		"mn": [
+			[
+				"adv",
+				"đặc biệt; riêng; chuyên; có lòng; cố ý"
 			]
 		]
 	},
@@ -96,6 +136,49 @@
 			[
 				"adv",
 				"chưa bao giờ; từ trước tới giờ; từ trước đến nay (phó từ dùng trước từ phủ định)"
+			]
+		]
+	},
+	"湖南": {
+		"py": "húnán",
+		"mn": [
+			[
+				"n",
+				"Hồ Nam (tỉnh miền nam Trung Quốc)"
+			]
+		]
+	},
+	"特": {
+		"py": "tè",
+		"mn": [
+			[
+				"adv",
+				"rất; đặc biệt | riêng; đặc biệt; riêng biệt | chỉ"
+			],
+			[
+				"adj",
+				"khác; khác hẳn; đặc biệt; độc đáo | đơn; đơn độc"
+			],
+			[
+				"n",
+				"đặc vụ; gián điệp"
+			],
+			[
+				"measure",
+				"tex (đơn vị mật độ sợi; vải dệt)"
+			]
+		]
+	},
+	"正宗": {
+		"py": "zhèngzōng",
+		"mn": [
+			[
+				"adj",
+				"chính thống; chân chính; chính cống; chính gốc"
+			],
+			[
+				"n",
+				"chính tông; phái chính tông (Phật giáo)"
 			]
 		]
 	},
@@ -237,12 +320,42 @@
 			]
 		]
 	},
+	"闻": {
+		"py": "wén",
+		"mn": [
+			[
+				"v",
+				"nghe; nghe thấy; nghe nói | ngửi; ngửi mùi | biết; hay; hay biết; hiểu biết"
+			],
+			[
+				"adj",
+				"có tiếng; nổi tiếng; nổi danh"
+			],
+			[
+				"n",
+				"tin; tin tức; câu chuyện (nghe được) | tiếng tăm; tai tiếng | họ Văn"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"香": {
+		"py": "xiāng",
+		"mn": [
+			[
+				"adj",
+				"thơm; thơm tho | ngon; thơm ngon | ngon miệng | ngủ say; ngủ ngon | ưa chuộng; được ưa chuộng; được hoan nghênh"
+			],
+			[
+				"n",
+				"hương ( Cây cỏ có mùi thơm hoặc vật gì làm bằng chất thơm) | hương liệu | nhang; hương (để đốt) | đồ vật hoặc người liên quan đến phụ nữ | họ Hương"
 			]
 		]
 	},
@@ -286,6 +399,15 @@
 			]
 		]
 	},
+	"碰": {
+		"py": "pèng",
+		"mn": [
+			[
+				"v",
+				"đụng; chạm; va; cụng | gặp mặt; chạm mặt | thử; thăm dò | mạo phạm; xúc phạm; mâu thuẫn"
+			]
+		]
+	},
 	"但": {
 		"py": "dàn",
 		"mn": [
@@ -296,6 +418,24 @@
 			[
 				"adv",
 				"chỉ; chỉ cần"
+			]
+		]
+	},
+	"自从": {
+		"py": "zìcóng",
+		"mn": [
+			[
+				"prep",
+				"từ; từ khi; từ lúc; kể từ; kể từ khi"
+			]
+		]
+	},
+	"尝": {
+		"py": "cháng",
+		"mn": [
+			[
+				"v",
+				"nếm; thử (ăn, uống) | nếm trải; trải qua; đã từng"
 			]
 		]
 	},
@@ -347,6 +487,15 @@
 			]
 		]
 	},
+	"爱上": {
+		"py": "àishàng",
+		"mn": [
+			[
+				"v",
+				"yêu"
+			]
+		]
+	},
 	"它": {
 		"py": "tā",
 		"mn": [
@@ -386,6 +535,19 @@
 			]
 		]
 	},
+	"疯": {
+		"py": "fēng",
+		"mn": [
+			[
+				"adj",
+				"điên; khùng; tâm thần (thần kinh không ổn định) | lốp; không ra hoa (cây trồng mọc rất tốt nhưng không ra hoa kết quả) | ngốc; ngớ ngẩn; đơ đơ; khờ | điên (hành vi vượt giới hạn)"
+			],
+			[
+				"v",
+				"chơi; chơi đùa; quẩy"
+			]
+		]
+	},
 	"喝": {
 		"py": "hē",
 		"mn": [
@@ -403,6 +565,24 @@
 			]
 		]
 	},
+	"豆汁": {
+		"py": "dòuzhī",
+		"mn": [
+			[
+				"n",
+				"nước đậu xanh | sữa đậu nành"
+			]
+		]
+	},
+	"榴莲": {
+		"py": "liúlián",
+		"mn": [
+			[
+				"n",
+				"sầu riêng; cây sầu riêng; trái sầu riêng; quả sầu riêng"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -412,12 +592,30 @@
 			]
 		]
 	},
+	"口味": {
+		"py": "kǒuwèi",
+		"mn": [
+			[
+				"n",
+				"hương vị; mùi vị | khẩu vị; gu (thích một khẩu vị nào đó) | sở thích; đam mê"
+			]
+		]
+	},
 	"越来越": {
 		"py": "yuèláiyuè",
 		"mn": [
 			[
 				"adv",
 				"ngày càng; càng ngày càng;"
+			]
+		]
+	},
+	"独特": {
+		"py": "dútè",
+		"mn": [
+			[
+				"adj",
+				"đặc biệt; riêng biệt; độc đáo"
 			]
 		]
 	},
@@ -472,6 +670,50 @@
 			]
 		]
 	},
+	"敞开": {
+		"py": "chǎngkāi",
+		"mn": [
+			[
+				"v",
+				"mở; mở rộng; rộng mở"
+			],
+			[
+				"adj",
+				"thoải mái"
+			],
+			[
+				"adv",
+				"thoải mái; tự do; cởi mở"
+			]
+		]
+	},
+	"心扉": {
+		"py": "xīnfēi",
+		"mn": [
+			[
+				"n",
+				"nội tâm; sự suy nghĩ"
+			]
+		]
+	},
+	"唤醒": {
+		"py": "huànxǐng",
+		"mn": [
+			[
+				"v",
+				"đánh thức"
+			]
+		]
+	},
+	"味蕾": {
+		"py": "wèilěi",
+		"mn": [
+			[
+				"n",
+				"nhũ đầu; nụ vị giác (khí quan cảm thụ của vị giác, phân bố trên mặt lưỡi, dùng để phân biệt mùi vị.)"
+			]
+		]
+	},
 	"这样": {
 		"py": "zhèyàng",
 		"mn": [
@@ -517,6 +759,15 @@
 			[
 				"n",
 				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"感谢": {
+		"py": "gǎnxiè",
+		"mn": [
+			[
+				"v",
+				"cảm tạ; cảm ơn"
 			]
 		]
 	},
@@ -578,6 +829,15 @@
 			[
 				"measure",
 				"miếng; ngụm; hơi | người; thành viên | con (chủ yếu là lợn) | cái; chiếc; con (vật có lưỡi, giống như cái miệng) | câu"
+			]
+		]
+	},
+	"第三": {
+		"py": "dìsān",
+		"mn": [
+			[
+				"numb",
+				"thứ ba"
 			]
 		]
 	},

@@ -67,6 +67,15 @@
 			]
 		]
 	},
+	"新闻": {
+		"py": "xīnwén",
+		"mn": [
+			[
+				"n",
+				"tin; tin tức; tin thời sự"
+			]
+		]
+	},
 	"真": {
 		"py": "zhēn",
 		"mn": [
@@ -90,6 +99,23 @@
 			[
 				"v",
 				"nhận; được | bị; mắc | chịu; chịu đựng | được; thích hợp"
+			]
+		]
+	},
+	"刺激": {
+		"py": "cìjī",
+		"mn": [
+			[
+				"v",
+				"kích thích; kích động; khuấy động; hoạt hoá; thúc giục (hoạt động, biến đổi của vật thể) | thúc đẩy (biến đổi một cách tích cực)"
+			],
+			[
+				"n",
+				"sự kích thích; sự kích động; sự thúc đẩy"
+			],
+			[
+				"adj",
+				"thú vị; kích thích; phấn khích; hào hứng"
 			]
 		]
 	},
@@ -149,6 +175,15 @@
 			]
 		]
 	},
+	"富二代": {
+		"py": "fùèrdài",
+		"mn": [
+			[
+				"n",
+				"thiếu gia; con nhà giàu; phú nhị đại; cậu ấm cô chiêu"
+			]
+		]
+	},
 	"结婚": {
 		"py": "jiéhūn",
 		"mn": [
@@ -190,6 +225,23 @@
 			[
 				"adj",
 				"lộng lẫy; rực rỡ; tráng lệ; sang trọng; sang chảnh"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
 			]
 		]
 	},
@@ -245,6 +297,15 @@
 			]
 		]
 	},
+	"炫耀": {
+		"py": "xuànyào",
+		"mn": [
+			[
+				"v",
+				"chiếu rọi; tỏa sáng | khoe; khoe khoang; phô trương; ra oai; rêu rao; ra vẻ; flex"
+			]
+		]
+	},
 	"没": {
 		"py": "méi",
 		"mn": [
@@ -284,6 +345,15 @@
 			]
 		]
 	},
+	"有钱": {
+		"py": "yǒuqián",
+		"mn": [
+			[
+				"v",
+				"có tiền; có của; có tài sản; có tài"
+			]
+		]
+	},
 	"总": {
 		"py": "zǒng",
 		"mn": [
@@ -319,6 +389,15 @@
 			[
 				"adv",
 				"gần đây"
+			]
+		]
+	},
+	"没钱": {
+		"py": "méiqián",
+		"mn": [
+			[
+				"v",
+				"nhẹ túi"
 			]
 		]
 	},
@@ -368,12 +447,30 @@
 			]
 		]
 	},
+	"羡慕": {
+		"py": "xiànmù",
+		"mn": [
+			[
+				"v",
+				"ngưỡng mộ; ước ao; hâm mộ | đố kỵ; ghen ghét; thèm muốn"
+			]
+		]
+	},
 	"他们": {
 		"py": "tāmen",
 		"mn": [
 			[
 				"pro",
 				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"脚踏实地": {
+		"py": "jiǎotàshídì",
+		"mn": [
+			[
+				"idioms",
+				"làm đến nơi đến chốn; làm việc thực tế; làm ra làm chơi ra chơi"
 			]
 		]
 	},
@@ -404,6 +501,15 @@
 			[
 				"pro",
 				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"日子": {
+		"py": "rìzi",
+		"mn": [
+			[
+				"n",
+				"ngày; thời kì | thời gian | cuộc sống; sinh kế; ngày tháng"
 			]
 		]
 	},

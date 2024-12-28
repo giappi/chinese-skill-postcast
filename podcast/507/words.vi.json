@@ -1,4 +1,22 @@
 {
+	"盼": {
+		"py": "pàn",
+		"mn": [
+			[
+				"v",
+				"chờ mong; mong mỏi; trông mong | nhìn; trông"
+			]
+		]
+	},
+	"终于": {
+		"py": "zhōngyú",
+		"mn": [
+			[
+				"adv",
+				"cuối cùng"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -26,6 +44,15 @@
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"黄金周": {
+		"py": "huángjīnzhōu",
+		"mn": [
+			[
+				"n",
+				"tuần lễ vàng (các kỳ nghỉ lễ ở Trung Quốc kéo dài 7 ngày)"
 			]
 		]
 	},
@@ -106,6 +133,15 @@
 			]
 		]
 	},
+	"搓": {
+		"py": "cuō",
+		"mn": [
+			[
+				"v",
+				"xoa; xe; xát, dụi; vo (hai tay) | vê; nhào; nặn; chà | đánh bóng; đập bóng"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -149,6 +185,19 @@
 			[
 				"n",
 				"nơi; chỗ (nghỉ ngơi; ăn uống) | họ Đốn"
+			]
+		]
+	},
+	"犒劳": {
+		"py": "kàoláo",
+		"mn": [
+			[
+				"v",
+				"khao; đãi; thưởng; khao thưởng; khao lao"
+			],
+			[
+				"n",
+				"đồ khao (đồ ăn thức uống dùng để khao)"
 			]
 		]
 	},
@@ -217,6 +266,42 @@
 			]
 		]
 	},
+	"龙虾": {
+		"py": "lóngxiā",
+		"mn": [
+			[
+				"n",
+				"tôm hùm"
+			]
+		]
+	},
+	"鲍鱼": {
+		"py": "bàoyú",
+		"mn": [
+			[
+				"n",
+				"cá muối; cá mắm | bào ngư"
+			]
+		]
+	},
+	"扇贝": {
+		"py": "shànbèi",
+		"mn": [
+			[
+				"n",
+				"sò biển; sò"
+			]
+		]
+	},
+	"生鱼片": {
+		"py": "shēngyúpiàn",
+		"mn": [
+			[
+				"n",
+				"sashimi"
+			]
+		]
+	},
 	"菜": {
 		"py": "cài",
 		"mn": [
@@ -264,6 +349,27 @@
 			]
 		]
 	},
+	"齐": {
+		"py": "qí",
+		"mn": [
+			[
+				"adj",
+				"chỉnh tề; ngay ngắn; đều nhau | có mặt; đến đủ; đầy đủ | đồng bộ; đồng nhất; như nhau; tương tự"
+			],
+			[
+				"v",
+				"đồng đều; bằng nhau; bằng; ngang | đồng lòng; đồng nhất; cùng nhau"
+			],
+			[
+				"adv",
+				"cùng nhau; đồng thời; cùng"
+			],
+			[
+				"n",
+				"hợp kim | nước Tề | họ Tề"
+			]
+		]
+	},
 	"俩": {
 		"py": "liǎ",
 		"mn": [
@@ -304,6 +410,15 @@
 			[
 				"n",
 				"giai đoạn đầu; lúc đầu"
+			]
+		]
+	},
+	"狼吞虎咽": {
+		"py": "lángtūnhǔyàn",
+		"mn": [
+			[
+				"idioms",
+				"ăn như hổ đói; ngấu nghiến; ăn lấy ăn để; ăn thùng uống vại; ăn ngấu ăn nghiến"
 			]
 		]
 	},
@@ -411,6 +526,19 @@
 			]
 		]
 	},
+	"撑": {
+		"py": "chēng",
+		"mn": [
+			[
+				"v",
+				"chống; chống đỡ; đỡ | chống; chèo; đẩy thuyền | giữ; kìm; nín; nhịn; giữ vững; duy trì; chịu đựng; bảo vệ | xoè; căng; kéo dài; mở; trải; giương; phất | căng chật; căng cứng"
+			],
+			[
+				"n",
+				"bản lề; ke góc"
+			]
+		]
+	},
 	"快": {
 		"py": "kuài",
 		"mn": [
@@ -498,6 +626,15 @@
 			[
 				"adv",
 				"mới, vừa mới (cách đây không lâu) | mới, mới chịu (chuyện xảy ra muộn, trễ) | mới (lý do hoặc điều kiện) | chỉ; chỉ mới; chỉ có | mới (nhấn mạnh chuyện muốn nói) | mới (thay đổi tình trạng từ trước đến nay) | mới (diễn tả sự nhấn mạnh)"
+			]
+		]
+	},
+	"心满意足": {
+		"py": "xīnmǎnyìzú",
+		"mn": [
+			[
+				"idioms",
+				"thoả mãn; cảm thấy mỹ mãn; vừa lòng thoả ý; hài lòng thoả dạ; hởi lòng hởi dạ; hởi lòng; no lòng mát ruột"
 			]
 		]
 	},

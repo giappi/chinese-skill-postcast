@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"闪电": {
+		"py": "shǎndiàn",
+		"mn": [
+			[
+				"n",
+				"chớp; ánh chớp; tia chớp"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -141,6 +150,15 @@
 			[
 				"part",
 				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"害怕": {
+		"py": "hàipà",
+		"mn": [
+			[
+				"v",
+				"sợ; sợ hãi; sợ sệt; e dè; lo sợ"
 			]
 		]
 	},

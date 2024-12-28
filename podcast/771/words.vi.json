@@ -208,6 +208,15 @@
 			]
 		]
 	},
+	"姥姥": {
+		"py": "lǎolao",
+		"mn": [
+			[
+				"n",
+				"bà ngoại | bà mụ; bà đỡ"
+			]
+		]
+	},
 	"去": {
 		"py": "qù",
 		"mn": [
@@ -229,12 +238,39 @@
 			]
 		]
 	},
+	"北海": {
+		"py": "běihǎi",
+		"mn": [
+			[
+				"",
+				"đông bắc Đại Tây Dương | Bắc Hải (thành phố cảng quan trọng của khu tự trị dân tộc Choang, Quảng Tây, Trung Quốc) | công viên Bắc Hải (thành phố Bắc Kinh) | biên khu bắc Trung Quốc | biển Bột Hải | hồ Baikal (Liên Xô cũ)"
+			]
+		]
+	},
 	"周日": {
 		"py": "zhōurì",
 		"mn": [
 			[
 				"n",
 				"Chủ nhật"
+			]
+		]
+	},
+	"婶子": {
+		"py": "shěnzi",
+		"mn": [
+			[
+				"n",
+				"thím"
+			]
+		]
+	},
+	"天坛": {
+		"py": "tiāntán",
+		"mn": [
+			[
+				"n",
+				"Thiên Đàn"
 			]
 		]
 	},
@@ -300,6 +336,32 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"导游": {
+		"py": "dǎoyóu",
+		"mn": [
+			[
+				"n",
+				"hướng dẫn viên"
+			],
+			[
+				"v",
+				"hướng dẫn; hướng dẫn du lịch; hướng dẫn tham quan"
+			]
+		]
+	},
+	"兼": {
+		"py": "jiān",
+		"mn": [
+			[
+				"adj",
+				"hai lần; gấp; gấp đôi"
+			],
+			[
+				"v",
+				"gồm đủ; gồm cả, kiêm"
 			]
 		]
 	},

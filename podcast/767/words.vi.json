@@ -449,6 +449,15 @@
 			]
 		]
 	},
+	"面熟": {
+		"py": "miànshú",
+		"mn": [
+			[
+				"adj",
+				"quen; quen mặt; quen mắt; mặt quen quen"
+			]
+		]
+	},
 	"是不是": {
 		"py": "shìbùshì",
 		"mn": [
@@ -516,6 +525,15 @@
 			[
 				"n",
 				"chồng; anh xã; anh nhà"
+			]
+		]
+	},
+	"死党": {
+		"py": "sǐdǎng",
+		"mn": [
+			[
+				"n",
+				"đồng minh; chiến hữu; người trung thành; bạn bè trung thành | phe cứng đầu; phe phản động"
 			]
 		]
 	},
@@ -808,6 +826,19 @@
 			]
 		]
 	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
+			]
+		]
+	},
 	"最后": {
 		"py": "zuìhòu",
 		"mn": [
@@ -844,6 +875,15 @@
 			]
 		]
 	},
+	"至少": {
+		"py": "zhìshǎo",
+		"mn": [
+			[
+				"adv",
+				"chí ít; ít nhất; ít ra; ít lắm"
+			]
+		]
+	},
 	"听": {
 		"py": "tīng",
 		"mn": [
@@ -867,6 +907,15 @@
 			[
 				"n",
 				"cha mẹ; phụ mẫu; ba má; bố mẹ; bác mẹ"
+			]
+		]
+	},
+	"整天": {
+		"py": "zhěngtiān",
+		"mn": [
+			[
+				"n",
+				"cả ngày; suốt ngày"
 			]
 		]
 	},
@@ -913,6 +962,24 @@
 			]
 		]
 	},
+	"安享": {
+		"py": "ānxiǎng",
+		"mn": [
+			[
+				"v",
+				"an hưởng"
+			]
+		]
+	},
+	"晚年": {
+		"py": "wǎnnián",
+		"mn": [
+			[
+				"",
+				"tuổi già; cuối đời; cõi già | vãn niên"
+			]
+		]
+	},
 	"看样子": {
 		"py": "kànyàngzi",
 		"mn": [
@@ -928,6 +995,19 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"孝顺": {
+		"py": "xiàoshùn",
+		"mn": [
+			[
+				"adj",
+				"hiếu thuận; có hiếu; hiếu thảo"
+			],
+			[
+				"v",
+				"hiếu thuận; hiếu thảo; thể hiện sự vâng lời; thể hiện lòng hiếu thảo"
 			]
 		]
 	},
@@ -989,6 +1069,15 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"缘分": {
+		"py": "yuánfèn",
+		"mn": [
+			[
+				"n",
+				"duyên phận; duyên số; duyên"
 			]
 		]
 	},
@@ -1096,6 +1185,15 @@
 			]
 		]
 	},
+	"注定": {
+		"py": "zhùdìng",
+		"mn": [
+			[
+				"v",
+				"định mệnh; nhất định; định trước; đã định; thế nào cũng"
+			]
+		]
+	},
 	"急": {
 		"py": "jí",
 		"mn": [
@@ -1131,6 +1229,41 @@
 			]
 		]
 	},
+	"一句话": {
+		"py": "yījùhuà",
+		"mn": [
+			[
+				"n",
+				"trong một từ | Nói ngắn gọn"
+			]
+		]
+	},
+	"缘": {
+		"py": "yuán",
+		"mn": [
+			[
+				"n",
+				"duyên cớ; nguyên do; nguyên nhân; lý do | duyên phận; số phận; duyên số | cạnh; bờ; mép"
+			],
+			[
+				"prep",
+				"vì; bởi vì; cớ sao"
+			],
+			[
+				"v",
+				"men theo; thuận theo; noi theo; dọc theo"
+			]
+		]
+	},
+	"天定": {
+		"py": "tiāndìng",
+		"mn": [
+			[
+				"v",
+				"thiên định; ý trời; tiền định"
+			]
+		]
+	},
 	"份": {
 		"py": "fèn",
 		"mn": [
@@ -1141,6 +1274,19 @@
 			[
 				"measure",
 				"suất; phần; bản | số; tờ; bản; bổn (báo, văn kiện) | phần | dáng vẻ; bộ dạng; trạng thái"
+			]
+		]
+	},
+	"人为": {
+		"py": "rénwéi",
+		"mn": [
+			[
+				"v",
+				"con người làm ra"
+			],
+			[
+				"adj",
+				"do con người gây ra; do con người tạo nên"
 			]
 		]
 	},

@@ -166,6 +166,15 @@
 			]
 		]
 	},
+	"瘦": {
+		"py": "shòu",
+		"mn": [
+			[
+				"adj",
+				"gầy; gầy còm; gầy yếu | chật; hẹp | nạc (thịt) | cằn; cằn cỗi"
+			]
+		]
+	},
 	"昨天": {
 		"py": "zuótiān",
 		"mn": [
@@ -215,6 +224,15 @@
 			[
 				"adj",
 				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"牛排": {
+		"py": "niúpái",
+		"mn": [
+			[
+				"n",
+				"bít tết; tảng thịt bò; bò bít tết"
 			]
 		]
 	},

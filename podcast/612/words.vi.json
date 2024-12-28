@@ -26,6 +26,15 @@
 			]
 		]
 	},
+	"生病": {
+		"py": "shēngbìng",
+		"mn": [
+			[
+				"v",
+				"sinh bệnh; phát bệnh; bị ốm"
+			]
+		]
+	},
 	"肚子": {
 		"py": "dùzi",
 		"mn": [
@@ -54,6 +63,31 @@
 			[
 				"n",
 				"răng | ngà voi | hình răng cưa (đồ vật) | họ Nha"
+			]
+		]
+	},
+	"头": {
+		"py": "tóu",
+		"mn": [
+			[
+				"n",
+				"đầu; cái đầu | tóc; đầu tóc; kiểu tóc | đầu mục; người đứng đầu; người cầm đầu | đầu; đỉnh; chóp (vật thể) | điểm đầu; điểm chót của sự việc | phía; mặt; bên; phương diện | phần còn lại; phần sót lại; phần thừa ra"
+			],
+			[
+				"measure",
+				"con (gia súc) | củ"
+			],
+			[
+				"numb",
+				"nhất; đầu; số một; thứ nhất; hạng nhất"
+			],
+			[
+				"adj",
+				"đầu; đầu tiên; đứng đầu; dẫn đầu | trước; trước kia; trước đây"
+			],
+			[
+				"prep",
+				"trước; gần; tiếp cận"
 			]
 		]
 	}

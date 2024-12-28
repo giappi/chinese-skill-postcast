@@ -34,6 +34,15 @@
 			]
 		]
 	},
+	"节日": {
+		"py": "jiérì",
+		"mn": [
+			[
+				"n",
+				"ngày lễ; ngày hội; ngày tết; lễ"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -65,12 +74,43 @@
 			]
 		]
 	},
+	"西方": {
+		"py": "xīfāng",
+		"mn": [
+			[
+				"n",
+				"phương tây; phía tây | Tây Phương (tín đồ đạo Phật gọi nơi phát tích của đạo Phật)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"信仰": {
+		"py": "xìnyǎng",
+		"mn": [
+			[
+				"n",
+				"tín ngưỡng"
+			],
+			[
+				"v",
+				"tín; tin theo; tôn thờ"
+			]
+		]
+	},
+	"基督教": {
+		"py": "jīdūjiào",
+		"mn": [
+			[
+				"n",
+				"Cơ Đốc giáo; Kitô giáo"
 			]
 		]
 	},
@@ -112,6 +152,15 @@
 			]
 		]
 	},
+	"基督徒": {
+		"py": "jīdūtú",
+		"mn": [
+			[
+				"n",
+				"Người theo đạo thiên chúa"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -130,6 +179,28 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"全年": {
+		"py": "quánnián",
+		"mn": [
+			[
+				"n",
+				"suốt năm | cả năm"
+			]
+		]
+	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
 			]
 		]
 	},
@@ -152,6 +223,15 @@
 			[
 				"conj",
 				"vì; do; bởi vì"
+			]
+		]
+	},
+	"家人": {
+		"py": "jiārén",
+		"mn": [
+			[
+				"n",
+				"gia đình; người nhà; thành viên trong gia đình"
 			]
 		]
 	},
@@ -190,12 +270,56 @@
 			]
 		]
 	},
+	"一家": {
+		"py": "yījiā",
+		"mn": [
+			[
+				"n",
+				"một nhà; một gia đình | một trường phái; một giáo phái"
+			]
+		]
+	},
+	"隆重": {
+		"py": "lóngzhòng",
+		"mn": [
+			[
+				"adj",
+				"long trọng; linh đình; trọng thể"
+			]
+		]
+	},
 	"每年": {
 		"py": "měinián",
 		"mn": [
 			[
 				"",
 				"hằng năm; mỗi năm | năm qua | năm một; năm năm"
+			]
+		]
+	},
+	"负责": {
+		"py": "fùzé",
+		"mn": [
+			[
+				"v",
+				"phụ trách; chịu trách nhiệm"
+			],
+			[
+				"adj",
+				"có trách nhiệm"
+			]
+		]
+	},
+	"装饰": {
+		"py": "zhuāngshì",
+		"mn": [
+			[
+				"n",
+				"đồ trang sức; đồ trang trí; cách trang trí"
+			],
+			[
+				"v",
+				"trang trí; bài trí; trang hoàng"
 			]
 		]
 	},
@@ -239,6 +363,15 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"崇拜": {
+		"py": "chóngbài",
+		"mn": [
+			[
+				"v",
+				"tôn thờ; sùng bái; ngưỡng mộ"
 			]
 		]
 	},
@@ -379,6 +512,15 @@
 			]
 		]
 	},
+	"三色": {
+		"py": "sānsè",
+		"mn": [
+			[
+				"n",
+				"Chỉ đầu tử 骰子 con xúc xắc. \n§ Gọi thế vì trong cờ bạc; mỗi lần ném ba con xúc xắc; tam thể; tam tài"
+			]
+		]
+	},
 	"被": {
 		"py": "bèi",
 		"mn": [
@@ -400,12 +542,30 @@
 			]
 		]
 	},
+	"称为": {
+		"py": "chēngwéi",
+		"mn": [
+			[
+				"v",
+				"gọi là; xem là; coi là; mệnh danh là"
+			]
+		]
+	},
 	"圣诞": {
 		"py": "shèngdàn",
 		"mn": [
 			[
 				"n",
 				"Noel; thánh đản; lễ Nô-en; ngày Chúa sinh ra đời"
+			]
+		]
+	},
+	"色": {
+		"py": "sè",
+		"mn": [
+			[
+				"n",
+				"màu; màu sắc | sắc mặt; nét mặt; vẻ mặt | thứ; loại; chủng loại | tình cảnh; cảnh tượng | chất lượng; thành phần | sắc đẹp; nhan sắc (phụ nữ) | tính dục; tình dục | họ Sắc"
 			]
 		]
 	},
@@ -437,6 +597,15 @@
 			[
 				"n",
 				"màu; màu sắc | nhan sắc | một bài học; biết mặt | sắc mặt; vẻ mặt"
+			]
+		]
+	},
+	"彩灯": {
+		"py": "cǎidēng",
+		"mn": [
+			[
+				"n",
+				"đèn màu"
 			]
 		]
 	},
@@ -509,6 +678,15 @@
 			[
 				"n",
 				"họ Đáo"
+			]
+		]
+	},
+	"前夕": {
+		"py": "qiánxī",
+		"mn": [
+			[
+				"n",
+				"đêm trước | trước lúc; trước giờ; trước khi"
 			]
 		]
 	},
@@ -668,6 +846,15 @@
 			]
 		]
 	},
+	"组成": {
+		"py": "zǔchéng",
+		"mn": [
+			[
+				"v",
+				"gồm; cấu thành; tạo thành; hợp thành; thành lập; bao gồm; cấu tạo nên"
+			]
+		]
+	},
 	"说": {
 		"py": "shuō",
 		"mn": [
@@ -678,6 +865,15 @@
 			[
 				"n",
 				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
 			]
 		]
 	},
@@ -778,6 +974,15 @@
 			]
 		]
 	},
+	"是否": {
+		"py": "shìfǒu",
+		"mn": [
+			[
+				"adv",
+				"phải chăng; hay không; liệu rằng; liệu có"
+			]
+		]
+	},
 	"真的": {
 		"py": "zhēnde",
 		"mn": [
@@ -787,12 +992,43 @@
 			]
 		]
 	},
+	"存在": {
+		"py": "cúnzài",
+		"mn": [
+			[
+				"v",
+				"còn; có thật; thực sự; đã sống; tồn tại"
+			],
+			[
+				"n",
+				"sự sống; sự tồn tại"
+			]
+		]
+	},
+	"并不": {
+		"py": "bìngbù",
+		"mn": [
+			[
+				"adv",
+				"không hề; chẳng hề; chả hề"
+			]
+		]
+	},
 	"重要": {
 		"py": "zhòngyào",
 		"mn": [
 			[
 				"adj",
 				"quan trọng; tầm lớn; hệ trọng"
+			]
+		]
+	},
+	"拥有": {
+		"py": "yōngyǒu",
+		"mn": [
+			[
+				"v",
+				"có; mang; hàm chứa"
 			]
 		]
 	},
@@ -835,6 +1071,46 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"充满": {
+		"py": "chōngmǎn",
+		"mn": [
+			[
+				"v",
+				"nhồi; nhét; lấp đầy; tràn đầy; tràn ngập; lấp kín; ních đầy | chan chứa; tràn đầy; tràn trề"
+			]
+		]
+	},
+	"童话": {
+		"py": "tónghuà",
+		"mn": [
+			[
+				"n",
+				"truyện cổ tích; truyện nhi đồng"
+			]
+		]
+	},
+	"色彩": {
+		"py": "sècǎi",
+		"mn": [
+			[
+				"n",
+				"màu sắc; màu"
+			],
+			[
+				"n",
+				"sắc thái"
+			]
+		]
+	},
+	"童年": {
+		"py": "tóngnián",
+		"mn": [
+			[
+				"n, time",
+				"thời thơ ấu; tuổi thơ ấu; thời niên thiếu"
 			]
 		]
 	},

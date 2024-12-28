@@ -48,12 +48,34 @@
 			]
 		]
 	},
+	"骑": {
+		"py": "qí",
+		"mn": [
+			[
+				"v",
+				"cưỡi; đi | giữa; ở giữa"
+			],
+			[
+				"n",
+				"ngựa; vật cưỡi | kỵ binh; kỵ sĩ"
+			]
+		]
+	},
 	"过": {
 		"py": "guo",
 		"mn": [
 			[
 				"part",
 				"xong; rồi | từng; đã từng ( biểu thị hành vi đã từng phát sinh, nhưng nay đã hết) | từng; đã từng (tính chất, trạng thái)"
+			]
+		]
+	},
+	"自行车": {
+		"py": "zìxíngchē",
+		"mn": [
+			[
+				"n",
+				"xe đạp"
 			]
 		]
 	},
@@ -140,6 +162,19 @@
 			]
 		]
 	},
+	"真正": {
+		"py": "zhēnzhèng",
+		"mn": [
+			[
+				"adv",
+				"thực sự; thật sự"
+			],
+			[
+				"adj",
+				"chính hiệu; đích thực; thực thụ"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -203,6 +238,69 @@
 			[
 				"part",
 				"mà; một cách"
+			]
+		]
+	},
+	"欣赏": {
+		"py": "xīnshǎng",
+		"mn": [
+			[
+				"v",
+				"thưởng thức; ngắm; ngắm nhìn; chiêm ngưỡng | đánh giá cao; tán thưởng; yêu thích; thích"
+			]
+		]
+	},
+	"风景": {
+		"py": "fēngjǐng",
+		"mn": [
+			[
+				"n",
+				"phong cảnh; cảnh vật; quang cảnh; cảnh quan"
+			]
+		]
+	},
+	"并且": {
+		"py": "bìngqiě",
+		"mn": [
+			[
+				"conj",
+				"và; còn; đồng thời; mà còn (dùng giữa hai động từ,tính từ hoặc cụm từ, biểu thị hai động tác tiến hành cùng lúc hoặc bản chất đồng thời tồn tại.) | hơn nữa; đồng thời; vả; mà còn; còn; với lại (dùng ở nửa sau của câu phức, biểu thị ý nghĩa tiến thêm một bước)"
+			]
+		]
+	},
+	"享受": {
+		"py": "xiǎngshòu",
+		"mn": [
+			[
+				"v",
+				"hưởng thụ; tận hưởng; cảm nhận; thưởng thức"
+			]
+		]
+	},
+	"外面": {
+		"py": "wàimiàn",
+		"mn": [
+			[
+				"nlocal",
+				"bên ngoài; bề ngoài"
+			]
+		]
+	},
+	"新鲜": {
+		"py": "xīnxiān",
+		"mn": [
+			[
+				"adj",
+				"tươi; tươi ngon (rau, quả, hoa, thịt, trứng, cá...) | trong lành (không khí) | mới xuất hiện; mới mẻ; tươi mới"
+			]
+		]
+	},
+	"空气": {
+		"py": "kōngqì",
+		"mn": [
+			[
+				"n",
+				"không khí | bầu không khí; môi trường"
 			]
 		]
 	},
@@ -331,6 +429,15 @@
 			]
 		]
 	},
+	"路况": {
+		"py": "lùkuàng",
+		"mn": [
+			[
+				"n",
+				"tình hình giao thông (lưu lượng giao thông)"
+			]
+		]
+	},
 	"越来越": {
 		"py": "yuèláiyuè",
 		"mn": [
@@ -353,6 +460,15 @@
 			]
 		]
 	},
+	"到处": {
+		"py": "dàochù",
+		"mn": [
+			[
+				"adv",
+				"khắp nơi; mọi nơi; nơi nơi; đâu đâu; khắp chốn; chỗ nào cũng"
+			]
+		]
+	},
 	"都是": {
 		"py": "dōushì",
 		"mn": [
@@ -362,12 +478,30 @@
 			]
 		]
 	},
+	"坑坑洼洼": {
+		"py": "kēngkēngwāwā",
+		"mn": [
+			[
+				"idioms",
+				"gồ ghề; lồi lõm; mấp mô; gập ghềnh; xóc, lởm chởm"
+			]
+		]
+	},
 	"刚才": {
 		"py": "gāngcái",
 		"mn": [
 			[
 				"n",
 				"vừa; vừa mới; vừa rồi; ban nãy"
+			]
+		]
+	},
+	"幸好": {
+		"py": "xìnghǎo",
+		"mn": [
+			[
+				"adv",
+				"may mắn; may mà; may thay"
 			]
 		]
 	},
@@ -394,6 +528,19 @@
 			[
 				"n",
 				"lính sai (chỉ người chuyên đi bắt tội phạm) | họ Khoái"
+			]
+		]
+	},
+	"刹车": {
+		"py": "shāchē",
+		"mn": [
+			[
+				"v",
+				"phanh lại; thắng lại (xe) | tắt máy; hãm máy | ngừng; dừng; dừng lại (một việc hay hành động gì đó)"
+			],
+			[
+				"n",
+				"phanh; bộ phanh xe; bộ thắng xe"
 			]
 		]
 	},
@@ -444,6 +591,15 @@
 			]
 		]
 	},
+	"水坑": {
+		"py": "shuǐkēng",
+		"mn": [
+			[
+				"n",
+				"vũng nước | bể phốt | lỗ nước"
+			]
+		]
+	},
 	"差点": {
 		"py": "chàdiǎn",
 		"mn": [
@@ -475,6 +631,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"失控": {
+		"py": "shīkòng",
+		"mn": [
+			[
+				"v",
+				"mất kiểm soát; vượt ra khỏi tầm kiểm soát"
 			]
 		]
 	},
@@ -522,6 +687,15 @@
 			]
 		]
 	},
+	"惊险": {
+		"py": "jīngxiǎn",
+		"mn": [
+			[
+				"adj",
+				"kịch tính; ly kỳ; nguy hiểm; giật gân"
+			]
+		]
+	},
 	"咱们": {
 		"py": "zánmen",
 		"mn": [
@@ -566,12 +740,39 @@
 			]
 		]
 	},
+	"路线图": {
+		"py": "lùxiàntú",
+		"mn": [
+			[
+				"n",
+				"bản đồ chỉ đường | lộ trình phát triển"
+			]
+		]
+	},
+	"避开": {
+		"py": "bìkāi",
+		"mn": [
+			[
+				"v",
+				"tránh; tránh né"
+			]
+		]
+	},
 	"这样": {
 		"py": "zhèyàng",
 		"mn": [
 			[
 				"pro",
 				"vậy; thế; như vậy; như thế; thế này; như vầy"
+			]
+		]
+	},
+	"恶劣": {
+		"py": "èliè",
+		"mn": [
+			[
+				"adj",
+				"tệ; tồi tệ; xấu xa; tồi; tầm thường"
 			]
 		]
 	},
@@ -594,6 +795,15 @@
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"重蹈覆辙": {
+		"py": "chóngdǎofùzhé",
+		"mn": [
+			[
+				"idioms",
+				"giẫm lên vết xe đổ; đi lên vết xe đổ; không biết rút bài học kinh nghiệm từ thất bại trước, của người khác"
 			]
 		]
 	}

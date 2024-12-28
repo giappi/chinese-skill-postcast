@@ -147,6 +147,15 @@
 			]
 		]
 	},
+	"外面": {
+		"py": "wàimiàn",
+		"mn": [
+			[
+				"nlocal",
+				"bên ngoài; bề ngoài"
+			]
+		]
+	},
 	"可": {
 		"py": "kě",
 		"mn": [
@@ -390,6 +399,23 @@
 			]
 		]
 	},
+	"冰": {
+		"py": "bīng",
+		"mn": [
+			[
+				"n",
+				"băng; đá; nước đá | những thứ trong suốt như băng (đường phèn; băng phiến; ma túy đá) | họ Băng"
+			],
+			[
+				"adj",
+				"buốt; giá lạnh; rét; rét buốt; lạnh buốt"
+			],
+			[
+				"v",
+				"ướp đá; ướp lạnh | cảm thấy lạnh"
+			]
+		]
+	},
 	"好的": {
 		"py": "hǎode",
 		"mn": [
@@ -477,6 +503,24 @@
 			]
 		]
 	},
+	"嘞": {
+		"py": "lei",
+		"mn": [
+			[
+				"mpart",
+				"thôi; rồi; nhé"
+			]
+		]
+	},
+	"尝": {
+		"py": "cháng",
+		"mn": [
+			[
+				"v",
+				"nếm; thử (ăn, uống) | nếm trải; trải qua; đã từng"
+			]
+		]
+	},
 	"看": {
 		"py": "kàn",
 		"mn": [
@@ -487,6 +531,36 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"味道": {
+		"py": "wèidào",
+		"mn": [
+			[
+				"n",
+				"vị; mùi; mùi vị | tư vị; cảm giác | thích thú; thú vị"
+			]
+		]
+	},
+	"极": {
+		"py": "jí",
+		"mn": [
+			[
+				"n",
+				"cực | đỉnh điểm; điểm dừng; điểm cuối | họ Cực"
+			],
+			[
+				"adv",
+				"hết sức; cực độ; rất; cực kỳ (phó từ, biểu thị đạt tới độ cao nhất)"
+			],
+			[
+				"adj",
+				"cao nhất; cuối cùng"
+			],
+			[
+				"v",
+				"làm hết sức mình"
 			]
 		]
 	}

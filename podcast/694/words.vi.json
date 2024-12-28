@@ -86,6 +86,15 @@
 			]
 		]
 	},
+	"烛光": {
+		"py": "zhúguāng",
+		"mn": [
+			[
+				"n",
+				"candela, đơn vị cường độ sáng (cd) | ánh nến | thắp nến (canh thức, v.v.)"
+			]
+		]
+	},
 	"晚餐": {
 		"py": "wǎncān",
 		"mn": [
@@ -155,6 +164,15 @@
 			]
 		]
 	},
+	"花瓣": {
+		"py": "huābàn",
+		"mn": [
+			[
+				"n",
+				"cánh hoa"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
@@ -170,6 +188,15 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"精心": {
+		"py": "jīngxīn",
+		"mn": [
+			[
+				"adj",
+				"chăm chú; chuyên tâm; dày công; công phu; chú tâm"
 			]
 		]
 	},
@@ -256,6 +283,19 @@
 			]
 		]
 	},
+	"荣幸": {
+		"py": "róngxìng",
+		"mn": [
+			[
+				"adj",
+				"vinh hạnh; hân hạnh; vinh dự"
+			],
+			[
+				"n",
+				"niềm vinh hạnh"
+			]
+		]
+	},
 	"请": {
 		"py": "qǐng",
 		"mn": [
@@ -309,6 +349,23 @@
 			[
 				"adj",
 				"đơn chiếc; lẻ loi; một mình; đơn độc"
+			]
+		]
+	},
+	"舞": {
+		"py": "wǔ",
+		"mn": [
+			[
+				"n",
+				"vũ điệu; điệu múa; vũ đạo; điệu nhảy | vũ đài; sàn; sân chơi"
+			],
+			[
+				"v",
+				"nhảy múa; múa | múa; khua; khua khoắng; vẫy; lắc | chơi; chơi đùa; trêu đùa"
+			],
+			[
+				"measure",
+				"điệu nhảy; điệu múa"
 			]
 		]
 	}

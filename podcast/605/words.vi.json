@@ -200,6 +200,15 @@
 			]
 		]
 	},
+	"睡一觉": {
+		"py": "shuìyījiào",
+		"mn": [
+			[
+				"v",
+				"ngủ một giấc; đánh một giấc"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -280,6 +289,15 @@
 			]
 		]
 	},
+	"保重": {
+		"py": "bǎozhòng",
+		"mn": [
+			[
+				"v",
+				"bảo trọng; giữ gìn sức khoẻ"
+			]
+		]
+	},
 	"需要": {
 		"py": "xūyào",
 		"mn": [
@@ -307,6 +325,15 @@
 			[
 				"measure",
 				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"请假": {
+		"py": "qǐngjià",
+		"mn": [
+			[
+				"sv, v",
+				"xin nghỉ; xin phép nghỉ (do bệnh tật hay gặp khó khăn)"
 			]
 		]
 	},
@@ -367,6 +394,15 @@
 			[
 				"adj",
 				"trên nóc; trên đỉnh | bẩm sinh; thiên phú"
+			]
+		]
+	},
+	"假": {
+		"py": "jià",
+		"mn": [
+			[
+				"n",
+				"kỳ nghỉ (ngày lễ; dịp lễ) | phép nghỉ"
 			]
 		]
 	},

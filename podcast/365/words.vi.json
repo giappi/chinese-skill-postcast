@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"害怕": {
+		"py": "hàipà",
+		"mn": [
+			[
+				"v",
+				"sợ; sợ hãi; sợ sệt; e dè; lo sợ"
+			]
+		]
+	},
 	"周末": {
 		"py": "zhōumò",
 		"mn": [
@@ -41,6 +50,15 @@
 			[
 				"n",
 				"vợ; bà xã"
+			]
+		]
+	},
+	"逛街": {
+		"py": "guàngjiē",
+		"mn": [
+			[
+				"v",
+				"mua sắm; dạo phố; dạo bộ; tản bộ"
 			]
 		]
 	},
@@ -92,6 +110,19 @@
 			]
 		]
 	},
+	"试": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"thử; thử nghiệm; thí nghiệm"
+			],
+			[
+				"n",
+				"thi; thi cử"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -124,6 +155,15 @@
 			[
 				"n",
 				"họ Vấn"
+			]
+		]
+	},
+	"亲爱": {
+		"py": "qīnài",
+		"mn": [
+			[
+				"adj",
+				"thân thiết; thương yêu; thân yêu | yêu quý; thân mến; yêu dấu"
 			]
 		]
 	},
@@ -211,6 +251,19 @@
 			]
 		]
 	},
+	"回答": {
+		"py": "huídá",
+		"mn": [
+			[
+				"v",
+				"trả lời; đáp; giải đáp; đối đáp; đáp lại"
+			],
+			[
+				"n",
+				"câu trả lời"
+			]
+		]
+	},
 	"完": {
 		"py": "wán",
 		"mn": [
@@ -259,6 +312,15 @@
 			]
 		]
 	},
+	"筋疲力尽": {
+		"py": "jīnpílìjìn",
+		"mn": [
+			[
+				"idioms",
+				"kiệt lực; kiệt sức; mệt rã rời; hết hơi hết sức; sức cùng lực kiệt"
+			]
+		]
+	},
 	"不过": {
 		"py": "bùguò",
 		"mn": [
@@ -286,6 +348,19 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"把握": {
+		"py": "bǎwò",
+		"mn": [
+			[
+				"v",
+				"cầm; nắm (vật cụ thể) | nắm; nắm bắt (trừu tượng)"
+			],
+			[
+				"n",
+				"sự chắc ăn; sự chắc chắn; sự tự tin; niềm tin"
 			]
 		]
 	},
@@ -378,6 +453,15 @@
 			]
 		]
 	},
+	"显得": {
+		"py": "xiǎnde",
+		"mn": [
+			[
+				"v",
+				"trông; lộ ra; tỏ ra; hiện ra; có vẻ"
+			]
+		]
+	},
 	"有点": {
 		"py": "yǒudiǎn",
 		"mn": [
@@ -388,6 +472,28 @@
 			[
 				"v",
 				"có ít; có chút"
+			]
+		]
+	},
+	"胖": {
+		"py": "pàng",
+		"mn": [
+			[
+				"adj",
+				"mập; béo; ú; lớn; mũm mĩm"
+			]
+		]
+	},
+	"永远": {
+		"py": "yǒngyuǎn",
+		"mn": [
+			[
+				"adv",
+				"vĩnh viễn; mãi mãi; luôn luôn"
+			],
+			[
+				"n",
+				"mãi mãi"
 			]
 		]
 	},

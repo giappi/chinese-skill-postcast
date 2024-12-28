@@ -227,6 +227,23 @@
 			]
 		]
 	},
+	"冰": {
+		"py": "bīng",
+		"mn": [
+			[
+				"n",
+				"băng; đá; nước đá | những thứ trong suốt như băng (đường phèn; băng phiến; ma túy đá) | họ Băng"
+			],
+			[
+				"adj",
+				"buốt; giá lạnh; rét; rét buốt; lạnh buốt"
+			],
+			[
+				"v",
+				"ướp đá; ướp lạnh | cảm thấy lạnh"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [

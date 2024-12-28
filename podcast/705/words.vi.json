@@ -17,6 +17,19 @@
 			]
 		]
 	},
+	"聚会": {
+		"py": "jùhuì",
+		"mn": [
+			[
+				"v",
+				"tụ tập; tụ họp; gặp; gặp gỡ (người)"
+			],
+			[
+				"n",
+				"cuộc hội họp; buổi gặp gỡ; buổi họp mặt; buổi tụ tập"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -96,6 +109,15 @@
 			[
 				"measure",
 				"bao; gói; túi; bọc"
+			]
+		]
+	},
+	"饺子": {
+		"py": "jiǎozi",
+		"mn": [
+			[
+				"n",
+				"bánh chẻo; sủi cảo; há cảo"
 			]
 		]
 	},
@@ -187,12 +209,61 @@
 			]
 		]
 	},
+	"擀": {
+		"py": "gǎn",
+		"mn": [
+			[
+				"v",
+				"cán; giã; nghiền | lau kỹ; cọ"
+			]
+		]
+	},
+	"皮": {
+		"py": "pí",
+		"mn": [
+			[
+				"n",
+				"da; vỏ | da (thuộc) | lớp bọc bên ngoài; lớp bọc ngoài | bề mặt; lớp vỏ | lớp mỏng; màng mỏng | cao su | họ Bì"
+			],
+			[
+				"adj",
+				"bướng; bướng bỉnh; nghịch ngợm | lì ra; nhây ra; lì lợm; lờn; trơ tráo; trơ | dẻo dai; bền bỉ | ỉu; ỉu xìu; ẩm xìu"
+			]
+		]
+	},
+	"剁": {
+		"py": "duò",
+		"mn": [
+			[
+				"v",
+				"chặt; băm"
+			]
+		]
+	},
+	"馅儿": {
+		"py": "xiànr",
+		"mn": [
+			[
+				"n",
+				"nhân"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"在行": {
+		"py": "zàiháng",
+		"mn": [
+			[
+				"adj",
+				"lành nghề; thạo; thành thạo; trong nghề"
 			]
 		]
 	},
@@ -393,6 +464,15 @@
 			]
 		]
 	},
+	"现成": {
+		"py": "xiànchéng",
+		"mn": [
+			[
+				"adj",
+				"sẵn; có sẵn; vốn có; sẵn sàng"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -412,6 +492,19 @@
 			[
 				"conj",
 				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"省事": {
+		"py": "shěngshì",
+		"mn": [
+			[
+				"v",
+				"bớt việc; giảm bớt thủ tục"
+			],
+			[
+				"adj",
+				"tiện lợi; bớt phiền"
 			]
 		]
 	},

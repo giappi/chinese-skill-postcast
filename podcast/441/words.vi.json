@@ -284,6 +284,15 @@
 			]
 		]
 	},
+	"投": {
+		"py": "tóu",
+		"mn": [
+			[
+				"v",
+				"ném; quăng | bỏ vào; quăng vào; bình chọn | nhảy vào; nhảy xuống (chỉ tự sát); gieo | toả; toả chiếu; toả sáng | gửi | lao vào; tìm đến; tham gia vào | hợp; hợp nhau; làm vừa lòng nhau | gần; sắp sửa; trước khi | giặt (quần áo)"
+			]
+		]
+	},
 	"一些": {
 		"py": "yīxiē",
 		"mn": [
@@ -308,6 +317,15 @@
 			[
 				"v",
 				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"任何": {
+		"py": "rènhé",
+		"mn": [
+			[
+				"pro",
+				"bất kì; bất kể; bất cứ"
 			]
 		]
 	},
@@ -373,6 +391,15 @@
 			[
 				"v",
 				"sẽ không | không biết | không phải; không đâu"
+			]
+		]
+	},
+	"录用": {
+		"py": "lùyòng",
+		"mn": [
+			[
+				"v",
+				"tuyển dụng; được nhận | áp dụng; chấp nhận"
 			]
 		]
 	},

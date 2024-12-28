@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"放假": {
+		"py": "fàngjià",
+		"mn": [
+			[
+				"v, sv",
+				"nghỉ; nghỉ định kỳ"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -131,6 +140,15 @@
 			[
 				"n",
 				"họ Đáo"
+			]
+		]
+	},
+	"九日": {
+		"py": "jiǔrì",
+		"mn": [
+			[
+				"n",
+				"Chín mặt trời. \n§ Thần thoại cổ nói trên trời có mười mặt trời; vua Nghiêu 堯 sai Hậu Nghệ 后羿 bắn trúng chín mặt trời. Tiết trùng dương; mùng 9 tháng 9 âm lịch."
 			]
 		]
 	},

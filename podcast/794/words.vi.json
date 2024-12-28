@@ -150,6 +150,15 @@
 			]
 		]
 	},
+	"批准": {
+		"py": "pīzhǔn",
+		"mn": [
+			[
+				"v",
+				"phê chuẩn; chuẩn y; chuẩn phê; duyệt y; bằng lòng; thông qua; y chuẩn; phê duyệt"
+			]
+		]
+	},
 	"参加": {
 		"py": "cānjiā",
 		"mn": [
@@ -212,6 +221,15 @@
 			[
 				"n",
 				"điện thoại | điện thoại; cuộc điện thoại; cuộc gọi đến"
+			]
+		]
+	},
+	"查询": {
+		"py": "cháxún",
+		"mn": [
+			[
+				"v",
+				"tra cứu; tìm kiếm; truy cập; truy vấn"
 			]
 		]
 	},
@@ -380,6 +398,15 @@
 			]
 		]
 	},
+	"拒": {
+		"py": "jù",
+		"mn": [
+			[
+				"v",
+				"chống; chống đỡ; chống cự; kháng cự; chống chọi | cự tuyệt; từ chối; không nhận; gạt đi"
+			]
+		]
+	},
 	"理想": {
 		"py": "lǐxiǎng",
 		"mn": [
@@ -390,6 +417,15 @@
 			[
 				"adj",
 				"lý tưởng; tốt"
+			]
+		]
+	},
+	"候选人": {
+		"py": "hòuxuǎnrén",
+		"mn": [
+			[
+				"n",
+				"người được đề cử; người ứng cử; ứng cử viên"
 			]
 		]
 	},
@@ -461,6 +497,15 @@
 			]
 		]
 	},
+	"消息": {
+		"py": "xiāoxi",
+		"mn": [
+			[
+				"n",
+				"tin; tin tức; thông tin"
+			]
+		]
+	},
 	"借": {
 		"py": "jiè",
 		"mn": [
@@ -492,12 +537,30 @@
 			]
 		]
 	},
+	"如坐针毡": {
+		"py": "rúzuòzhēnzhān",
+		"mn": [
+			[
+				"idioms",
+				"như đứng đống lửa, như ngồi đống than; như ngồi trên chông"
+			]
+		]
+	},
 	"每次": {
 		"py": "měicì",
 		"mn": [
 			[
 				"adv",
 				"mỗi lần"
+			]
+		]
+	},
+	"信件": {
+		"py": "xìnjiàn",
+		"mn": [
+			[
+				"n",
+				"thư tín; bức thư"
 			]
 		]
 	},
@@ -522,6 +585,15 @@
 			]
 		]
 	},
+	"心": {
+		"py": "xīn",
+		"mn": [
+			[
+				"n",
+				"tim; trái tim; quả tim | tâm; lòng; tâm tư; tâm địa; ý nghĩ; ý muốn | tâm; lòng; trung tâm; khoảng giữa | suy nghĩ; suy tư; mưu tính | lòng; tấm lòng; bụng dạ; tâm địa | sao Tâm (một chòm sao trong nhị thập bát tú)"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -540,6 +612,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"提到": {
+		"py": "tídào",
+		"mn": [
+			[
+				"v",
+				"đề cập; nhắc đến; nói đến"
 			]
 		]
 	},
@@ -596,6 +677,41 @@
 			]
 		]
 	},
+	"生涯": {
+		"py": "shēngyá",
+		"mn": [
+			[
+				"n",
+				"cuộc đời; kiếp người; kiếp sống; sự nghiệp"
+			]
+		]
+	},
+	"梦想": {
+		"py": "mèngxiǎng",
+		"mn": [
+			[
+				"v",
+				"khát vọng; ước muốn; ao ước; mơ ước; mong ước"
+			],
+			[
+				"n",
+				"ước mơ; giấc mơ; ước nguyện; mong ước"
+			]
+		]
+	},
+	"未来": {
+		"py": "wèilái",
+		"mn": [
+			[
+				"n",
+				"sau này; mai sau; tương lai"
+			],
+			[
+				"adj",
+				"tới; sau; tiếp theo"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
@@ -628,6 +744,15 @@
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"不至于": {
+		"py": "bùzhìyú",
+		"mn": [
+			[
+				"v",
+				"không đến mức; chưa đến nỗi; không tới mức"
 			]
 		]
 	},

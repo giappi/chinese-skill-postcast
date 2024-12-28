@@ -69,6 +69,15 @@
 			]
 		]
 	},
+	"好几": {
+		"py": "hǎojǐ",
+		"mn": [
+			[
+				"numb",
+				"ngoài; hơn; trên (dùng sau số chẵn biểu thị hơn) | nhiều; mấy; vài (dùng trước từ chỉ số lượng hoặc thời gian biểu thị nhiều)"
+			]
+		]
+	},
 	"次": {
 		"py": "cì",
 		"mn": [
@@ -114,6 +123,15 @@
 			[
 				"adv",
 				"cứ; thẳng; thẳng tuốt; một mạch | suốt; luôn luôn; liên tục | từ (nhấn mạnh phạm vi đã định)"
+			]
+		]
+	},
+	"占线": {
+		"py": "zhànxiàn",
+		"mn": [
+			[
+				"v, sv",
+				"bận; máy bận; đường dây bận"
 			]
 		]
 	},
@@ -239,6 +257,28 @@
 			[
 				"n",
 				"chồng; anh xã; anh nhà"
+			]
+		]
+	},
+	"煲": {
+		"py": "bāo",
+		"mn": [
+			[
+				"n",
+				"cái nồi; nồi tròn (thành đứng)"
+			],
+			[
+				"v",
+				"nấu; hầm; ninh; thổi; nấu nướng (dùng nồi nấu hoặc ninh cháo)"
+			]
+		]
+	},
+	"粥": {
+		"py": "zhōu",
+		"mn": [
+			[
+				"n",
+				"cháo"
 			]
 		]
 	},
@@ -436,6 +476,15 @@
 			[
 				"adv",
 				"sắp sửa; sẽ"
+			]
+		]
+	},
+	"不通": {
+		"py": "bùtōng",
+		"mn": [
+			[
+				"",
+				"bị chặn | trở nên phi logic | không thể vượt qua | bị cản trở | không có ý nghĩa"
 			]
 		]
 	},

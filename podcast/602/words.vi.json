@@ -70,6 +70,31 @@
 			]
 		]
 	},
+	"头": {
+		"py": "tóu",
+		"mn": [
+			[
+				"n",
+				"đầu; cái đầu | tóc; đầu tóc; kiểu tóc | đầu mục; người đứng đầu; người cầm đầu | đầu; đỉnh; chóp (vật thể) | điểm đầu; điểm chót của sự việc | phía; mặt; bên; phương diện | phần còn lại; phần sót lại; phần thừa ra"
+			],
+			[
+				"measure",
+				"con (gia súc) | củ"
+			],
+			[
+				"numb",
+				"nhất; đầu; số một; thứ nhất; hạng nhất"
+			],
+			[
+				"adj",
+				"đầu; đầu tiên; đứng đầu; dẫn đầu | trước; trước kia; trước đây"
+			],
+			[
+				"prep",
+				"trước; gần; tiếp cận"
+			]
+		]
+	},
 	"有点": {
 		"py": "yǒudiǎn",
 		"mn": [
@@ -123,6 +148,15 @@
 			]
 		]
 	},
+	"厉害": {
+		"py": "lìhài",
+		"mn": [
+			[
+				"adj",
+				"lợi hại; kịch liệt; ghê gớm; dữ dội | giỏi; lợi hại; cừ; đáng gờm | mạnh; dữ dội; kinh hồn"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -147,6 +181,15 @@
 			[
 				"adv",
 				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"头晕": {
+		"py": "tóuyūn",
+		"mn": [
+			[
+				"adj",
+				"chóng mặt; choáng váng; đau đầu; nhức đầu"
 			]
 		]
 	},
@@ -243,6 +286,28 @@
 			]
 		]
 	},
+	"恶心": {
+		"py": "ěxīn",
+		"mn": [
+			[
+				"adj",
+				"buồn nôn; buồn ói; mắc ói; nôn mửa; tởm lợm; ghê tởm; tởm; kinh tởm"
+			],
+			[
+				"v",
+				"làm ghê tởm; khiến buồn nôn; gây kinh tởm; gây buồn nôn"
+			]
+		]
+	},
+	"食欲": {
+		"py": "shíyù",
+		"mn": [
+			[
+				"n",
+				"thèm ăn; ngon miệng"
+			]
+		]
+	},
 	"不好": {
 		"py": "bùhǎo",
 		"mn": [
@@ -327,6 +392,15 @@
 			[
 				"v",
 				"đi trước"
+			]
+		]
+	},
+	"量": {
+		"py": "liáng",
+		"mn": [
+			[
+				"v",
+				"đong; đo; lượng | đắn đo; cân nhắc; suy tính; xem xét; ngắm nghía; đánh giá"
 			]
 		]
 	},
@@ -430,6 +504,15 @@
 			]
 		]
 	},
+	"拿给": {
+		"py": "nágěi",
+		"mn": [
+			[
+				"v",
+				"cho"
+			]
+		]
+	},
 	"医生": {
 		"py": "yīshēng",
 		"mn": [
@@ -513,6 +596,28 @@
 			]
 		]
 	},
+	"血": {
+		"py": "xuè",
+		"mn": [
+			[
+				"n",
+				"máu; huyết | huyết thống; ruột thịt; máu mủ | tâm huyết; nhiệt huyết | kinh nguyệt"
+			]
+		]
+	},
+	"常规": {
+		"py": "chángguī",
+		"mn": [
+			[
+				"n",
+				"thường quy (phương pháp xử lý thường xuyên trong y học) | thói thường; lẽ thường; thông lệ; điều bình thường"
+			],
+			[
+				"adj",
+				"thông thường; bình thường"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -538,12 +643,34 @@
 			]
 		]
 	},
+	"尿": {
+		"py": "niào",
+		"mn": [
+			[
+				"v",
+				"đi tiểu; đi đái"
+			],
+			[
+				"n",
+				"nước tiểu; nước đái; nước giải"
+			]
+		]
+	},
 	"检查": {
 		"py": "jiǎnchá",
 		"mn": [
 			[
 				"v",
 				"kiểm tra; kiểm soát; khám | kiểm thảo; kiểm điểm | lục soát; lục; soát; kiểm tra"
+			]
+		]
+	},
+	"结束": {
+		"py": "jiéshù",
+		"mn": [
+			[
+				"v",
+				"hết; kết thúc; chấm dứt"
 			]
 		]
 	},

@@ -173,5 +173,27 @@
 				"lâu; lâu dài | bao lâu; lâu dài (trong một khoảng thời gian xác định)"
 			]
 		]
+	},
+	"玩具": {
+		"py": "wánjù",
+		"mn": [
+			[
+				"n",
+				"đồ chơi; đồ chơi trẻ em"
+			]
+		]
+	},
+	"用心": {
+		"py": "yòngxīn",
+		"mn": [
+			[
+				"adj",
+				"chăm chỉ; để tâm; chăm chú"
+			],
+			[
+				"n",
+				"ý định; mưu đồ; dụng tâm; ý đồ"
+			]
+		]
 	}
 }

@@ -46,6 +46,28 @@
 			]
 		]
 	},
+	"盒": {
+		"py": "hé",
+		"mn": [
+			[
+				"n",
+				"hộp; cái hộp; cặp lồng"
+			],
+			[
+				"measure",
+				"hộp"
+			]
+		]
+	},
+	"冰激凌": {
+		"py": "bīngjīlíng",
+		"mn": [
+			[
+				"n",
+				"kem; kem ly; kem cốc"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -251,6 +273,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"却之不恭": {
+		"py": "quèzhībùgōng",
+		"mn": [
+			[
+				"idioms",
+				"từ chối thì bất kính"
 			]
 		]
 	}

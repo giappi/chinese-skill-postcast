@@ -1,4 +1,13 @@
 {
+	"惨": {
+		"py": "cǎn",
+		"mn": [
+			[
+				"adj",
+				"bi thảm; thê thảm; thảm thương; thảm thiết | vô cùng; cực kỳ; ghê gớm; thê thảm | độc ác; hung ác; tàn ác | ảm đạm; tối tăm"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -61,6 +70,15 @@
 			[
 				"measure",
 				"cái; tấm; chiếc; đồng"
+			]
+		]
+	},
+	"钻石": {
+		"py": "zuànshí",
+		"mn": [
+			[
+				"n",
+				"đá kim cương; kim cương | chân kính (linh kiện làm bằng đá quý trong các chi tiết máy đo hàng không, đồng hồ)"
 			]
 		]
 	},
@@ -174,6 +192,15 @@
 			]
 		]
 	},
+	"骂": {
+		"py": "mà",
+		"mn": [
+			[
+				"v",
+				"chửi; chửi rủa; mắng nhiếc | trách; trách móc; mắng"
+			]
+		]
+	},
 	"所以": {
 		"py": "suǒyǐ",
 		"mn": [
@@ -223,6 +250,27 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"假": {
+		"py": "jiǎ",
+		"mn": [
+			[
+				"conj",
+				"nếu như; giá như; giả sử; giả dụ; giả định"
+			],
+			[
+				"v",
+				"mượn; vay | nhờ; dựa vào; nhờ vào; lợi dụng | giả; giả thuyết; giải thiết"
+			],
+			[
+				"adj",
+				"giả; dối; giả dối; không thật"
+			],
+			[
+				"n",
+				"giả; giả mạo; hàng giả"
 			]
 		]
 	},
@@ -334,6 +382,15 @@
 			]
 		]
 	},
+	"活该": {
+		"py": "huógāi",
+		"mn": [
+			[
+				"v",
+				"đáng đời; đáng kiếp | nên; phải; cần phải"
+			]
+		]
+	},
 	"这": {
 		"py": "zhè",
 		"mn": [
@@ -357,6 +414,24 @@
 			[
 				"part",
 				"được; được rồi; đúng rồi; không sai"
+			]
+		]
+	},
+	"撒谎": {
+		"py": "sāhuǎng",
+		"mn": [
+			[
+				"v",
+				"nói dối; bịa đặt; bịa chuyện; nói điêu"
+			]
+		]
+	},
+	"代价": {
+		"py": "dàijià",
+		"mn": [
+			[
+				"n",
+				"trả giá; cái giá | giá; giá phải trả; chi phí"
 			]
 		]
 	}

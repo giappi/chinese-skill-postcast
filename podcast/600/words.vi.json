@@ -87,6 +87,15 @@
 			]
 		]
 	},
+	"小白兔": {
+		"py": "xiǎobáitù",
+		"mn": [
+			[
+				"n",
+				"thỏ trắng"
+			]
+		]
+	},
 	"一样": {
 		"py": "yīyàng",
 		"mn": [
@@ -126,12 +135,30 @@
 			]
 		]
 	},
+	"盯": {
+		"py": "dīng",
+		"mn": [
+			[
+				"v",
+				"nhìn chăm chú; nhìn chằm chằm; dán mắt, tập trung vào; chú ý"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"电脑": {
+		"py": "diànnǎo",
+		"mn": [
+			[
+				"n",
+				"máy vi tính; máy tính"
 			]
 		]
 	},
@@ -183,6 +210,15 @@
 			]
 		]
 	},
+	"涩": {
+		"py": "sè",
+		"mn": [
+			[
+				"adj",
+				"chát; vị chát | ráp; rít; sần sùi; thô ráp; khô rát | khó hiểu; mơ hồ; khô khan (câu văn)"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -206,6 +242,33 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"缓解": {
+		"py": "huǎnjiě",
+		"mn": [
+			[
+				"v",
+				"làm dịu; làm giảm; xoa dịu; giảm đi; giảm bớt"
+			]
+		]
+	},
+	"疲劳": {
+		"py": "píláo",
+		"mn": [
+			[
+				"adj",
+				"mệt mỏi; mệt nhoài; mệt lả; mệt rã rời | mỏi; quệ; kiệt sức; yếu sức | độ mỏi; tính mỏi (vật liệu, kim loại)"
+			]
+		]
+	},
+	"眼药水": {
+		"py": "yǎnyàoshuǐ",
+		"mn": [
+			[
+				"n",
+				"thuốc nhỏ mắt | kem dưỡng da mắt"
 			]
 		]
 	},
@@ -296,12 +359,34 @@
 			]
 		]
 	},
+	"懂": {
+		"py": "dǒng",
+		"mn": [
+			[
+				"v",
+				"hiểu; biết; thạo; thông thạo; hiểu rõ"
+			],
+			[
+				"n",
+				"họ Đổng"
+			]
+		]
+	},
 	"注意": {
 		"py": "zhùyì",
 		"mn": [
 			[
 				"v",
 				"để ý; chú ý"
+			]
+		]
+	},
+	"事项": {
+		"py": "shìxiàng",
+		"mn": [
+			[
+				"n",
+				"những việc; hạng mục (công việc)"
 			]
 		]
 	},
@@ -355,6 +440,15 @@
 			[
 				"adv",
 				"đừng; cấm; không được; chớ; không nên; không được | không cần"
+			]
+		]
+	},
+	"超过": {
+		"py": "chāoguò",
+		"mn": [
+			[
+				"v",
+				"vượt quá; vượt qua; vượt lên | hơn; vượt qua (tiêu chuẩn)"
 			]
 		]
 	},

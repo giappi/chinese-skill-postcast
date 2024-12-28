@@ -43,6 +43,15 @@
 			]
 		]
 	},
+	"囧": {
+		"py": "jiǒng",
+		"mn": [
+			[
+				"adj",
+				"sáng bừng; tươi sáng; sáng sủa | xấu hổ; chán nản; bất lực"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -157,6 +166,15 @@
 			]
 		]
 	},
+	"答案": {
+		"py": "dáàn",
+		"mn": [
+			[
+				"n",
+				"đáp án; câu trả lời; lời giải"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -172,6 +190,15 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"百度": {
+		"py": "bǎidù",
+		"mn": [
+			[
+				"n",
+				"Baidu (công cụ tìm kiếm)"
 			]
 		]
 	},
@@ -206,6 +233,15 @@
 			]
 		]
 	},
+	"搜索": {
+		"py": "sōusuǒ",
+		"mn": [
+			[
+				"v",
+				"tìm tòi; lục soát; lùng tìm; tìm kiếm"
+			]
+		]
+	},
 	"比": {
 		"py": "bǐ",
 		"mn": [
@@ -224,6 +260,15 @@
 			[
 				"adv",
 				"gần đây"
+			]
+		]
+	},
+	"查": {
+		"py": "chá",
+		"mn": [
+			[
+				"v",
+				"xét; kiểm tra | điều tra; kiểm tra | tra; tra cứu (tài liệu, sách vở)"
 			]
 		]
 	},
@@ -275,6 +320,32 @@
 			]
 		]
 	},
+	"第三": {
+		"py": "dìsān",
+		"mn": [
+			[
+				"numb",
+				"thứ ba"
+			]
+		]
+	},
+	"声": {
+		"py": "shēng",
+		"mn": [
+			[
+				"n",
+				"tiếng; âm thanh; giọng nói | thanh mẫu; phụ âm đầu | thanh điệu | danh tiếng | tin tức; thông tin"
+			],
+			[
+				"v",
+				"nói; lên tiếng; tuyên bố; trần thuật"
+			],
+			[
+				"measure",
+				"lần; tiếng"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -296,6 +367,33 @@
 			]
 		]
 	},
+	"互联网": {
+		"py": "hùliánwǎng",
+		"mn": [
+			[
+				"n",
+				"internet; mạng xã hội"
+			]
+		]
+	},
+	"常用": {
+		"py": "chángyòng",
+		"mn": [
+			[
+				"",
+				"thường dùng"
+			]
+		]
+	},
+	"用来": {
+		"py": "yònglái",
+		"mn": [
+			[
+				"v",
+				"dùng để"
+			]
+		]
+	},
 	"表示": {
 		"py": "biǎoshì",
 		"mn": [
@@ -306,6 +404,37 @@
 			[
 				"n",
 				"dấu hiệu; biểu hiện"
+			]
+		]
+	},
+	"郁闷": {
+		"py": "yùmèn",
+		"mn": [
+			[
+				"adj",
+				"phiền muộn; buồn bực; sầu não; buồn rầu; u sầu"
+			]
+		]
+	},
+	"悲伤": {
+		"py": "bēishāng",
+		"mn": [
+			[
+				"adj",
+				"đau buồn; bi thương"
+			]
+		]
+	},
+	"无奈": {
+		"py": "wúnài",
+		"mn": [
+			[
+				"v",
+				"bất lực; bó tay"
+			],
+			[
+				"conj",
+				"tiếc rằng; tiếc là; đáng tiếc; đáng tiếc là"
 			]
 		]
 	},

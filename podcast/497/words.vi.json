@@ -56,6 +56,15 @@
 			]
 		]
 	},
+	"内": {
+		"py": "nèi",
+		"mn": [
+			[
+				"n",
+				"nội; trong; bên trong; phía trong | vợ; họ nhà vợ"
+			]
+		]
+	},
 	"热": {
 		"py": "rè",
 		"mn": [
@@ -73,6 +82,24 @@
 			]
 		]
 	},
+	"室外": {
+		"py": "shìwài",
+		"mn": [
+			[
+				"n",
+				"ngoài trời"
+			]
+		]
+	},
+	"气温": {
+		"py": "qìwēn",
+		"mn": [
+			[
+				"n",
+				"nhiệt độ; nhiệt độ không khí"
+			]
+		]
+	},
 	"低": {
 		"py": "dī",
 		"mn": [
@@ -87,6 +114,15 @@
 			[
 				"n",
 				"họ Đê"
+			]
+		]
+	},
+	"室内": {
+		"py": "shìnèi",
+		"mn": [
+			[
+				"n",
+				"trong nhà; trong phòng"
 			]
 		]
 	},
@@ -189,6 +225,32 @@
 			]
 		]
 	},
+	"厚": {
+		"py": "hòu",
+		"mn": [
+			[
+				"adj",
+				"dày | sâu đậm; sâu nặng (tình cảm) | hiền hậu; phúc hậu; độ lượng | lớn; nhiều; nặng | nồng; đậm; đượm; nặng (mùi vị) | giàu; giàu có; phong phú"
+			],
+			[
+				"n",
+				"độ dày | họ Hậu"
+			],
+			[
+				"v",
+				"coi trọng; ưu đãi; hậu đãi"
+			]
+		]
+	},
+	"外套": {
+		"py": "wàitào",
+		"mn": [
+			[
+				"n",
+				"áo khoác"
+			]
+		]
+	},
 	"戴": {
 		"py": "dài",
 		"mn": [
@@ -199,6 +261,15 @@
 			[
 				"n",
 				"họ Đới"
+			]
+		]
+	},
+	"围巾": {
+		"py": "wéijīn",
+		"mn": [
+			[
+				"n",
+				"khăn quàng cổ; khăn"
 			]
 		]
 	},
@@ -335,6 +406,24 @@
 			]
 		]
 	},
+	"涮": {
+		"py": "shuàn",
+		"mn": [
+			[
+				"v",
+				"rửa | súc | chần; nhúng; tái dúng | đùa cợt; lừa gạt"
+			]
+		]
+	},
+	"羊肉": {
+		"py": "yángròu",
+		"mn": [
+			[
+				"n",
+				"thịt dê, thịt cừu"
+			]
+		]
+	},
 	"总是": {
 		"py": "zǒngshì",
 		"mn": [
@@ -344,12 +433,39 @@
 			]
 		]
 	},
+	"人声鼎沸": {
+		"py": "rénshēngdǐngfèi",
+		"mn": [
+			[
+				"idioms",
+				"brouhaha | huyên náo | (văn học) một cái vạc sôi sùng sục (thành ngữ)"
+			]
+		]
+	},
+	"切": {
+		"py": "qiē",
+		"mn": [
+			[
+				"v",
+				"bổ; cắt; bửa; xắt; thái | tiếp giáp; tiếp xúc ở một điểm | cắt; thái"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"薄": {
+		"py": "báo",
+		"mn": [
+			[
+				"adj",
+				"mỏng | lạnh nhạt; bạc bẽo; ít (tình cảm) | lạc; nhạt; không nồng (hương vị) | cằn; không màu mỡ; bạc màu; cằn cỗi"
 			]
 		]
 	},
@@ -409,6 +525,15 @@
 			]
 		]
 	},
+	"嫩": {
+		"py": "nèn",
+		"mn": [
+			[
+				"adj",
+				"non; non nớt; mới nhú | mềm | nhạt; lợt (màu) | non nớt; ít kinh nghiệm; chưa lão luyện"
+			]
+		]
+	},
 	"再": {
 		"py": "zài",
 		"mn": [
@@ -426,6 +551,15 @@
 			]
 		]
 	},
+	"蘸": {
+		"py": "zhàn",
+		"mn": [
+			[
+				"v",
+				"chấm; nhúng"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -440,6 +574,24 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"香喷喷": {
+		"py": "xiāngpēnpēn",
+		"mn": [
+			[
+				"",
+				"thơm ngào ngạt; thơm ngát; thơm phức"
+			]
+		]
+	},
+	"味道": {
+		"py": "wèidào",
+		"mn": [
+			[
+				"n",
+				"vị; mùi; mùi vị | tư vị; cảm giác | thích thú; thú vị"
 			]
 		]
 	},
@@ -461,6 +613,27 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"极": {
+		"py": "jí",
+		"mn": [
+			[
+				"n",
+				"cực | đỉnh điểm; điểm dừng; điểm cuối | họ Cực"
+			],
+			[
+				"adv",
+				"hết sức; cực độ; rất; cực kỳ (phó từ, biểu thị đạt tới độ cao nhất)"
+			],
+			[
+				"adj",
+				"cao nhất; cuối cùng"
+			],
+			[
+				"v",
+				"làm hết sức mình"
 			]
 		]
 	},

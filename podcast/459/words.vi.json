@@ -100,6 +100,28 @@
 			]
 		]
 	},
+	"口头": {
+		"py": "kǒutóu",
+		"mn": [
+			[
+				"n",
+				"miệng; ngoài miệng; đầu lưỡi; nói ngoài miệng; đầu môi chót lưỡi | hương vị; mùi vị"
+			]
+		]
+	},
+	"承诺": {
+		"py": "chéngnuò",
+		"mn": [
+			[
+				"v",
+				"hứa; thề; cam kết; đồng ý"
+			],
+			[
+				"n",
+				"lời hứa; lời thề; lời cam kết"
+			]
+		]
+	},
 	"那": {
 		"py": "nà",
 		"mn": [
@@ -182,12 +204,38 @@
 			]
 		]
 	},
+	"经过": {
+		"py": "jīngguò",
+		"mn": [
+			[
+				"v",
+				"ngang qua; kinh qua; tạt qua; đi qua; trải qua (nơi chốn, thời gian, động tác)"
+			],
+			[
+				"prep",
+				"trải qua; thông qua; sau khi"
+			],
+			[
+				"n",
+				"quá trình; trải nghiệm"
+			]
+		]
+	},
 	"总经理": {
 		"py": "zǒngjīnglǐ",
 		"mn": [
 			[
 				"n",
 				"tổng giám đốc"
+			]
+		]
+	},
+	"批准": {
+		"py": "pīzhǔn",
+		"mn": [
+			[
+				"v",
+				"phê chuẩn; chuẩn y; chuẩn phê; duyệt y; bằng lòng; thông qua; y chuẩn; phê duyệt"
 			]
 		]
 	},

@@ -74,6 +74,15 @@
 			]
 		]
 	},
+	"打瞌睡": {
+		"py": "dǎkēshuì",
+		"mn": [
+			[
+				"v",
+				"ngủ gật; ngủ lơ mơ"
+			]
+		]
+	},
 	"月": {
 		"py": "yuè",
 		"mn": [
@@ -240,6 +249,23 @@
 			]
 		]
 	},
+	"不足": {
+		"py": "bùzú",
+		"mn": [
+			[
+				"adj",
+				"thiếu; không đầy; không đủ; chưa tới; chưa đủ"
+			],
+			[
+				"n",
+				"thiếu sót; khiếm khuyết; điểm chưa hoàn thiện"
+			],
+			[
+				"v",
+				"không thể; không nên; không được; không đủ | chưa đủ; không đủ | không đáng"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -297,6 +323,15 @@
 			[
 				"av",
 				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"放假": {
+		"py": "fàngjià",
+		"mn": [
+			[
+				"v, sv",
+				"nghỉ; nghỉ định kỳ"
 			]
 		]
 	},
@@ -363,6 +398,19 @@
 			[
 				"n",
 				"họ Tái"
+			]
+		]
+	},
+	"奖励": {
+		"py": "jiǎnglì",
+		"mn": [
+			[
+				"v",
+				"khen thưởng; khuyến khích"
+			],
+			[
+				"n",
+				"phần thưởng; giải thưởng"
 			]
 		]
 	},

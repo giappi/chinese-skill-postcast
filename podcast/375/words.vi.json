@@ -197,6 +197,15 @@
 			]
 		]
 	},
+	"愚人节": {
+		"py": "yúrénjié",
+		"mn": [
+			[
+				"time, n",
+				"ngày nói dối; cá tháng tư; ngày cá tháng tư"
+			]
+		]
+	},
 	"才": {
 		"py": "cái",
 		"mn": [
@@ -216,6 +225,15 @@
 			[
 				"v",
 				"sẽ không | không biết | không phải; không đâu"
+			]
+		]
+	},
+	"上当": {
+		"py": "shàngdàng",
+		"mn": [
+			[
+				"v, sv",
+				"bị lừa; mắc lừa; bị đánh lừa; sa vào bẫy"
 			]
 		]
 	},
@@ -241,6 +259,15 @@
 			[
 				"adj",
 				"cũ; trước; xưa kia; trước đây"
+			]
+		]
+	},
+	"毛主席": {
+		"py": "máozhǔxí",
+		"mn": [
+			[
+				"n",
+				"Chủ tịch Mao Trạch Đông"
 			]
 		]
 	},
@@ -297,6 +324,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"急事": {
+		"py": "jíshì",
+		"mn": [
+			[
+				"n",
+				"việc gấp; trường hợp khẩn cấp"
 			]
 		]
 	},
@@ -452,6 +488,15 @@
 			[
 				"n",
 				"điện thoại | điện thoại; cuộc điện thoại; cuộc gọi đến"
+			]
+		]
+	},
+	"铃声": {
+		"py": "língshēng",
+		"mn": [
+			[
+				"n",
+				"chuông; tiếng chuông"
 			]
 		]
 	},

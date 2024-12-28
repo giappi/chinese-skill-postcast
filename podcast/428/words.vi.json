@@ -61,6 +61,24 @@
 			]
 		]
 	},
+	"打不通": {
+		"py": "dǎbùtōng",
+		"mn": [
+			[
+				"v",
+				"Gọi không được"
+			]
+		]
+	},
+	"别提了": {
+		"py": "biétíle",
+		"mn": [
+			[
+				"v",
+				"đừng nói nữa; đừng nhắc tới nữa"
+			]
+		]
+	},
 	"可": {
 		"py": "kě",
 		"mn": [
@@ -79,6 +97,15 @@
 			[
 				"n",
 				"họ Khả"
+			]
+		]
+	},
+	"倒霉": {
+		"py": "dǎoméi",
+		"mn": [
+			[
+				"adj",
+				"xui; xui xẻo; xúi quẩy; không may"
 			]
 		]
 	},
@@ -152,6 +179,19 @@
 			]
 		]
 	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -167,6 +207,15 @@
 			[
 				"n",
 				"Số điện thoại di động"
+			]
+		]
+	},
+	"保存": {
+		"py": "bǎocún",
+		"mn": [
+			[
+				"v",
+				"bảo tồn; giữ gìn; bảo vệ; lưu về; lưu lại"
 			]
 		]
 	},
@@ -279,6 +328,24 @@
 			[
 				"n",
 				"họ Đa"
+			]
+		]
+	},
+	"可恶": {
+		"py": "kěwù",
+		"mn": [
+			[
+				"adj",
+				"khốn khiếp; ghê tởm; đáng ghét"
+			]
+		]
+	},
+	"气死": {
+		"py": "qìsǐ",
+		"mn": [
+			[
+				"v",
+				"tức giận | chết vì quá tức giận"
 			]
 		]
 	}

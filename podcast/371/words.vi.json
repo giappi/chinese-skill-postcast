@@ -52,6 +52,15 @@
 			]
 		]
 	},
+	"收银台": {
+		"py": "shōuyíntái",
+		"mn": [
+			[
+				"n",
+				"quầy thu ngân; quầy thanh toán"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -141,6 +150,15 @@
 			[
 				"adv",
 				"chỉ có"
+			]
+		]
+	},
+	"香皂": {
+		"py": "xiāngzào",
+		"mn": [
+			[
+				"n",
+				"xà phòng thơm; xà bông thơm"
 			]
 		]
 	}

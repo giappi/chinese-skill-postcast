@@ -138,6 +138,15 @@
 			]
 		]
 	},
+	"新闻": {
+		"py": "xīnwén",
+		"mn": [
+			[
+				"n",
+				"tin; tin tức; tin thời sự"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -247,6 +256,15 @@
 			]
 		]
 	},
+	"没戏": {
+		"py": "méixì",
+		"mn": [
+			[
+				"v",
+				"vô vọng; hết hy vọng; chẳng có chút hy vọng"
+			]
+		]
+	},
 	"为什么": {
 		"py": "wèishénme",
 		"mn": [
@@ -319,6 +337,24 @@
 			]
 		]
 	},
+	"内向": {
+		"py": "nèixiàng",
+		"mn": [
+			[
+				"adj",
+				"hướng nội; sống nội tâm"
+			]
+		]
+	},
+	"腼腆": {
+		"py": "miǎntiǎn",
+		"mn": [
+			[
+				"adj",
+				"thẹn thùng; xấu hổ; mắc cỡ; thẹn thẹn; nhút nhát; rụt rè"
+			]
+		]
+	},
 	"爱": {
 		"py": "ài",
 		"mn": [
@@ -342,6 +378,59 @@
 			[
 				"adv",
 				"một chốc; một lát; một lúc; giây lát; chốc lát"
+			]
+		]
+	},
+	"完全": {
+		"py": "wánquán",
+		"mn": [
+			[
+				"adj",
+				"đầy đủ; trọn vẹn; hoàn hảo; tốt nhất; chính xác"
+			],
+			[
+				"adv",
+				"hoàn toàn"
+			]
+		]
+	},
+	"相反": {
+		"py": "xiāngfǎn",
+		"mn": [
+			[
+				"adj",
+				"tương phản; đối lập; trái ngược nhau"
+			],
+			[
+				"conj",
+				"trái lại; ngược lại (dùng ở đầu câu sau hoặc giữa câu biểu thị sự mâu thuẫn với câu trên)"
+			]
+		]
+	},
+	"过于": {
+		"py": "guòyú",
+		"mn": [
+			[
+				"adv",
+				"quá; lắm; quá chừng"
+			]
+		]
+	},
+	"外向": {
+		"py": "wàixiàng",
+		"mn": [
+			[
+				"adj",
+				"hướng ngoại | chú trọng xuất khẩu; hướng tới thị trường nước ngoài"
+			]
+		]
+	},
+	"开朗": {
+		"py": "kāilǎng",
+		"mn": [
+			[
+				"adj",
+				"rộng rãi; thoáng mát; sáng sủa | vui tính; thoải mái; cởi mở (tư tưởng, tâm hồn, tính cách)"
 			]
 		]
 	},
@@ -394,6 +483,15 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"挑剔": {
+		"py": "tiāotī",
+		"mn": [
+			[
+				"v",
+				"kén chọn; xoi mói; bới móc; bắt bẻ; xét nét"
 			]
 		]
 	}

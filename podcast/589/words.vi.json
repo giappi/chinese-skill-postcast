@@ -29,12 +29,30 @@
 			]
 		]
 	},
+	"眼睛": {
+		"py": "yǎnjing",
+		"mn": [
+			[
+				"n",
+				"mắt; con mắt"
+			]
+		]
+	},
 	"上面": {
 		"py": "shàngmiàn",
 		"mn": [
 			[
 				"",
 				"phía trên; phần trên | trên; trước (thứ tự) | trên mặt | mặt; phương diện | cấp trên | hàng trên; vai trên; lớp trên (trong họ hàng thân tộc)"
+			]
+		]
+	},
+	"鼻子": {
+		"py": "bízi",
+		"mn": [
+			[
+				"n",
+				"mũi; cái mũi"
 			]
 		]
 	},
@@ -83,6 +101,24 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"牙齿": {
+		"py": "yáchǐ",
+		"mn": [
+			[
+				"n",
+				"răng; hàm răng"
+			]
+		]
+	},
+	"舌头": {
+		"py": "shétou",
+		"mn": [
+			[
+				"n",
+				"lưỡi | gián điệp; lính bị bắt sống"
 			]
 		]
 	},

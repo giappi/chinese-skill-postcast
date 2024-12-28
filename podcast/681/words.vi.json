@@ -34,6 +34,15 @@
 			]
 		]
 	},
+	"害怕": {
+		"py": "hàipà",
+		"mn": [
+			[
+				"v",
+				"sợ; sợ hãi; sợ sệt; e dè; lo sợ"
+			]
+		]
+	},
 	"干": {
 		"py": "gàn",
 		"mn": [
@@ -169,6 +178,15 @@
 			]
 		]
 	},
+	"逛街": {
+		"py": "guàngjiē",
+		"mn": [
+			[
+				"v",
+				"mua sắm; dạo phố; dạo bộ; tản bộ"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -226,6 +244,24 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"衣": {
+		"py": "yī",
+		"mn": [
+			[
+				"n",
+				"áo; quần; trang phục; quần áo | vỏ; lớp bọc; vỏ bọc | nhau thai | họ Y"
+			]
+		]
+	},
+	"宁可": {
+		"py": "nìngkě",
+		"mn": [
+			[
+				"adv",
+				"thà; thà rằng"
 			]
 		]
 	},

@@ -184,6 +184,15 @@
 			]
 		]
 	},
+	"睡眼惺忪": {
+		"py": "shuìyǎnxīngsōng",
+		"mn": [
+			[
+				"v",
+				"ngái ngủ; mắt mũi nhập nhèm; buồn ngủ díu cả mắt"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -202,6 +211,15 @@
 			]
 		]
 	},
+	"一反常态": {
+		"py": "yīfǎnchángtài",
+		"mn": [
+			[
+				"idioms",
+				"thái độ khác thường"
+			]
+		]
+	},
 	"这么": {
 		"py": "zhème",
 		"mn": [
@@ -211,12 +229,39 @@
 			]
 		]
 	},
+	"精神": {
+		"py": "jīngshén",
+		"mn": [
+			[
+				"n",
+				"tinh thần; nghị lực; sinh lực | tôn chỉ; tinh thần; ý nghĩa chủ yếu; điều cốt lõi"
+			]
+		]
+	},
 	"呀": {
 		"py": "ya",
 		"mn": [
 			[
 				"av",
 				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"连珠炮": {
+		"py": "liánzhūpào",
+		"mn": [
+			[
+				"n",
+				"liên tiếp bắn nhanh"
+			]
+		]
+	},
+	"似的": {
+		"py": "shìde",
+		"mn": [
+			[
+				"part",
+				"tựa; như; tựa như; dường như; giống như | quá; cực kỳ; kinh khủng"
 			]
 		]
 	},

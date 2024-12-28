@@ -96,6 +96,24 @@
 			]
 		]
 	},
+	"食物": {
+		"py": "shíwù",
+		"mn": [
+			[
+				"n",
+				"đồ ăn; thức ăn; thực phẩm"
+			]
+		]
+	},
+	"中毒": {
+		"py": "zhòngdú",
+		"mn": [
+			[
+				"v",
+				"trúng độc; ngộ độc; thụ độc; nhiễm độc | nhiễm độc (về tư tưởng, ví dụ như những tư tưởng sai lệch hay tiêu cực ảnh hưởng đến suy nghĩ và hành vi của con người)"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -175,12 +193,60 @@
 			]
 		]
 	},
+	"路边": {
+		"py": "lùbiān",
+		"mn": [
+			[
+				"n",
+				"lề đường"
+			]
+		]
+	},
+	"采": {
+		"py": "cǎi",
+		"mn": [
+			[
+				"v",
+				"ngắt; hái; bẻ; trảy | đào; khai thác (khoáng sản) | sưu tập; sưu tầm; thu thập; thu nhặt | chọn; lấy; chọn lấy"
+			],
+			[
+				"n",
+				"thần sắc; tinh thần; sắc thái | màu; màu sắc; sắc màu | họ Thái"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"野": {
+		"py": "yě",
+		"mn": [
+			[
+				"adj",
+				"hoang dã; dại | lỗ mãng; thô lỗ | buông thả; bừa bãi; hỗn loạn (không kiểm soát) | bất hợp pháp; phi pháp | rừng; hoang (động vật)"
+			],
+			[
+				"n",
+				"khu vực; vùng; nơi (vùng ngoài thành; ngoại ô) | giới hạn; phạm vi | người dân; dân gian; dân (ngoài giới cầm quyền) | họ Dã"
+			]
+		]
+	},
+	"蘑菇": {
+		"py": "mógū",
+		"mn": [
+			[
+				"n",
+				"nấm"
+			],
+			[
+				"v",
+				"lôi thôi; lằng nhằng; dây dưa | lề mề; rề rà"
 			]
 		]
 	},
@@ -288,6 +354,15 @@
 			[
 				"n",
 				"chủ tiệm; ông chủ | ông bầu; bà bầu; bầu gánh (hát; kịch; tuồng...)"
+			]
+		]
+	},
+	"请假": {
+		"py": "qǐngjià",
+		"mn": [
+			[
+				"sv, v",
+				"xin nghỉ; xin phép nghỉ (do bệnh tật hay gặp khó khăn)"
 			]
 		]
 	}

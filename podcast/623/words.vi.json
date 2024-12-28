@@ -147,6 +147,15 @@
 			]
 		]
 	},
+	"内": {
+		"py": "nèi",
+		"mn": [
+			[
+				"n",
+				"nội; trong; bên trong; phía trong | vợ; họ nhà vợ"
+			]
+		]
+	},
 	"搬走": {
 		"py": "bānzǒu",
 		"mn": [
@@ -252,6 +261,15 @@
 			]
 		]
 	},
+	"寄养": {
+		"py": "jìyǎng",
+		"mn": [
+			[
+				"v",
+				"gởi nuôi (gởi con cho người khác nuôi hộ)"
+			]
+		]
+	},
 	"这儿": {
 		"py": "zhèr",
 		"mn": [
@@ -289,6 +307,24 @@
 			[
 				"v",
 				"biết; hiểu; rõ; hay biết; hiểu rõ"
+			]
+		]
+	},
+	"禁止": {
+		"py": "jìnzhǐ",
+		"mn": [
+			[
+				"v",
+				"cấm; cấm đoán; ngăn chặn; không cho phép"
+			]
+		]
+	},
+	"屋子": {
+		"py": "wūzi",
+		"mn": [
+			[
+				"n",
+				"phòng; buồng; gian nhà; gian phòng"
 			]
 		]
 	},
@@ -371,6 +407,15 @@
 			]
 		]
 	},
+	"通情达理": {
+		"py": "tōngqíngdálǐ",
+		"mn": [
+			[
+				"idioms",
+				"thấu tình đạt lý; hợp tình hợp lý"
+			]
+		]
+	},
 	"要不": {
 		"py": "yàobù",
 		"mn": [
@@ -407,6 +452,19 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"抱": {
+		"py": "bào",
+		"mn": [
+			[
+				"v",
+				"bế; bồng; ẵm; ôm | bế; có (có con hoặc cháu lần đầu) | hợp lại; xúm lại; kết hợp; gom lại | ấp; ấp ủ; nuôi nấng | vừa vặn; vừa khít"
+			],
+			[
+				"measure",
+				"một ôm"
 			]
 		]
 	},

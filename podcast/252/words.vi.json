@@ -122,6 +122,19 @@
 			]
 		]
 	},
+	"恋爱": {
+		"py": "liànài",
+		"mn": [
+			[
+				"v",
+				"yêu đương; yêu nhau"
+			],
+			[
+				"n",
+				"tình yêu; mối tình"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -146,6 +159,19 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"替": {
+		"py": "tì",
+		"mn": [
+			[
+				"v",
+				"thay thế; thay; giúp | suy tàn (triều đại) | dừng; hoãn"
+			],
+			[
+				"prep",
+				"cho; vì; thay"
 			]
 		]
 	},
@@ -377,6 +403,24 @@
 			]
 		]
 	},
+	"孝心": {
+		"py": "xiàoxīn",
+		"mn": [
+			[
+				"n",
+				"lòng hiếu thảo | hiếu tâm"
+			]
+		]
+	},
+	"上进心": {
+		"py": "shàngjìnxīn",
+		"mn": [
+			[
+				"n",
+				"cầu tiến; chí tiến thủ"
+			]
+		]
+	},
 	"这些": {
 		"py": "zhèxiē",
 		"mn": [
@@ -399,6 +443,15 @@
 			]
 		]
 	},
+	"品质": {
+		"py": "pǐnzhì",
+		"mn": [
+			[
+				"n",
+				"phẩm chất; tính cách | chất lượng"
+			]
+		]
+	},
 	"难道": {
 		"py": "nándào",
 		"mn": [
@@ -414,6 +467,19 @@
 			[
 				"v, sv",
 				"lưu ý; lưu tâm; để ý; để tâm"
+			]
+		]
+	},
+	"收入": {
+		"py": "shōurù",
+		"mn": [
+			[
+				"n",
+				"thu nhập"
+			],
+			[
+				"v",
+				"kiếm được; thu về | thu vào; đưa vào; đặt vào; cất vào"
 			]
 		]
 	},

@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"法语": {
+		"py": "fǎyǔ",
+		"mn": [
+			[
+				"n",
+				"tiếng Pháp"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -84,6 +93,19 @@
 			[
 				"part",
 				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"完全": {
+		"py": "wánquán",
+		"mn": [
+			[
+				"adj",
+				"đầy đủ; trọn vẹn; hoàn hảo; tốt nhất; chính xác"
+			],
+			[
+				"adv",
+				"hoàn toàn"
 			]
 		]
 	},
@@ -137,6 +159,15 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"不懂": {
+		"py": "bùdǒng",
+		"mn": [
+			[
+				"phrase",
+				"Không hiểu"
 			]
 		]
 	}

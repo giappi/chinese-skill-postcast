@@ -149,6 +149,15 @@
 			]
 		]
 	},
+	"拿手菜": {
+		"py": "náshǒucài",
+		"mn": [
+			[
+				"n",
+				"món tủ; món sở trường"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -249,6 +258,15 @@
 			[
 				"adj",
 				"kém; tệ; kém cỏi; tầm thường"
+			]
+		]
+	},
+	"色香味俱全": {
+		"py": "sèxiāngwèijùquán",
+		"mn": [
+			[
+				"n",
+				"ngửi, nhìn và thưởng thức tuyệt vời"
 			]
 		]
 	},

@@ -230,6 +230,15 @@
 			]
 		]
 	},
+	"蓬荜生辉": {
+		"py": "péngbìshēnghuī",
+		"mn": [
+			[
+				"idioms",
+				"Sự hiện diện của bạn mang lại ánh sáng cho ngôi nhà khiêm tốn của tôi | xem thêm 蓬蓽 生光 | 蓬荜 生光"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -289,6 +298,15 @@
 			[
 				"n",
 				"bạn gái; người yêu"
+			]
+		]
+	},
+	"百闻不如一见": {
+		"py": "bǎiwénbùrúyījiàn",
+		"mn": [
+			[
+				"idioms",
+				"trăm nghe không bằng một thấy"
 			]
 		]
 	},
@@ -365,12 +383,39 @@
 			]
 		]
 	},
+	"沉鱼落雁": {
+		"py": "chényúluòyàn",
+		"mn": [
+			[
+				"idioms",
+				"chim sa cá lặn; hoa nhường nguyệt thẹn; đẹp không ai bì nổi; nhạn sa cá lặn"
+			]
+		]
+	},
+	"闭月羞花": {
+		"py": "bìyuèxiūhuā",
+		"mn": [
+			[
+				"idioms",
+				"hoa nhường nguyệt thẹn"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"过奖": {
+		"py": "guòjiǎng",
+		"mn": [
+			[
+				"v",
+				"quá khen (lời nói khiêm tốn)"
 			]
 		]
 	},
@@ -639,6 +684,15 @@
 			]
 		]
 	},
+	"分开": {
+		"py": "fēnkāi",
+		"mn": [
+			[
+				"v, sv",
+				"xa nhau; xa cách; chia tay; tách riêng; tách biệt | phân; tách ra; chia tách; chia ra"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -770,6 +824,15 @@
 			]
 		]
 	},
+	"下半年": {
+		"py": "xiàbànnián",
+		"mn": [
+			[
+				"n",
+				"sáu tháng cuối năm; nửa cuối năm"
+			]
+		]
+	},
 	"选": {
 		"py": "xuǎn",
 		"mn": [
@@ -825,6 +888,24 @@
 			]
 		]
 	},
+	"日子": {
+		"py": "rìzi",
+		"mn": [
+			[
+				"n",
+				"ngày; thời kì | thời gian | cuộc sống; sinh kế; ngày tháng"
+			]
+		]
+	},
+	"喜事": {
+		"py": "xǐshì",
+		"mn": [
+			[
+				"n",
+				"việc mừng; chuyện vui; chuyện mừng | đám cưới; việc cưới xin"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -856,6 +937,15 @@
 			[
 				"v",
 				"quên; bỏ quên"
+			]
+		]
+	},
+	"喜帖": {
+		"py": "xǐtiě",
+		"mn": [
+			[
+				"n",
+				"thiếp cưới; thiếp mời; thiệp mời"
 			]
 		]
 	},
@@ -912,6 +1002,15 @@
 			]
 		]
 	},
+	"自从": {
+		"py": "zìcóng",
+		"mn": [
+			[
+				"prep",
+				"từ; từ khi; từ lúc; kể từ; kể từ khi"
+			]
+		]
+	},
 	"去": {
 		"py": "qù",
 		"mn": [
@@ -930,6 +1029,15 @@
 			[
 				"adj",
 				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"外地": {
+		"py": "wàidì",
+		"mn": [
+			[
+				"n",
+				"nơi khác; vùng khác"
 			]
 		]
 	},
@@ -1053,6 +1161,15 @@
 			]
 		]
 	},
+	"丫头": {
+		"py": "yātou",
+		"mn": [
+			[
+				"n",
+				"bé gái; con gái | nha hoàn; con ở"
+			]
+		]
+	},
 	"要不是": {
 		"py": "yàobùshì",
 		"mn": [
@@ -1084,6 +1201,45 @@
 			]
 		]
 	},
+	"赶上": {
+		"py": "gǎnshàng",
+		"mn": [
+			[
+				"v",
+				"kịp; bắt kịp; đuổi kịp; theo kịp | gặp; gặp phải; vấp phải"
+			]
+		]
+	},
+	"休": {
+		"py": "xiū",
+		"mn": [
+			[
+				"v",
+				"nghỉ; nghỉ ngơi; nghỉ hưu | ngừng; thôi; nghỉ; tạm ngừng; dừng lại; bỏ cuộc | bỏ; đuổi (vợ)"
+			],
+			[
+				"adv",
+				"đừng; thôi; không nên (thường thấy trong Bạch thoại thời kỳ đầu)"
+			],
+			[
+				"n",
+				"tốt hoặc xấu; may mắn hoặc bất lợi (tương lai)"
+			],
+			[
+				"adj",
+				"vui vẻ; hân hoan"
+			]
+		]
+	},
+	"年假": {
+		"py": "niánjià",
+		"mn": [
+			[
+				"n",
+				"nghỉ phép năm | nghỉ đông"
+			]
+		]
+	},
 	"请": {
 		"py": "qǐng",
 		"mn": [
@@ -1103,6 +1259,19 @@
 			[
 				"adv",
 				"phải; nhất định phải | nhất thiết phải; nhất định phải (ngữ khí ra lệnh)"
+			]
+		]
+	},
+	"检讨": {
+		"py": "jiǎntǎo",
+		"mn": [
+			[
+				"v",
+				"kiểm điểm | kiểm nghiệm; nghiên cứu; tổng kết"
+			],
+			[
+				"n",
+				"bản kiểm điểm"
 			]
 		]
 	},

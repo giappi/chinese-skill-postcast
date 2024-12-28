@@ -1,4 +1,13 @@
 {
+	"小鱼": {
+		"py": "xiǎoyú",
+		"mn": [
+			[
+				"n",
+				"ròng ròng; cá con; cá bột; cá ròng ròng | cá nhỏ; cá bé; cá vặt"
+			]
+		]
+	},
 	"会": {
 		"py": "huì",
 		"mn": [
@@ -26,6 +35,15 @@
 			[
 				"n",
 				"bơi lội (môn thi đấu thể thao)"
+			]
+		]
+	},
+	"小鸟": {
+		"py": "xiǎoniǎo",
+		"mn": [
+			[
+				"n",
+				"birdie (thấp hơn gậy tiêu chuẩn 1 gậy) | chim non"
 			]
 		]
 	},
@@ -64,12 +82,39 @@
 			]
 		]
 	},
+	"跳舞": {
+		"py": "tiàowǔ",
+		"mn": [
+			[
+				"v, sv",
+				"múa; khiêu vũ; nhảy; nhảy múa"
+			]
+		]
+	},
 	"狗": {
 		"py": "gǒu",
 		"mn": [
 			[
 				"n",
 				"chó; cầy; con chó | chó đẻ; chó má; đồ chó chết (chửi mắng)"
+			]
+		]
+	},
+	"看家": {
+		"py": "kānjiā",
+		"mn": [
+			[
+				"n",
+				"giữ nhà; coi nhà; trông nhà | xuất chúng; nhà nghề; đặc biệt (chỉ một người nào đó có sở trường đặc biệt mà người khác khó thể bì kịp)"
+			]
+		]
+	},
+	"大象": {
+		"py": "dàxiàng",
+		"mn": [
+			[
+				"n",
+				"con voi; voi"
 			]
 		]
 	},

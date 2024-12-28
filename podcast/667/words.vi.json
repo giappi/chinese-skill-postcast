@@ -86,6 +86,15 @@
 			]
 		]
 	},
+	"糖果": {
+		"py": "tángguǒ",
+		"mn": [
+			[
+				"n",
+				"kẹo"
+			]
+		]
+	},
 	"跟": {
 		"py": "gēn",
 		"mn": [
@@ -262,6 +271,15 @@
 			]
 		]
 	},
+	"哭笑不得": {
+		"py": "kūxiàobùdé",
+		"mn": [
+			[
+				"idioms",
+				"dở khóc dở cười; nửa cười nửa mếu"
+			]
+		]
+	},
 	"把": {
 		"py": "bǎ",
 		"mn": [
@@ -331,6 +349,15 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"咬": {
+		"py": "yǎo",
+		"mn": [
+			[
+				"v",
+				"cắn; nhai | vặn chặt; bắt chặt; kẹp chặt | sủa (chó) | vu cáo; vu khống | phát âm; nói rõ ràng; đọc rõ (chữ) | ăn mòn (kim loại); sơn ăn (kích ứng da) | bắt bẻ từng chữ | tỷ số (trận đấu)"
 			]
 		]
 	},

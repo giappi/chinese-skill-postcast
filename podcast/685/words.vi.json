@@ -21,6 +21,15 @@
 			]
 		]
 	},
+	"终于": {
+		"py": "zhōngyú",
+		"mn": [
+			[
+				"adv",
+				"cuối cùng"
+			]
+		]
+	},
 	"来": {
 		"py": "lái",
 		"mn": [
@@ -87,12 +96,38 @@
 			]
 		]
 	},
+	"借口": {
+		"py": "jièkǒu",
+		"mn": [
+			[
+				"v",
+				"mượn cớ; lấy cớ; viện cớ; kiếm cớ; gá tiếng; vin cớ"
+			],
+			[
+				"n",
+				"cớ; cái cớ; lý do; lời biện minh"
+			]
+		]
+	},
 	"每次": {
 		"py": "měicì",
 		"mn": [
 			[
 				"adv",
 				"mỗi lần"
+			]
+		]
+	},
+	"聚会": {
+		"py": "jùhuì",
+		"mn": [
+			[
+				"v",
+				"tụ tập; tụ họp; gặp; gặp gỡ (người)"
+			],
+			[
+				"n",
+				"cuộc hội họp; buổi gặp gỡ; buổi họp mặt; buổi tụ tập"
 			]
 		]
 	},
@@ -203,6 +238,19 @@
 			]
 		]
 	},
+	"凉": {
+		"py": "liáng",
+		"mn": [
+			[
+				"adj",
+				"mát; nguội; mát mẻ | buồn; chán nản; buồn bã; buồn lòng; thất vọng | vắng vẻ; yên tĩnh; lạnh nhạt; hoang vắng; ảm đạm"
+			],
+			[
+				"n",
+				"mát; hóng mát; gió mát (môi trường mát mẻ) | mát (những thứ dùng để tránh nóng)"
+			]
+		]
+	},
 	"这次": {
 		"py": "zhècì",
 		"mn": [
@@ -286,6 +334,15 @@
 			]
 		]
 	},
+	"罚酒": {
+		"py": "fájiǔ",
+		"mn": [
+			[
+				"v",
+				"phạt rượu"
+			]
+		]
+	},
 	"三": {
 		"py": "sān",
 		"mn": [
@@ -334,6 +391,15 @@
 			[
 				"adj",
 				"cũ; trước; xưa kia; trước đây"
+			]
+		]
+	},
+	"赔礼": {
+		"py": "péilǐ",
+		"mn": [
+			[
+				"v",
+				"nhận lỗi; chịu lỗi"
 			]
 		]
 	},
@@ -389,6 +455,28 @@
 			[
 				"v",
 				"đi trước"
+			]
+		]
+	},
+	"声明": {
+		"py": "shēngmíng",
+		"mn": [
+			[
+				"v",
+				"tuyên bố; thanh minh"
+			],
+			[
+				"n",
+				"tuyên bố; lời tuyên bố; bản tuyên bố"
+			]
+		]
+	},
+	"酒量": {
+		"py": "jiǔliàng",
+		"mn": [
+			[
+				"n",
+				"tửu lượng; sức uống"
 			]
 		]
 	},

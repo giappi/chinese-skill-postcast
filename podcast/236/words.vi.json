@@ -17,6 +17,19 @@
 			]
 		]
 	},
+	"附近": {
+		"py": "fùjìn",
+		"mn": [
+			[
+				"adj",
+				"phụ cận; lân cận; cận;gần đây"
+			],
+			[
+				"n",
+				"vùng phụ cận; vùng lân cận; gần đây"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -75,6 +88,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"外面": {
+		"py": "wàimiàn",
+		"mn": [
+			[
+				"nlocal",
+				"bên ngoài; bề ngoài"
 			]
 		]
 	},
@@ -138,6 +160,15 @@
 			]
 		]
 	},
+	"那里": {
+		"py": "nàlǐ",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia"
+			]
+		]
+	},
 	"怎么样": {
 		"py": "zěnmeyàng",
 		"mn": [
@@ -186,6 +217,15 @@
 			]
 		]
 	},
+	"质量": {
+		"py": "zhìliàng",
+		"mn": [
+			[
+				"n",
+				"chất; chất lượng"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
@@ -213,6 +253,15 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"价钱": {
+		"py": "jiàqián",
+		"mn": [
+			[
+				"n",
+				"giá; giá cả; giá tiền"
 			]
 		]
 	},

@@ -25,12 +25,30 @@
 			]
 		]
 	},
+	"街上": {
+		"py": "jiēshàng",
+		"mn": [
+			[
+				"n",
+				"trên đường; trên phố"
+			]
+		]
+	},
 	"已经": {
 		"py": "yǐjīng",
 		"mn": [
 			[
 				"adv",
 				"đã; rồi"
+			]
+		]
+	},
+	"空荡荡": {
+		"py": "kōngdàngdàng",
+		"mn": [
+			[
+				"adj",
+				"vắng vẻ; trống không; trống rỗng; tuếch toác | trống hốc; trống toang"
 			]
 		]
 	},
@@ -83,6 +101,23 @@
 			]
 		]
 	},
+	"呆": {
+		"py": "dāi",
+		"mn": [
+			[
+				"adj",
+				"ngốc; ngu; đần độn; ngu si (đầu óc) | ngẩn; ngớ; ngẩn ngơ; ngớ ngẩn; đờ ra; trơ ra"
+			],
+			[
+				"v",
+				"ở; ở lại; nán lại"
+			],
+			[
+				"n",
+				"họ Bảo"
+			]
+		]
+	},
 	"在": {
 		"py": "zài",
 		"mn": [
@@ -130,12 +165,47 @@
 			]
 		]
 	},
+	"与": {
+		"py": "yǔ",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"prep",
+				"cùng; với; cùng với"
+			],
+			[
+				"v",
+				"cho; dành cho | qua lại; đi lại | giúp đỡ; ủng hộ; tỏ ý khen ngợi | chờ; đợi; chờ đợi"
+			]
+		]
+	},
+	"家人": {
+		"py": "jiārén",
+		"mn": [
+			[
+				"n",
+				"gia đình; người nhà; thành viên trong gia đình"
+			]
+		]
+	},
 	"共享": {
 		"py": "gòngxiǎng",
 		"mn": [
 			[
 				"v",
 				"chung; cùng chung; cùng nhau; chia sẻ"
+			]
+		]
+	},
+	"天伦之乐": {
+		"py": "tiānlúnzhīlè",
+		"mn": [
+			[
+				"idioms",
+				"hạnh phúc gia đình; niềm vui đoàn tụ; niềm vui sum vầy; niềm vui gia đình"
 			]
 		]
 	},
@@ -174,12 +244,42 @@
 			]
 		]
 	},
+	"可怜": {
+		"py": "kělián",
+		"mn": [
+			[
+				"adj",
+				"đáng thương; thảm thương; khổ thân; tội nghiệp | thảm; thảm thương; quá ít; quá kém; nghèo nàn (số lượng ít hoặc chất lượng đến mức không đáng nêu lên)"
+			],
+			[
+				"v",
+				"thương; thương xót; thương tiếc; thương cảm; cảm thông; thương hại"
+			]
+		]
+	},
 	"居然": {
 		"py": "jūrán",
 		"mn": [
 			[
 				"adv",
 				"lại; lại có thể; bỗng nhiên; tự nhiên lại; thế mà lại; vậy mà lại; không ngờ; không ngờ lại"
+			]
+		]
+	},
+	"轮": {
+		"py": "lún",
+		"mn": [
+			[
+				"n",
+				"bánh xe | ca-nô; tàu thuỷ | tròn; vành; vòng (vật giống bánh xe)"
+			],
+			[
+				"measure",
+				"vầng; vành | vòng | giáp"
+			],
+			[
+				"v",
+				"lần lượt; luân phiên; thay phiên"
 			]
 		]
 	},
@@ -268,6 +368,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"心思": {
+		"py": "xīnsī",
+		"mn": [
+			[
+				"n",
+				"tâm tư; ý nghĩ | suy nghĩ; trí nhớ; tư duy | ý muốn; lòng dạ; tâm trạng"
 			]
 		]
 	},
@@ -422,6 +531,15 @@
 			]
 		]
 	},
+	"催促": {
+		"py": "cuīcù",
+		"mn": [
+			[
+				"v",
+				"thúc; giục; thúc giục; đẩy nhanh; thôi thúc"
+			]
+		]
+	},
 	"快点": {
 		"py": "kuàidiǎn",
 		"mn": [
@@ -450,6 +568,15 @@
 			[
 				"n",
 				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"大团圆": {
+		"py": "dàtuányuán",
+		"mn": [
+			[
+				"n",
+				"đại đoàn viên; đoàn tụ; sum họp | cảnh đoàn viên; cảnh đoàn tụ (nhân vật chính trong tiểu thuyết, kịch, phim trải qua nhiều đau khổ cuối cùng được đoàn tụ)"
 			]
 		]
 	},
@@ -733,6 +860,19 @@
 			]
 		]
 	},
+	"对了": {
+		"py": "duìle",
+		"mn": [
+			[
+				"conj",
+				"đúng rồi (sực nhớ ra còn điều gì chưa nói)"
+			],
+			[
+				"intj",
+				"đúng; đúng rồi"
+			]
+		]
+	},
 	"今年": {
 		"py": "jīnnián",
 		"mn": [
@@ -795,12 +935,30 @@
 			]
 		]
 	},
+	"春运": {
+		"py": "chūnyùn",
+		"mn": [
+			[
+				"n",
+				"dịp về quê ăn Tết; thời điểm về quê đón Tết"
+			]
+		]
+	},
 	"期间": {
 		"py": "qījiān",
 		"mn": [
 			[
 				"n",
 				"khi; dịp; thời kỳ; thời gian"
+			]
+		]
+	},
+	"火车票": {
+		"py": "huǒchēpiào",
+		"mn": [
+			[
+				"n",
+				"vé tàu"
 			]
 		]
 	},
@@ -889,6 +1047,24 @@
 			]
 		]
 	},
+	"爸妈": {
+		"py": "bàmā",
+		"mn": [
+			[
+				"n",
+				"ba và mẹ"
+			]
+		]
+	},
+	"接到": {
+		"py": "jiēdào",
+		"mn": [
+			[
+				"v",
+				"đón; nhận; nhận được"
+			]
+		]
+	},
 	"北京": {
 		"py": "běijīng",
 		"mn": [
@@ -917,6 +1093,15 @@
 			[
 				"pro",
 				"họ; bọn họ; chúng nó; các anh ấy; chúng; tụi nó; bọn nó; đám đó; lũ đó; hội đó (đại từ nhân xưng, chỉ ngôi thứ ba số nhiều, thường chỉ nam giới, cũng dùng chung cho cả nam và nữ.)"
+			]
+		]
+	},
+	"周边": {
+		"py": "zhōubiān",
+		"mn": [
+			[
+				"n",
+				"xung quanh; chung quanh; láng giềng"
 			]
 		]
 	},
@@ -956,6 +1141,19 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"代": {
+		"py": "dài",
+		"mn": [
+			[
+				"v",
+				"thay; thế; hộ; thay thế; thay cho | quyền; tạm thay; thay mặt (một chức vụ nào đó)"
+			],
+			[
+				"n",
+				"lớp; thế hệ | đời; thời; nhà; triều đại | đại; hiện đại; thời đại (các giai đoạn lịch sử) | thời đại; kỷ nguyên | họ Đại"
 			]
 		]
 	},
@@ -1003,6 +1201,15 @@
 			[
 				"n",
 				"họ Chúc"
+			]
+		]
+	},
+	"二老": {
+		"py": "èrlǎo",
+		"mn": [
+			[
+				"n",
+				"mẹ và cha | cha mẹ"
 			]
 		]
 	},
@@ -1107,6 +1314,15 @@
 			[
 				"v",
 				"bái; lạy; vái (nghi lễ biểu thị sự tôn kính) | đáp lễ; chúc mừng; chào mừng | thăm hỏi; chào hỏi; chào thăm hỏi | phong; tôn; kết nghĩa; cung kính nhận làm | bái; thờ; cung kính kết giao | bái; xin nhận (lời nói tôn kính, dùng trong giao tiếp) | họ Bái"
+			]
+		]
+	},
+	"早年": {
+		"py": "zǎonián",
+		"mn": [
+			[
+				"",
+				"trước kia; trước đó; hồi đó | thời trẻ; thời niên thiếu; từ nhỏ"
 			]
 		]
 	},

@@ -77,6 +77,15 @@
 			]
 		]
 	},
+	"爵士乐": {
+		"py": "juéshìyuè",
+		"mn": [
+			[
+				"n",
+				"nhạc jazz"
+			]
+		]
+	},
 	"哦": {
 		"py": "ó",
 		"mn": [
@@ -117,6 +126,15 @@
 			]
 		]
 	},
+	"摇滚乐": {
+		"py": "yáogǔnyuè",
+		"mn": [
+			[
+				"n",
+				"nhạc rock"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -132,6 +150,32 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"俗": {
+		"py": "sú",
+		"mn": [
+			[
+				"n",
+				"phong tục | người phàm tục; người trần tục"
+			],
+			[
+				"adj",
+				"thông tục; phổ biến | dung tục; tầm thường; thô tục"
+			]
+		]
+	},
+	"流行": {
+		"py": "liúxíng",
+		"mn": [
+			[
+				"adj",
+				"thịnh hành; phổ biến"
+			],
+			[
+				"v",
+				"thịnh hành; phổ biến"
 			]
 		]
 	},

@@ -75,6 +75,15 @@
 			]
 		]
 	},
+	"嗓子": {
+		"py": "sǎngzi",
+		"mn": [
+			[
+				"n",
+				"họng; cổ họng | giọng; giọng hát; giọng nói"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -178,6 +187,15 @@
 			]
 		]
 	},
+	"挂号": {
+		"py": "guàhào",
+		"mn": [
+			[
+				"v, sv",
+				"đăng ký; ghi tên; lấy số; đăng ký lấy số | bảo đảm; gửi bảo đảm (thư từ)"
+			]
+		]
+	},
 	"坐": {
 		"py": "zuò",
 		"mn": [
@@ -220,12 +238,30 @@
 			]
 		]
 	},
+	"内科": {
+		"py": "nèikē",
+		"mn": [
+			[
+				"n",
+				"nội khoa"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"候诊室": {
+		"py": "hòuzhěnshì",
+		"mn": [
+			[
+				"n",
+				"phòng chờ; phòng đợi (khám bệnh)"
 			]
 		]
 	},
@@ -265,6 +301,15 @@
 			[
 				"measure",
 				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"量": {
+		"py": "liáng",
+		"mn": [
+			[
+				"v",
+				"đong; đo; lượng | đắn đo; cân nhắc; suy tính; xem xét; ngắm nghía; đánh giá"
 			]
 		]
 	},
@@ -369,6 +414,15 @@
 			[
 				"v",
 				"xem; bắt (mạch) | ghi số; đánh dấu; đánh số; chấm điểm | gọi; hô; hô hoán | ra lệnh; ban hành; truyền đạt (mệnh lệnh)"
+			]
+		]
+	},
+	"诊室": {
+		"py": "zhěnshì",
+		"mn": [
+			[
+				"n",
+				"phòng khám bệnh"
 			]
 		]
 	},
@@ -482,6 +536,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"流行性": {
+		"py": "liúxíngxìng",
+		"mn": [
+			[
+				"n",
+				"tính phổ biến; tính lây lan (thường chỉ một loại bệnh tật)"
 			]
 		]
 	},
@@ -654,6 +717,15 @@
 			[
 				"v",
 				"ổn; không sao; không sao cả | rảnh; rảnh rỗi; không có gì làm"
+			]
+		]
+	},
+	"回到": {
+		"py": "huídào",
+		"mn": [
+			[
+				"v",
+				"trở về; quay lại"
 			]
 		]
 	},

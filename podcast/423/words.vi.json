@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"学期": {
+		"py": "xuéqī",
+		"mn": [
+			[
+				"n",
+				"học kỳ"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -23,6 +32,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"成绩": {
+		"py": "chéngjì",
+		"mn": [
+			[
+				"n",
+				"thành tích; thành tựu; kết quả"
 			]
 		]
 	},
@@ -49,6 +67,15 @@
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"显著": {
+		"py": "xiǎnzhù",
+		"mn": [
+			[
+				"adj",
+				"rõ rệt; nổi bật; rõ ràng; đáng kể"
 			]
 		]
 	},
@@ -96,6 +123,15 @@
 			]
 		]
 	},
+	"祝贺": {
+		"py": "zhùhè",
+		"mn": [
+			[
+				"v",
+				"chúc mừng"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -118,6 +154,15 @@
 			]
 		]
 	},
+	"国家": {
+		"py": "guójiā",
+		"mn": [
+			[
+				"n",
+				"nhà nước; quốc gia"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -137,6 +182,15 @@
 			[
 				"n",
 				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"励志": {
+		"py": "lìzhì",
+		"mn": [
+			[
+				"v",
+				"quyết tâm; kiên định; động viên; khích lệ; truyền cảm hứng"
 			]
 		]
 	},
@@ -167,6 +221,24 @@
 			[
 				"conj",
 				"vì; do; bởi vì"
+			]
+		]
+	},
+	"符合": {
+		"py": "fúhé",
+		"mn": [
+			[
+				"v",
+				"phù hợp; ăn khớp"
+			]
+		]
+	},
+	"评定": {
+		"py": "píngdìng",
+		"mn": [
+			[
+				"v",
+				"đánh giá; định giá"
 			]
 		]
 	},
@@ -206,6 +278,32 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"入学": {
+		"py": "rùxué",
+		"mn": [
+			[
+				"",
+				"nhập học; mới học; vào học | vào trường tiểu học"
+			]
+		]
+	},
+	"之": {
+		"py": "zhī",
+		"mn": [
+			[
+				"part",
+				"của (văn viết) | trong; giữa; vốn dĩ | phần trăm; phân số thập phân"
+			],
+			[
+				"pro",
+				"đấy; đó; kia (không cụ thể) | nó; anh ấy; cô ấy; người đó; việc đó"
+			],
+			[
+				"v",
+				"đến; tới; hướng tới; hướng về"
 			]
 		]
 	},
@@ -253,6 +351,28 @@
 			[
 				"v",
 				"làm; giải quyết; thực hiện; tiến hành"
+			]
+		]
+	},
+	"助学": {
+		"py": "zhùxué",
+		"mn": [
+			[
+				"v",
+				"giúp học tập"
+			]
+		]
+	},
+	"贷款": {
+		"py": "dàikuǎn",
+		"mn": [
+			[
+				"v",
+				"vay; cho vay"
+			],
+			[
+				"n",
+				"khoản vay"
 			]
 		]
 	},
@@ -329,6 +449,15 @@
 			]
 		]
 	},
+	"远见": {
+		"py": "yuǎnjiàn",
+		"mn": [
+			[
+				"n",
+				"nhìn xa trông rộng; tầm nhìn xa"
+			]
+		]
+	},
 	"只是": {
 		"py": "zhǐshì",
 		"mn": [
@@ -348,6 +477,19 @@
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"替": {
+		"py": "tì",
+		"mn": [
+			[
+				"v",
+				"thay thế; thay; giúp | suy tàn (triều đại) | dừng; hoãn"
+			],
+			[
+				"prep",
+				"cho; vì; thay"
 			]
 		]
 	},
@@ -391,12 +533,34 @@
 			]
 		]
 	},
+	"突出": {
+		"py": "tūchū",
+		"mn": [
+			[
+				"adj",
+				"xuất sắc; vượt trội; nổi bật"
+			],
+			[
+				"v",
+				"xông ra; lao ra; nhào ra | nhô ra; nhô lên; nổi lên; lồi ra; phình ra | nhấn mạnh; làm nổi bật"
+			]
+		]
+	},
 	"只": {
 		"py": "zhǐ",
 		"mn": [
 			[
 				"adv",
 				"chỉ (trong phạm vi)"
+			]
+		]
+	},
+	"助学金": {
+		"py": "zhùxuéjīn",
+		"mn": [
+			[
+				"n",
+				"học bổng"
 			]
 		]
 	},
@@ -445,6 +609,15 @@
 			[
 				"v",
 				"thêm dầu; châm dầu; đổ xăng | cố gắng; cố lên; hăng hái hơn; gắng lên"
+			]
+		]
+	},
+	"争取": {
+		"py": "zhēngqǔ",
+		"mn": [
+			[
+				"v",
+				"cố gắng; ra sức | giành; tranh giành; tranh đấu; đấu tranh (để đạt được quyền lợi)"
 			]
 		]
 	},

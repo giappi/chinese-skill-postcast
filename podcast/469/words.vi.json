@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"云南": {
+		"py": "yúnnán",
+		"mn": [
+			[
+				"n, nlocal",
+				"Vân Nam; tỉnh Vân Nam (Trung Quốc)"
+			]
+		]
+	},
 	"旅游": {
 		"py": "lǚyóu",
 		"mn": [
@@ -158,6 +167,15 @@
 			[
 				"phrase",
 				"rất nhiều, rất lắm"
+			]
+		]
+	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
 			]
 		]
 	},

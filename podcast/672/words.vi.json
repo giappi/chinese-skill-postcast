@@ -56,6 +56,15 @@
 			]
 		]
 	},
+	"商场": {
+		"py": "shāngchǎng",
+		"mn": [
+			[
+				"n",
+				"thị trường | cửa hàng tổng hợp; cửa hàng; trung tâm thương mại; trung tâm mua sắm | thương trường"
+			]
+		]
+	},
 	"开门": {
 		"py": "kāimén",
 		"mn": [
@@ -135,6 +144,37 @@
 			]
 		]
 	},
+	"优惠": {
+		"py": "yōuhuì",
+		"mn": [
+			[
+				"adj",
+				"ưu đãi; giảm giá; khuyến mãi (mua bán) | ưu đãi; lợi ích đặc biệt"
+			]
+		]
+	},
+	"商品": {
+		"py": "shāngpǐn",
+		"mn": [
+			[
+				"n",
+				"hàng hoá; đồ hàng; thương phẩm; sản phẩm"
+			]
+		]
+	},
+	"嘘": {
+		"py": "xū",
+		"mn": [
+			[
+				"v",
+				"thở; hà hơi (thở ra từ miệng) | thở dài | táp (lửa; hơi nước) | làm nóng; hâm nóng; hấp lại | đuổi; cản trở; cản"
+			],
+			[
+				"intj",
+				"xuỵt (biểu thị sự ngăn cản)"
+			]
+		]
+	},
 	"让": {
 		"py": "ràng",
 		"mn": [
@@ -209,6 +249,15 @@
 			[
 				"adv",
 				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"打扰": {
+		"py": "dǎrǎo",
+		"mn": [
+			[
+				"v",
+				"phiền; làm phiền; quấy rầy | xin lỗi; xin lỗi đã làm phiền; xin lỗi đã quấy rầy (lịch sự)"
 			]
 		]
 	},
@@ -319,6 +368,15 @@
 			]
 		]
 	},
+	"减价": {
+		"py": "jiǎnjià",
+		"mn": [
+			[
+				"v",
+				"giảm giá; hạ giá"
+			]
+		]
+	},
 	"开始": {
 		"py": "kāishǐ",
 		"mn": [
@@ -359,6 +417,24 @@
 			]
 		]
 	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
+			]
+		]
+	},
+	"出售": {
+		"py": "chūshòu",
+		"mn": [
+			[
+				"v",
+				"bán; bán ra"
+			]
+		]
+	},
 	"过去": {
 		"py": "guòqù",
 		"mn": [
@@ -396,6 +472,19 @@
 			[
 				"adv",
 				"cứ; thẳng; thẳng tuốt; một mạch | suốt; luôn luôn; liên tục | từ (nhấn mạnh phạm vi đã định)"
+			]
+		]
+	},
+	"采购": {
+		"py": "cǎigòu",
+		"mn": [
+			[
+				"v",
+				"chọn mua; mua sắm; mua (cho cơ quan xí nghiệp)"
+			],
+			[
+				"n",
+				"nhân viên vật tư; người mua hàng; nhân viên thu mua"
 			]
 		]
 	},
@@ -477,12 +566,30 @@
 			]
 		]
 	},
+	"年前": {
+		"py": "niánqián",
+		"mn": [
+			[
+				"n",
+				"trước tết"
+			]
+		]
+	},
 	"咱们": {
 		"py": "zánmen",
 		"mn": [
 			[
 				"pro",
 				"tụi mình; chúng ta; chúng mình (cả người nói và người nghe) | bạn; cậu; các bạn | tôi; tớ; mình"
+			]
+		]
+	},
+	"最多": {
+		"py": "zuìduō",
+		"mn": [
+			[
+				"",
+				"lớn nhất , tối đa, cùng lắm"
 			]
 		]
 	},
@@ -557,6 +664,15 @@
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"冬装": {
+		"py": "dōngzhuāng",
+		"mn": [
+			[
+				"n",
+				"trang phục mùa đông; quần áo mùa đông; áo rét | đồ lạnh"
 			]
 		]
 	},
@@ -679,6 +795,32 @@
 			]
 		]
 	},
+	"拎": {
+		"py": "līn",
+		"mn": [
+			[
+				"v",
+				"xách (lực nhẹ, ngón tay hay cổ tay đều được)"
+			]
+		]
+	},
+	"所有": {
+		"py": "suǒyǒu",
+		"mn": [
+			[
+				"v",
+				"sở hữu; có được"
+			],
+			[
+				"n",
+				"tất cả (chỉ vật sở hữu)"
+			],
+			[
+				"adj",
+				"tất cả; hết thảy; toàn bộ"
+			]
+		]
+	},
 	"包": {
 		"py": "bāo",
 		"mn": [
@@ -721,12 +863,30 @@
 			]
 		]
 	},
+	"袋子": {
+		"py": "dàizi",
+		"mn": [
+			[
+				"n",
+				"túi; cái túi; bao vải; bao bố"
+			]
+		]
+	},
 	"哦": {
 		"py": "ò",
 		"mn": [
 			[
 				"onom, intj",
 				"à; ồ (biểu thị bất chợt hiểu ra; nhận ra điều gì đó)"
+			]
+		]
+	},
+	"说白了": {
+		"py": "shuōbáile",
+		"mn": [
+			[
+				"v",
+				"nói chuyện thẳng thắn"
 			]
 		]
 	},
@@ -778,6 +938,24 @@
 			[
 				"v",
 				"miễn phí; không lấy tiền; không mất tiền; miễn cước"
+			]
+		]
+	},
+	"劳动力": {
+		"py": "láodònglì",
+		"mn": [
+			[
+				"n",
+				"sức lao động | người lao động"
+			]
+		]
+	},
+	"呗": {
+		"py": "bei",
+		"mn": [
+			[
+				"part",
+				"chứ; đi chứ (dùng ở cuối câu, biểu thị sự thực hoặc lý lẽ rõ ràng, rất dễ hiểu) | thôi; thì; vậy (dùng trong phân câu hoặc cuối câu, biểu thị ngữ khí miễn cưỡng đồng ý hoặc nhượng bộ)"
 			]
 		]
 	}

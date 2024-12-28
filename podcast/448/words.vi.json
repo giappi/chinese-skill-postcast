@@ -147,6 +147,15 @@
 			]
 		]
 	},
+	"长城": {
+		"py": "chángchéng",
+		"mn": [
+			[
+				"n, nlocal",
+				"Trường Thành; Vạn Lý Trường Thành"
+			]
+		]
+	},
 	"没": {
 		"py": "méi",
 		"mn": [
@@ -170,6 +179,19 @@
 			[
 				"adj",
 				"có vấn đề; không bình thường"
+			]
+		]
+	},
+	"成人": {
+		"py": "chéngrén",
+		"mn": [
+			[
+				"v",
+				"trưởng thành; đã lớn; nên thân; nên người; thành nhân; đã trưởng thành"
+			],
+			[
+				"n",
+				"người lớn; người trưởng thành"
 			]
 		]
 	},
@@ -226,6 +248,24 @@
 			]
 		]
 	},
+	"车票": {
+		"py": "chēpiào",
+		"mn": [
+			[
+				"n",
+				"vé xe"
+			]
+		]
+	},
+	"门票": {
+		"py": "ménpiào",
+		"mn": [
+			[
+				"n",
+				"vé vào cửa; giấy vào cửa"
+			]
+		]
+	},
 	"好": {
 		"py": "hǎo",
 		"mn": [
@@ -253,6 +293,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"能否": {
+		"py": "néngfǒu",
+		"mn": [
+			[
+				"adv",
+				"có thể không; liệu có thể"
 			]
 		]
 	},
@@ -338,6 +387,28 @@
 			[
 				"n",
 				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"法语": {
+		"py": "fǎyǔ",
+		"mn": [
+			[
+				"n",
+				"tiếng Pháp"
+			]
+		]
+	},
+	"导游": {
+		"py": "dǎoyóu",
+		"mn": [
+			[
+				"n",
+				"hướng dẫn viên"
+			],
+			[
+				"v",
+				"hướng dẫn; hướng dẫn du lịch; hướng dẫn tham quan"
 			]
 		]
 	}

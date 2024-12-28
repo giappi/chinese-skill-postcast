@@ -65,12 +65,30 @@
 			]
 		]
 	},
+	"存钱": {
+		"py": "cúnqián",
+		"mn": [
+			[
+				"v",
+				"tiết kiệm tiền; gửi tiết kiệm"
+			]
+		]
+	},
 	"换": {
 		"py": "huàn",
 		"mn": [
 			[
 				"v",
 				"đổi; trao đổi; tráo đổi | thay; đổi; thay đổi; thay thế | đổi; chuyển đổi; chuyển thành (tiền) | truyền máu | cấy ghép (bộ phận trên cơ thể)"
+			]
+		]
+	},
+	"外汇": {
+		"py": "wàihuì",
+		"mn": [
+			[
+				"n",
+				"ngoại hối; ngoại tệ"
 			]
 		]
 	}

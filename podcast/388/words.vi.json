@@ -1,4 +1,13 @@
 {
+	"美女": {
+		"py": "měinǚ",
+		"mn": [
+			[
+				"n",
+				"mỹ nữ; con gái đẹp; mỹ nhân; người đẹp; chị đẹp"
+			]
+		]
+	},
 	"去": {
 		"py": "qù",
 		"mn": [
@@ -90,6 +99,15 @@
 			]
 		]
 	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
+			]
+		]
+	},
 	"正好": {
 		"py": "zhènghǎo",
 		"mn": [
@@ -157,6 +175,15 @@
 			[
 				"adv",
 				"lại (biểu thị lặp lại hoặc tiếp tục) | vừa...vừa.... | lại; lại thêm; lại còn (biểu thị tăng thêm) | nhưng; lại (biểu thị chuyển ý) | còn; thêm (biểu thị bổ sung) | thêm; cộng; với | vừa... lại; vừa... vừa (biểu thị hai sự việc có mâu thuẫn) | đâu (biểu thị nhấn mạnh)"
+			]
+		]
+	},
+	"蹭": {
+		"py": "cèng",
+		"mn": [
+			[
+				"v",
+				"cạ; cà; sượt; chà; cọ; ma sát | quệt; dính; quẹt; dây phải; chạm phải; đụng phải | nhờ; chực; quỵt; chùa; cọp; ăn bớt; ăn xén; lợi dụng | lê; lết; lề mề; chần chừ; nấn ná; lê lết; làm ì ạch; nhích tí một"
 			]
 		]
 	},
@@ -279,6 +306,15 @@
 			[
 				"measure",
 				"ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)"
+			]
+		]
+	},
+	"蹭饭": {
+		"py": "cèngfàn",
+		"mn": [
+			[
+				"v",
+				"ăn chực"
 			]
 		]
 	},

@@ -17,6 +17,24 @@
 			]
 		]
 	},
+	"一种": {
+		"py": "yīzhǒng",
+		"mn": [
+			[
+				"n",
+				"một loại của | một loại"
+			]
+		]
+	},
+	"户外": {
+		"py": "hùwài",
+		"mn": [
+			[
+				"n",
+				"ngoài trời"
+			]
+		]
+	},
 	"运动": {
 		"py": "yùndòng",
 		"mn": [
@@ -53,6 +71,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"难得": {
+		"py": "nándé",
+		"mn": [
+			[
+				"adj",
+				"hiếm có;  khó có được; khó làm được | ít thấy; hiếm thấy; hiếm khi"
 			]
 		]
 	},
@@ -142,6 +169,15 @@
 			]
 		]
 	},
+	"魔力": {
+		"py": "mólì",
+		"mn": [
+			[
+				"n",
+				"ma lực; sức hấp dẫn; sức quyến rũ; sức lôi cuốn kì lạ"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -183,6 +219,15 @@
 			[
 				"n",
 				"bóng đá; túc cầu | trái bóng; quả bóng; trái banh (dùng trong bóng đá)"
+			]
+		]
+	},
+	"登山": {
+		"py": "dēngshān",
+		"mn": [
+			[
+				"v",
+				"lên núi; leo núi"
 			]
 		]
 	},
@@ -340,6 +385,15 @@
 			]
 		]
 	},
+	"特色": {
+		"py": "tèsè",
+		"mn": [
+			[
+				"n",
+				"đặc trưng; đặc điểm"
+			]
+		]
+	},
 	"踩": {
 		"py": "cǎi",
 		"mn": [
@@ -485,6 +539,15 @@
 			[
 				"adj",
 				"thú vị"
+			]
+		]
+	},
+	"之一": {
+		"py": "zhīyī",
+		"mn": [
+			[
+				"n",
+				"một trong số; một trong những"
 			]
 		]
 	}

@@ -38,6 +38,24 @@
 			]
 		]
 	},
+	"三门": {
+		"py": "sānmén",
+		"mn": [
+			[
+				"n",
+				"Hạt Sanmen ở Taizhou 台州 , Chiết Giang"
+			]
+		]
+	},
+	"一门": {
+		"py": "yīmén",
+		"mn": [
+			[
+				"n",
+				"một lòng một dạ; tập trung tinh thần。一心一意;集中精神。\n他一門心思搞技術革新。\nanh ấy dốc lòng đổi mới nâng cao kỹ thuật.\n老漢在一門心思地磨著鐮刀。\nông lão đang chăm chú mài liềm gặt lúa."
+			]
+		]
+	},
 	"只": {
 		"py": "zhǐ",
 		"mn": [
@@ -77,12 +95,34 @@
 			]
 		]
 	},
+	"论文": {
+		"py": "lùnwén",
+		"mn": [
+			[
+				"n",
+				"luận văn; luận án; bài luận"
+			]
+		]
+	},
 	"这么": {
 		"py": "zhème",
 		"mn": [
 			[
 				"pro",
 				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"轻松": {
+		"py": "qīngsōng",
+		"mn": [
+			[
+				"adj",
+				"nhẹ nhõm; ung dung; thoải mái; thư giãn"
+			],
+			[
+				"v",
+				"thư giãn; thả lỏng"
 			]
 		]
 	},
@@ -109,6 +149,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"羡慕": {
+		"py": "xiànmù",
+		"mn": [
+			[
+				"v",
+				"ngưỡng mộ; ước ao; hâm mộ | đố kỵ; ghen ghét; thèm muốn"
 			]
 		]
 	},
@@ -264,6 +313,15 @@
 			]
 		]
 	},
+	"唉": {
+		"py": "ài",
+		"mn": [
+			[
+				"intj",
+				"dào; hừ. (tỏ ý thương cảm hoặc ái ngại, thở dài) | thôi; rồi (biểu thị đồng ý hoặc công nhận)"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
@@ -305,6 +363,37 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"没用": {
+		"py": "méiyòng",
+		"mn": [
+			[
+				"adj",
+				"vô tác dụng | vô ích; vô tích sự"
+			]
+		]
+	},
+	"法语": {
+		"py": "fǎyǔ",
+		"mn": [
+			[
+				"n",
+				"tiếng Pháp"
+			]
+		]
+	},
+	"考试": {
+		"py": "kǎoshì",
+		"mn": [
+			[
+				"v, sv",
+				"thi; kiểm tra; sát hạch"
+			],
+			[
+				"n",
+				"cuộc thi; kỳ thi; bài kiểm tra"
 			]
 		]
 	},
@@ -367,6 +456,15 @@
 			[
 				"adv",
 				"đã; rồi"
+			]
+		]
+	},
+	"复习": {
+		"py": "fùxí",
+		"mn": [
+			[
+				"v",
+				"ôn; ôn tập; ôn bài"
 			]
 		]
 	},
@@ -549,6 +647,37 @@
 			]
 		]
 	},
+	"师兄": {
+		"py": "shīxiōng",
+		"mn": [
+			[
+				"n",
+				"sư huynh (học cùng thầy, thế hệ đàn anh) | sư huynh (cách xưng hô với con trai của sư phụ hay đồ đệ của cha, lớn tuổi hơn mình)"
+			]
+		]
+	},
+	"师姐": {
+		"py": "shījiě",
+		"mn": [
+			[
+				"n",
+				"Sư tỉ"
+			]
+		]
+	},
+	"栽": {
+		"py": "zāi",
+		"mn": [
+			[
+				"v",
+				"trồng trọt; trồng | cắm | vu tội; đổ tội; vu oan; gán cho | ngã; té ngã; ngã xuống | thất bại"
+			],
+			[
+				"n",
+				"cây con; cây giống; hạt giống"
+			]
+		]
+	},
 	"在": {
 		"py": "zài",
 		"mn": [
@@ -592,6 +721,24 @@
 			]
 		]
 	},
+	"警惕": {
+		"py": "jǐngtì",
+		"mn": [
+			[
+				"v",
+				"cảnh giác; đề phòng"
+			]
+		]
+	},
+	"争取": {
+		"py": "zhēngqǔ",
+		"mn": [
+			[
+				"v",
+				"cố gắng; ra sức | giành; tranh giành; tranh đấu; đấu tranh (để đạt được quyền lợi)"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -631,6 +778,19 @@
 			[
 				"v",
 				"xếp; xếp bày"
+			]
+		]
+	},
+	"通过": {
+		"py": "tōngguò",
+		"mn": [
+			[
+				"v",
+				"qua; đi qua; vượt qua; chui qua | qua; phê duyệt; kiểm duyệt; thông qua | thông qua; đồng ý; phê chuẩn (đại biểu) | đỗ; qua; thông qua; vượt qua (tiêu chuẩn, yêu cầu)"
+			],
+			[
+				"prep",
+				"qua; thông qua"
 			]
 		]
 	},
@@ -689,6 +849,15 @@
 			]
 		]
 	},
+	"紧张": {
+		"py": "jǐnzhāng",
+		"mn": [
+			[
+				"adj",
+				"hồi hộp; lo lắng; căng thẳng | khẩn trương; căng thẳng | eo hẹp; túng thiếu; khan hiếm"
+			]
+		]
+	},
 	"看": {
 		"py": "kàn",
 		"mn": [
@@ -711,6 +880,19 @@
 			]
 		]
 	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
+			]
+		]
+	},
 	"出": {
 		"py": "chū",
 		"mn": [
@@ -721,6 +903,15 @@
 			[
 				"measure",
 				"vở; tấn; lớp; hồi (kịch, tuồng)"
+			]
+		]
+	},
+	"黑眼圈": {
+		"py": "hēiyǎnquān",
+		"mn": [
+			[
+				"n",
+				"quầng thâm mắt"
 			]
 		]
 	},
@@ -771,6 +962,24 @@
 			]
 		]
 	},
+	"球": {
+		"py": "qiú",
+		"mn": [
+			[
+				"n",
+				"cầu; hình cầu | quả; nắm (đồ vật dạng tròn) | bóng; banh; quả bóng; quả cầu (dụng cụ thể thao) | trận đấu; bóng (trò chơi; cuộc thi) | địa cầu; trái đất"
+			]
+		]
+	},
+	"放松": {
+		"py": "fàngsōng",
+		"mn": [
+			[
+				"v",
+				"thả lỏng; buông lỏng; nới lỏng; lơi ra; thư giãn"
+			]
+		]
+	},
 	"一下": {
 		"py": "yīxià",
 		"mn": [
@@ -802,6 +1011,24 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"主意": {
+		"py": "zhǔyì",
+		"mn": [
+			[
+				"n",
+				"ý kiến; ý tưởng; chủ ý; chủ kiến; chủ định; biện pháp; phương pháp"
+			]
+		]
+	},
+	"劳逸结合": {
+		"py": "láoyìjiéhé",
+		"mn": [
+			[
+				"idioms",
+				"cân bằng giữa làm việc và nghỉ ngơi (thành ngữ)"
 			]
 		]
 	},

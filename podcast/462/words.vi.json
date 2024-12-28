@@ -92,6 +92,15 @@
 			]
 		]
 	},
+	"报价": {
+		"py": "bàojià",
+		"mn": [
+			[
+				"v",
+				"báo giá"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -116,6 +125,15 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"方案": {
+		"py": "fāngàn",
+		"mn": [
+			[
+				"n",
+				"kế hoạch; dự án; đề án | phương án"
 			]
 		]
 	},
@@ -158,6 +176,15 @@
 			]
 		]
 	},
+	"方面": {
+		"py": "fāngmiàn",
+		"mn": [
+			[
+				"n",
+				"mặt; phía; phương diện; lĩnh vực; khía cạnh"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -194,6 +221,15 @@
 			[
 				"n",
 				"họ Tái"
+			]
+		]
+	},
+	"商量": {
+		"py": "shāngliang",
+		"mn": [
+			[
+				"v",
+				"bàn; thương lượng; bàn bạc; trao đổi"
 			]
 		]
 	},
@@ -284,6 +320,41 @@
 			]
 		]
 	},
+	"基本": {
+		"py": "jīběn",
+		"mn": [
+			[
+				"n",
+				"căn bản; cơ bản; nền tảng; gốc rễ"
+			],
+			[
+				"adv",
+				"cơ bản; gần như; nhìn chung"
+			],
+			[
+				"adj",
+				"căn bản; cơ bản | chính; chủ yếu"
+			]
+		]
+	},
+	"底价": {
+		"py": "dǐjià",
+		"mn": [
+			[
+				"n",
+				"giá quy định"
+			]
+		]
+	},
+	"细节": {
+		"py": "xìjié",
+		"mn": [
+			[
+				"n",
+				"tình tiết; chi tiết; điều nhỏ nhặt"
+			]
+		]
+	},
 	"可以": {
 		"py": "kěyǐ",
 		"mn": [
@@ -303,6 +374,24 @@
 			[
 				"v",
 				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"劳动力": {
+		"py": "láodònglì",
+		"mn": [
+			[
+				"n",
+				"sức lao động | người lao động"
+			]
+		]
+	},
+	"优惠": {
+		"py": "yōuhuì",
+		"mn": [
+			[
+				"adj",
+				"ưu đãi; giảm giá; khuyến mãi (mua bán) | ưu đãi; lợi ích đặc biệt"
 			]
 		]
 	},
@@ -384,6 +473,15 @@
 			]
 		]
 	},
+	"降低": {
+		"py": "jiàngdī",
+		"mn": [
+			[
+				"v",
+				"hạ; giảm; hạ thấp; giảm bớt"
+			]
+		]
+	},
 	"看": {
 		"py": "kàn",
 		"mn": [
@@ -403,6 +501,15 @@
 			[
 				"pro",
 				"thế nào; như thế nào | ra sao; ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)"
+			]
+		]
+	},
+	"整体": {
+		"py": "zhěngtǐ",
+		"mn": [
+			[
+				"n",
+				"chỉnh thể; toàn thể; tổng thể"
 			]
 		]
 	},
@@ -437,6 +544,15 @@
 			[
 				"n",
 				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"吸引力": {
+		"py": "xīyǐnlì",
+		"mn": [
+			[
+				"n",
+				"sức hấp dẫn; sự thu hút"
 			]
 		]
 	},
@@ -517,6 +633,15 @@
 			]
 		]
 	},
+	"难为": {
+		"py": "nánwéi",
+		"mn": [
+			[
+				"v",
+				"làm khó; bắt bí; bắt chẹt; gây khó khăn cho người khác | thật là khó (chỉ những việc khó làm) | cảm phiền; phiền (lời nói khách sáo)"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -527,6 +652,28 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"固定": {
+		"py": "gùdìng",
+		"mn": [
+			[
+				"adj",
+				"cố định; đứng yên; bất động"
+			],
+			[
+				"v",
+				"ổn định; cố định"
+			]
+		]
+	},
+	"成本": {
+		"py": "chéngběn",
+		"mn": [
+			[
+				"n",
+				"giá thành; chi phí"
 			]
 		]
 	}

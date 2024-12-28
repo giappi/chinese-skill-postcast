@@ -30,12 +30,30 @@
 			]
 		]
 	},
+	"王明": {
+		"py": "wángmíng",
+		"mn": [
+			[
+				"n",
+				"Wang Ming (1904-1974), người Liên Xô được đào tạo là cộng sản Trung Quốc, người Cộng sản Trung Quốc và Liên Xô và rời khỏi nhà thám hiểm vào những năm 1930, thất bại với Mao và chuyển đến Liên Xô từ năm 1956"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"请柬": {
+		"py": "qǐngjiǎn",
+		"mn": [
+			[
+				"n",
+				"thiệp mời; thiếp mời"
 			]
 		]
 	},
@@ -279,6 +297,24 @@
 			]
 		]
 	},
+	"两室一厅": {
+		"py": "liǎngshìyītīng",
+		"mn": [
+			[
+				"n",
+				"2 phòng ngủ 1 phòng khách"
+			]
+		]
+	},
+	"地段": {
+		"py": "dìduàn",
+		"mn": [
+			[
+				"n",
+				"đoạn đường; chặng; khoảng đất; khu vực"
+			]
+		]
+	},
 	"不错": {
 		"py": "bùcuò",
 		"mn": [
@@ -341,6 +377,15 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"有钱": {
+		"py": "yǒuqián",
+		"mn": [
+			[
+				"v",
+				"có tiền; có của; có tài sản; có tài"
 			]
 		]
 	},
@@ -418,6 +463,15 @@
 			]
 		]
 	},
+	"暴富": {
+		"py": "bàofù",
+		"mn": [
+			[
+				"v",
+				"phất lên; giàu nhanh"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -449,6 +503,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"按揭": {
+		"py": "ànjiē",
+		"mn": [
+			[
+				"v",
+				"một khoản thế chấp | mua tài sản thế chấp"
 			]
 		]
 	},
@@ -504,6 +567,32 @@
 			]
 		]
 	},
+	"付": {
+		"py": "fù",
+		"mn": [
+			[
+				"v",
+				"chi; chi tiền | giao cho; đưa cho; gửi gắm; giao phó"
+			],
+			[
+				"n",
+				"họ Phó"
+			]
+		]
+	},
+	"首付": {
+		"py": "shǒufù",
+		"mn": [
+			[
+				"v",
+				"trả trước"
+			],
+			[
+				"n",
+				"tiền cọc; tiền trả trước"
+			]
+		]
+	},
 	"自己": {
 		"py": "zìjǐ",
 		"mn": [
@@ -519,6 +608,28 @@
 			[
 				"adv",
 				"chậm rãi; chầm chậm; dần dần; từ từ | dần dà; dần dần; từ từ"
+			]
+		]
+	},
+	"贷款": {
+		"py": "dàikuǎn",
+		"mn": [
+			[
+				"v",
+				"vay; cho vay"
+			],
+			[
+				"n",
+				"khoản vay"
+			]
+		]
+	},
+	"呗": {
+		"py": "bei",
+		"mn": [
+			[
+				"part",
+				"chứ; đi chứ (dùng ở cuối câu, biểu thị sự thực hoặc lý lẽ rõ ràng, rất dễ hiểu) | thôi; thì; vậy (dùng trong phân câu hoặc cuối câu, biểu thị ngữ khí miễn cưỡng đồng ý hoặc nhượng bộ)"
 			]
 		]
 	},
@@ -640,6 +751,15 @@
 			]
 		]
 	},
+	"房价": {
+		"py": "fángjià",
+		"mn": [
+			[
+				"n",
+				"giá nhà; giá phòng"
+			]
+		]
+	},
 	"高": {
 		"py": "gāo",
 		"mn": [
@@ -650,6 +770,24 @@
 			[
 				"n",
 				"độ cao | họ Cao"
+			]
+		]
+	},
+	"物价": {
+		"py": "wùjià",
+		"mn": [
+			[
+				"n",
+				"giá hàng; vật giá; giá cả"
+			]
+		]
+	},
+	"上去": {
+		"py": "shàngqù",
+		"mn": [
+			[
+				"v",
+				"đi lên; lên (từ thấp đến cao) | lên; ra (thấp lên cao, xa tới gần) | lên; vào; gộp vào"
 			]
 		]
 	},
@@ -745,12 +883,30 @@
 			]
 		]
 	},
+	"买房": {
+		"py": "mǎifáng",
+		"mn": [
+			[
+				"v",
+				"mua một ngôi nhà"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"挣": {
+		"py": "zhèng",
+		"mn": [
+			[
+				"v",
+				"giãy; quẫy; vùng ra | kiếm (bằng sức lao động)"
 			]
 		]
 	},
@@ -793,6 +949,15 @@
 			]
 		]
 	},
+	"就算": {
+		"py": "jiùsuàn",
+		"mn": [
+			[
+				"conj",
+				"dù; cho dù; ngay cả"
+			]
+		]
+	},
 	"吃": {
 		"py": "chī",
 		"mn": [
@@ -824,6 +989,23 @@
 			[
 				"n",
 				"thức uống (đặc biệt là rượu)"
+			]
+		]
+	},
+	"根本": {
+		"py": "gēnběn",
+		"mn": [
+			[
+				"n",
+				"căn bản; gốc rễ; cội nguồn; cốt lõi"
+			],
+			[
+				"adj",
+				"chính; chủ yếu; trọng yếu; quan trọng"
+			],
+			[
+				"adv",
+				"hoàn toàn | căn bản; trước giờ; từ trước đến nay"
 			]
 		]
 	},
@@ -905,6 +1087,19 @@
 			]
 		]
 	},
+	"得了": {
+		"py": "déle",
+		"mn": [
+			[
+				"v",
+				"được; được rồi; thôi đi"
+			],
+			[
+				"part",
+				"đạt (trợ từ, dùng trong câu trần thuật, biểu thị sự khẳng định)"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -961,6 +1156,15 @@
 			]
 		]
 	},
+	"忍心": {
+		"py": "rěnxīn",
+		"mn": [
+			[
+				"v",
+				"nỡ; nhẫn tâm; đành lòng; nỡ lòng"
+			]
+		]
+	},
 	"把": {
 		"py": "bǎ",
 		"mn": [
@@ -1005,6 +1209,33 @@
 			[
 				"idioms",
 				"Đầu tắt mặt tối | đầu tắt mặt tối"
+			]
+		]
+	},
+	"积攒": {
+		"py": "jīzǎn",
+		"mn": [
+			[
+				"v",
+				"góp nhặt; gom góp; tích góp; gom góp tích lũy; tích góp từng tí một"
+			]
+		]
+	},
+	"下来": {
+		"py": "xiàlái",
+		"mn": [
+			[
+				"v",
+				"xuống (từ cao xuống thấp, hướng đến người nói) | qua; qua đi; trôi qua | chín; được thu hoạch"
+			]
+		]
+	},
+	"养老": {
+		"py": "yǎnglǎo",
+		"mn": [
+			[
+				"v",
+				"phụng dưỡng người già; chăm sóc người già | dưỡng lão | dưỡng già"
 			]
 		]
 	},
@@ -1073,6 +1304,40 @@
 			]
 		]
 	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
+			]
+		]
+	},
 	"而且": {
 		"py": "érqiě",
 		"mn": [
@@ -1082,12 +1347,38 @@
 			]
 		]
 	},
+	"省心": {
+		"py": "shěngxīn",
+		"mn": [
+			[
+				"v",
+				"bớt lo; đỡ lo; yên tâm"
+			],
+			[
+				"adj",
+				"dễ dàng; không tốn sức; nhẹ nhàng; đơn giản"
+			]
+		]
+	},
 	"认为": {
 		"py": "rènwéi",
 		"mn": [
 			[
 				"v",
 				"thấy; cho rằng; nghĩ rằng; tưởng rằng"
+			]
+		]
+	},
+	"反倒": {
+		"py": "fǎndào",
+		"mn": [
+			[
+				"adv",
+				"trái lại; trái ngược; ngược nhau; ngược lại"
+			],
+			[
+				"conj",
+				"trái lại; trái ngược; ngược nhau; ngược lại"
 			]
 		]
 	},
@@ -1161,6 +1452,19 @@
 			]
 		]
 	},
+	"背": {
+		"py": "bēi",
+		"mn": [
+			[
+				"v",
+				"cõng; vác; khiêng; gánh; đeo; địu; khoác | gánh vác; đảm nhiệm"
+			],
+			[
+				"measure",
+				"bó; gùi; vác"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -1175,6 +1479,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"房贷": {
+		"py": "fángdài",
+		"mn": [
+			[
+				"n",
+				"cho vay mua nhà"
 			]
 		]
 	},
@@ -1200,6 +1513,33 @@
 			[
 				"onom",
 				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"房奴": {
+		"py": "fángnú",
+		"mn": [
+			[
+				"n",
+				"nô lệ nhà ở"
+			]
+		]
+	},
+	"与其": {
+		"py": "yǔqí",
+		"mn": [
+			[
+				"conj",
+				"so với; thay vì"
+			]
+		]
+	},
+	"交给": {
+		"py": "jiāogěi",
+		"mn": [
+			[
+				"v",
+				"Giao cho | giao"
 			]
 		]
 	},
@@ -1237,12 +1577,48 @@
 			]
 		]
 	},
+	"房地产": {
+		"py": "fángdìchǎn",
+		"mn": [
+			[
+				"n",
+				"bất động sản"
+			]
+		]
+	},
+	"商人": {
+		"py": "shāngrén",
+		"mn": [
+			[
+				"n",
+				"thương nhân; thương gia; nhà kinh doanh"
+			]
+		]
+	},
+	"拿来": {
+		"py": "nálái",
+		"mn": [
+			[
+				"v",
+				"mang theo | để lấy | để có được"
+			]
+		]
+	},
 	"改善": {
 		"py": "gǎishàn",
 		"mn": [
 			[
 				"v",
 				"cải thiện; cải tiến"
+			]
+		]
+	},
+	"伙食": {
+		"py": "huǒshí",
+		"mn": [
+			[
+				"n",
+				"bữa ăn; cơm nước; ăn uống; đồ ăn; đồ ăn tập thể (thường chỉ việc ăn uống trong nhà trường, bộ đội, cơ quan...)"
 			]
 		]
 	},

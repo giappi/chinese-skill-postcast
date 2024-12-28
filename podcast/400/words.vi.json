@@ -263,6 +263,41 @@
 			]
 		]
 	},
+	"太多": {
+		"py": "tàiduō",
+		"mn": [
+			[
+				"n",
+				"bà lớn | bà chủ | bà (gọi người phụ nữ đã có chồng, thường kèm theo họ chồng) | bà xã; bà nhà | cụ; bà cố; ông cố (cụ ông hoặc cụ bà)"
+			]
+		]
+	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
+			]
+		]
+	},
+	"随便": {
+		"py": "suíbiàn",
+		"mn": [
+			[
+				"adj",
+				"tự nhiên; thoải mái; sao cũng được | tuỳ tiện; cẩu thả; qua loa; hời hợt | tùy ý; không chỉn chu"
+			],
+			[
+				"v",
+				"tùy ý"
+			],
+			[
+				"conj",
+				"dù; bất cứ; bất kể"
+			]
+		]
+	},
 	"几": {
 		"py": "jǐ",
 		"mn": [
@@ -285,6 +320,28 @@
 			]
 		]
 	},
+	"相机": {
+		"py": "xiàngjī",
+		"mn": [
+			[
+				"n",
+				"máy ảnh; máy chụp hình"
+			],
+			[
+				"v",
+				"xem tình hình; chớp thời cơ"
+			]
+		]
+	},
+	"充电器": {
+		"py": "chōngdiànqì",
+		"mn": [
+			[
+				"n",
+				"củ sạc; cục sạc"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -303,6 +360,19 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"足够": {
+		"py": "zúgòu",
+		"mn": [
+			[
+				"adj",
+				"đủ; đầy đủ"
+			],
+			[
+				"v",
+				"đủ; mãn nguyện; thoả mãn; hài lòng"
 			]
 		]
 	},
@@ -332,6 +402,15 @@
 			]
 		]
 	},
+	"查": {
+		"py": "chá",
+		"mn": [
+			[
+				"v",
+				"xét; kiểm tra | điều tra; kiểm tra | tra; tra cứu (tài liệu, sách vở)"
+			]
+		]
+	},
 	"最近": {
 		"py": "zuìjìn",
 		"mn": [
@@ -351,6 +430,15 @@
 			[
 				"n",
 				"thời tiết | thời gian"
+			]
+		]
+	},
+	"气温": {
+		"py": "qìwēn",
+		"mn": [
+			[
+				"n",
+				"nhiệt độ; nhiệt độ không khí"
 			]
 		]
 	},
@@ -394,6 +482,15 @@
 			[
 				"n",
 				"quần áo; giày dép"
+			]
+		]
+	},
+	"夏装": {
+		"py": "xiàzhuāng",
+		"mn": [
+			[
+				"n",
+				"trang phục hè"
 			]
 		]
 	},
@@ -446,6 +543,15 @@
 			[
 				"n",
 				"cành; nhánh (cây) | mảnh; sợi | điều; mục; điều mục | thứ tự; trật tự; ngăn nắp | lời nhắn; ghi chú; giấy nhắn; giấy ghi chú"
+			]
+		]
+	},
+	"短裤": {
+		"py": "duǎnkù",
+		"mn": [
+			[
+				"n",
+				"quần soóc; quần đùi; quần ngắn; quần cộc"
 			]
 		]
 	},
@@ -526,6 +632,15 @@
 			]
 		]
 	},
+	"外套": {
+		"py": "wàitào",
+		"mn": [
+			[
+				"n",
+				"áo khoác"
+			]
+		]
+	},
 	"万一": {
 		"py": "wànyī",
 		"mn": [
@@ -543,6 +658,15 @@
 			]
 		]
 	},
+	"降温": {
+		"py": "jiàngwēn",
+		"mn": [
+			[
+				"v",
+				"hạ nhiệt; giảm nhiệt; hạ nhiệt độ | nhiệt độ giảm; nhiệt độ hạ thấp | giảm; giảm nhiệt; nguội lạnh (nhiệt huyết)"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -557,6 +681,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"道理": {
+		"py": "dàolǐ",
+		"mn": [
+			[
+				"n",
+				"sự thật; quy luật; nguyên tắc | lý; đạo lý; lý lẽ"
 			]
 		]
 	}

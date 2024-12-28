@@ -59,12 +59,30 @@
 			]
 		]
 	},
+	"信心": {
+		"py": "xìnxīn",
+		"mn": [
+			[
+				"n",
+				"lòng tin; niềm tin; sự tự tin"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"法语": {
+		"py": "fǎyǔ",
+		"mn": [
+			[
+				"n",
+				"tiếng Pháp"
 			]
 		]
 	},
@@ -96,6 +114,19 @@
 			[
 				"adj",
 				"lâu; lâu dài | bao lâu; lâu dài (trong một khoảng thời gian xác định)"
+			]
+		]
+	},
+	"进步": {
+		"py": "jìnbù",
+		"mn": [
+			[
+				"v",
+				"tiến bộ; tiến lên; đi lên; tiến triển; phát triển"
+			],
+			[
+				"adj",
+				"tiến bộ; thời đại; mang tính thời đại"
 			]
 		]
 	},
@@ -153,6 +184,28 @@
 			[
 				"part",
 				"quá (dùng ở cuối câu, tỏ ý ca ngợi) | nhỉ; nhá; nhé; đấy; đi thôi (dùng cuối câu, tỏ ý khẳng định, thúc giục, dặn dò) | hả; chứ (dùng ở cuối câu, tỏ ý nghi vấn) | đấy; ư; đó (dùng giữa câu, dừng một chút để người nghe chú ý đến lời nói tiếp theo) | này; nào; a (dùng sau những vật được liệt kê) | nha; nhá; ư (thể hiện sự thiếu kiên nhẫn; hoặc điều hiển nhiên)"
+			]
+		]
+	},
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
+			]
+		]
+	},
+	"考试": {
+		"py": "kǎoshì",
+		"mn": [
+			[
+				"v, sv",
+				"thi; kiểm tra; sát hạch"
+			],
+			[
+				"n",
+				"cuộc thi; kỳ thi; bài kiểm tra"
 			]
 		]
 	},
@@ -226,6 +279,15 @@
 			]
 		]
 	},
+	"碰巧": {
+		"py": "pèngqiǎo",
+		"mn": [
+			[
+				"adv",
+				"may; tình cờ; vừa hay; trùng hợp; vừa vặn; đúng lúc"
+			]
+		]
+	},
 	"遇到": {
 		"py": "yùdào",
 		"mn": [
@@ -244,12 +306,30 @@
 			]
 		]
 	},
+	"法国人": {
+		"py": "fǎguórén",
+		"mn": [
+			[
+				"n",
+				"người Pháp"
+			]
+		]
+	},
 	"他": {
 		"py": "tā",
 		"mn": [
 			[
 				"pro",
 				"nó; anh ấy; hắn; người ấy; anh ta; y; cậu ấy (đàn ông) | khác; ngoài | hư chỉ (dùng giữa động từ hoặc số từ) | ai đó; nhiều người; mọi người"
+			]
+		]
+	},
+	"迷路": {
+		"py": "mílù",
+		"mn": [
+			[
+				"v",
+				"lạc;  đi lạc; lạc đường | lạc lối; lạc hướng; mất phương hướng"
 			]
 		]
 	},
@@ -305,6 +385,19 @@
 			[
 				"measure",
 				"loại | hàng; đội"
+			]
+		]
+	},
+	"却": {
+		"py": "què",
+		"mn": [
+			[
+				"adv",
+				"lại; nhưng; mà lại; nhưng mà"
+			],
+			[
+				"v",
+				"lùi; lui; lui bước | đẩy lùi; đánh lùi | chối từ; khước từ; từ chối | mất; đi"
 			]
 		]
 	},
@@ -378,6 +471,19 @@
 			]
 		]
 	},
+	"懂": {
+		"py": "dǒng",
+		"mn": [
+			[
+				"v",
+				"hiểu; biết; thạo; thông thạo; hiểu rõ"
+			],
+			[
+				"n",
+				"họ Đổng"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -422,6 +528,15 @@
 			]
 		]
 	},
+	"表达": {
+		"py": "biǎodá",
+		"mn": [
+			[
+				"v",
+				"biểu đạt; bày tỏ; giãi bày; nói lên; diễn tả"
+			]
+		]
+	},
 	"想": {
 		"py": "xiǎng",
 		"mn": [
@@ -461,6 +576,24 @@
 			]
 		]
 	},
+	"一种": {
+		"py": "yīzhǒng",
+		"mn": [
+			[
+				"n",
+				"một loại của | một loại"
+			]
+		]
+	},
+	"前所未有": {
+		"py": "qiánsuǒwèiyǒu",
+		"mn": [
+			[
+				"idioms",
+				"trước giờ chưa từng có; xưa chưa từng có; trước nay chưa từng có"
+			]
+		]
+	},
 	"如果": {
 		"py": "rúguǒ",
 		"mn": [
@@ -483,6 +616,37 @@
 			]
 		]
 	},
+	"语言": {
+		"py": "yǔyán",
+		"mn": [
+			[
+				"n",
+				"ngôn ngữ | lời nói; tiếng nói"
+			]
+		]
+	},
+	"无法": {
+		"py": "wúfǎ",
+		"mn": [
+			[
+				"v",
+				"không thể; hết cách; vô phương; bó tay; không có cách gì; không còn cách nào"
+			]
+		]
+	},
+	"实际": {
+		"py": "shíjì",
+		"mn": [
+			[
+				"n",
+				"thực tế"
+			],
+			[
+				"adj",
+				"thực; thực tại; thực thế; cụ thể | sát thực tế; phù hợp thực tế"
+			]
+		]
+	},
 	"生活": {
 		"py": "shēnghuó",
 		"mn": [
@@ -493,6 +657,28 @@
 			[
 				"v",
 				"sinh hoạt; sinh sống | sinh tồn; tồn tại"
+			]
+		]
+	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
+			]
+		]
+	},
+	"运用": {
+		"py": "yùnyòng",
+		"mn": [
+			[
+				"v",
+				"vận dụng; áp dụng; sử dụng"
 			]
 		]
 	},
@@ -531,12 +717,30 @@
 			]
 		]
 	},
+	"意义": {
+		"py": "yìyì",
+		"mn": [
+			[
+				"n",
+				"ý nghĩa | giá trị; tác dụng"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
 			[
 				"n, time",
 				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"法国": {
+		"py": "fǎguó",
+		"mn": [
+			[
+				"nlocal, n",
+				"Pháp; nước Pháp"
 			]
 		]
 	},
@@ -684,12 +888,42 @@
 			]
 		]
 	},
+	"自然": {
+		"py": "zìrán",
+		"mn": [
+			[
+				"n",
+				"thiên nhiên; tự nhiên; giới tự nhiên"
+			],
+			[
+				"adj",
+				"tự nhiên (có sẵn) | tự nhiên (hình hành và phát triển)"
+			],
+			[
+				"adv",
+				"đương nhiên; tự nhiên"
+			],
+			[
+				"conj",
+				"tất nhiên; hiển nhiên"
+			]
+		]
+	},
 	"能够": {
 		"py": "nénggòu",
 		"mn": [
 			[
 				"av",
 				"có thể; có khả năng | có thể; có điều kiện; có khả năng"
+			]
+		]
+	},
+	"得心应手": {
+		"py": "déxīnyìngshǒu",
+		"mn": [
+			[
+				"idioms",
+				"thuận buồm xuôi gió; muốn sao được vậy; mọi việc như ý; muốn gì được nấy; cầu được ước thấy"
 			]
 		]
 	},
@@ -740,6 +974,15 @@
 			]
 		]
 	},
+	"灰心": {
+		"py": "huīxīn",
+		"mn": [
+			[
+				"adj",
+				"nản; nản lòng; buồn lòng; nản chí; chán nản; chùn bước"
+			]
+		]
+	},
 	"更": {
 		"py": "gèng",
 		"mn": [
@@ -755,6 +998,24 @@
 			[
 				"adv",
 				"đừng; cấm; không được; chớ; không nên; không được | không cần"
+			]
+		]
+	},
+	"丧失": {
+		"py": "sàngshī",
+		"mn": [
+			[
+				"v",
+				"mất; mất đi; mất mát; thất lạc"
+			]
+		]
+	},
+	"道理": {
+		"py": "dàolǐ",
+		"mn": [
+			[
+				"n",
+				"sự thật; quy luật; nguyên tắc | lý; đạo lý; lý lẽ"
 			]
 		]
 	},
@@ -811,6 +1072,23 @@
 			[
 				"adv",
 				"quả thực; thực sự"
+			]
+		]
+	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
 			]
 		]
 	},
@@ -879,6 +1157,19 @@
 			[
 				"av",
 				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"创造": {
+		"py": "chuàngzào",
+		"mn": [
+			[
+				"v",
+				"tạo ra; lập; đặt ra; tạo nên; sáng tạo"
+			],
+			[
+				"n",
+				"thành tựu"
 			]
 		]
 	},
@@ -994,6 +1285,19 @@
 			]
 		]
 	},
+	"招": {
+		"py": "zhāo",
+		"mn": [
+			[
+				"v",
+				"vẫy; gọi; vẫy tay | chiêu; tuyển; triệu; mộ; gọi | gây; chuốc; dẫn tới; gây ra; dẫn đến (việc không tốt) | trêu; làm; khiến; trêu chọc; trêu ghẹo | khai; nhận tội; xưng tội | lây nhiễm; truyền nhiễm"
+			],
+			[
+				"n",
+				"nước cờ; thủ đoạn; biện pháp; phương pháp | chiêu (chỉ động tác võ thuật) | họ Chiêu"
+			]
+		]
+	},
 	"另外": {
 		"py": "lìngwài",
 		"mn": [
@@ -1045,6 +1349,15 @@
 			]
 		]
 	},
+	"那里": {
+		"py": "nàlǐ",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -1083,6 +1396,28 @@
 			]
 		]
 	},
+	"交流": {
+		"py": "jiāoliú",
+		"mn": [
+			[
+				"v",
+				"giao lưu; trao đổi"
+			]
+		]
+	},
+	"沟通": {
+		"py": "gōutōng",
+		"mn": [
+			[
+				"v",
+				"trao đổi; giao tiếp; giao lưu; kết nối | khai thông; khơi thông; nối liền"
+			],
+			[
+				"n",
+				"việc giao tiếp; sự giao tiếp; sự trao đổi"
+			]
+		]
+	},
 	"相信": {
 		"py": "xiāngxìn",
 		"mn": [
@@ -1098,6 +1433,15 @@
 			[
 				"adj",
 				"mới; không lâu; ngày một ngày hai | không lâu trước; không lâu sau | sắp; sớm; không lâu nữa"
+			]
+		]
+	},
+	"能力": {
+		"py": "nénglì",
+		"mn": [
+			[
+				"n",
+				"năng lực; khả năng"
 			]
 		]
 	},

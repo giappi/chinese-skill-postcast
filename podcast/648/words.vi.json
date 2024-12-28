@@ -42,12 +42,39 @@
 			]
 		]
 	},
+	"爆发": {
+		"py": "bàofā",
+		"mn": [
+			[
+				"v",
+				"nổ; phun trào; bùng nổ (núi lửa) | nổ ra; bộc phát; phát tác; bạo phát; bùng phát"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"婆媳": {
+		"py": "póxí",
+		"mn": [
+			[
+				"n",
+				"mẹ chồng con dâu"
+			]
+		]
+	},
+	"大战": {
+		"py": "dàzhàn",
+		"mn": [
+			[
+				"",
+				"đại chiến; giải thi đấu; cuộc chiến lớn | cuộc chiến ác liệt; cuộc chiến quy mô lớn"
 			]
 		]
 	},
@@ -78,12 +105,30 @@
 			]
 		]
 	},
+	"鸡毛蒜皮": {
+		"py": "jīmáosuànpí",
+		"mn": [
+			[
+				"idioms",
+				"việc vặt vãnh; thứ vô ích; lông gà vỏ tỏi"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"小事": {
+		"py": "xiǎoshì",
+		"mn": [
+			[
+				"n",
+				"chuyện vặt vãnh | vấn đề tầm thường"
 			]
 		]
 	},
@@ -132,6 +177,15 @@
 			[
 				"adj",
 				"nhất định (nào đó) | nhất định (không thay đổi) | nhất định (về cách làm; số lượng)"
+			]
+		]
+	},
+	"左右为难": {
+		"py": "zuǒyòuwéinán",
+		"mn": [
+			[
+				"idioms",
+				"thế khó xử"
 			]
 		]
 	}

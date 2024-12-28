@@ -26,6 +26,15 @@
 			]
 		]
 	},
+	"连续": {
+		"py": "liánxù",
+		"mn": [
+			[
+				"adv",
+				"liên tục; liên tiếp"
+			]
+		]
+	},
 	"三": {
 		"py": "sān",
 		"mn": [
@@ -204,6 +213,15 @@
 			]
 		]
 	},
+	"存": {
+		"py": "cún",
+		"mn": [
+			[
+				"v",
+				"tồn tại; sinh tồn; sống | dự trữ; bảo quản; lưu giữ | dồn lại; tích đọng; tụ | để dành; gửi tiền tiết kiệm | gởi; gửi | giữ lại; gác lại | số dư; tồn; còn lại | ấp ủ; khao khát"
+			]
+		]
+	},
 	"点": {
 		"py": "diǎn",
 		"mn": [
@@ -303,6 +321,24 @@
 			]
 		]
 	},
+	"交际": {
+		"py": "jiāojì",
+		"mn": [
+			[
+				"v",
+				"giao tiếp; xã giao; giao thiệp"
+			]
+		]
+	},
+	"伙食费": {
+		"py": "huǒshífèi",
+		"mn": [
+			[
+				"n",
+				"tiền ăn; chi phí ăn uống"
+			]
+		]
+	},
 	"交通费": {
 		"py": "jiāotōngfèi",
 		"mn": [
@@ -393,12 +429,42 @@
 			]
 		]
 	},
+	"省": {
+		"py": "shěng",
+		"mn": [
+			[
+				"v",
+				"tiết kiệm | bỏ bớt; giảm bớt; miễn; giảm; tránh; đỡ"
+			],
+			[
+				"n",
+				"tỉnh | thủ phủ của tỉnh | tỉnh lược; giản lược (từ ngữ)"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
 			]
 		]
 	}

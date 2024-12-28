@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"节日": {
+		"py": "jiérì",
+		"mn": [
+			[
+				"n",
+				"ngày lễ; ngày hội; ngày tết; lễ"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -53,6 +62,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"教师节": {
+		"py": "jiàoshījié",
+		"mn": [
+			[
+				"n",
+				"ngày nhà giáo"
 			]
 		]
 	},
@@ -281,6 +299,19 @@
 			[
 				"n",
 				"ở cùng một nơi, một chỗ."
+			]
+		]
+	},
+	"制": {
+		"py": "zhì",
+		"mn": [
+			[
+				"v",
+				"chế tạo; sản xuất; chế ra; làm; xây dựng | tiết chế; kiềm chế; hạn chế; chế ngự | sản xuất; sản xuất tại"
+			],
+			[
+				"n",
+				"chế độ; chuẩn mực | quy định"
 			]
 		]
 	},

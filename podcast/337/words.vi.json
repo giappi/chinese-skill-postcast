@@ -69,6 +69,15 @@
 			]
 		]
 	},
+	"请客": {
+		"py": "qǐngkè",
+		"mn": [
+			[
+				"v",
+				"mời khách; đãi khách | bao; khao; đãi; mời"
+			]
+		]
+	},
 	"太": {
 		"py": "tài",
 		"mn": [
@@ -113,6 +122,15 @@
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"北京烤鸭": {
+		"py": "běijīngkǎoyā",
+		"mn": [
+			[
+				"n",
+				"vịt quay Bắc Kinh"
 			]
 		]
 	},

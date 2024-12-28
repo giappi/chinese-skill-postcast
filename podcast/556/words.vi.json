@@ -138,6 +138,15 @@
 			]
 		]
 	},
+	"化妆": {
+		"py": "huàzhuāng",
+		"mn": [
+			[
+				"v, sv",
+				"trang điểm"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -181,6 +190,15 @@
 			]
 		]
 	},
+	"磨蹭": {
+		"py": "móceng",
+		"mn": [
+			[
+				"v",
+				"lề mề; chần chừ; đi chầm chậm; lê chầm chậm | quấy rầy; làm phiền; lèo nhèo; kì kèo; mè nheo"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
@@ -208,6 +226,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"拜访": {
+		"py": "bàifǎng",
+		"mn": [
+			[
+				"v",
+				"thăm; kính thăm; thăm hỏi; viếng thăm"
 			]
 		]
 	},
@@ -285,6 +312,19 @@
 			]
 		]
 	},
+	"邀请": {
+		"py": "yāoqǐng",
+		"mn": [
+			[
+				"v",
+				"mời; chào mời; gọi mời; mời gọi; kính mời"
+			],
+			[
+				"n",
+				"lời mời"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -316,6 +356,15 @@
 			[
 				"conj",
 				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"出席": {
+		"py": "chūxí",
+		"mn": [
+			[
+				"v",
+				"dự họp; tham dự; có mặt; đến dự"
 			]
 		]
 	},
@@ -441,6 +490,19 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"礼貌": {
+		"py": "lǐmào",
+		"mn": [
+			[
+				"n",
+				"lễ phép; lễ độ; lịch sự; phép tắc"
+			],
+			[
+				"adj",
+				"lịch sự; nhã nhặn; tao nhã; lịch thiệp"
 			]
 		]
 	}

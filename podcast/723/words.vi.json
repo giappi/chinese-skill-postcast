@@ -169,5 +169,26 @@
 				"đáng yêu; dễ thương; kháu khỉnh | thân yêu; thân thiết; gắn bó"
 			]
 		]
+	},
+	"极": {
+		"py": "jí",
+		"mn": [
+			[
+				"n",
+				"cực | đỉnh điểm; điểm dừng; điểm cuối | họ Cực"
+			],
+			[
+				"adv",
+				"hết sức; cực độ; rất; cực kỳ (phó từ, biểu thị đạt tới độ cao nhất)"
+			],
+			[
+				"adj",
+				"cao nhất; cuối cùng"
+			],
+			[
+				"v",
+				"làm hết sức mình"
+			]
+		]
 	}
 }

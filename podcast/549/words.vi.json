@@ -256,6 +256,23 @@
 			]
 		]
 	},
+	"分别": {
+		"py": "fēnbié",
+		"mn": [
+			[
+				"v",
+				"ly biệt; chia tay; biệt ly; xa cách | phân biệt; phân rõ; làm rõ"
+			],
+			[
+				"adv",
+				"mỗi người; chia nhau; tách ra; phân công nhau | riêng biệt; tách biệt; khác nhau"
+			],
+			[
+				"n",
+				"khác biệt; sự khác nhau; sự khác biệt"
+			]
+		]
+	},
 	"多少": {
 		"py": "duōshǎo",
 		"mn": [
@@ -333,12 +350,34 @@
 			]
 		]
 	},
+	"推荐": {
+		"py": "tuījiàn",
+		"mn": [
+			[
+				"v",
+				"khuyên; tiến cử; giới thiệu; đề cử; đề xuất; gợi ý"
+			]
+		]
+	},
 	"如果": {
 		"py": "rúguǒ",
 		"mn": [
 			[
 				"conj",
 				"nếu; nếu như; nếu mà; lỡ như; giá mà"
+			]
+		]
+	},
+	"长期": {
+		"py": "chángqī",
+		"mn": [
+			[
+				"adj",
+				"trường kỳ; dài hạn; vô thời hạn"
+			],
+			[
+				"n",
+				"thời gian dài"
 			]
 		]
 	},
@@ -403,6 +442,19 @@
 			]
 		]
 	},
+	"限制": {
+		"py": "xiànzhì",
+		"mn": [
+			[
+				"v",
+				"hạn chế"
+			],
+			[
+				"n",
+				"giới hạn; phạm vi quy định"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -455,6 +507,40 @@
 			]
 		]
 	},
+	"停": {
+		"py": "tíng",
+		"mn": [
+			[
+				"v",
+				"tạnh; im; dừng; ngừng; ngưng lại; ngưng chạy | dừng lại; lưu lại; ở lại | đỗ; đậu; dừng"
+			],
+			[
+				"measure",
+				"phần"
+			],
+			[
+				"adj",
+				"sẵn sàng; ổn định; ổn thoả; thỏa đáng"
+			]
+		]
+	},
+	"期": {
+		"py": "qī",
+		"mn": [
+			[
+				"n",
+				"kỳ; thời kỳ | kỳ hạn; thời hạn"
+			],
+			[
+				"v",
+				"hẹn | mong đợi; hy vọng; kỳ vọng"
+			],
+			[
+				"measure",
+				"khoá; kỳ học"
+			]
+		]
+	},
 	"可以": {
 		"py": "kěyǐ",
 		"mn": [
@@ -474,6 +560,15 @@
 			[
 				"adv",
 				"mọi lúc; bất cứ lúc nào; khi có yêu cầu; bất cứ khi nào có thể"
+			]
+		]
+	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
 			]
 		]
 	},
@@ -504,6 +599,24 @@
 			[
 				"v",
 				"đưa ra; xuất trình"
+			]
+		]
+	},
+	"免除": {
+		"py": "miǎnchú",
+		"mn": [
+			[
+				"v",
+				"miễn trừ; xoá bỏ; tránh khỏi; tránh được"
+			]
+		]
+	},
+	"停车费": {
+		"py": "tíngchēfèi",
+		"mn": [
+			[
+				"n",
+				"phí gửi xe"
 			]
 		]
 	},
@@ -601,6 +714,28 @@
 			[
 				"v",
 				"phục vụ; phụng sự; cống hiến; làm việc"
+			]
+		]
+	},
+	"是否": {
+		"py": "shìfǒu",
+		"mn": [
+			[
+				"adv",
+				"phải chăng; hay không; liệu rằng; liệu có"
+			]
+		]
+	},
+	"满意": {
+		"py": "mǎnyì",
+		"mn": [
+			[
+				"v",
+				"thoả mãn; hài lòng; vừa lòng; vừa ý; bằng lòng; thỏa đáng; đẹp ý; thoả lòng"
+			],
+			[
+				"adj",
+				"hài lòng; thỏa mãn; vừa ý"
 			]
 		]
 	},

@@ -190,6 +190,15 @@
 			]
 		]
 	},
+	"喝酒": {
+		"py": "hējiǔ",
+		"mn": [
+			[
+				"v",
+				"uống rượu"
+			]
+		]
+	},
 	"被": {
 		"py": "bèi",
 		"mn": [
@@ -233,6 +242,19 @@
 			]
 		]
 	},
+	"惩罚": {
+		"py": "chéngfá",
+		"mn": [
+			[
+				"v",
+				"phạt; nghiêm trị; nghiêm khắc trừng trị; nghiêm khắc trừng phạt"
+			],
+			[
+				"n",
+				"hình phạt; trừng phạt"
+			]
+		]
+	},
 	"一个": {
 		"py": "yīgè",
 		"mn": [
@@ -252,6 +274,15 @@
 			[
 				"adj",
 				"nguyệt; hình tròn; tròn như mặt trăng"
+			]
+		]
+	},
+	"内": {
+		"py": "nèi",
+		"mn": [
+			[
+				"n",
+				"nội; trong; bên trong; phía trong | vợ; họ nhà vợ"
 			]
 		]
 	},

@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"凌晨": {
+		"py": "língchén",
+		"mn": [
+			[
+				"n",
+				"hừng đông; rạng sáng; sáng sớm tinh mơ"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -154,6 +163,15 @@
 			]
 		]
 	},
+	"论文": {
+		"py": "lùnwén",
+		"mn": [
+			[
+				"n",
+				"luận văn; luận án; bài luận"
+			]
+		]
+	},
 	"明天": {
 		"py": "míngtiān",
 		"mn": [
@@ -169,6 +187,15 @@
 			[
 				"adv",
 				"phải; nhất định phải | nhất thiết phải; nhất định phải (ngữ khí ra lệnh)"
+			]
+		]
+	},
+	"提交": {
+		"py": "tíjiāo",
+		"mn": [
+			[
+				"v",
+				"đệ trình; đưa ra; nộp"
 			]
 		]
 	},
@@ -204,6 +231,15 @@
 			[
 				"adj",
 				"thoải mái; tự tại; tự do"
+			]
+		]
+	},
+	"通宵": {
+		"py": "tōngxiāo",
+		"mn": [
+			[
+				"n",
+				"suốt đêm; cả đêm; thâu đêm"
 			]
 		]
 	},
@@ -264,6 +300,15 @@
 			[
 				"part",
 				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"壶": {
+		"py": "hú",
+		"mn": [
+			[
+				"n",
+				"ấm; bình; hũ"
 			]
 		]
 	},
@@ -371,6 +416,15 @@
 			]
 		]
 	},
+	"提神": {
+		"py": "tíshén",
+		"mn": [
+			[
+				"v",
+				"giúp tỉnh táo; nâng cao tinh thần; hưng phấn tinh thần"
+			]
+		]
+	},
 	"好吧": {
 		"py": "hǎoba",
 		"mn": [
@@ -390,6 +444,15 @@
 			[
 				"measure",
 				"cốc; ly"
+			]
+		]
+	},
+	"浓缩": {
+		"py": "nóngsuō",
+		"mn": [
+			[
+				"v",
+				"sắc; cô; cô đặc; cô đọng"
 			]
 		]
 	},
@@ -493,6 +556,15 @@
 			[
 				"v",
 				"biết; hiểu; rõ; hay biết; hiểu rõ"
+			]
+		]
+	},
+	"专心": {
+		"py": "zhuānxīn",
+		"mn": [
+			[
+				"adj",
+				"chăm; chuyên; chuyên tâm; chuyên chú; dốc lòng; tập trung tinh thần"
 			]
 		]
 	},

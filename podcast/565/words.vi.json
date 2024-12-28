@@ -12,6 +12,15 @@
 			]
 		]
 	},
+	"天边": {
+		"py": "tiānbiān",
+		"mn": [
+			[
+				"n",
+				"xa vời; nơi xa xôi | chân trời"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -82,6 +91,24 @@
 			]
 		]
 	},
+	"大自然": {
+		"py": "dàzìrán",
+		"mn": [
+			[
+				"n",
+				"thiên nhiên; giới tự nhiên"
+			]
+		]
+	},
+	"神奇": {
+		"py": "shénqí",
+		"mn": [
+			[
+				"adj",
+				"kì diệu; thần kỳ"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -118,6 +145,15 @@
 			[
 				"n",
 				"màu; màu sắc | nhan sắc | một bài học; biết mặt | sắc mặt; vẻ mặt"
+			]
+		]
+	},
+	"魔法": {
+		"py": "mófǎ",
+		"mn": [
+			[
+				"n",
+				"ma thuật; phép thuật; ảo thuật"
 			]
 		]
 	},
@@ -246,6 +282,32 @@
 			]
 		]
 	},
+	"颜料": {
+		"py": "yánliào",
+		"mn": [
+			[
+				"n",
+				"sơn; màu; thuốc màu; màu sơn; màu vẽ"
+			]
+		]
+	},
+	"所有": {
+		"py": "suǒyǒu",
+		"mn": [
+			[
+				"v",
+				"sở hữu; có được"
+			],
+			[
+				"n",
+				"tất cả (chỉ vật sở hữu)"
+			],
+			[
+				"adj",
+				"tất cả; hết thảy; toàn bộ"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
@@ -291,6 +353,24 @@
 			[
 				"pro",
 				"những ... này; mấy ... này"
+			]
+		]
+	},
+	"混合": {
+		"py": "hùnhé",
+		"mn": [
+			[
+				"v",
+				"hỗn hợp; trộn; phối hợp; trộn lẫn; hòa trộn | lẫn lộn; pha trộn; trộn lẫn (không có phản ứng hoá học)"
+			]
+		]
+	},
+	"而": {
+		"py": "ér",
+		"mn": [
+			[
+				"conj",
+				"và (không nối với danh từ) | mà （hai vế đẳng lập) | mà (nối hai thành phần có ý khẳng định và phủ định bổ sung cho nhau) | mà; mà lại; còn (nối các thành phần có ý nghĩa tương phản) | mà (nối các bộ phận có ý nghĩa nhân quả) | mà; nếu (đặt giữa chủ ngữ và vị ngữ) | mà; một cách (nối thành phần chỉ phương cách, thời gian với động từ) | đến; rồi (liên từ)"
 			]
 		]
 	},
@@ -356,6 +436,15 @@
 			[
 				"n",
 				"màu đen; đen"
+			]
+		]
+	},
+	"厉害": {
+		"py": "lìhài",
+		"mn": [
+			[
+				"adj",
+				"lợi hại; kịch liệt; ghê gớm; dữ dội | giỏi; lợi hại; cừ; đáng gờm | mạnh; dữ dội; kinh hồn"
 			]
 		]
 	}

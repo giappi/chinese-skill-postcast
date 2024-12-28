@@ -12,6 +12,15 @@
 			]
 		]
 	},
+	"看上去": {
+		"py": "kànshàngqù",
+		"mn": [
+			[
+				"v",
+				"trông; trông như; trông có vẻ"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -44,6 +53,15 @@
 			[
 				"adv",
 				"chưa; chưa từng"
+			]
+		]
+	},
+	"精神": {
+		"py": "jīngshén",
+		"mn": [
+			[
+				"n",
+				"tinh thần; nghị lực; sinh lực | tôn chỉ; tinh thần; ý nghĩa chủ yếu; điều cốt lõi"
 			]
 		]
 	},
@@ -230,6 +248,19 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"健康": {
+		"py": "jiànkāng",
+		"mn": [
+			[
+				"adj",
+				"khoẻ mạnh; tráng kiện | tốt; tích cực | lành mạnh; chức năng (tốt cho sức khỏe, bổ trợ sức khỏe)"
+			],
+			[
+				"n",
+				"sức khỏe"
 			]
 		]
 	},
@@ -501,6 +532,19 @@
 			]
 		]
 	},
+	"流行": {
+		"py": "liúxíng",
+		"mn": [
+			[
+				"adj",
+				"thịnh hành; phổ biến"
+			],
+			[
+				"v",
+				"thịnh hành; phổ biến"
+			]
+		]
+	},
 	"方法": {
 		"py": "fāngfǎ",
 		"mn": [
@@ -608,6 +652,15 @@
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"变得": {
+		"py": "biànde",
+		"mn": [
+			[
+				"phrase",
+				"biến thành; trở thành; trở nên"
 			]
 		]
 	},
@@ -724,6 +777,19 @@
 			]
 		]
 	},
+	"广告": {
+		"py": "guǎnggào",
+		"mn": [
+			[
+				"n",
+				"quảng cáo"
+			],
+			[
+				"v",
+				"quảng cáo; quảng bá"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -743,6 +809,15 @@
 			[
 				"adj",
 				"nhất định (nào đó) | nhất định (không thay đổi) | nhất định (về cách làm; số lượng)"
+			]
+		]
+	},
+	"节目": {
+		"py": "jiémù",
+		"mn": [
+			[
+				"n",
+				"tiết mục; chương trình (biểu diễn)"
 			]
 		]
 	},
@@ -838,6 +913,19 @@
 			]
 		]
 	},
+	"科学": {
+		"py": "kēxué",
+		"mn": [
+			[
+				"adj",
+				"khoa học; có tính khoa học; có kỹ thuật; kỹ thuật cao"
+			],
+			[
+				"n",
+				"khoa học; ngành khoa học"
+			]
+		]
+	},
 	"有效": {
 		"py": "yǒuxiào",
 		"mn": [
@@ -883,6 +971,23 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
 			]
 		]
 	},
@@ -941,6 +1046,15 @@
 			]
 		]
 	},
+	"回避": {
+		"py": "huíbì",
+		"mn": [
+			[
+				"v",
+				"tránh; né tránh; trốn tránh; lánh đi; chạy mặt | lẩn tránh; né tránh (nhân viên thẩm phán không truy cứu vụ án vì lợi hại cá nhân)"
+			]
+		]
+	},
 	"高": {
 		"py": "gāo",
 		"mn": [
@@ -951,6 +1065,15 @@
 			[
 				"n",
 				"độ cao | họ Cao"
+			]
+		]
+	},
+	"热量": {
+		"py": "rèliàng",
+		"mn": [
+			[
+				"n",
+				"nhiệt lượng"
 			]
 		]
 	},
@@ -969,6 +1092,15 @@
 			[
 				"conj",
 				"ví dụ như; thí dụ như; chẳng hạn như"
+			]
+		]
+	},
+	"巧克力": {
+		"py": "qiǎokèlì",
+		"mn": [
+			[
+				"n",
+				"sô cô la; chocolate"
 			]
 		]
 	},
@@ -1002,12 +1134,30 @@
 			]
 		]
 	},
+	"食物": {
+		"py": "shíwù",
+		"mn": [
+			[
+				"n",
+				"đồ ăn; thức ăn; thực phẩm"
+			]
+		]
+	},
 	"水果": {
 		"py": "shuǐguǒ",
 		"mn": [
 			[
 				"n",
 				"trái cây; hoa quả"
+			]
+		]
+	},
+	"蔬菜": {
+		"py": "shūcài",
+		"mn": [
+			[
+				"n",
+				"rau; rau củ"
 			]
 		]
 	},
@@ -1025,6 +1175,15 @@
 			[
 				"n",
 				"họ Tái"
+			]
+		]
+	},
+	"配合": {
+		"py": "pèihé",
+		"mn": [
+			[
+				"v",
+				"phối hợp; tương phối; hợp tác"
 			]
 		]
 	},
@@ -1063,6 +1222,15 @@
 			]
 		]
 	},
+	"瘦": {
+		"py": "shòu",
+		"mn": [
+			[
+				"adj",
+				"gầy; gầy còm; gầy yếu | chật; hẹp | nạc (thịt) | cằn; cằn cỗi"
+			]
+		]
+	},
 	"建议": {
 		"py": "jiànyì",
 		"mn": [
@@ -1095,6 +1263,15 @@
 			[
 				"n",
 				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"所谓": {
+		"py": "suǒwèi",
+		"mn": [
+			[
+				"adj",
+				"cái gọi là; sở dĩ gọi là | điều mà họ gọi là (mang ý không thừa nhận, không tán thành)"
 			]
 		]
 	},

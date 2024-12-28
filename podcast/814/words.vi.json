@@ -269,6 +269,24 @@
 			]
 		]
 	},
+	"工具": {
+		"py": "gōngjù",
+		"mn": [
+			[
+				"n",
+				"công cụ; đồ nghề; dụng cụ | công cụ; phương tiện (ví với phương tiện để đạt được mục đích)"
+			]
+		]
+	},
+	"火车": {
+		"py": "huǒchē",
+		"mn": [
+			[
+				"n",
+				"xe lửa; tàu hoả"
+			]
+		]
+	},
 	"不仅": {
 		"py": "bùjǐn",
 		"mn": [
@@ -327,6 +345,24 @@
 			[
 				"adj",
 				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"欣赏": {
+		"py": "xīnshǎng",
+		"mn": [
+			[
+				"v",
+				"thưởng thức; ngắm; ngắm nhìn; chiêm ngưỡng | đánh giá cao; tán thưởng; yêu thích; thích"
+			]
+		]
+	},
+	"风景": {
+		"py": "fēngjǐng",
+		"mn": [
+			[
+				"n",
+				"phong cảnh; cảnh vật; quang cảnh; cảnh quan"
 			]
 		]
 	},

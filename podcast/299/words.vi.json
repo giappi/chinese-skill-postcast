@@ -94,6 +94,15 @@
 			]
 		]
 	},
+	"激活": {
+		"py": "jīhuó",
+		"mn": [
+			[
+				"v",
+				"kích hoạt; kích thích (cơ thể) | kích thích; kích hoạt (hoạt động)"
+			]
+		]
+	},
 	"请": {
 		"py": "qǐng",
 		"mn": [
@@ -164,6 +173,15 @@
 			[
 				"part",
 				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"单子": {
+		"py": "dānzi",
+		"mn": [
+			[
+				"n",
+				"chăn; khăn trải giường; tấm trải giường | đơn; tờ khai; tờ đơn"
 			]
 		]
 	},
@@ -265,6 +283,15 @@
 			[
 				"n",
 				"chứng minh thư; thẻ căn cước; căn cước công dân"
+			]
+		]
+	},
+	"原件": {
+		"py": "yuánjiàn",
+		"mn": [
+			[
+				"n",
+				"nguyên kiện; bản gốc; nguyên bản; bản chính (đồ vật hoặc văn kiện chưa bị thay đổi hoặc sửa đổi.)"
 			]
 		]
 	},

@@ -38,6 +38,15 @@
 			]
 		]
 	},
+	"海南": {
+		"py": "hǎinán",
+		"mn": [
+			[
+				"",
+				"Hải Nam (tỉnh phía nam Trung Quốc) | Kainan (thuộc Nhật Bản)"
+			]
+		]
+	},
 	"酒店": {
 		"py": "jiǔdiàn",
 		"mn": [
@@ -237,12 +246,38 @@
 			]
 		]
 	},
+	"所有": {
+		"py": "suǒyǒu",
+		"mn": [
+			[
+				"v",
+				"sở hữu; có được"
+			],
+			[
+				"n",
+				"tất cả (chỉ vật sở hữu)"
+			],
+			[
+				"adj",
+				"tất cả; hết thảy; toàn bộ"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
 			[
 				"n, time",
 				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"旺季": {
+		"py": "wàngjì",
+		"mn": [
+			[
+				"n",
+				"mùa thịnh vượng; mùa rộ; mùa đắt hàng; mùa cao điểm (trong sản xuất và kinh doanh)"
 			]
 		]
 	},
@@ -286,6 +321,15 @@
 			[
 				"adv",
 				"tương đối; khá; khá là"
+			]
+		]
+	},
+	"紧张": {
+		"py": "jǐnzhāng",
+		"mn": [
+			[
+				"adj",
+				"hồi hộp; lo lắng; căng thẳng | khẩn trương; căng thẳng | eo hẹp; túng thiếu; khan hiếm"
 			]
 		]
 	},

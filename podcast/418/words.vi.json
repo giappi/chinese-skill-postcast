@@ -1,4 +1,13 @@
 {
+	"学期": {
+		"py": "xuéqī",
+		"mn": [
+			[
+				"n",
+				"học kỳ"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -120,6 +129,15 @@
 			]
 		]
 	},
+	"必修课": {
+		"py": "bìxiūkè",
+		"mn": [
+			[
+				"n",
+				"môn bắt buộc; chuyện bắt buộc (môn bắt buộc phải học hoặc chuyện chắc chắn phải làm)"
+			]
+		]
+	},
 	"还有": {
 		"py": "háiyǒu",
 		"mn": [
@@ -129,12 +147,38 @@
 			]
 		]
 	},
+	"选修课": {
+		"py": "xuǎnxiūkè",
+		"mn": [
+			[
+				"n",
+				"môn học tự chọn"
+			]
+		]
+	},
 	"这": {
 		"py": "zhè",
 		"mn": [
 			[
 				"pro",
 				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"修": {
+		"py": "xiū",
+		"mn": [
+			[
+				"v",
+				"sửa chữa; tu sửa; chỉnh đốn | trang trí; bài trí; trang hoàng; tu bổ | xây dựng; xây đắp; thi công | viết; biên soạn; chỉnh lý | học tập và rèn luyện; học tập tu dưỡng (học vấn và phẩm hạnh) | tu hành | sửa (cắt gọt theo ý muốn)"
+			],
+			[
+				"adj",
+				"dài"
+			],
+			[
+				"n",
+				"họ Tu."
 			]
 		]
 	},
@@ -161,6 +205,15 @@
 			[
 				"n",
 				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"学分": {
+		"py": "xuéfēn",
+		"mn": [
+			[
+				"n",
+				"tín chỉ; học phần"
 			]
 		]
 	},
@@ -234,6 +287,23 @@
 			]
 		]
 	},
+	"了": {
+		"py": "liǎo",
+		"mn": [
+			[
+				"v",
+				"xong; kết thúc | hiểu; rõ; hiểu rõ; hiểu biết | có thể; không thể"
+			],
+			[
+				"adv",
+				"một chút; mảy may; hoàn toàn không"
+			],
+			[
+				"n",
+				"họ Liễu"
+			]
+		]
+	},
 	"十": {
 		"py": "shí",
 		"mn": [
@@ -274,6 +344,15 @@
 			[
 				"pro",
 				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"应付": {
+		"py": "yìngfù",
+		"mn": [
+			[
+				"v",
+				"ứng phó; đối phó; chống chế | qua loa; tạm bợ"
 			]
 		]
 	},

@@ -135,6 +135,15 @@
 			]
 		]
 	},
+	"借书证": {
+		"py": "jièshūzhèng",
+		"mn": [
+			[
+				"n",
+				"thẻ mượn sách; thẻ đọc sách"
+			]
+		]
+	},
 	"好": {
 		"py": "hǎo",
 		"mn": [
@@ -266,6 +275,33 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"九月": {
+		"py": "jiǔyuè",
+		"mn": [
+			[
+				"time",
+				"Tháng 9 | tháng chín"
+			]
+		]
+	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
+			]
+		]
+	},
+	"归还": {
+		"py": "guīhuán",
+		"mn": [
+			[
+				"v",
+				"trả; trả về; trả lại; hoàn lại"
 			]
 		]
 	}

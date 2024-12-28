@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"不想": {
+		"py": "bùxiǎng",
+		"mn": [
+			[
+				"conj",
+				"chẳng ngờ; không ngờ; bất ngờ"
+			]
+		]
+	},
 	"看": {
 		"py": "kàn",
 		"mn": [
@@ -27,6 +36,24 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"节目": {
+		"py": "jiémù",
+		"mn": [
+			[
+				"n",
+				"tiết mục; chương trình (biểu diễn)"
+			]
+		]
+	},
+	"遥控器": {
+		"py": "yáokòngqì",
+		"mn": [
+			[
+				"n",
+				"điều khiển; điều khiển từ xa"
 			]
 		]
 	},
@@ -92,6 +119,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"沙发": {
+		"py": "shāfā",
+		"mn": [
+			[
+				"n",
+				"ghế sofa, sô pha"
 			]
 		]
 	},
@@ -161,6 +197,15 @@
 			]
 		]
 	},
+	"摁": {
+		"py": "èn",
+		"mn": [
+			[
+				"v",
+				"ấn; nhấn; bấm"
+			]
+		]
+	},
 	"电视": {
 		"py": "diànshì",
 		"mn": [
@@ -196,6 +241,19 @@
 			]
 		]
 	},
+	"反应": {
+		"py": "fǎnyìng",
+		"mn": [
+			[
+				"v",
+				"phản ứng"
+			],
+			[
+				"n",
+				"hiệu ứng; phản ứng"
+			]
+		]
+	},
 	"好久": {
 		"py": "hǎojiǔ",
 		"mn": [
@@ -220,6 +278,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"电池": {
+		"py": "diànchí",
+		"mn": [
+			[
+				"n",
+				"pin; ắc-quy; bình điện"
 			]
 		]
 	},

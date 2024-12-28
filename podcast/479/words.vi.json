@@ -241,12 +241,42 @@
 			]
 		]
 	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"齐": {
+		"py": "qí",
+		"mn": [
+			[
+				"adj",
+				"chỉnh tề; ngay ngắn; đều nhau | có mặt; đến đủ; đầy đủ | đồng bộ; đồng nhất; như nhau; tương tự"
+			],
+			[
+				"v",
+				"đồng đều; bằng nhau; bằng; ngang | đồng lòng; đồng nhất; cùng nhau"
+			],
+			[
+				"adv",
+				"cùng nhau; đồng thời; cùng"
+			],
+			[
+				"n",
+				"hợp kim | nước Tề | họ Tề"
 			]
 		]
 	},
@@ -274,6 +304,15 @@
 			[
 				"n",
 				"điện thoại di động; điện thoại"
+			]
+		]
+	},
+	"电脑": {
+		"py": "diànnǎo",
+		"mn": [
+			[
+				"n",
+				"máy vi tính; máy tính"
 			]
 		]
 	},
@@ -411,6 +450,15 @@
 			]
 		]
 	},
+	"唠叨": {
+		"py": "láodāo",
+		"mn": [
+			[
+				"v",
+				"lải nhải; lảm nhảm; càu nhàu; làu bàu"
+			]
+		]
+	},
 	"呀": {
 		"py": "ya",
 		"mn": [
@@ -442,6 +490,28 @@
 			[
 				"adv",
 				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"不耐烦": {
+		"py": "bùnàifán",
+		"mn": [
+			[
+				"adj",
+				"sốt ruột; không kiên nhẫn; không nhẫn nại"
+			]
+		]
+	},
+	"平常": {
+		"py": "píngcháng",
+		"mn": [
+			[
+				"adj",
+				"bình thường; giản dị"
+			],
+			[
+				"n",
+				"thường; bình thường"
 			]
 		]
 	},
@@ -480,6 +550,15 @@
 			[
 				"n",
 				"quan điểm; cách nhìn; ý kiến; nhận định | họ Kiến"
+			]
+		]
+	},
+	"丢三落四": {
+		"py": "diūsānlàsì",
+		"mn": [
+			[
+				"idioms",
+				"hay quên; quên trước quên sau"
 			]
 		]
 	},
@@ -630,6 +709,15 @@
 			]
 		]
 	},
+	"遗漏": {
+		"py": "yílòu",
+		"mn": [
+			[
+				"v",
+				"quên; để sót; bỏ sót"
+			]
+		]
+	},
 	"对": {
 		"py": "duì",
 		"mn": [
@@ -738,6 +826,15 @@
 			]
 		]
 	},
+	"听到": {
+		"py": "tīngdào",
+		"mn": [
+			[
+				"v",
+				"nghe; nghe thấy; nghe được"
+			]
+		]
+	},
 	"天气": {
 		"py": "tiānqì",
 		"mn": [
@@ -807,6 +904,15 @@
 			]
 		]
 	},
+	"大暴雨": {
+		"py": "dàbàoyǔ",
+		"mn": [
+			[
+				"n",
+				"mưa to; mưa lớn; mưa xối xả (trong 24 giờ đồng hồ lượng mưa đạt từ 100 - 200 mm)"
+			]
+		]
+	},
 	"知道": {
 		"py": "zhīdào",
 		"mn": [
@@ -822,6 +928,28 @@
 			[
 				"v",
 				"sẽ không | không biết | không phải; không đâu"
+			]
+		]
+	},
+	"影响": {
+		"py": "yǐngxiǎng",
+		"mn": [
+			[
+				"v",
+				"ảnh hưởng"
+			],
+			[
+				"n",
+				"sự ảnh hưởng"
+			]
+		]
+	},
+	"行程": {
+		"py": "xíngchéng",
+		"mn": [
+			[
+				"n",
+				"lộ trình; hành trình | tiến trình | quãng xung (quãng vận động qua lại của pít-xtông, từ đầu đến cuối ống hơi lúc động cơ hoạt động)"
 			]
 		]
 	},
@@ -861,6 +989,15 @@
 			[
 				"av",
 				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"航空": {
+		"py": "hángkōng",
+		"mn": [
+			[
+				"n",
+				"hàng không | hàng không (chỉ những việc có liên quan đến hàng không)"
 			]
 		]
 	},
@@ -951,12 +1088,43 @@
 			]
 		]
 	},
+	"以防万一": {
+		"py": "yǐfángwànyī",
+		"mn": [
+			[
+				"idioms",
+				"Dự liệu; đề phòng"
+			]
+		]
+	},
 	"这": {
 		"py": "zhè",
 		"mn": [
 			[
 				"pro",
 				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"接通": {
+		"py": "jiētōng",
+		"mn": [
+			[
+				"v",
+				"chuyển được; nối được (điện thoại) | đóng (điện)"
+			]
+		]
+	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
 			]
 		]
 	},
@@ -1074,6 +1242,77 @@
 			]
 		]
 	},
+	"纽约": {
+		"py": "niǔyuē",
+		"mn": [
+			[
+				"n",
+				"New York (thành phố miền nam bang New York, cũng viết là New York City)"
+			]
+		]
+	},
+	"是否": {
+		"py": "shìfǒu",
+		"mn": [
+			[
+				"adv",
+				"phải chăng; hay không; liệu rằng; liệu có"
+			]
+		]
+	},
+	"变化": {
+		"py": "biànhuà",
+		"mn": [
+			[
+				"n",
+				"sự thay đổi; sự biến đổi"
+			],
+			[
+				"v",
+				"biến hoá; biến đổi; thay đổi"
+			]
+		]
+	},
+	"由于": {
+		"py": "yóuyú",
+		"mn": [
+			[
+				"prep",
+				"bởi; do; bởi vì (văn viết)"
+			],
+			[
+				"conj",
+				"do; vì"
+			]
+		]
+	},
+	"气象局": {
+		"py": "qìxiàngjú",
+		"mn": [
+			[
+				"n",
+				"văn phòng khí tượng | phòng thời tiết"
+			]
+		]
+	},
+	"发布": {
+		"py": "fābù",
+		"mn": [
+			[
+				"v",
+				"đưa ra; tuyên bố; công bố; phát hành; cho ra; thông báo; đăng bài; đăng tin; ra mắt"
+			]
+		]
+	},
+	"暴雨": {
+		"py": "bàoyǔ",
+		"mn": [
+			[
+				"n",
+				"mưa to; mưa lớn; mưa xối xả; mưa như trút nước; mưa như thác đổ"
+			]
+		]
+	},
 	"红色": {
 		"py": "hóngsè",
 		"mn": [
@@ -1084,6 +1323,15 @@
 			[
 				"adj",
 				"đỏ; cách mạng (tượng trưng cho cách mạng)"
+			]
+		]
+	},
+	"预警": {
+		"py": "yùjǐng",
+		"mn": [
+			[
+				"v",
+				"báo động trước; báo nguy trước, cảnh báo"
 			]
 		]
 	},
@@ -1138,6 +1386,15 @@
 			]
 		]
 	},
+	"取消": {
+		"py": "qǔxiāo",
+		"mn": [
+			[
+				"v",
+				"hủy; thủ tiêu; huỷ bỏ; xoá bỏ; bãi bỏ"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -1178,6 +1435,15 @@
 			]
 		]
 	},
+	"恢复": {
+		"py": "huīfù",
+		"mn": [
+			[
+				"v",
+				"khôi phục; trở lại; phục hồi | hồi sinh; khôi phục"
+			]
+		]
+	},
 	"非常": {
 		"py": "fēicháng",
 		"mn": [
@@ -1200,12 +1466,48 @@
 			]
 		]
 	},
+	"目前": {
+		"py": "mùqián",
+		"mn": [
+			[
+				"n",
+				"hiện nay; trước mắt; hiện tại"
+			]
+		]
+	},
 	"暂时": {
 		"py": "zànshí",
 		"mn": [
 			[
 				"n",
 				"tạm thời"
+			]
+		]
+	},
+	"无法": {
+		"py": "wúfǎ",
+		"mn": [
+			[
+				"v",
+				"không thể; hết cách; vô phương; bó tay; không có cách gì; không còn cách nào"
+			]
+		]
+	},
+	"预知": {
+		"py": "yùzhī",
+		"mn": [
+			[
+				"v",
+				"biết trước; báo trước; nói trước; dự báo; đoán trước"
+			]
+		]
+	},
+	"何时": {
+		"py": "héshí",
+		"mn": [
+			[
+				"adv",
+				"bao giờ; khi nào; lúc nào; chừng nào"
 			]
 		]
 	},
@@ -1241,6 +1543,15 @@
 			[
 				"v",
 				"đảm bảo; chắc chắn"
+			]
+		]
+	},
+	"起见": {
+		"py": "qǐjiàn",
+		"mn": [
+			[
+				"",
+				"để...; nhằm...; để đạt được mục đích nào đó; nhằm đạt được mục đích nào đó"
 			]
 		]
 	},
@@ -1375,6 +1686,15 @@
 			]
 		]
 	},
+	"商务舱": {
+		"py": "shāngwùcāng",
+		"mn": [
+			[
+				"n",
+				"Hạng thương gia (Trên máy bay)"
+			]
+		]
+	},
 	"买": {
 		"py": "mǎi",
 		"mn": [
@@ -1410,6 +1730,24 @@
 			]
 		]
 	},
+	"登陆": {
+		"py": "dēnglù",
+		"mn": [
+			[
+				"v",
+				"đổ bộ; lên bờ | ra mắt; gia nhập; xâm nhập"
+			]
+		]
+	},
+	"网站": {
+		"py": "wǎngzhàn",
+		"mn": [
+			[
+				"n",
+				"trang web; website; trang mạng"
+			]
+		]
+	},
 	"直接": {
 		"py": "zhíjiē",
 		"mn": [
@@ -1419,12 +1757,30 @@
 			]
 		]
 	},
+	"即可": {
+		"py": "jíkě",
+		"mn": [
+			[
+				"adv",
+				"là có thể; là được rồi; có thể rồi"
+			]
+		]
+	},
 	"再见": {
 		"py": "zàijiàn",
 		"mn": [
 			[
 				"v",
 				"tạm biệt; chào tạm biệt"
+			]
+		]
+	},
+	"结束": {
+		"py": "jiéshù",
+		"mn": [
+			[
+				"v",
+				"hết; kết thúc; chấm dứt"
 			]
 		]
 	},
@@ -1563,6 +1919,15 @@
 			]
 		]
 	},
+	"唉声叹气": {
+		"py": "āishēngtànqì",
+		"mn": [
+			[
+				"idioms",
+				"than thở; thở vắn than dài; rên rỉ; rên siết; rền rĩ; than van; kêu van; thở dài tuyệt vọng"
+			]
+		]
+	},
 	"这样": {
 		"py": "zhèyàng",
 		"mn": [
@@ -1582,6 +1947,15 @@
 			[
 				"adv",
 				"vừa hay; vừa tầm; tình cờ; đúng dịp; đúng lúc"
+			]
+		]
+	},
+	"抽": {
+		"py": "chōu",
+		"mn": [
+			[
+				"v",
+				"rút; rút ra; lấy ra; chiết xuất; dẫn ra | dành; bớt; cử; lấy ra; tách ra; đưa ra; tháo ra; chọn ra (một phần) | trổ; nảy; đâm ra; mọc ra | hút; bơm | co; rút; ngắn lại; co vào; rút vào; nhỏ đi | quất; đánh; vụt"
 			]
 		]
 	},
@@ -1651,6 +2025,15 @@
 			[
 				"adj",
 				"lầm; sai; nhầm | vô tình; ngoài ý muốn"
+			]
+		]
+	},
+	"正事": {
+		"py": "zhèngshì",
+		"mn": [
+			[
+				"n",
+				"việc đứng đắn; chuyện nghiêm chỉnh"
 			]
 		]
 	},

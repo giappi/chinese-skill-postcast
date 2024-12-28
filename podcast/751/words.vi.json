@@ -138,6 +138,15 @@
 			]
 		]
 	},
+	"部长": {
+		"py": "bùzhǎng",
+		"mn": [
+			[
+				"n",
+				"bộ trưởng | tù trưởng; thủ lĩnh bộ lạc"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -157,6 +166,15 @@
 			[
 				"adv",
 				"lén; trộm; vụng trộm; lén lút; ngấm ngầm"
+			]
+		]
+	},
+	"存": {
+		"py": "cún",
+		"mn": [
+			[
+				"v",
+				"tồn tại; sinh tồn; sống | dự trữ; bảo quản; lưu giữ | dồn lại; tích đọng; tụ | để dành; gửi tiền tiết kiệm | gởi; gửi | giữ lại; gác lại | số dư; tồn; còn lại | ấp ủ; khao khát"
 			]
 		]
 	},
@@ -283,6 +301,15 @@
 			]
 		]
 	},
+	"睁": {
+		"py": "zhēng",
+		"mn": [
+			[
+				"v",
+				"mở; mở to (mắt)"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -327,6 +354,19 @@
 			[
 				"measure",
 				"cái; miệng (dùng cho giếng)"
+			]
+		]
+	},
+	"闭": {
+		"py": "bì",
+		"mn": [
+			[
+				"v",
+				"đóng; khép; ngậm; nhắm (mắt) | bịt; chặn; làm tắc | kết thúc; chấm dứt; ngưng; dừng; bế"
+			],
+			[
+				"n",
+				"họ Bế"
 			]
 		]
 	},

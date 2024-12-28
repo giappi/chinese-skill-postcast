@@ -68,12 +68,30 @@
 			]
 		]
 	},
+	"踏青": {
+		"py": "tàqīng",
+		"mn": [
+			[
+				"v",
+				"đạp thanh; đi chơi trong tiết thanh minh"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"惬意": {
+		"py": "qièyì",
+		"mn": [
+			[
+				"adj",
+				"mãn nguyện; thoải mái; hài lòng"
 			]
 		]
 	},
@@ -116,6 +134,15 @@
 			]
 		]
 	},
+	"可惜": {
+		"py": "kěxī",
+		"mn": [
+			[
+				"adj",
+				"đáng tiếc; tiếc là; tiếc thay"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
@@ -140,6 +167,28 @@
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"好多": {
+		"py": "hǎoduō",
+		"mn": [
+			[
+				"adj",
+				"nhiều; quá nhiều; rất nhiều"
+			],
+			[
+				"pro",
+				"bao nhiêu(hỏi số lượng)"
+			]
+		]
+	},
+	"冤枉路": {
+		"py": "yuānwǎnglù",
+		"mn": [
+			[
+				"n",
+				"chặng đường oan uổng; con đường oan uổng (con đường vốn không phải đi mà lại đi.), đường vòng"
 			]
 		]
 	},

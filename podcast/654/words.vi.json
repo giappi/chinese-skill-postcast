@@ -120,6 +120,24 @@
 			]
 		]
 	},
+	"那里": {
+		"py": "nàlǐ",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia"
+			]
+		]
+	},
+	"气氛": {
+		"py": "qìfēn",
+		"mn": [
+			[
+				"n",
+				"không khí; bầu không khí"
+			]
+		]
+	},
 	"特别": {
 		"py": "tèbié",
 		"mn": [
@@ -561,12 +579,39 @@
 			]
 		]
 	},
+	"疯狂": {
+		"py": "fēngkuáng",
+		"mn": [
+			[
+				"adj",
+				"điên cuồng; điên khùng; phát điên; mạnh mẽ"
+			]
+		]
+	},
 	"地": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"mà; một cách"
+			]
+		]
+	},
+	"跳舞": {
+		"py": "tiàowǔ",
+		"mn": [
+			[
+				"v, sv",
+				"múa; khiêu vũ; nhảy; nhảy múa"
+			]
+		]
+	},
+	"释放": {
+		"py": "shìfàng",
+		"mn": [
+			[
+				"v",
+				"thả ra; phóng thích; giải tỏa | phóng; phát ra; thải ra"
 			]
 		]
 	},
@@ -580,6 +625,28 @@
 			[
 				"v",
 				"sinh hoạt; sinh sống | sinh tồn; tồn tại"
+			]
+		]
+	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
+			]
+		]
+	},
+	"压力": {
+		"py": "yālì",
+		"mn": [
+			[
+				"n",
+				"áp lực (vật lý) | gánh nặng; áp lực | áp lực (tâm lý; tinh thần)"
 			]
 		]
 	},
@@ -649,6 +716,15 @@
 			]
 		]
 	},
+	"美女": {
+		"py": "měinǚ",
+		"mn": [
+			[
+				"n",
+				"mỹ nữ; con gái đẹp; mỹ nhân; người đẹp; chị đẹp"
+			]
+		]
+	},
 	"运动": {
 		"py": "yùndòng",
 		"mn": [
@@ -693,6 +769,19 @@
 			]
 		]
 	},
+	"健康": {
+		"py": "jiànkāng",
+		"mn": [
+			[
+				"adj",
+				"khoẻ mạnh; tráng kiện | tốt; tích cực | lành mạnh; chức năng (tốt cho sức khỏe, bổ trợ sức khỏe)"
+			],
+			[
+				"n",
+				"sức khỏe"
+			]
+		]
+	},
 	"有效": {
 		"py": "yǒuxiào",
 		"mn": [
@@ -712,6 +801,15 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"目的": {
+		"py": "mùdì",
+		"mn": [
+			[
+				"n",
+				"mục đích"
 			]
 		]
 	},

@@ -168,6 +168,15 @@
 			]
 		]
 	},
+	"感叹": {
+		"py": "gǎntàn",
+		"mn": [
+			[
+				"v",
+				"cảm thán; than thở; thở dài"
+			]
+		]
+	},
 	"他们": {
 		"py": "tāmen",
 		"mn": [
@@ -198,6 +207,15 @@
 			]
 		]
 	},
+	"闪电": {
+		"py": "shǎndiàn",
+		"mn": [
+			[
+				"n",
+				"chớp; ánh chớp; tia chớp"
+			]
+		]
+	},
 	"太": {
 		"py": "tài",
 		"mn": [
@@ -212,6 +230,15 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"不可思议": {
+		"py": "bùkěsīyì",
+		"mn": [
+			[
+				"idioms",
+				"không ngờ tới; không ngờ đến; thật khó tin; không thể giải thích; không thể tưởng tượng nổi"
 			]
 		]
 	},
@@ -319,6 +346,15 @@
 			]
 		]
 	},
+	"两口子": {
+		"py": "liǎngkǒuzi",
+		"mn": [
+			[
+				"n",
+				"hai vợ chồng"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
@@ -328,12 +364,30 @@
 			]
 		]
 	},
+	"恩爱": {
+		"py": "ēnài",
+		"mn": [
+			[
+				"adj",
+				"ân ái; đằm thắm (vợ chồng)"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"不得了": {
+		"py": "bùdéliǎo",
+		"mn": [
+			[
+				"adj",
+				"nguy; khủng khiếp; thậm tệ; ghê gớm | quá; quá sức; cực kỳ; quá chừng; vượt trội; vô cùng; tột bực; cùng cực; cực độ"
 			]
 		]
 	}

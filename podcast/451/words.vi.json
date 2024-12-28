@@ -1,10 +1,36 @@
 {
+	"哈": {
+		"py": "hā",
+		"mn": [
+			[
+				"v",
+				"thở ra hơi; hà hơi; hà | nài nỉ; cầu xin; van xin | khom lưng; cúi xuống; cúi; nghiêng mình"
+			],
+			[
+				"onom",
+				"ha ha; ha hả (từ tượng thanh, tiếng cười)"
+			],
+			[
+				"intj",
+				"a ha (đắc ý thỏa mãn)"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"终于": {
+		"py": "zhōngyú",
+		"mn": [
+			[
+				"adv",
+				"cuối cùng"
 			]
 		]
 	},
@@ -71,6 +97,19 @@
 			[
 				"measure",
 				"nhóm; tốp; đám; bọn; đội"
+			]
+		]
+	},
+	"参谋": {
+		"py": "cānmóu",
+		"mn": [
+			[
+				"n",
+				"ban tham mưu | quân sư; người cố vấn; người góp ý; người tư vấn; tham mưu"
+			],
+			[
+				"v",
+				"cố vấn; tư vấn; góp ý"
 			]
 		]
 	},
@@ -155,6 +194,19 @@
 			[
 				"",
 				"thứ nhất; hạng nhất; bậc nhất; đầu tiên; đệ nhất | quan trọng nhất"
+			]
+		]
+	},
+	"页": {
+		"py": "yè",
+		"mn": [
+			[
+				"n",
+				"tờ; trang; tờ giấy; trang giấy"
+			],
+			[
+				"measure",
+				"trang (giấy)"
 			]
 		]
 	},
@@ -247,6 +299,19 @@
 			]
 		]
 	},
+	"常规": {
+		"py": "chángguī",
+		"mn": [
+			[
+				"n",
+				"thường quy (phương pháp xử lý thường xuyên trong y học) | thói thường; lẽ thường; thông lệ; điều bình thường"
+			],
+			[
+				"adj",
+				"thông thường; bình thường"
+			]
+		]
+	},
 	"个人": {
 		"py": "gèrén",
 		"mn": [
@@ -307,6 +372,19 @@
 			]
 		]
 	},
+	"经历": {
+		"py": "jīnglì",
+		"mn": [
+			[
+				"v",
+				"từng; từng trải; trải qua; trải nghiệm"
+			],
+			[
+				"n",
+				"những việc trải qua; trải nghiệm"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
@@ -346,6 +424,32 @@
 			]
 		]
 	},
+	"重点": {
+		"py": "zhòngdiǎn",
+		"mn": [
+			[
+				"n",
+				"trọng điểm; trọng tâm; điểm nhấn | điểm tựa; điểm đặt"
+			],
+			[
+				"adv",
+				"nhấn mạnh; chú trọng; coi trọng; có trọng điểm"
+			]
+		]
+	},
+	"突出": {
+		"py": "tūchū",
+		"mn": [
+			[
+				"adj",
+				"xuất sắc; vượt trội; nổi bật"
+			],
+			[
+				"v",
+				"xông ra; lao ra; nhào ra | nhô ra; nhô lên; nổi lên; lồi ra; phình ra | nhấn mạnh; làm nổi bật"
+			]
+		]
+	},
 	"第二": {
 		"py": "dìèr",
 		"mn": [
@@ -381,6 +485,15 @@
 			]
 		]
 	},
+	"精华": {
+		"py": "jīnghuá",
+		"mn": [
+			[
+				"n",
+				"tinh hoa; tinh tuý"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -413,6 +526,24 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
+			]
+		]
+	},
+	"实习": {
+		"py": "shíxí",
+		"mn": [
+			[
+				"v",
+				"thực tập"
 			]
 		]
 	},
@@ -477,6 +608,23 @@
 			]
 		]
 	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
+			]
+		]
+	},
 	"要": {
 		"py": "yào",
 		"mn": [
@@ -537,12 +685,30 @@
 			]
 		]
 	},
+	"脱颖而出": {
+		"py": "tuōyǐngérchū",
+		"mn": [
+			[
+				"idioms",
+				"nổi bật; trổ hết tài năng; bộc lộ tài năng"
+			]
+		]
+	},
 	"这样": {
 		"py": "zhèyàng",
 		"mn": [
 			[
 				"pro",
 				"vậy; thế; như vậy; như thế; thế này; như vầy"
+			]
+		]
+	},
+	"缺少": {
+		"py": "quēshǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu thốn; không có"
 			]
 		]
 	},
@@ -732,6 +898,15 @@
 			]
 		]
 	},
+	"志愿者": {
+		"py": "zhìyuànzhě",
+		"mn": [
+			[
+				"n",
+				"tình nguyện viên; người tình nguyện"
+			]
+		]
+	},
 	"可以": {
 		"py": "kěyǐ",
 		"mn": [
@@ -800,12 +975,43 @@
 			]
 		]
 	},
+	"证明": {
+		"py": "zhèngmíng",
+		"mn": [
+			[
+				"v",
+				"chứng minh; chứng nhận; chứng tỏ; chứng rõ; chứng"
+			],
+			[
+				"n",
+				"bằng; giấy phép; giấy chứng nhận; chứng minh thư"
+			]
+		]
+	},
 	"一个": {
 		"py": "yīgè",
 		"mn": [
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"爱心": {
+		"py": "àixīn",
+		"mn": [
+			[
+				"n",
+				"lòng yêu thương; lòng quan tâm; tấm lòng yêu thương"
+			]
+		]
+	},
+	"社会": {
+		"py": "shèhuì",
+		"mn": [
+			[
+				"n",
+				"xã hội | cộng đồng; xã hội | xã đoàn; hội; câu lạc bộ; tổ chức"
 			]
 		]
 	},
@@ -898,6 +1104,50 @@
 			]
 		]
 	},
+	"发明": {
+		"py": "fāmíng",
+		"mn": [
+			[
+				"v",
+				"phát minh; sáng chế | giải thích; làm rõ; làm sáng tỏ"
+			],
+			[
+				"n",
+				"phát minh; sáng chế; sự phát minh"
+			]
+		]
+	},
+	"一种": {
+		"py": "yīzhǒng",
+		"mn": [
+			[
+				"n",
+				"một loại của | một loại"
+			]
+		]
+	},
+	"节水": {
+		"py": "jiéshuǐ",
+		"mn": [
+			[
+				"v",
+				"tiết kiệm nước"
+			]
+		]
+	},
+	"装置": {
+		"py": "zhuāngzhì",
+		"mn": [
+			[
+				"v",
+				"lắp đặt; lắp ráp"
+			],
+			[
+				"n",
+				"thiết bị; linh kiện lắp ráp"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -917,6 +1167,28 @@
 			[
 				"v",
 				"đủ để"
+			]
+		]
+	},
+	"创新": {
+		"py": "chuàngxīn",
+		"mn": [
+			[
+				"v",
+				"cách tân; đổi mới; sáng tạo"
+			],
+			[
+				"n",
+				"sự đổi mới; sự sáng tạo; sáng kiến; sự cải tạo"
+			]
+		]
+	},
+	"能力": {
+		"py": "nénglì",
+		"mn": [
+			[
+				"n",
+				"năng lực; khả năng"
 			]
 		]
 	},

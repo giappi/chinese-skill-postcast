@@ -203,6 +203,19 @@
 			]
 		]
 	},
+	"满意": {
+		"py": "mǎnyì",
+		"mn": [
+			[
+				"v",
+				"thoả mãn; hài lòng; vừa lòng; vừa ý; bằng lòng; thỏa đáng; đẹp ý; thoả lòng"
+			],
+			[
+				"adj",
+				"hài lòng; thỏa mãn; vừa ý"
+			]
+		]
+	},
 	"后来": {
 		"py": "hòulái",
 		"mn": [
@@ -222,6 +235,15 @@
 			[
 				"measure",
 				"vị; ngài; bạn (lượng từ chỉ người, tỏ ý tôn kính)"
+			]
+		]
+	},
+	"售货员": {
+		"py": "shòuhuòyuán",
+		"mn": [
+			[
+				"n",
+				"người bán hàng; nhân viên bán hàng"
 			]
 		]
 	},
@@ -256,6 +278,15 @@
 			[
 				"adj",
 				"cũ; trước; xưa kia; trước đây"
+			]
+		]
+	},
+	"推荐": {
+		"py": "tuījiàn",
+		"mn": [
+			[
+				"v",
+				"khuyên; tiến cử; giới thiệu; đề cử; đề xuất; gợi ý"
 			]
 		]
 	},
@@ -325,6 +356,28 @@
 			]
 		]
 	},
+	"于是": {
+		"py": "yúshì",
+		"mn": [
+			[
+				"conj",
+				"thế là; thế nên; do vậy; vì vậy; nên là"
+			]
+		]
+	},
+	"付": {
+		"py": "fù",
+		"mn": [
+			[
+				"v",
+				"chi; chi tiền | giao cho; đưa cho; gửi gắm; giao phó"
+			],
+			[
+				"n",
+				"họ Phó"
+			]
+		]
+	},
 	"钱": {
 		"py": "qián",
 		"mn": [
@@ -378,6 +431,15 @@
 			[
 				"v",
 				"Sửa đổi; cải tiến; làm mới; làm thay đổi"
+			]
+		]
+	},
+	"美滋滋": {
+		"py": "měizīzī",
+		"mn": [
+			[
+				"adj",
+				"rất vui; rất đắc chí; rất thỏa mãn; rất phấn khởi"
 			]
 		]
 	},

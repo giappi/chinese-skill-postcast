@@ -21,6 +21,15 @@
 			]
 		]
 	},
+	"生意": {
+		"py": "shēngyì",
+		"mn": [
+			[
+				"n",
+				"sức sống; sự sinh sôi nảy nở"
+			]
+		]
+	},
 	"怎样": {
 		"py": "zěnyàng",
 		"mn": [
@@ -36,6 +45,15 @@
 			[
 				"intj",
 				"ôi; ối (biểu thị thương cảm, hối hận) | hả; chà | ê (nhắc nhở, chào hỏi)"
+			]
+		]
+	},
+	"甭": {
+		"py": "béng",
+		"mn": [
+			[
+				"adv",
+				"không cần; khỏi phải; khỏi cần (hợp âm của 不用)"
 			]
 		]
 	},
@@ -61,12 +79,30 @@
 			]
 		]
 	},
+	"赔": {
+		"py": "péi",
+		"mn": [
+			[
+				"v",
+				"bồi thường; đền | lỗ vốn; thua lỗ; thâm hụt; thiệt hại | xin lỗi"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"血本无归": {
+		"py": "xuèběnwúguī",
+		"mn": [
+			[
+				"idioms",
+				"mất tất cả những gì người ta đã đầu tư (thành ngữ) | để mất áo sơ mi của một người"
 			]
 		]
 	},
@@ -98,6 +134,15 @@
 			[
 				"pro",
 				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"惨": {
+		"py": "cǎn",
+		"mn": [
+			[
+				"adj",
+				"bi thảm; thê thảm; thảm thương; thảm thiết | vô cùng; cực kỳ; ghê gớm; thê thảm | độc ác; hung ác; tàn ác | ảm đạm; tối tăm"
 			]
 		]
 	},
@@ -208,6 +253,23 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"料": {
+		"py": "liào",
+		"mn": [
+			[
+				"n",
+				"vật liệu; nguyên liệu | thức ăn gia súc | thủy tinh mờ"
+			],
+			[
+				"measure",
+				"liều (Đông Y) | súc gỗ (một súc là đoạn gỗ có mặt cắt là một thước vuông, dài bảy thước)"
+			],
+			[
+				"v",
+				"dự đoán; dự liệu; lường trước; liệu tính | trông coi; chăm sóc; quản lí; lo liệu; chăm lo | đo; cân đo"
 			]
 		]
 	},

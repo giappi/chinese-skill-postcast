@@ -94,6 +94,15 @@
 			]
 		]
 	},
+	"心地": {
+		"py": "xīndì",
+		"mn": [
+			[
+				"n",
+				"tấm lòng; tâm địa; lòng dạ; tâm tình; nỗi lòng"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -122,6 +131,15 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"聪明": {
+		"py": "cōngmíng",
+		"mn": [
+			[
+				"adj",
+				"thông minh; nhạy bén; minh mẫn; khôn ngoan; sắc sảo"
 			]
 		]
 	},

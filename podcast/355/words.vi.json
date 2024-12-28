@@ -38,6 +38,15 @@
 			]
 		]
 	},
+	"植树节": {
+		"py": "zhíshùjié",
+		"mn": [
+			[
+				"n",
+				"Tết trồng cây, Ngày trồng cây"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
@@ -57,6 +66,15 @@
 			[
 				"n",
 				"sự tham gia; sự tham dự; sự góp mặt"
+			]
+		]
+	},
+	"植树": {
+		"py": "zhíshù",
+		"mn": [
+			[
+				"v",
+				"để trồng nhiều cây"
 			]
 		]
 	},
@@ -104,6 +122,15 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"主意": {
+		"py": "zhǔyì",
+		"mn": [
+			[
+				"n",
+				"ý kiến; ý tưởng; chủ ý; chủ kiến; chủ định; biện pháp; phương pháp"
 			]
 		]
 	},
@@ -161,6 +188,19 @@
 			[
 				"v",
 				"chế tạo | viết; sáng tác | làm; làm việc; thực hiện | làm; tổ chức; chúc mừng | đảm nhiệm; trở thành | làm; dùng làm; sử dụng làm | trở thành; kết thành; tạo thành (quan hệ) | giả vờ; giả trang"
+			]
+		]
+	},
+	"贡献": {
+		"py": "gòngxiàn",
+		"mn": [
+			[
+				"v",
+				"góp; cống hiến; đóng góp; góp phần; hiến dâng"
+			],
+			[
+				"n",
+				"cống hiến; sự đóng góp; đóng góp; sự cống hiến"
 			]
 		]
 	},
@@ -229,6 +269,15 @@
 			]
 		]
 	},
+	"菜篮子": {
+		"py": "càilánzi",
+		"mn": [
+			[
+				"n",
+				"cung cấp rau xanh (giỏ rau, chỉ việc cung ứng rau xanh, thức ăn cho thành phố)"
+			]
+		]
+	},
 	"这": {
 		"py": "zhè",
 		"mn": [
@@ -285,6 +334,15 @@
 			]
 		]
 	},
+	"减少": {
+		"py": "jiǎnshǎo",
+		"mn": [
+			[
+				"v",
+				"giảm bớt; giảm thiểu; cắt giảm"
+			]
+		]
+	},
 	"白色": {
 		"py": "báisè",
 		"mn": [
@@ -295,6 +353,15 @@
 			[
 				"adj",
 				"phản cách mạng"
+			]
+		]
+	},
+	"污染": {
+		"py": "wūrǎn",
+		"mn": [
+			[
+				"v",
+				"ô nhiễm | ô nhiễm; ảnh hưởng xấu"
 			]
 		]
 	},
@@ -342,6 +409,28 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"环保": {
+		"py": "huánbǎo",
+		"mn": [
+			[
+				"n",
+				"bảo vệ môi trường"
+			],
+			[
+				"adj",
+				"thân thiện với môi trường"
+			]
+		]
+	},
+	"积极": {
+		"py": "jījí",
+		"mn": [
+			[
+				"adj",
+				"chủ động; cầu tiến; chăm chỉ; tích cực; hăng hái | tích cực; có lợi; có ích( hiệu quả; kết quả; tác dụng)"
 			]
 		]
 	}

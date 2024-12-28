@@ -65,12 +65,30 @@
 			]
 		]
 	},
+	"皱纹": {
+		"py": "zhòuwén",
+		"mn": [
+			[
+				"n",
+				"nếp nhăn; nếp gấp"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"面膜": {
+		"py": "miànmó",
+		"mn": [
+			[
+				"n",
+				"mặt nạ"
 			]
 		]
 	},
@@ -84,6 +102,15 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"推荐": {
+		"py": "tuījiàn",
+		"mn": [
+			[
+				"v",
+				"khuyên; tiến cử; giới thiệu; đề cử; đề xuất; gợi ý"
 			]
 		]
 	},
@@ -111,6 +138,19 @@
 			[
 				"pro",
 				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"皮肤": {
+		"py": "pífū",
+		"mn": [
+			[
+				"n",
+				"da; da dẻ; làn da"
+			],
+			[
+				"adj",
+				"hạn hẹp; nông cạn; thiển cận"
 			]
 		]
 	},
@@ -187,6 +227,15 @@
 			]
 		]
 	},
+	"产生": {
+		"py": "chǎnshēng",
+		"mn": [
+			[
+				"v",
+				"nảy sinh; sản sinh; xuất hiện; tạo ra"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -219,6 +268,15 @@
 			[
 				"adv",
 				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"细纹": {
+		"py": "xìwén",
+		"mn": [
+			[
+				"n",
+				"Vân mịn, vân nhỏ"
 			]
 		]
 	},
@@ -312,6 +370,15 @@
 			]
 		]
 	},
+	"特点": {
+		"py": "tèdiǎn",
+		"mn": [
+			[
+				"n",
+				"đặc điểm"
+			]
+		]
+	},
 	"它": {
 		"py": "tā",
 		"mn": [
@@ -347,6 +414,24 @@
 			]
 		]
 	},
+	"补充": {
+		"py": "bǔchōng",
+		"mn": [
+			[
+				"v",
+				"thêm; bổ sung; bổ trợ; thêm vào"
+			]
+		]
+	},
+	"营养": {
+		"py": "yíngyǎng",
+		"mn": [
+			[
+				"n",
+				"dinh dưỡng; chất bổ; chất dinh dưỡng | sự nuôi dưỡng"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -369,6 +454,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"水分": {
+		"py": "shuǐfèn",
+		"mn": [
+			[
+				"n",
+				"nước; độ ẩm; lượng nước"
 			]
 		]
 	},
@@ -398,12 +492,30 @@
 			]
 		]
 	},
+	"美容院": {
+		"py": "měiróngyuàn",
+		"mn": [
+			[
+				"n",
+				"thẩm mỹ viện"
+			]
+		]
+	},
 	"做": {
 		"py": "zuò",
 		"mn": [
 			[
 				"v",
 				"chế tạo | viết; sáng tác | làm; làm việc; thực hiện | làm; tổ chức; chúc mừng | đảm nhiệm; trở thành | làm; dùng làm; sử dụng làm | trở thành; kết thành; tạo thành (quan hệ) | giả vờ; giả trang"
+			]
+		]
+	},
+	"效果": {
+		"py": "xiàoguǒ",
+		"mn": [
+			[
+				"n",
+				"hiệu quả | hiệu ứng; hiệu quả (âm thanh, ánh sáng...)"
 			]
 		]
 	},
@@ -489,6 +601,28 @@
 			[
 				"part",
 				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"盒": {
+		"py": "hé",
+		"mn": [
+			[
+				"n",
+				"hộp; cái hộp; cặp lồng"
+			],
+			[
+				"measure",
+				"hộp"
+			]
+		]
+	},
+	"试试看": {
+		"py": "shìshìkàn",
+		"mn": [
+			[
+				"v",
+				"để thử"
 			]
 		]
 	}

@@ -137,6 +137,15 @@
 			]
 		]
 	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
+			]
+		]
+	},
 	"总是": {
 		"py": "zǒngshì",
 		"mn": [
@@ -520,6 +529,15 @@
 			]
 		]
 	},
+	"不管三七二十一": {
+		"py": "bùguǎnsānqīèrshíyī",
+		"mn": [
+			[
+				"v",
+				"bất chấp tất cả; không cần biết đúng sai; không xét xanh đỏ đen trắng; không xét phải trái đúng sai; bất cần tất cả; bất cần mọi thứ; chẳng xét đúng sai ngọn ngành"
+			]
+		]
+	},
 	"先": {
 		"py": "xiān",
 		"mn": [
@@ -654,6 +672,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"杯子": {
+		"py": "bēizi",
+		"mn": [
+			[
+				"n",
+				"cốc; chén; ly; tách"
 			]
 		]
 	},
@@ -855,6 +882,15 @@
 			[
 				"adj",
 				"có tài; có năng lực"
+			]
+		]
+	},
+	"精明": {
+		"py": "jīngmíng",
+		"mn": [
+			[
+				"adj",
+				"thông minh; lanh lợi; tháo vát; nhanh trí"
 			]
 		]
 	},

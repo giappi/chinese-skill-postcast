@@ -38,12 +38,30 @@
 			]
 		]
 	},
+	"入职": {
+		"py": "rùzhí",
+		"mn": [
+			[
+				"v",
+				"nhận việc; nhận chức; nhậm chức"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"心里": {
+		"py": "xīnlǐ",
+		"mn": [
+			[
+				"n",
+				"trong lòng; trong tim | trong tâm trí; trong đầu"
 			]
 		]
 	},
@@ -74,6 +92,15 @@
 			[
 				"n",
 				"1:00 (một giờ)"
+			]
+		]
+	},
+	"忐忑不安": {
+		"py": "tǎntèbùān",
+		"mn": [
+			[
+				"idioms",
+				"E sợ | bồn chồn"
 			]
 		]
 	},
@@ -110,6 +137,19 @@
 			[
 				"n",
 				"chủ tiệm; ông chủ | ông bầu; bà bầu; bầu gánh (hát; kịch; tuồng...)"
+			]
+		]
+	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
 			]
 		]
 	},
@@ -427,6 +467,42 @@
 			]
 		]
 	},
+	"心": {
+		"py": "xīn",
+		"mn": [
+			[
+				"n",
+				"tim; trái tim; quả tim | tâm; lòng; tâm tư; tâm địa; ý nghĩ; ý muốn | tâm; lòng; trung tâm; khoảng giữa | suy nghĩ; suy tư; mưu tính | lòng; tấm lòng; bụng dạ; tâm địa | sao Tâm (một chòm sao trong nhị thập bát tú)"
+			]
+		]
+	},
+	"终于": {
+		"py": "zhōngyú",
+		"mn": [
+			[
+				"adv",
+				"cuối cùng"
+			]
+		]
+	},
+	"平静": {
+		"py": "píngjìng",
+		"mn": [
+			[
+				"adj",
+				"yên ổn; yên bình; yên lặng; yên ả; thanh bình; phẳng lặng | bình tĩnh"
+			]
+		]
+	},
+	"下来": {
+		"py": "xiàlái",
+		"mn": [
+			[
+				"v",
+				"xuống (từ cao xuống thấp, hướng đến người nói) | qua; qua đi; trôi qua | chín; được thu hoạch"
+			]
+		]
+	},
 	"晚上": {
 		"py": "wǎnshàng",
 		"mn": [
@@ -631,6 +707,15 @@
 			]
 		]
 	},
+	"酒量": {
+		"py": "jiǔliàng",
+		"mn": [
+			[
+				"n",
+				"tửu lượng; sức uống"
+			]
+		]
+	},
 	"不好": {
 		"py": "bùhǎo",
 		"mn": [
@@ -722,6 +807,15 @@
 			]
 		]
 	},
+	"加入": {
+		"py": "jiārù",
+		"mn": [
+			[
+				"v",
+				"tham gia; tham dự | thêm; thêm vào"
+			]
+		]
+	},
 	"这样": {
 		"py": "zhèyàng",
 		"mn": [
@@ -761,6 +855,15 @@
 			]
 		]
 	},
+	"集体": {
+		"py": "jítǐ",
+		"mn": [
+			[
+				"n",
+				"tập thể"
+			]
+		]
+	},
 	"一定": {
 		"py": "yīdìng",
 		"mn": [
@@ -771,6 +874,15 @@
 			[
 				"adj",
 				"nhất định (nào đó) | nhất định (không thay đổi) | nhất định (về cách làm; số lượng)"
+			]
+		]
+	},
+	"配合": {
+		"py": "pèihé",
+		"mn": [
+			[
+				"v",
+				"phối hợp; tương phối; hợp tác"
 			]
 		]
 	}

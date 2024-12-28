@@ -120,6 +120,15 @@
 			]
 		]
 	},
+	"美容院": {
+		"py": "měiróngyuàn",
+		"mn": [
+			[
+				"n",
+				"thẩm mỹ viện"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -138,6 +147,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"美容": {
+		"py": "měiróng",
+		"mn": [
+			[
+				"v",
+				"làm đẹp; thẩm mỹ; mỹ dung; sửa sắc đẹp"
 			]
 		]
 	},
@@ -178,6 +196,15 @@
 			[
 				"pro",
 				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"年头": {
+		"py": "niántóu",
+		"mn": [
+			[
+				"n",
+				"năm | thời đại; năm tháng; ngày tháng | đầu năm | lâu; nhiều năm; thâm niên | mùa màng"
 			]
 		]
 	},
@@ -343,6 +370,37 @@
 			]
 		]
 	},
+	"更加": {
+		"py": "gèngjiā",
+		"mn": [
+			[
+				"adv",
+				"càng; thêm; hơn; hơn nữa"
+			]
+		]
+	},
+	"健康": {
+		"py": "jiànkāng",
+		"mn": [
+			[
+				"adj",
+				"khoẻ mạnh; tráng kiện | tốt; tích cực | lành mạnh; chức năng (tốt cho sức khỏe, bổ trợ sức khỏe)"
+			],
+			[
+				"n",
+				"sức khỏe"
+			]
+		]
+	},
+	"美丽": {
+		"py": "měilì",
+		"mn": [
+			[
+				"adj",
+				"đẹp; xinh đẹp; đẹp đẽ"
+			]
+		]
+	},
 	"很多": {
 		"py": "hěnduō",
 		"mn": [
@@ -426,12 +484,39 @@
 			]
 		]
 	},
+	"大街": {
+		"py": "dàjiē",
+		"mn": [
+			[
+				"n",
+				"phố lớn; phố phường; đường phố"
+			]
+		]
+	},
+	"美容店": {
+		"py": "měiróngdiàn",
+		"mn": [
+			[
+				"n",
+				"thẩm mỹ viện"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
 			[
 				"part",
 				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"生意": {
+		"py": "shēngyì",
+		"mn": [
+			[
+				"n",
+				"sức sống; sự sinh sôi nảy nở"
 			]
 		]
 	},
@@ -466,6 +551,15 @@
 			[
 				"v",
 				"theo cách nhìn của; theo góc nhìn của; theo quan điểm của"
+			]
+		]
+	},
+	"落伍": {
+		"py": "luòwǔ",
+		"mn": [
+			[
+				"v",
+				"lạc đơn vị; lạc đội ngũ | lạc hậu; tụt hậu; thụt lùi"
 			]
 		]
 	},
@@ -547,6 +641,28 @@
 			]
 		]
 	},
+	"眼界": {
+		"py": "yǎnjiè",
+		"mn": [
+			[
+				"n",
+				"tầm mắt"
+			]
+		]
+	},
+	"见识": {
+		"py": "jiànshi",
+		"mn": [
+			[
+				"v",
+				"hiểu biết; khám phá; mở mang kiến thức"
+			],
+			[
+				"n",
+				"kiến thức; tri thức; hiểu biết"
+			]
+		]
+	},
 	"可以": {
 		"py": "kěyǐ",
 		"mn": [
@@ -574,6 +690,24 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"隔着": {
+		"py": "gézhe",
+		"mn": [
+			[
+				"adv",
+				"Cách trở"
+			]
+		]
+	},
+	"玻璃": {
+		"py": "bōli",
+		"mn": [
+			[
+				"n",
+				"kính; thuỷ tinh | chất liệu thuỷ tinh; chất liệu pha lê | gay; đồng tính nam"
 			]
 		]
 	},
@@ -614,6 +748,46 @@
 			[
 				"v",
 				"quản lý; chăm sóc; sắp xếp; trông coi"
+			]
+		]
+	},
+	"清洁": {
+		"py": "qīngjié",
+		"mn": [
+			[
+				"adj",
+				"sạch sẽ; sạch"
+			],
+			[
+				"v",
+				"dọn; làm sạch; vệ sinh; dọn dẹp; dọn sạch; lau chùi"
+			]
+		]
+	},
+	"牙齿": {
+		"py": "yáchǐ",
+		"mn": [
+			[
+				"n",
+				"răng; hàm răng"
+			]
+		]
+	},
+	"修剪": {
+		"py": "xiūjiǎn",
+		"mn": [
+			[
+				"v",
+				"cắt sửa (cành lá, móng tay... bằng kéo); vanh"
+			]
+		]
+	},
+	"指甲": {
+		"py": "zhǐjiǎ",
+		"mn": [
+			[
+				"n",
+				"móng tay"
 			]
 		]
 	},
@@ -773,6 +947,15 @@
 			]
 		]
 	},
+	"欣赏": {
+		"py": "xīnshǎng",
+		"mn": [
+			[
+				"v",
+				"thưởng thức; ngắm; ngắm nhìn; chiêm ngưỡng | đánh giá cao; tán thưởng; yêu thích; thích"
+			]
+		]
+	},
 	"不了": {
 		"py": "bùliǎo",
 		"mn": [
@@ -792,6 +975,15 @@
 			[
 				"pro",
 				"loại này; cái này; kiểu này"
+			]
+		]
+	},
+	"做法": {
+		"py": "zuòfǎ",
+		"mn": [
+			[
+				"n",
+				"cách làm; phương pháp làm"
 			]
 		]
 	}

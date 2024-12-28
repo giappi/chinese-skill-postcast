@@ -152,12 +152,34 @@
 			]
 		]
 	},
+	"附近": {
+		"py": "fùjìn",
+		"mn": [
+			[
+				"adj",
+				"phụ cận; lân cận; cận;gần đây"
+			],
+			[
+				"n",
+				"vùng phụ cận; vùng lân cận; gần đây"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"餐馆": {
+		"py": "cānguǎn",
+		"mn": [
+			[
+				"n",
+				"nhà hàng; quán ăn; tiệm ăn"
 			]
 		]
 	},
@@ -193,6 +215,19 @@
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"要命": {
+		"py": "yàomìng",
+		"mn": [
+			[
+				"v",
+				"chết người; mất mạng"
+			],
+			[
+				"adj",
+				"cực kỳ; vô cùng | khó chịu (hình dung khiến người ta không thể chịu đựng được)"
 			]
 		]
 	},
@@ -278,6 +313,15 @@
 			]
 		]
 	},
+	"麦当劳": {
+		"py": "màidāngláo",
+		"mn": [
+			[
+				"n, locativ",
+				"McDonald's"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -288,6 +332,15 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"消息": {
+		"py": "xiāoxi",
+		"mn": [
+			[
+				"n",
+				"tin; tin tức; thông tin"
 			]
 		]
 	},
@@ -326,6 +379,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"灵通": {
+		"py": "língtōng",
+		"mn": [
+			[
+				"adj",
+				"nhanh; thạo tin (tin tức) | linh hoạt; nhanh nhẹn; nhanh nhẩu"
 			]
 		]
 	},
@@ -378,6 +440,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"汉堡": {
+		"py": "hànbǎo",
+		"mn": [
+			[
+				"n",
+				"bánh hamburger; bánh kẹp; bánh mì kẹp"
 			]
 		]
 	},

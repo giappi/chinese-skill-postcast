@@ -225,6 +225,15 @@
 			]
 		]
 	},
+	"火车票": {
+		"py": "huǒchēpiào",
+		"mn": [
+			[
+				"n",
+				"vé tàu"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -491,6 +500,33 @@
 			]
 		]
 	},
+	"铁路局": {
+		"py": "tiělùjú",
+		"mn": [
+			[
+				"",
+				"Cục Đường sắt"
+			]
+		]
+	},
+	"官方": {
+		"py": "guānfāng",
+		"mn": [
+			[
+				"n",
+				"chính phủ; nhà nước | chính thức (tổ chức hoặc cơ quan)"
+			]
+		]
+	},
+	"网站": {
+		"py": "wǎngzhàn",
+		"mn": [
+			[
+				"n",
+				"trang web; website; trang mạng"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -508,12 +544,38 @@
 			]
 		]
 	},
+	"注册": {
+		"py": "zhùcè",
+		"mn": [
+			[
+				"v",
+				"đăng ký; ghi tên"
+			]
+		]
+	},
 	"后": {
 		"py": "hòu",
 		"mn": [
 			[
 				"n",
 				"sau; phía sau; mặt sau | sau; cuối (vị trí, thứ tự) | sau (chỉ thời gian) | hậu thế; hậu duệ; con cháu; thế hệ sau | Hoàng hậu; Vương hậu | Vua | họ Hậu"
+			]
+		]
+	},
+	"根据": {
+		"py": "gēnjù",
+		"mn": [
+			[
+				"prep",
+				"căn cứ, dựa vào (điều kiện, lý do)"
+			],
+			[
+				"n",
+				"chứng cứ; luận cứ; căn cứ; chuẩn cứ"
+			],
+			[
+				"v",
+				"căn cứ; căn cứ vào; dựa vào; thể theo"
 			]
 		]
 	},
@@ -545,6 +607,28 @@
 			[
 				"n",
 				"sự lựa chọn"
+			]
+		]
+	},
+	"对应": {
+		"py": "duìyìng",
+		"mn": [
+			[
+				"v",
+				"tương đương; tương ứng với"
+			],
+			[
+				"adj",
+				"tương ứng; phù hợp"
+			]
+		]
+	},
+	"车次": {
+		"py": "chēcì",
+		"mn": [
+			[
+				"n",
+				"số tàu; số hiệu đoàn tàu; chuyến xe; chuyến tàu"
 			]
 		]
 	},
@@ -631,6 +715,42 @@
 			]
 		]
 	},
+	"在线": {
+		"py": "zàixiàn",
+		"mn": [
+			[
+				"v",
+				"trực tuyến; trên mạng | trực tuyến (đường dây; dịch vụ)"
+			]
+		]
+	},
+	"支付": {
+		"py": "zhīfù",
+		"mn": [
+			[
+				"v",
+				"chi; chi ra; trả tiền; thanh toán"
+			]
+		]
+	},
+	"车票": {
+		"py": "chēpiào",
+		"mn": [
+			[
+				"n",
+				"vé xe"
+			]
+		]
+	},
+	"乘车": {
+		"py": "chéngchē",
+		"mn": [
+			[
+				"v",
+				"lái xe; đi xe"
+			]
+		]
+	},
 	"前": {
 		"py": "qián",
 		"mn": [
@@ -653,6 +773,15 @@
 			]
 		]
 	},
+	"纸质": {
+		"py": "zhǐzhì",
+		"mn": [
+			[
+				"n",
+				"ấn phẩm bằng giấy"
+			]
+		]
+	},
 	"没": {
 		"py": "méi",
 		"mn": [
@@ -672,6 +801,28 @@
 			[
 				"v",
 				"nghĩ đến; nhớ đến; nghĩ ra"
+			]
+		]
+	},
+	"铁路": {
+		"py": "tiělù",
+		"mn": [
+			[
+				"n",
+				"đường sắt; đường ray"
+			]
+		]
+	},
+	"系统": {
+		"py": "xìtǒng",
+		"mn": [
+			[
+				"n",
+				"hê; hệ thống"
+			],
+			[
+				"adj",
+				"có hệ thống; có quy củ; có ngăn nắp"
 			]
 		]
 	},

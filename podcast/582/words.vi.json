@@ -124,6 +124,15 @@
 			]
 		]
 	},
+	"过道": {
+		"py": "guòdào",
+		"mn": [
+			[
+				"n",
+				"hành lang | hành lang (giữa những ngôi nhà với nhau)"
+			]
+		]
+	},
 	"向": {
 		"py": "xiàng",
 		"mn": [
@@ -179,12 +188,38 @@
 			]
 		]
 	},
+	"沿": {
+		"py": "yán",
+		"mn": [
+			[
+				"n",
+				"mép; rìa"
+			],
+			[
+				"v",
+				"theo (phương pháp, cách thức... đã có sẵn) | viền"
+			],
+			[
+				"prep",
+				"xuôi theo; men theo; dọc theo"
+			]
+		]
+	},
 	"楼梯": {
 		"py": "lóutī",
 		"mn": [
 			[
 				"n",
 				"cầu thang; thang bộ"
+			]
+		]
+	},
+	"上去": {
+		"py": "shàngqù",
+		"mn": [
+			[
+				"v",
+				"đi lên; lên (từ thấp đến cao) | lên; ra (thấp lên cao, xa tới gần) | lên; vào; gộp vào"
 			]
 		]
 	},

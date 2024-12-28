@@ -44,12 +44,34 @@
 			]
 		]
 	},
+	"锻炼": {
+		"py": "duànliàn",
+		"mn": [
+			[
+				"v",
+				"rèn; rèn luyện; tôi luyện; tập luyện; tập; tập thể dục"
+			]
+		]
+	},
 	"身体": {
 		"py": "shēntǐ",
 		"mn": [
 			[
 				"n",
 				"thân thể; cơ thể | sức khỏe"
+			]
+		]
+	},
+	"练习": {
+		"py": "liànxí",
+		"mn": [
+			[
+				"v",
+				"tập; luyện tập; ôn tập; rèn tập"
+			],
+			[
+				"n",
+				"bài tập; bài luyện tập"
 			]
 		]
 	},

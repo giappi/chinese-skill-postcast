@@ -21,6 +21,19 @@
 			]
 		]
 	},
+	"通过": {
+		"py": "tōngguò",
+		"mn": [
+			[
+				"v",
+				"qua; đi qua; vượt qua; chui qua | qua; phê duyệt; kiểm duyệt; thông qua | thông qua; đồng ý; phê chuẩn (đại biểu) | đỗ; qua; thông qua; vượt qua (tiêu chuẩn, yêu cầu)"
+			],
+			[
+				"prep",
+				"qua; thông qua"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -30,12 +43,43 @@
 			]
 		]
 	},
+	"司法": {
+		"py": "sīfǎ",
+		"mn": [
+			[
+				"v",
+				"tư pháp"
+			]
+		]
+	},
+	"考试": {
+		"py": "kǎoshì",
+		"mn": [
+			[
+				"v, sv",
+				"thi; kiểm tra; sát hạch"
+			],
+			[
+				"n",
+				"cuộc thi; kỳ thi; bài kiểm tra"
+			]
+		]
+	},
 	"恭喜": {
 		"py": "gōngxǐ",
 		"mn": [
 			[
 				"v",
 				"chúc mừng"
+			]
+		]
+	},
+	"总算": {
+		"py": "zǒngsuàn",
+		"mn": [
+			[
+				"adv",
+				"cuối cùng; cuối cùng cũng | cũng; nhìn chung; nói chung"
 			]
 		]
 	},
@@ -175,6 +219,19 @@
 			[
 				"adv",
 				"từ nhỏ; từ bé"
+			]
+		]
+	},
+	"梦想": {
+		"py": "mèngxiǎng",
+		"mn": [
+			[
+				"v",
+				"khát vọng; ước muốn; ao ước; mơ ước; mong ước"
+			],
+			[
+				"n",
+				"ước mơ; giấc mơ; ước nguyện; mong ước"
 			]
 		]
 	},

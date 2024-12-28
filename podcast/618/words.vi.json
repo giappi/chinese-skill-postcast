@@ -57,6 +57,15 @@
 			]
 		]
 	},
+	"请假": {
+		"py": "qǐngjià",
+		"mn": [
+			[
+				"sv, v",
+				"xin nghỉ; xin phép nghỉ (do bệnh tật hay gặp khó khăn)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -98,6 +107,19 @@
 			[
 				"n",
 				"do; nguyên do; lí do; nguyên nhân | họ Do"
+			]
+		]
+	},
+	"主持": {
+		"py": "zhǔchí",
+		"mn": [
+			[
+				"v",
+				"quản lý; phụ trách; tổ chức; chủ trì; dẫn chương trình | ủng hộ; bảo vệ"
+			],
+			[
+				"n",
+				"người chủ trì; người dẫn chương trình"
 			]
 		]
 	},
@@ -198,6 +220,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"病假": {
+		"py": "bìngjià",
+		"mn": [
+			[
+				"n",
+				"nghỉ bệnh; nghỉ ốm"
 			]
 		]
 	},
@@ -373,6 +404,19 @@
 			[
 				"adv",
 				"chưa; chưa từng"
+			]
+		]
+	},
+	"电": {
+		"py": "diàn",
+		"mn": [
+			[
+				"n",
+				"điện; pin; điện năng | điện báo; điện tín; bức điện | chớp; tia chớp | họ Điện"
+			],
+			[
+				"v",
+				"điện giật; bị điện giật | đánh điện; gửi điện; gọi điện thoại"
 			]
 		]
 	}

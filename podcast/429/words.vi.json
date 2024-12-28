@@ -66,6 +66,19 @@
 			]
 		]
 	},
+	"聚会": {
+		"py": "jùhuì",
+		"mn": [
+			[
+				"v",
+				"tụ tập; tụ họp; gặp; gặp gỡ (người)"
+			],
+			[
+				"n",
+				"cuộc hội họp; buổi gặp gỡ; buổi họp mặt; buổi tụ tập"
+			]
+		]
+	},
 	"大家": {
 		"py": "dàjiā",
 		"mn": [
@@ -76,6 +89,28 @@
 			[
 				"pro",
 				"mọi người; cả nhà"
+			]
+		]
+	},
+	"久别重逢": {
+		"py": "jiǔbiéchóngféng",
+		"mn": [
+			[
+				"idioms",
+				"gặp lại nhau sau một thời gian dài xa cách"
+			]
+		]
+	},
+	"变化": {
+		"py": "biànhuà",
+		"mn": [
+			[
+				"n",
+				"sự thay đổi; sự biến đổi"
+			],
+			[
+				"v",
+				"biến hoá; biến đổi; thay đổi"
 			]
 		]
 	},
@@ -144,6 +179,32 @@
 			]
 		]
 	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
+			]
+		]
+	},
+	"胖": {
+		"py": "pàng",
+		"mn": [
+			[
+				"adj",
+				"mập; béo; ú; lớn; mũm mĩm"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
@@ -206,6 +267,15 @@
 			]
 		]
 	},
+	"小伙子": {
+		"py": "xiǎohuǒzi",
+		"mn": [
+			[
+				"n",
+				"cậu nhóc; chàng trai; chàng trai trẻ; chàng thanh niên; cậu thanh niên"
+			]
+		]
+	},
 	"现在": {
 		"py": "xiànzài",
 		"mn": [
@@ -229,6 +299,15 @@
 			[
 				"adj",
 				"biến; đã thay đổi; có thể biến hoá"
+			]
+		]
+	},
+	"风度翩翩": {
+		"py": "fēngdùpiānpiān",
+		"mn": [
+			[
+				"idioms",
+				"phong độ ngời ngời"
 			]
 		]
 	},
@@ -323,6 +402,24 @@
 			[
 				"measure",
 				"lon; hộp"
+			]
+		]
+	},
+	"心": {
+		"py": "xīn",
+		"mn": [
+			[
+				"n",
+				"tim; trái tim; quả tim | tâm; lòng; tâm tư; tâm địa; ý nghĩ; ý muốn | tâm; lòng; trung tâm; khoảng giữa | suy nghĩ; suy tư; mưu tính | lòng; tấm lòng; bụng dạ; tâm địa | sao Tâm (một chòm sao trong nhị thập bát tú)"
+			]
+		]
+	},
+	"美滋滋": {
+		"py": "měizīzī",
+		"mn": [
+			[
+				"adj",
+				"rất vui; rất đắc chí; rất thỏa mãn; rất phấn khởi"
 			]
 		]
 	}

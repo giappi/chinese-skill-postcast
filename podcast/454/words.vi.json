@@ -157,12 +157,30 @@
 			]
 		]
 	},
+	"看上去": {
+		"py": "kànshàngqù",
+		"mn": [
+			[
+				"v",
+				"trông; trông như; trông có vẻ"
+			]
+		]
+	},
 	"这么": {
 		"py": "zhème",
 		"mn": [
 			[
 				"pro",
 				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"疲惫": {
+		"py": "píbèi",
+		"mn": [
+			[
+				"adj",
+				"mệt mỏi; mệt nhọc; mệt lử, kiệt sức"
 			]
 		]
 	},
@@ -228,6 +246,15 @@
 			[
 				"adv",
 				"chưa; chưa từng"
+			]
+		]
+	},
+	"睡觉": {
+		"py": "shuìjiào",
+		"mn": [
+			[
+				"v, sv",
+				"ngủ; đi ngủ; ngủ nghê"
 			]
 		]
 	},
@@ -341,6 +368,15 @@
 			[
 				"pro",
 				"những ... này; mấy ... này"
+			]
+		]
+	},
+	"资料": {
+		"py": "zīliào",
+		"mn": [
+			[
+				"n",
+				"tài liệu; tư liệu; hồ sơ"
 			]
 		]
 	},

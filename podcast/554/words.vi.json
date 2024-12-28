@@ -16,6 +16,15 @@
 			]
 		]
 	},
+	"厉害": {
+		"py": "lìhài",
+		"mn": [
+			[
+				"adj",
+				"lợi hại; kịch liệt; ghê gớm; dữ dội | giỏi; lợi hại; cừ; đáng gờm | mạnh; dữ dội; kinh hồn"
+			]
+		]
+	},
 	"她": {
 		"py": "tā",
 		"mn": [
@@ -123,6 +132,15 @@
 			]
 		]
 	},
+	"学霸": {
+		"py": "xuébà",
+		"mn": [
+			[
+				"n",
+				"học sinh giỏi, học sinh xuất sắc"
+			]
+		]
+	},
 	"北京大学": {
 		"py": "běijīngdàxué",
 		"mn": [
@@ -169,6 +187,15 @@
 			[
 				"n",
 				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"学渣": {
+		"py": "xuézhā",
+		"mn": [
+			[
+				"n",
+				"học sinh kém; học sinh đội sổ"
 			]
 		]
 	}

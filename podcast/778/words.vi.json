@@ -30,6 +30,32 @@
 			]
 		]
 	},
+	"策划": {
+		"py": "cèhuà",
+		"mn": [
+			[
+				"v",
+				"lên kế hoạch; trù hoạch; trù tính; sắp đặt;chuẩn bị; lập kế hoạch"
+			],
+			[
+				"n",
+				"kế hoạch; chiến lược"
+			]
+		]
+	},
+	"通过": {
+		"py": "tōngguò",
+		"mn": [
+			[
+				"v",
+				"qua; đi qua; vượt qua; chui qua | qua; phê duyệt; kiểm duyệt; thông qua | thông qua; đồng ý; phê chuẩn (đại biểu) | đỗ; qua; thông qua; vượt qua (tiêu chuẩn, yêu cầu)"
+			],
+			[
+				"prep",
+				"qua; thông qua"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -45,6 +71,28 @@
 			[
 				"part",
 				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"别提了": {
+		"py": "biétíle",
+		"mn": [
+			[
+				"v",
+				"đừng nói nữa; đừng nhắc tới nữa"
+			]
+		]
+	},
+	"主管": {
+		"py": "zhǔguǎn",
+		"mn": [
+			[
+				"n",
+				"chủ quản"
+			],
+			[
+				"v",
+				"quản lý; phụ trách"
 			]
 		]
 	},
@@ -67,6 +115,24 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"毫无": {
+		"py": "háowú",
+		"mn": [
+			[
+				"adv",
+				"không; không hề; không chút; không có"
+			]
+		]
+	},
+	"新意": {
+		"py": "xīnyì",
+		"mn": [
+			[
+				"n",
+				"ý tưởng mới"
 			]
 		]
 	},
@@ -214,6 +280,19 @@
 			]
 		]
 	},
+	"满意": {
+		"py": "mǎnyì",
+		"mn": [
+			[
+				"v",
+				"thoả mãn; hài lòng; vừa lòng; vừa ý; bằng lòng; thỏa đáng; đẹp ý; thoả lòng"
+			],
+			[
+				"adj",
+				"hài lòng; thỏa mãn; vừa ý"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -236,6 +315,15 @@
 			[
 				"adv",
 				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"灰心": {
+		"py": "huīxīn",
+		"mn": [
+			[
+				"adj",
+				"nản; nản lòng; buồn lòng; nản chí; chán nản; chùn bước"
 			]
 		]
 	},
@@ -310,6 +398,19 @@
 			[
 				"pro",
 				"thế nào (hỏi về tính chất, tình trạng hoặc cách thức) | thế nào; ra sao (biểu thị một sự vật, sự việc không xác định cụ thể) | thế nào (biểu thị chỉ định ngẫu nhiên) | thế nào (làm vị ngữ, tân ngữ hoặc bổ ngữ để hỏi về tình trạng)"
+			]
+		]
+	},
+	"改进": {
+		"py": "gǎijìn",
+		"mn": [
+			[
+				"v",
+				"cải tiến; cải thiện; cải tạo; trau dồi | biến đổi; cải tiến (cơ khí)"
+			],
+			[
+				"n",
+				"điểm cải tiến; sự cải tiến"
 			]
 		]
 	},

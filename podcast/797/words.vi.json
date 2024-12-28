@@ -37,6 +37,15 @@
 			]
 		]
 	},
+	"还给": {
+		"py": "huángěi",
+		"mn": [
+			[
+				"v",
+				"trả; trả lại; hoàn trả"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -74,6 +83,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"电子书": {
+		"py": "diànzǐshū",
+		"mn": [
+			[
+				"n",
+				"sách điện tử | người đọc sách điện tử"
 			]
 		]
 	},
@@ -245,6 +263,27 @@
 			]
 		]
 	},
+	"合": {
+		"py": "hé",
+		"mn": [
+			[
+				"v",
+				"đóng; khép; nhắm; ngậm; đậy | đồng; cùng; chung; góp; hợp lại; tụ hội | hợp; phù hợp | bằng; tốn; tổng cộng; gồm có"
+			],
+			[
+				"adj",
+				"cả; toàn; tất cả"
+			],
+			[
+				"n",
+				"hợp (nốt nhạc dân tộc Trung Quốc) | họ Hợp"
+			],
+			[
+				"adv",
+				"cùng; cùng nhau"
+			]
+		]
+	},
 	"胃口": {
 		"py": "wèikǒu",
 		"mn": [
@@ -277,6 +316,19 @@
 			[
 				"conj",
 				"nhưng; nhưng mà"
+			]
+		]
+	},
+	"习惯": {
+		"py": "xíguàn",
+		"mn": [
+			[
+				"n",
+				"thói quen; tập quán; thói; tập tục; tục lệ"
+			],
+			[
+				"v",
+				"quen; quen với (việc làm gì đó)"
 			]
 		]
 	},
@@ -328,6 +380,15 @@
 			]
 		]
 	},
+	"眼睛": {
+		"py": "yǎnjing",
+		"mn": [
+			[
+				"n",
+				"mắt; con mắt"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -346,6 +407,23 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
 			]
 		]
 	},
@@ -368,6 +446,33 @@
 			[
 				"adj",
 				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"屏幕": {
+		"py": "píngmù",
+		"mn": [
+			[
+				"n",
+				"màn hình"
+			]
+		]
+	},
+	"调": {
+		"py": "tiáo",
+		"mn": [
+			[
+				"v",
+				"hòa hợp; điều hòa; điều tiết | điều chỉnh; điều chế | điều giải; điều đình; hoà giải | trêu; chọc ghẹo; trêu chọc | xúi giục"
+			]
+		]
+	},
+	"暗": {
+		"py": "àn",
+		"mn": [
+			[
+				"adj",
+				"tối; tối tăm; tối mò; mù mịt; u ám | kín; mờ ám; ngầm; thầm; lén; vụng trộm | màu tối; đậm"
 			]
 		]
 	},
@@ -449,6 +554,15 @@
 			]
 		]
 	},
+	"纸质": {
+		"py": "zhǐzhì",
+		"mn": [
+			[
+				"n",
+				"ấn phẩm bằng giấy"
+			]
+		]
+	},
 	"才": {
 		"py": "cái",
 		"mn": [
@@ -492,6 +606,19 @@
 			]
 		]
 	},
+	"起码": {
+		"py": "qǐmǎ",
+		"mn": [
+			[
+				"adv",
+				"ít nhất; ít lắm; ít ra; chả gì cũng"
+			],
+			[
+				"adj",
+				"tối thiểu; cơ bản; mức thấp nhất; mức ít nhất"
+			]
+		]
+	},
 	"不会": {
 		"py": "bùhuì",
 		"mn": [
@@ -520,6 +647,15 @@
 			[
 				"v",
 				"chết (của pin) | xuất viện | bằng phẳng"
+			]
+		]
+	},
+	"而": {
+		"py": "ér",
+		"mn": [
+			[
+				"conj",
+				"và (không nối với danh từ) | mà （hai vế đẳng lập) | mà (nối hai thành phần có ý khẳng định và phủ định bổ sung cho nhau) | mà; mà lại; còn (nối các thành phần có ý nghĩa tương phản) | mà (nối các bộ phận có ý nghĩa nhân quả) | mà; nếu (đặt giữa chủ ngữ và vị ngữ) | mà; một cách (nối thành phần chỉ phương cách, thời gian với động từ) | đến; rồi (liên từ)"
 			]
 		]
 	}

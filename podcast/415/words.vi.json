@@ -135,6 +135,23 @@
 			]
 		]
 	},
+	"短": {
+		"py": "duǎn",
+		"mn": [
+			[
+				"adj",
+				"ngắn | ngắn (chỉ thời gian) | nông cạn; thiếu hiểu biết"
+			],
+			[
+				"n",
+				"Khuyết điểm; thiếu sót; sở đoản; chỗ yếu kém"
+			],
+			[
+				"v",
+				"thiếu"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -226,6 +243,15 @@
 			[
 				"v",
 				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"染": {
+		"py": "rǎn",
+		"mn": [
+			[
+				"v",
+				"nhuộm; sơn | nhiễm; mắc; lây | làm bẩn; nhiễm bẩn | thêm chi tiết; thêm (bức tranh)"
 			]
 		]
 	},

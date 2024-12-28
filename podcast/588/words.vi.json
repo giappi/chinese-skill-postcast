@@ -26,6 +26,15 @@
 			]
 		]
 	},
+	"按摩": {
+		"py": "ànmó",
+		"mn": [
+			[
+				"v",
+				"xoa bóp; đấm bóp; tẩm quất; mát-xa"
+			]
+		]
+	},
 	"请": {
 		"py": "qǐng",
 		"mn": [
@@ -36,6 +45,15 @@
 			[
 				"n",
 				"họ Thỉnh"
+			]
+		]
+	},
+	"推荐": {
+		"py": "tuījiàn",
+		"mn": [
+			[
+				"v",
+				"khuyên; tiến cử; giới thiệu; đề cử; đề xuất; gợi ý"
 			]
 		]
 	},
@@ -92,12 +110,30 @@
 			]
 		]
 	},
+	"盲人": {
+		"py": "mángrén",
+		"mn": [
+			[
+				"n",
+				"người mù"
+			]
+		]
+	},
 	"他": {
 		"py": "tā",
 		"mn": [
 			[
 				"pro",
 				"nó; anh ấy; hắn; người ấy; anh ta; y; cậu ấy (đàn ông) | khác; ngoài | hư chỉ (dùng giữa động từ hoặc số từ) | ai đó; nhiều người; mọi người"
+			]
+		]
+	},
+	"从事": {
+		"py": "cóngshì",
+		"mn": [
+			[
+				"v",
+				"làm; làm việc; tham gia | xử lí; đối phó"
 			]
 		]
 	},
@@ -258,6 +294,15 @@
 			]
 		]
 	},
+	"轮到": {
+		"py": "lúndào",
+		"mn": [
+			[
+				"v",
+				"đến lượt; tới phiên; tới lượt"
+			]
+		]
+	},
 	"您": {
 		"py": "nín",
 		"mn": [
@@ -282,6 +327,32 @@
 			[
 				"adv",
 				"còn; vẫn; vẫn còn | còn; càng; còn muốn; còn thêm | hơn; càng; còn hơn | tạm; cũng (chấp nhận được) | lại; hãy; còn chưa; ngay cả | không ngờ; không dè | mới; ngay từ (biểu thị sớm đã như thế)"
+			]
+		]
+	},
+	"顾客": {
+		"py": "gùkè",
+		"mn": [
+			[
+				"n",
+				"khách hàng"
+			]
+		]
+	},
+	"大概": {
+		"py": "dàgài",
+		"mn": [
+			[
+				"adv",
+				"có thể; có lẽ; khoảng; độ; tầm; chắc"
+			],
+			[
+				"n",
+				"đại khái; nét chính; sơ lược; ý chính"
+			],
+			[
+				"adj",
+				"sơ sơ; chung chung"
 			]
 		]
 	},
@@ -393,6 +464,15 @@
 			[
 				"adj",
 				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"逛": {
+		"py": "guàng",
+		"mn": [
+			[
+				"v",
+				"đi dạo; dạo chơi; đi chơi; đi ngao du | mua; mua sắm"
 			]
 		]
 	},

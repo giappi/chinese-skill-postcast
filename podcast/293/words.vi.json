@@ -76,6 +76,15 @@
 			]
 		]
 	},
+	"眼圈": {
+		"py": "yǎnquān",
+		"mn": [
+			[
+				"n",
+				"quầng mắt; vành mắt"
+			]
+		]
+	},
 	"好像": {
 		"py": "hǎoxiàng",
 		"mn": [
@@ -173,6 +182,19 @@
 			]
 		]
 	},
+	"激动": {
+		"py": "jīdòng",
+		"mn": [
+			[
+				"adj",
+				"xúc động; phấn khích"
+			],
+			[
+				"v",
+				"xúc động; lay động lòng người"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -245,6 +267,15 @@
 			[
 				"adv",
 				"còn; vẫn còn; còn có"
+			]
+		]
+	},
+	"好几": {
+		"py": "hǎojǐ",
+		"mn": [
+			[
+				"numb",
+				"ngoài; hơn; trên (dùng sau số chẵn biểu thị hơn) | nhiều; mấy; vài (dùng trước từ chỉ số lượng hoặc thời gian biểu thị nhiều)"
 			]
 		]
 	},
@@ -427,6 +458,15 @@
 			[
 				"adj",
 				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"安眠药": {
+		"py": "ānmiányào",
+		"mn": [
+			[
+				"n",
+				"thuốc ngủ; chất gây ngủ"
 			]
 		]
 	}

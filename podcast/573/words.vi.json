@@ -76,6 +76,15 @@
 			]
 		]
 	},
+	"母子": {
+		"py": "mǔzǐ",
+		"mn": [
+			[
+				"n",
+				"Mẹ con | mẫu tử | mẹ con"
+			]
+		]
+	},
 	"他们": {
 		"py": "tāmen",
 		"mn": [
@@ -109,6 +118,15 @@
 			[
 				"pro",
 				"cái đó; cái ấy | cái ấy; việc ấy | ghê lắm (dùng trước động từ, hình dung từ, biểu thị sự khoa trương) | ấy (dùng biểu thị điều khó nói ra, có ý uyển chuyển, khôi hài) | tê"
+			]
+		]
+	},
+	"男孩": {
+		"py": "nánhái",
+		"mn": [
+			[
+				"n",
+				"cậu bé; bé trai"
 			]
 		]
 	},
@@ -376,6 +394,15 @@
 			]
 		]
 	},
+	"强势": {
+		"py": "qiángshì",
+		"mn": [
+			[
+				"adj",
+				"mạnh; hùng cường; hùng mạnh | mạnh; mạnh mẽ; thế lực mạnh"
+			]
+		]
+	},
 	"会": {
 		"py": "huì",
 		"mn": [
@@ -526,6 +553,15 @@
 			]
 		]
 	},
+	"厕所": {
+		"py": "cèsuǒ",
+		"mn": [
+			[
+				"n",
+				"cầu tiêu; nhà xí; toa-lét; nhà vệ sinh"
+			]
+		]
+	},
 	"刚才": {
 		"py": "gāngcái",
 		"mn": [
@@ -545,6 +581,15 @@
 			[
 				"n",
 				"trạm; ga | họ Trạm | trạm; nhà trạm; nhà trọ | cơ quan tổ chức dùng để liên lạc; đơn vị nhỏ đặt ra cho một dịch vụ nào đó"
+			]
+		]
+	},
+	"起来": {
+		"py": "qǐlái",
+		"mn": [
+			[
+				"v",
+				"ngồi dậy; đứng dậy | ngủ dậy; thức dậy | nổi dậy; vùng lên; dâng lên"
 			]
 		]
 	},
@@ -693,6 +738,42 @@
 			]
 		]
 	},
+	"担忧": {
+		"py": "dānyōu",
+		"mn": [
+			[
+				"v",
+				"lo lắng; lo nghĩ; lo âu"
+			]
+		]
+	},
+	"期待": {
+		"py": "qīdài",
+		"mn": [
+			[
+				"v",
+				"mong đợi; kỳ vọng; đợi chờ"
+			]
+		]
+	},
+	"眼神": {
+		"py": "yǎnshén",
+		"mn": [
+			[
+				"n",
+				"ánh mắt | thị lực"
+			]
+		]
+	},
+	"心里": {
+		"py": "xīnlǐ",
+		"mn": [
+			[
+				"n",
+				"trong lòng; trong tim | trong tâm trí; trong đầu"
+			]
+		]
+	},
 	"不是": {
 		"py": "bùshì",
 		"mn": [
@@ -703,6 +784,15 @@
 			[
 				"n",
 				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"滋味": {
+		"py": "zīwèi",
+		"mn": [
+			[
+				"n",
+				"mùi vị; mùi; hương vị | cảm nhận; cảm giác; hương vị"
 			]
 		]
 	}

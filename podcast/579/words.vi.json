@@ -87,6 +87,15 @@
 			]
 		]
 	},
+	"女主角": {
+		"py": "nǚzhǔjué",
+		"mn": [
+			[
+				"n",
+				"Vai nữ chính"
+			]
+		]
+	},
 	"穿": {
 		"py": "chuān",
 		"mn": [
@@ -139,6 +148,15 @@
 			]
 		]
 	},
+	"花色": {
+		"py": "huāsè",
+		"mn": [
+			[
+				"n",
+				"màu sắc và hoa văn | màu sắc; màu"
+			]
+		]
+	},
 	"不": {
 		"py": "bù",
 		"mn": [
@@ -179,6 +197,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"粉色": {
+		"py": "fěnsè",
+		"mn": [
+			[
+				"n",
+				"màu hồng; hồng nhạt; hồng phấn"
 			]
 		]
 	},
@@ -251,6 +278,15 @@
 			]
 		]
 	},
+	"拎": {
+		"py": "līn",
+		"mn": [
+			[
+				"v",
+				"xách (lực nhẹ, ngón tay hay cổ tay đều được)"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
@@ -269,6 +305,15 @@
 			]
 		]
 	},
+	"袋子": {
+		"py": "dàizi",
+		"mn": [
+			[
+				"n",
+				"túi; cái túi; bao vải; bao bố"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -284,6 +329,19 @@
 			[
 				"adv",
 				"Cũng thế; cần phải; vẫn cần; còn phải"
+			]
+		]
+	},
+	"试": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"thử; thử nghiệm; thí nghiệm"
+			],
+			[
+				"n",
+				"thi; thi cử"
 			]
 		]
 	},
@@ -370,6 +428,33 @@
 			]
 		]
 	},
+	"裤子": {
+		"py": "kùzi",
+		"mn": [
+			[
+				"n",
+				"quần; cái quần; chiếc quần"
+			]
+		]
+	},
+	"高跟鞋": {
+		"py": "gāogēnxié",
+		"mn": [
+			[
+				"n",
+				"giầy cao gót"
+			]
+		]
+	},
+	"手提包": {
+		"py": "shǒutíbāo",
+		"mn": [
+			[
+				"n",
+				"túi xách"
+			]
+		]
+	},
 	"看来": {
 		"py": "kànlái",
 		"mn": [
@@ -392,6 +477,41 @@
 			]
 		]
 	},
+	"植入": {
+		"py": "zhírù",
+		"mn": [
+			[
+				"v",
+				"cấy ghép"
+			]
+		]
+	},
+	"广告": {
+		"py": "guǎnggào",
+		"mn": [
+			[
+				"n",
+				"quảng cáo"
+			],
+			[
+				"v",
+				"quảng cáo; quảng bá"
+			]
+		]
+	},
+	"专门": {
+		"py": "zhuānmén",
+		"mn": [
+			[
+				"adv",
+				"đặc biệt; chuyên biệt | chỉ; chuyên | đặc biệt thích (thể hiện sở thích đặc biệt với một việc nào đó)"
+			],
+			[
+				"adj",
+				"chuyên; chuyên môn; chuyên nghiệp"
+			]
+		]
+	},
 	"为": {
 		"py": "wèi",
 		"mn": [
@@ -402,6 +522,15 @@
 			[
 				"v",
 				"giúp; giúp đỡ"
+			]
+		]
+	},
+	"量身定做": {
+		"py": "liángshēndìngzuò",
+		"mn": [
+			[
+				"v",
+				"Đo kích thước cơ thể (khi may quần áo)"
 			]
 		]
 	}

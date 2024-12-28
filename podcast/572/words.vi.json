@@ -56,6 +56,15 @@
 			]
 		]
 	},
+	"侄女": {
+		"py": "zhínǚ",
+		"mn": [
+			[
+				"n",
+				"cháu gái"
+			]
+		]
+	},
 	"问": {
 		"py": "wèn",
 		"mn": [
@@ -197,6 +206,19 @@
 			]
 		]
 	},
+	"蓝": {
+		"py": "lán",
+		"mn": [
+			[
+				"adj",
+				"xanh; lam; xanh da trời"
+			],
+			[
+				"n",
+				"cây chàm | cây cối (có màu xanh) | họ Lam"
+			]
+		]
+	},
 	"真": {
 		"py": "zhēn",
 		"mn": [
@@ -220,6 +242,19 @@
 			[
 				"adj",
 				"tệ; không tốt (không hài lòng)"
+			]
+		]
+	},
+	"回答": {
+		"py": "huídá",
+		"mn": [
+			[
+				"v",
+				"trả lời; đáp; giải đáp; đối đáp; đáp lại"
+			],
+			[
+				"n",
+				"câu trả lời"
 			]
 		]
 	},
@@ -276,6 +311,15 @@
 			]
 		]
 	},
+	"眨": {
+		"py": "zhǎ",
+		"mn": [
+			[
+				"v",
+				"chớp; nháy (mắt)"
+			]
+		]
+	},
 	"邻居": {
 		"py": "línjū",
 		"mn": [
@@ -303,6 +347,24 @@
 			]
 		]
 	},
+	"咬": {
+		"py": "yǎo",
+		"mn": [
+			[
+				"v",
+				"cắn; nhai | vặn chặt; bắt chặt; kẹp chặt | sủa (chó) | vu cáo; vu khống | phát âm; nói rõ ràng; đọc rõ (chữ) | ăn mòn (kim loại); sơn ăn (kích ứng da) | bắt bẻ từng chữ | tỷ số (trận đấu)"
+			]
+		]
+	},
+	"主人": {
+		"py": "zhǔrén",
+		"mn": [
+			[
+				"n",
+				"chủ; chủ nhân; người chủ | chủ; sếp; ông chủ | chủ sở hữu"
+			]
+		]
+	},
 	"哈哈": {
 		"py": "hāhā",
 		"mn": [
@@ -318,6 +380,15 @@
 			[
 				"adj",
 				"đáng yêu; dễ thương; kháu khỉnh | thân yêu; thân thiết; gắn bó"
+			]
+		]
+	},
+	"简直": {
+		"py": "jiǎnzhí",
+		"mn": [
+			[
+				"adv",
+				"quả thực; quả thật; quả là; thật là; tưởng như là; chừng như; tưởng chừng như; gần như là; quả thật là"
 			]
 		]
 	},

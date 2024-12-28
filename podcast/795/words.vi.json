@@ -17,6 +17,24 @@
 			]
 		]
 	},
+	"查看": {
+		"py": "chákàn",
+		"mn": [
+			[
+				"v",
+				"kiểm tra; xem xét"
+			]
+		]
+	},
+	"邮箱": {
+		"py": "yóuxiāng",
+		"mn": [
+			[
+				"n",
+				"hòm thư; thùng thư | hòm thư; hộp thư; email"
+			]
+		]
+	},
 	"发现": {
 		"py": "fāxiàn",
 		"mn": [
@@ -27,6 +45,15 @@
 			[
 				"n",
 				"khám phá; sự phát hiện"
+			]
+		]
+	},
+	"收件箱": {
+		"py": "shōujiànxiāng",
+		"mn": [
+			[
+				"n",
+				"hộp thư đến"
 			]
 		]
 	},
@@ -120,6 +147,15 @@
 			]
 		]
 	},
+	"垃圾箱": {
+		"py": "lājīxiāng",
+		"mn": [
+			[
+				"n",
+				"thùng rác"
+			]
+		]
+	},
 	"最": {
 		"py": "zuì",
 		"mn": [
@@ -143,6 +179,19 @@
 			[
 				"v",
 				"ghét, không thích"
+			]
+		]
+	},
+	"垃圾": {
+		"py": "lājī",
+		"mn": [
+			[
+				"n",
+				"rác; rác rưởi; đồ thải; đồ vứt đi; đồ bỏ đi"
+			],
+			[
+				"adj",
+				"rác; tệ"
 			]
 		]
 	},
@@ -274,6 +323,15 @@
 			]
 		]
 	},
+	"删除": {
+		"py": "shānchú",
+		"mn": [
+			[
+				"v",
+				"xoá; vứt bỏ; loại bỏ; hủy bỏ"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -344,6 +402,15 @@
 			[
 				"conj",
 				"vì; do; nhờ"
+			]
+		]
+	},
+	"附件": {
+		"py": "fùjiàn",
+		"mn": [
+			[
+				"n",
+				"phụ lục; bản kèm; văn kiện phụ; văn kiện đính kèm; văn kiện kèm theo | phụ kiện; phụ tùng; linh kiện kèm theo | phần phụ (y học)"
 			]
 		]
 	},
@@ -436,6 +503,24 @@
 			]
 		]
 	},
+	"植物园": {
+		"py": "zhíwùyuán",
+		"mn": [
+			[
+				"n",
+				"vườn cây; vườn thực vật; vườn bách thảo"
+			]
+		]
+	},
+	"转发": {
+		"py": "zhuǎnfā",
+		"mn": [
+			[
+				"v",
+				"phát; chuyển đi; chuyển phát; chuyển tiếp (đem những văn kiện có liên quan chuyển giao cho những đơn vị cấp dưới) | đăng lại; trích dẫn; trích đăng; chia sẻ (báo đăng lại những bài văn báo khác đã đăng) | phát; phát sóng | gửi; gửi lại (email...)"
+			]
+		]
+	},
 	"个": {
 		"py": "gè",
 		"mn": [
@@ -454,6 +539,19 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"笑话": {
+		"py": "xiàohuà",
+		"mn": [
+			[
+				"n",
+				"chuyện cười; chuyện hài; trò cười; chuyện tiếu lâm; truyện tiếu lâm"
+			],
+			[
+				"v",
+				"cười nhạo; cười châm biếm; cười chế nhạo"
 			]
 		]
 	},

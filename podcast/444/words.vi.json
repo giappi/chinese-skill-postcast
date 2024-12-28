@@ -331,12 +331,34 @@
 			]
 		]
 	},
+	"丰富": {
+		"py": "fēngfù",
+		"mn": [
+			[
+				"adj",
+				"phong phú; dồi dào; nhiều; dư dật (vật chất, kinh nghiệm, tri thức)"
+			],
+			[
+				"v",
+				"làm giàu thêm; làm phong phú"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
 			[
 				"pro",
 				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"录用": {
+		"py": "lùyòng",
+		"mn": [
+			[
+				"v",
+				"tuyển dụng; được nhận | áp dụng; chấp nhận"
 			]
 		]
 	},

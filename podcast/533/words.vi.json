@@ -30,6 +30,15 @@
 			]
 		]
 	},
+	"围巾": {
+		"py": "wéijīn",
+		"mn": [
+			[
+				"n",
+				"khăn quàng cổ; khăn"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -58,6 +67,15 @@
 			[
 				"pro",
 				"ngài; ông (đại từ nhân xưng, có ý kính trọng)"
+			]
+		]
+	},
+	"眼光": {
+		"py": "yǎnguāng",
+		"mn": [
+			[
+				"n",
+				"ánh mắt; nhãn quang | tầm nhìn; mắt nhìn; mắt tinh tường; khả năng quan sát | quan điểm; cách nhìn"
 			]
 		]
 	},
@@ -240,6 +258,23 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
 			]
 		]
 	},
@@ -487,6 +522,15 @@
 			[
 				"adj",
 				"có tài; có năng lực"
+			]
+		]
+	},
+	"讨价还价": {
+		"py": "tǎojiàhuánjià",
+		"mn": [
+			[
+				"idioms",
+				"mặc cả; trả giá; cò kè; kì kèo; thương lượng"
 			]
 		]
 	},

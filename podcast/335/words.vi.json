@@ -70,6 +70,15 @@
 			]
 		]
 	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -202,6 +211,15 @@
 			[
 				"adv",
 				"dám; xin (lời nói khiêm tốn)"
+			]
+		]
+	},
+	"太多": {
+		"py": "tàiduō",
+		"mn": [
+			[
+				"n",
+				"bà lớn | bà chủ | bà (gọi người phụ nữ đã có chồng, thường kèm theo họ chồng) | bà xã; bà nhà | cụ; bà cố; ông cố (cụ ông hoặc cụ bà)"
 			]
 		]
 	},
@@ -506,6 +524,24 @@
 			]
 		]
 	},
+	"意见": {
+		"py": "yìjiàn",
+		"mn": [
+			[
+				"n",
+				"ý kiến | phàn nàn; thành kiến; ý kiến; sự không hài lòng (biểu thị sự không bằng lòng đối với người và sự vật)"
+			]
+		]
+	},
+	"来着": {
+		"py": "láizhe",
+		"mn": [
+			[
+				"part",
+				"gì đấy; đấy mà; ấy nhỉ; đấy nhỉ"
+			]
+		]
+	},
 	"说起来": {
 		"py": "shuōqǐlái",
 		"mn": [
@@ -687,6 +723,19 @@
 			]
 		]
 	},
+	"学会": {
+		"py": "xuéhuì",
+		"mn": [
+			[
+				"n",
+				"hội học thuật; học hội"
+			],
+			[
+				"v",
+				"học hỏi; học cách"
+			]
+		]
+	},
 	"好吧": {
 		"py": "hǎoba",
 		"mn": [
@@ -731,6 +780,15 @@
 			]
 		]
 	},
+	"羽毛球": {
+		"py": "yǔmáoqiú",
+		"mn": [
+			[
+				"n",
+				"cầu lông; môn cầu lông | quả cầu lông; trái cầu lông"
+			]
+		]
+	},
 	"怎么样": {
 		"py": "zěnmeyàng",
 		"mn": [
@@ -767,6 +825,19 @@
 			[
 				"measure",
 				"ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)"
+			]
+		]
+	},
+	"附近": {
+		"py": "fùjìn",
+		"mn": [
+			[
+				"adj",
+				"phụ cận; lân cận; cận;gần đây"
+			],
+			[
+				"n",
+				"vùng phụ cận; vùng lân cận; gần đây"
 			]
 		]
 	},
@@ -817,6 +888,15 @@
 			]
 		]
 	},
+	"条件": {
+		"py": "tiáojiàn",
+		"mn": [
+			[
+				"n",
+				"điều kiện | điều kiện; đòi hỏi; yêu cầu; điều khoản | tình trạng; tình hình"
+			]
+		]
+	},
 	"挺好": {
 		"py": "tǐnghǎo",
 		"mn": [
@@ -836,6 +916,15 @@
 			[
 				"adj",
 				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"那里": {
+		"py": "nàlǐ",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia"
 			]
 		]
 	},
@@ -901,6 +990,15 @@
 			[
 				"n",
 				"(toán học.) tuyến tính (bậc một) | đầu tiên | lần đầu tiên | Một lần | keo; chuyến | buổi"
+			]
+		]
+	},
+	"球": {
+		"py": "qiú",
+		"mn": [
+			[
+				"n",
+				"cầu; hình cầu | quả; nắm (đồ vật dạng tròn) | bóng; banh; quả bóng; quả cầu (dụng cụ thể thao) | trận đấu; bóng (trò chơi; cuộc thi) | địa cầu; trái đất"
 			]
 		]
 	},
@@ -1027,6 +1125,24 @@
 			]
 		]
 	},
+	"排队": {
+		"py": "páiduì",
+		"mn": [
+			[
+				"v",
+				"xếp hàng"
+			]
+		]
+	},
+	"等到": {
+		"py": "děngdào",
+		"mn": [
+			[
+				"prep",
+				"đến lúc; đến khi"
+			]
+		]
+	},
 	"什么": {
 		"py": "shénme",
 		"mn": [
@@ -1046,6 +1162,28 @@
 			[
 				"n",
 				"lúc; khi | lúc; lúc đó; khi ấy( chỉ một khoảng thời gian nhất định)"
+			]
+		]
+	},
+	"干脆": {
+		"py": "gāncuì",
+		"mn": [
+			[
+				"adj",
+				"thẳng thắn; dứt khoát; thẳng thừng"
+			],
+			[
+				"adv",
+				"cứ; dứt khoát"
+			]
+		]
+	},
+	"公园": {
+		"py": "gōngyuán",
+		"mn": [
+			[
+				"n",
+				"công viên"
 			]
 		]
 	},
@@ -1073,6 +1211,41 @@
 			[
 				"adj",
 				"Đơn điệu; nhạt nhẽo | chán phè"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
+			]
+		]
+	},
+	"唉": {
+		"py": "ài",
+		"mn": [
+			[
+				"intj",
+				"dào; hừ. (tỏ ý thương cảm hoặc ái ngại, thở dài) | thôi; rồi (biểu thị đồng ý hoặc công nhận)"
+			]
+		]
+	},
+	"算是": {
+		"py": "suànshì",
+		"mn": [
+			[
+				"v",
+				"coi như; xem như; được coi là; được xem là"
+			],
+			[
+				"adv",
+				"rốt cuộc; cuối cùng"
 			]
 		]
 	},
@@ -1123,6 +1296,24 @@
 			[
 				"adv",
 				"gần đây"
+			]
+		]
+	},
+	"节食": {
+		"py": "jiéshí",
+		"mn": [
+			[
+				"v",
+				"ăn kiêng; giảm cân; ăn ít"
+			]
+		]
+	},
+	"更好": {
+		"py": "gènghǎo",
+		"mn": [
+			[
+				"adj",
+				"càng tốt; tốt hơn"
 			]
 		]
 	}

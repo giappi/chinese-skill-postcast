@@ -47,6 +47,15 @@
 			]
 		]
 	},
+	"愿望": {
+		"py": "yuànwàng",
+		"mn": [
+			[
+				"n",
+				"ước vọng; ước mơ; nguyện vọng; ý nguyện; ước vọng; mong muốn"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -175,6 +184,27 @@
 			]
 		]
 	},
+	"自然": {
+		"py": "zìrán",
+		"mn": [
+			[
+				"n",
+				"thiên nhiên; tự nhiên; giới tự nhiên"
+			],
+			[
+				"adj",
+				"tự nhiên (có sẵn) | tự nhiên (hình hành và phát triển)"
+			],
+			[
+				"adv",
+				"đương nhiên; tự nhiên"
+			],
+			[
+				"conj",
+				"tất nhiên; hiển nhiên"
+			]
+		]
+	},
 	"醒": {
 		"py": "xǐng",
 		"mn": [
@@ -274,6 +304,15 @@
 			]
 		]
 	},
+	"烦人": {
+		"py": "fánrén",
+		"mn": [
+			[
+				"adj",
+				"phiền; khó chịu"
+			]
+		]
+	},
 	"闹钟": {
 		"py": "nàozhōng",
 		"mn": [
@@ -300,12 +339,38 @@
 			]
 		]
 	},
+	"睡眼惺忪": {
+		"py": "shuìyǎnxīngsōng",
+		"mn": [
+			[
+				"v",
+				"ngái ngủ; mắt mũi nhập nhèm; buồn ngủ díu cả mắt"
+			]
+		]
+	},
 	"地": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"mà; một cách"
+			]
+		]
+	},
+	"刷": {
+		"py": "shuā",
+		"mn": [
+			[
+				"n",
+				"bàn chải | rửa"
+			],
+			[
+				"onom",
+				"soàn soạt; rào rào; rầm rầm; rào rạt"
+			],
+			[
+				"v",
+				"chải; sơn | lướt; vuốt | quẹt (thẻ, chứng minh thư, mặt...)"
 			]
 		]
 	},
@@ -438,6 +503,15 @@
 			]
 		]
 	},
+	"朝九晚五": {
+		"py": "zhāojiǔwǎnwǔ",
+		"mn": [
+			[
+				"",
+				"làm việc hành chính"
+			]
+		]
+	},
 	"生活": {
 		"py": "shēnghuó",
 		"mn": [
@@ -486,6 +560,15 @@
 			]
 		]
 	},
+	"享受": {
+		"py": "xiǎngshòu",
+		"mn": [
+			[
+				"v",
+				"hưởng thụ; tận hưởng; cảm nhận; thưởng thức"
+			]
+		]
+	},
 	"懒": {
 		"py": "lǎn",
 		"mn": [
@@ -517,6 +600,15 @@
 			]
 		]
 	},
+	"唉": {
+		"py": "ài",
+		"mn": [
+			[
+				"intj",
+				"dào; hừ. (tỏ ý thương cảm hoặc ái ngại, thở dài) | thôi; rồi (biểu thị đồng ý hoặc công nhận)"
+			]
+		]
+	},
 	"谁": {
 		"py": "shéi",
 		"mn": [
@@ -540,6 +632,24 @@
 			[
 				"n",
 				"họ Nhượng"
+			]
+		]
+	},
+	"苦命": {
+		"py": "kǔmìng",
+		"mn": [
+			[
+				"n",
+				"số khổ; cao số (mê tín)"
+			]
+		]
+	},
+	"上班族": {
+		"py": "shàngbānzú",
+		"mn": [
+			[
+				"n",
+				"dân văn phòng; dân công sở; nhân viên văn phòng"
 			]
 		]
 	},

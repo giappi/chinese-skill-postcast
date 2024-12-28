@@ -97,6 +97,15 @@
 			]
 		]
 	},
+	"短信": {
+		"py": "duǎnxìn",
+		"mn": [
+			[
+				"n",
+				"tin nhắn; tin nhắn văn bản; tin"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -234,6 +243,32 @@
 			]
 		]
 	},
+	"刷": {
+		"py": "shuā",
+		"mn": [
+			[
+				"n",
+				"bàn chải | rửa"
+			],
+			[
+				"onom",
+				"soàn soạt; rào rào; rầm rầm; rào rạt"
+			],
+			[
+				"v",
+				"chải; sơn | lướt; vuốt | quẹt (thẻ, chứng minh thư, mặt...)"
+			]
+		]
+	},
+	"微博": {
+		"py": "wēibó",
+		"mn": [
+			[
+				"n",
+				"Weibo"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -339,12 +374,30 @@
 			]
 		]
 	},
+	"使用者": {
+		"py": "shǐyòngzhě",
+		"mn": [
+			[
+				"n",
+				"người sử dụng"
+			]
+		]
+	},
 	"已经": {
 		"py": "yǐjīng",
 		"mn": [
 			[
 				"adv",
 				"đã; rồi"
+			]
+		]
+	},
+	"超过": {
+		"py": "chāoguò",
+		"mn": [
+			[
+				"v",
+				"vượt quá; vượt qua; vượt lên | hơn; vượt qua (tiêu chuẩn)"
 			]
 		]
 	},
@@ -442,12 +495,30 @@
 			]
 		]
 	},
+	"注册": {
+		"py": "zhùcè",
+		"mn": [
+			[
+				"v",
+				"đăng ký; ghi tên"
+			]
+		]
+	},
 	"一个": {
 		"py": "yīgè",
 		"mn": [
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"账号": {
+		"py": "zhànghào",
+		"mn": [
+			[
+				"n",
+				"tài khoản; số tài khoản"
 			]
 		]
 	},
@@ -466,6 +537,37 @@
 			[
 				"conj",
 				"sau đó; tiếp đó; rồi"
+			]
+		]
+	},
+	"关注": {
+		"py": "guānzhù",
+		"mn": [
+			[
+				"v",
+				"quan tâm; chú ý; theo dõi"
+			]
+		]
+	},
+	"对了": {
+		"py": "duìle",
+		"mn": [
+			[
+				"conj",
+				"đúng rồi (sực nhớ ra còn điều gì chưa nói)"
+			],
+			[
+				"intj",
+				"đúng; đúng rồi"
+			]
+		]
+	},
+	"微信": {
+		"py": "wēixìn",
+		"mn": [
+			[
+				"n",
+				"WeChat (mạng xã hội của Trung Quốc)"
 			]
 		]
 	},
@@ -529,12 +631,38 @@
 			]
 		]
 	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
+			]
+		]
+	},
 	"手机": {
 		"py": "shǒujī",
 		"mn": [
 			[
 				"n",
 				"điện thoại di động; điện thoại"
+			]
+		]
+	},
+	"数据": {
+		"py": "shùjù",
+		"mn": [
+			[
+				"n",
+				"số liệu; dữ liệu"
 			]
 		]
 	},
@@ -598,6 +726,15 @@
 			[
 				"v",
 				"sẽ không | không biết | không phải; không đâu"
+			]
+		]
+	},
+	"外星人": {
+		"py": "wàixīngrén",
+		"mn": [
+			[
+				"n",
+				"người ngoài trái đất | người ngoài hành tinh không gian"
 			]
 		]
 	},

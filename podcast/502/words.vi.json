@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"德国": {
+		"py": "déguó",
+		"mn": [
+			[
+				"nlocal, n",
+				"Đức; nước Đức; Cộng hoà liên bang Đức"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -201,6 +210,19 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
 			]
 		]
 	}

@@ -16,12 +16,48 @@
 			]
 		]
 	},
+	"一对": {
+		"py": "yīduì",
+		"mn": [
+			[
+				"n",
+				"một cặp; một đôi"
+			]
+		]
+	},
+	"玉米": {
+		"py": "yùmǐ",
+		"mn": [
+			[
+				"n",
+				"ngô; cây ngô; cây bắp"
+			]
+		]
+	},
+	"相爱": {
+		"py": "xiāngài",
+		"mn": [
+			[
+				"v",
+				"yêu; yêu nhau"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"于是": {
+		"py": "yúshì",
+		"mn": [
+			[
+				"conj",
+				"thế là; thế nên; do vậy; vì vậy; nên là"
 			]
 		]
 	},
@@ -57,6 +93,15 @@
 			[
 				"v",
 				"cưới; cưới xin; kết hôn; lấy nhau"
+			]
+		]
+	},
+	"那天": {
+		"py": "nàtiān",
+		"mn": [
+			[
+				"n",
+				"hôm đấy; hôm đó; hôm nọ"
 			]
 		]
 	},
@@ -250,6 +295,24 @@
 			]
 		]
 	},
+	"亲爱": {
+		"py": "qīnài",
+		"mn": [
+			[
+				"adj",
+				"thân thiết; thương yêu; thân yêu | yêu quý; thân mến; yêu dấu"
+			]
+		]
+	},
+	"人家": {
+		"py": "rénjiā",
+		"mn": [
+			[
+				"n",
+				"nhà; hộ; gia đình | nhà người ta; nhà chồng tương lai; gia đình chồng tương lai"
+			]
+		]
+	},
 	"穿": {
 		"py": "chuān",
 		"mn": [
@@ -264,6 +327,15 @@
 			[
 				"n",
 				"quần áo; giày dép"
+			]
+		]
+	},
+	"婚纱": {
+		"py": "hūnshā",
+		"mn": [
+			[
+				"n",
+				"váy cưới; áo cô dâu"
 			]
 		]
 	},

@@ -38,6 +38,33 @@
 			]
 		]
 	},
+	"微信": {
+		"py": "wēixìn",
+		"mn": [
+			[
+				"n",
+				"WeChat (mạng xã hội của Trung Quốc)"
+			]
+		]
+	},
+	"红包": {
+		"py": "hóngbāo",
+		"mn": [
+			[
+				"n",
+				"tiền lì xì; tiền thưởng; tiền mừng"
+			]
+		]
+	},
+	"发给": {
+		"py": "fāgěi",
+		"mn": [
+			[
+				"v",
+				"chia; phát; trao cấp | phân phát; cấp phát; ban cấp"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [

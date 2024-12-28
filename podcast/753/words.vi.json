@@ -93,6 +93,15 @@
 			]
 		]
 	},
+	"馒头": {
+		"py": "mántou",
+		"mn": [
+			[
+				"n",
+				"bánh màn thầu; bánh bao; bánh bột mì hấp"
+			]
+		]
+	},
 	"他": {
 		"py": "tā",
 		"mn": [
@@ -147,6 +156,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"化妆": {
+		"py": "huàzhuāng",
+		"mn": [
+			[
+				"v, sv",
+				"trang điểm"
 			]
 		]
 	},

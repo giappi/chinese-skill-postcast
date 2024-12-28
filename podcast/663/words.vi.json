@@ -474,6 +474,15 @@
 			]
 		]
 	},
+	"高音": {
+		"py": "gāoyīn",
+		"mn": [
+			[
+				"n",
+				"cao độ | giọng nữ cao | ăn ba"
+			]
+		]
+	},
 	"太": {
 		"py": "tài",
 		"mn": [
@@ -488,6 +497,15 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"震撼": {
+		"py": "zhènhàn",
+		"mn": [
+			[
+				"v",
+				"chấn động; dao động; lay động; rung động"
 			]
 		]
 	},
@@ -547,12 +565,48 @@
 			]
 		]
 	},
+	"一种": {
+		"py": "yīzhǒng",
+		"mn": [
+			[
+				"n",
+				"một loại của | một loại"
+			]
+		]
+	},
+	"享受": {
+		"py": "xiǎngshòu",
+		"mn": [
+			[
+				"v",
+				"hưởng thụ; tận hưởng; cảm nhận; thưởng thức"
+			]
+		]
+	},
+	"而": {
+		"py": "ér",
+		"mn": [
+			[
+				"conj",
+				"và (không nối với danh từ) | mà （hai vế đẳng lập) | mà (nối hai thành phần có ý khẳng định và phủ định bổ sung cho nhau) | mà; mà lại; còn (nối các thành phần có ý nghĩa tương phản) | mà (nối các bộ phận có ý nghĩa nhân quả) | mà; nếu (đặt giữa chủ ngữ và vị ngữ) | mà; một cách (nối thành phần chỉ phương cách, thời gian với động từ) | đến; rồi (liên từ)"
+			]
+		]
+	},
 	"一个": {
 		"py": "yīgè",
 		"mn": [
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"麦霸": {
+		"py": "màibà",
+		"mn": [
+			[
+				"n",
+				"mic hog | người độc chiếm mike trong bữa tiệc karaoke (bá chủ 霸 của micro 麥克風 | 麦克风)"
 			]
 		]
 	},
@@ -582,12 +636,34 @@
 			]
 		]
 	},
+	"抱": {
+		"py": "bào",
+		"mn": [
+			[
+				"v",
+				"bế; bồng; ẵm; ôm | bế; có (có con hoặc cháu lần đầu) | hợp lại; xúm lại; kết hợp; gom lại | ấp; ấp ủ; nuôi nấng | vừa vặn; vừa khít"
+			],
+			[
+				"measure",
+				"một ôm"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"麦克风": {
+		"py": "màikèfēng",
+		"mn": [
+			[
+				"n",
+				"mic; micro"
 			]
 		]
 	},

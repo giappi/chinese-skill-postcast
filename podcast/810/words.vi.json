@@ -375,12 +375,30 @@
 			]
 		]
 	},
+	"租金": {
+		"py": "zūjīn",
+		"mn": [
+			[
+				"n",
+				"tiền thuê; giá thuê; phí thuê"
+			]
+		]
+	},
 	"冰箱": {
 		"py": "bīngxiāng",
 		"mn": [
 			[
 				"n",
 				"tủ lạnh; tủ đá"
+			]
+		]
+	},
+	"空调": {
+		"py": "kōngtiáo",
+		"mn": [
+			[
+				"n",
+				"điều hòa"
 			]
 		]
 	},
@@ -409,6 +427,15 @@
 			]
 		]
 	},
+	"洗衣机": {
+		"py": "xǐyījī",
+		"mn": [
+			[
+				"n",
+				"máy giặt"
+			]
+		]
+	},
 	"放": {
 		"py": "fàng",
 		"mn": [
@@ -424,6 +451,15 @@
 			[
 				"numb",
 				"một trăm"
+			]
+		]
+	},
+	"心": {
+		"py": "xīn",
+		"mn": [
+			[
+				"n",
+				"tim; trái tim; quả tim | tâm; lòng; tâm tư; tâm địa; ý nghĩ; ý muốn | tâm; lòng; trung tâm; khoảng giữa | suy nghĩ; suy tư; mưu tính | lòng; tấm lòng; bụng dạ; tâm địa | sao Tâm (một chòm sao trong nhị thập bát tú)"
 			]
 		]
 	},

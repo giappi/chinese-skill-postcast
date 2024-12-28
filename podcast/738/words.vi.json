@@ -16,12 +16,30 @@
 			]
 		]
 	},
+	"开学": {
+		"py": "kāixué",
+		"mn": [
+			[
+				"v",
+				"khai giảng; khai trường; nhập học"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"作业": {
+		"py": "zuòyè",
+		"mn": [
+			[
+				"n",
+				"bài tập; bài tập về nhà | tác nghiệp; hoạt động; làm việc"
 			]
 		]
 	},
@@ -168,6 +186,15 @@
 			[
 				"conj",
 				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"临时抱佛脚": {
+		"py": "línshíbàofójiǎo",
+		"mn": [
+			[
+				"proverb",
+				"nước đến chân mới nhảy"
 			]
 		]
 	},

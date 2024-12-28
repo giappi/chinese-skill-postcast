@@ -164,6 +164,15 @@
 			]
 		]
 	},
+	"出院": {
+		"py": "chūyuàn",
+		"mn": [
+			[
+				"v",
+				"ra viện; xuất viện (bệnh nhân)"
+			]
+		]
+	},
 	"太": {
 		"py": "tài",
 		"mn": [
@@ -297,6 +306,15 @@
 			]
 		]
 	},
+	"告诫": {
+		"py": "gàojiè",
+		"mn": [
+			[
+				"v",
+				"khuyên; khuyên bảo; khuyên răn; cảnh cáo"
+			]
+		]
+	},
 	"后": {
 		"py": "hòu",
 		"mn": [
@@ -321,6 +339,19 @@
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"油腻": {
+		"py": "yóunì",
+		"mn": [
+			[
+				"adj",
+				"ngậy; ngấy; béo ngậy; chứa nhiều dầu; nhiều dầu mỡ"
+			],
+			[
+				"n",
+				"thức ăn nhiều dầu mỡ (chỉ loại thực phẩm chứa nhiều chất béo, dầu mỡ) | vết dầu mỡ (dùng để chỉ chất bẩn do dầu mỡ tạo thành)"
 			]
 		]
 	},
@@ -369,6 +400,15 @@
 			[
 				"n",
 				"thức uống (đặc biệt là rượu)"
+			]
+		]
+	},
+	"粥": {
+		"py": "zhōu",
+		"mn": [
+			[
+				"n",
+				"cháo"
 			]
 		]
 	}

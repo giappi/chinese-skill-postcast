@@ -187,6 +187,19 @@
 			]
 		]
 	},
+	"时刻": {
+		"py": "shíkè",
+		"mn": [
+			[
+				"n",
+				"thời khắc; thời gian; giờ phút; thời điểm; giờ khắc | giờ giấc; giờ"
+			],
+			[
+				"adv",
+				"thường xuyên; luôn luôn; lúc nào cũng"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -209,6 +222,15 @@
 			[
 				"adv",
 				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"打扰": {
+		"py": "dǎrǎo",
+		"mn": [
+			[
+				"v",
+				"phiền; làm phiền; quấy rầy | xin lỗi; xin lỗi đã làm phiền; xin lỗi đã quấy rầy (lịch sự)"
 			]
 		]
 	},
@@ -239,6 +261,19 @@
 			[
 				"prep",
 				"bị | theo; theo như; cho rằng"
+			]
+		]
+	},
+	"外卖": {
+		"py": "wàimài",
+		"mn": [
+			[
+				"n",
+				"đồ ăn ngoài; đồ ăn sẵn"
+			],
+			[
+				"v",
+				"giao đồ ăn"
 			]
 		]
 	},
@@ -294,6 +329,23 @@
 			]
 		]
 	},
+	"随便": {
+		"py": "suíbiàn",
+		"mn": [
+			[
+				"adj",
+				"tự nhiên; thoải mái; sao cũng được | tuỳ tiện; cẩu thả; qua loa; hời hợt | tùy ý; không chỉn chu"
+			],
+			[
+				"v",
+				"tùy ý"
+			],
+			[
+				"conj",
+				"dù; bất cứ; bất kể"
+			]
+		]
+	},
 	"这儿": {
 		"py": "zhèr",
 		"mn": [
@@ -326,6 +378,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"优惠券": {
+		"py": "yōuhuìquàn",
+		"mn": [
+			[
+				"n",
+				"phiếu giảm giá; phiếu mua hàng"
 			]
 		]
 	},
@@ -377,6 +438,15 @@
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"海鲜": {
+		"py": "hǎixiān",
+		"mn": [
+			[
+				"n",
+				"hải sản; hải sản tươi"
 			]
 		]
 	}

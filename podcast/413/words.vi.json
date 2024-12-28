@@ -156,6 +156,19 @@
 			]
 		]
 	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
+			]
+		]
+	},
 	"成": {
 		"py": "chéng",
 		"mn": [
@@ -295,6 +308,24 @@
 			]
 		]
 	},
+	"做饭": {
+		"py": "zuòfàn",
+		"mn": [
+			[
+				"v",
+				"làm cơm; nấu cơm; nấu ăn; nấu bếp"
+			]
+		]
+	},
+	"洗碗": {
+		"py": "xǐwǎn",
+		"mn": [
+			[
+				"v",
+				"rửa bát; rửa chén"
+			]
+		]
+	},
 	"周日": {
 		"py": "zhōurì",
 		"mn": [
@@ -347,12 +378,47 @@
 			]
 		]
 	},
+	"贷款": {
+		"py": "dàikuǎn",
+		"mn": [
+			[
+				"v",
+				"vay; cho vay"
+			],
+			[
+				"n",
+				"khoản vay"
+			]
+		]
+	},
+	"邮局": {
+		"py": "yóujú",
+		"mn": [
+			[
+				"n",
+				"bưu điện; bưu cục"
+			]
+		]
+	},
 	"取": {
 		"py": "qǔ",
 		"mn": [
 			[
 				"v",
 				"lấy; rút; lĩnh | đạt được; tạo được; lấy được; nhận được; dẫn đến | áp dụng; tuyển chọn; chọn lấy"
+			]
+		]
+	},
+	"包裹": {
+		"py": "bāoguǒ",
+		"mn": [
+			[
+				"v",
+				"băng bó; băng; bọc; gói"
+			],
+			[
+				"n",
+				"kiện hàng; hàng; cái gói; cái bọc; bưu phẩm; bưu kiện"
 			]
 		]
 	},
@@ -379,6 +445,19 @@
 			[
 				"n",
 				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"采购": {
+		"py": "cǎigòu",
+		"mn": [
+			[
+				"v",
+				"chọn mua; mua sắm; mua (cho cơ quan xí nghiệp)"
+			],
+			[
+				"n",
+				"nhân viên vật tư; người mua hàng; nhân viên thu mua"
 			]
 		]
 	},
@@ -577,6 +656,15 @@
 			]
 		]
 	},
+	"轻巧": {
+		"py": "qīngqiǎo",
+		"mn": [
+			[
+				"adj",
+				"nhẹ; nhẹ nhàng | nhẹ nhàng linh hoạt | đơn giản dễ dàng"
+			]
+		]
+	},
 	"下": {
 		"py": "xià",
 		"mn": [
@@ -668,6 +756,19 @@
 			[
 				"n",
 				"họ Khả"
+			]
+		]
+	},
+	"试": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"thử; thử nghiệm; thí nghiệm"
+			],
+			[
+				"n",
+				"thi; thi cử"
 			]
 		]
 	},

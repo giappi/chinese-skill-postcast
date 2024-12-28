@@ -59,6 +59,15 @@
 			]
 		]
 	},
+	"中秋节": {
+		"py": "zhōngqiūjié",
+		"mn": [
+			[
+				"n",
+				"Tết Trung thu"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -194,12 +203,43 @@
 			]
 		]
 	},
+	"简易": {
+		"py": "jiǎnyì",
+		"mn": [
+			[
+				"adj",
+				"giản dị; giản đơn; thô sơ; mộc mạc; sơ giản | gọn | giản"
+			]
+		]
+	},
+	"包装": {
+		"py": "bāozhuāng",
+		"mn": [
+			[
+				"v",
+				"đóng gói; gói hàng; đóng kiện"
+			],
+			[
+				"n",
+				"bao bì; gói đồ; thùng hàng; bưu kiện"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"物美价廉": {
+		"py": "wùměijiàlián",
+		"mn": [
+			[
+				"idioms",
+				"ngon bổ rẻ; hàng tốt giá rẻ; hàng đẹp giá rẻ"
 			]
 		]
 	},
@@ -249,12 +289,34 @@
 			]
 		]
 	},
+	"精美": {
+		"py": "jīngměi",
+		"mn": [
+			[
+				"adj",
+				"tinh mỹ; đẹp đẽ; tinh xảo; tuyệt đẹp; đẹp mắt"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"浪费": {
+		"py": "làngfèi",
+		"mn": [
+			[
+				"v",
+				"lãng phí; hoang phí; phí phạm"
+			],
+			[
+				"adj",
+				"lãng phí; hoang phí; phung phí"
 			]
 		]
 	}

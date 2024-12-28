@@ -55,6 +55,15 @@
 			]
 		]
 	},
+	"度假": {
+		"py": "dùjià",
+		"mn": [
+			[
+				"v",
+				"nghỉ; đi nghỉ; nghỉ dưỡng; nghỉ mát"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -73,6 +82,15 @@
 			]
 		]
 	},
+	"北戴河": {
+		"py": "běidàihé",
+		"mn": [
+			[
+				"",
+				"Quận Beidaihe của thành phố Qinhuangdao 秦皇島市 | 秦皇岛市 , Hà Bắc"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
@@ -88,6 +106,15 @@
 			[
 				"v",
 				"hợp; phù hợp; thích hợp"
+			]
+		]
+	},
+	"避暑": {
+		"py": "bìshǔ",
+		"mn": [
+			[
+				"v",
+				"nghỉ mát; tránh nóng | tránh nắng; phòng cảm nắng (tránh bị trúng nắng, cảm nắng)"
 			]
 		]
 	},
@@ -130,6 +157,49 @@
 			[
 				"conj",
 				"song; nhưng; nhưng mà; có điều là; chỉ có điều; có điều; cơ mà"
+			]
+		]
+	},
+	"那里": {
+		"py": "nàlǐ",
+		"mn": [
+			[
+				"pro",
+				"chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia"
+			]
+		]
+	},
+	"阳光": {
+		"py": "yángguāng",
+		"mn": [
+			[
+				"n",
+				"ánh nắng; ánh mặt trời; ánh sáng mặt trời"
+			],
+			[
+				"adj",
+				"lạc quan; vui vẻ | rõ ràng; minh bạch"
+			]
+		]
+	},
+	"强": {
+		"py": "qiáng",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mạnh mẽ | kiên cường; cao; mạnh mẽ (tình cảm, ý chí) | tốt; ưu việt; hơn | dư; thừa; hơn"
+			],
+			[
+				"adv",
+				"cưỡng bức; cưỡng ép"
+			],
+			[
+				"n",
+				"họ Cường"
+			],
+			[
+				"v",
+				"tăng cường; làm mạnh mẽ; làm lớn mạnh"
 			]
 		]
 	},

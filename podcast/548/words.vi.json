@@ -241,6 +241,23 @@
 			]
 		]
 	},
+	"呆": {
+		"py": "dāi",
+		"mn": [
+			[
+				"adj",
+				"ngốc; ngu; đần độn; ngu si (đầu óc) | ngẩn; ngớ; ngẩn ngơ; ngớ ngẩn; đờ ra; trơ ra"
+			],
+			[
+				"v",
+				"ở; ở lại; nán lại"
+			],
+			[
+				"n",
+				"họ Bảo"
+			]
+		]
+	},
 	"家里": {
 		"py": "jiālǐ",
 		"mn": [
@@ -320,6 +337,15 @@
 			]
 		]
 	},
+	"雨天": {
+		"py": "yǔtiān",
+		"mn": [
+			[
+				"n",
+				"ngày mưa"
+			]
+		]
+	},
 	"不会": {
 		"py": "bùhuì",
 		"mn": [
@@ -353,6 +379,15 @@
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"早起": {
+		"py": "zǎoqǐ",
+		"mn": [
+			[
+				"n",
+				"dậy sớm; thức dậy sớm"
 			]
 		]
 	},

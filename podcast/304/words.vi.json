@@ -191,6 +191,15 @@
 			]
 		]
 	},
+	"车祸": {
+		"py": "chēhuò",
+		"mn": [
+			[
+				"n",
+				"tai nạn xe cộ; tai nạn giao thông"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -244,6 +253,15 @@
 			[
 				"n",
 				"nét hất | họ Đề | cái gáo"
+			]
+		]
+	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
 			]
 		]
 	},
@@ -301,6 +319,15 @@
 			[
 				"part",
 				"quá (dùng ở cuối câu, tỏ ý ca ngợi) | nhỉ; nhá; nhé; đấy; đi thôi (dùng cuối câu, tỏ ý khẳng định, thúc giục, dặn dò) | hả; chứ (dùng ở cuối câu, tỏ ý nghi vấn) | đấy; ư; đó (dùng giữa câu, dừng một chút để người nghe chú ý đến lời nói tiếp theo) | này; nào; a (dùng sau những vật được liệt kê) | nha; nhá; ư (thể hiện sự thiếu kiên nhẫn; hoặc điều hiển nhiên)"
+			]
+		]
+	},
+	"酒后": {
+		"py": "jiǔhòu",
+		"mn": [
+			[
+				"n",
+				"sau khi uống rượu | dưới ảnh hưởng của rượu"
 			]
 		]
 	},
@@ -377,6 +404,15 @@
 			]
 		]
 	},
+	"骨折": {
+		"py": "gǔzhé",
+		"mn": [
+			[
+				"v",
+				"gãy xương"
+			]
+		]
+	},
 	"真的": {
 		"py": "zhēnde",
 		"mn": [
@@ -400,6 +436,19 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"痛苦": {
+		"py": "tòngkǔ",
+		"mn": [
+			[
+				"adj",
+				"thống khổ; đau khổ; đau đớn"
+			],
+			[
+				"n",
+				"nỗi đau; sự đau khổ, sự đau đớn, sự thống khổ"
 			]
 		]
 	}

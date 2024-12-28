@@ -1,4 +1,21 @@
 {
+	"经过": {
+		"py": "jīngguò",
+		"mn": [
+			[
+				"v",
+				"ngang qua; kinh qua; tạt qua; đi qua; trải qua (nơi chốn, thời gian, động tác)"
+			],
+			[
+				"prep",
+				"trải qua; thông qua; sau khi"
+			],
+			[
+				"n",
+				"quá trình; trải nghiệm"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -38,6 +55,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"寒冷": {
+		"py": "hánlěng",
+		"mn": [
+			[
+				"adj",
+				"lạnh; lạnh lẽo; rét mướt; lạnh giá"
 			]
 		]
 	},
@@ -137,6 +163,36 @@
 			]
 		]
 	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
+			]
+		]
+	},
+	"赘": {
+		"py": "zhuì",
+		"mn": [
+			[
+				"adj",
+				"thừa; vô dụng; vô ích"
+			],
+			[
+				"v",
+				"ở rể; gửi rể | phiền; làm phiền"
+			]
+		]
+	},
 	"肉": {
 		"py": "ròu",
 		"mn": [
@@ -168,12 +224,42 @@
 			]
 		]
 	},
+	"裹": {
+		"py": "guǒ",
+		"mn": [
+			[
+				"v",
+				"bọc; quấn; buộc; bó; băng bó | bắt đi; lấy đi; bắt đi theo | mút; bú (sữa)"
+			],
+			[
+				"n",
+				"họ Khỏa"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
 			[
 				"part",
 				"đang (đặt sau động từ chỉ sự việc đang tiến hành) | đang (biểu thị sự tiếp tục của trạng thái) | đây; nhé; chứ (dùng sau động từ hoặc tính từ chỉ trình độ, tăng thêm ngữ khí) | theo (đặt sau động từ, tạo thành giới từ)"
+			]
+		]
+	},
+	"厚": {
+		"py": "hòu",
+		"mn": [
+			[
+				"adj",
+				"dày | sâu đậm; sâu nặng (tình cảm) | hiền hậu; phúc hậu; độ lượng | lớn; nhiều; nặng | nồng; đậm; đượm; nặng (mùi vị) | giàu; giàu có; phong phú"
+			],
+			[
+				"n",
+				"độ dày | họ Hậu"
+			],
+			[
+				"v",
+				"coi trọng; ưu đãi; hậu đãi"
 			]
 		]
 	},
@@ -264,12 +350,30 @@
 			]
 		]
 	},
+	"薄": {
+		"py": "báo",
+		"mn": [
+			[
+				"adj",
+				"mỏng | lạnh nhạt; bạc bẽo; ít (tình cảm) | lạc; nhạt; không nồng (hương vị) | cằn; không màu mỡ; bạc màu; cằn cỗi"
+			]
+		]
+	},
 	"如果": {
 		"py": "rúguǒ",
 		"mn": [
 			[
 				"conj",
 				"nếu; nếu như; nếu mà; lỡ như; giá mà"
+			]
+		]
+	},
+	"腰": {
+		"py": "yāo",
+		"mn": [
+			[
+				"n",
+				"lưng; eo; cật | lưng quần；lưng váy | hầu bao | giữa; lưng chừng | eo; thắt lại"
 			]
 		]
 	},
@@ -283,6 +387,15 @@
 			[
 				"measure",
 				"chuỗi; tràng; cỗ; bánh"
+			]
+		]
+	},
+	"救生圈": {
+		"py": "jiùshēngquān",
+		"mn": [
+			[
+				"n",
+				"phao cấp cứu; phao cứu đắm"
 			]
 		]
 	},
@@ -321,6 +434,15 @@
 			[
 				"n",
 				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"难看": {
+		"py": "nánkàn",
+		"mn": [
+			[
+				"adj",
+				"xấu xí; khó coi; không đẹp mắt | xấu hổ; nhục nhã; mất mặt"
 			]
 		]
 	},
@@ -416,6 +538,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"节食": {
+		"py": "jiéshí",
+		"mn": [
+			[
+				"v",
+				"ăn kiêng; giảm cân; ăn ít"
 			]
 		]
 	},
@@ -550,6 +681,15 @@
 			[
 				"v",
 				"giữ; duy trì"
+			]
+		]
+	},
+	"身材": {
+		"py": "shēncái",
+		"mn": [
+			[
+				"n",
+				"vóc người; vóc dáng; dáng người; hình vóc; tướng tá; thân hình"
 			]
 		]
 	},

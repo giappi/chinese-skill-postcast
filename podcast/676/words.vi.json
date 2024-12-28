@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"出丑": {
+		"py": "chūchǒu",
+		"mn": [
+			[
+				"v",
+				"quê; xấu mặt; mất mặt; nói hớ; lầm lỡ; bẽ mặt; lòi mặt xấu"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -145,6 +154,24 @@
 			]
 		]
 	},
+	"尴尬": {
+		"py": "gāngà",
+		"mn": [
+			[
+				"adj",
+				"ngại; ngượng; xấu hổ; bối rối; lúng túng; khó xử"
+			]
+		]
+	},
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
+			]
+		]
+	},
 	"开会": {
 		"py": "kāihuì",
 		"mn": [
@@ -160,6 +187,15 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"呼噜": {
+		"py": "hūlu",
+		"mn": [
+			[
+				"onom",
+				"ngáy khò khò; ngáy pho pho; ngáy o o; tiếng ngáy"
 			]
 		]
 	}

@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"妻子": {
+		"py": "qīzǐ",
+		"mn": [
+			[
+				"n",
+				"vợ và con; vợ con"
+			]
+		]
+	},
 	"叫": {
 		"py": "jiào",
 		"mn": [
@@ -44,6 +53,15 @@
 			[
 				"intj",
 				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"嫂子": {
+		"py": "sǎozi",
+		"mn": [
+			[
+				"n",
+				"chị dâu"
 			]
 		]
 	},
@@ -84,6 +102,15 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"记住": {
+		"py": "jìzhù",
+		"mn": [
+			[
+				"v",
+				"nhớ; ghi nhớ; nhớ kĩ"
 			]
 		]
 	},

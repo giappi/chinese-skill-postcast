@@ -140,12 +140,43 @@
 			]
 		]
 	},
+	"体面": {
+		"py": "tǐmiàn",
+		"mn": [
+			[
+				"n",
+				"thân phận; thể diện; sĩ diện"
+			],
+			[
+				"adj",
+				"quang vinh; vẻ vang; danh giá; đáng tự hào | đẹp đẽ; lịch sự; đoan chính; tử tế"
+			]
+		]
+	},
+	"月薪": {
+		"py": "yuèxīn",
+		"mn": [
+			[
+				"n",
+				"lương tháng"
+			]
+		]
+	},
 	"一万": {
 		"py": "yīwàn",
 		"mn": [
 			[
 				"numb",
 				"một vạn; mười nghìn"
+			]
+		]
+	},
+	"以上": {
+		"py": "yǐshàng",
+		"mn": [
+			[
+				"n",
+				"lên; trở lên | trên đây; ở trên"
 			]
 		]
 	},
@@ -301,6 +332,15 @@
 			]
 		]
 	},
+	"年假": {
+		"py": "niánjià",
+		"mn": [
+			[
+				"n",
+				"nghỉ phép năm | nghỉ đông"
+			]
+		]
+	},
 	"不": {
 		"py": "bù",
 		"mn": [
@@ -377,6 +417,15 @@
 			[
 				"adj",
 				"ngang ngược; cứng đầu; hung hăng | hăng hái; khí thế; hăng say"
+			]
+		]
+	},
+	"冷水": {
+		"py": "lěngshuǐ",
+		"mn": [
+			[
+				"n",
+				"nước lạnh; nước nguội | nước lã; nước sống (chưa nấu)"
 			]
 		]
 	},

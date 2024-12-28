@@ -16,6 +16,15 @@
 			]
 		]
 	},
+	"发愁": {
+		"py": "fāchóu",
+		"mn": [
+			[
+				"v, sv",
+				"ưu sầu; phát phiền; lo âu; ưu tư; buồn rầu; buồn phiền"
+			]
+		]
+	},
 	"女朋友": {
 		"py": "nǚpéngyǒu",
 		"mn": [
@@ -255,6 +264,15 @@
 			]
 		]
 	},
+	"主意": {
+		"py": "zhǔyì",
+		"mn": [
+			[
+				"n",
+				"ý kiến; ý tưởng; chủ ý; chủ kiến; chủ định; biện pháp; phương pháp"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -317,6 +335,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"名牌": {
+		"py": "míngpái",
+		"mn": [
+			[
+				"n",
+				"hàng hiệu; danh tiếng; có tiếng | bảng tên; bảng tên hàng"
 			]
 		]
 	},
@@ -420,6 +447,15 @@
 			]
 		]
 	},
+	"品牌": {
+		"py": "pǐnpái",
+		"mn": [
+			[
+				"n",
+				"thương hiệu; nhãn hiệu"
+			]
+		]
+	},
 	"如果": {
 		"py": "rúguǒ",
 		"mn": [
@@ -515,6 +551,15 @@
 			]
 		]
 	},
+	"俗气": {
+		"py": "súqì",
+		"mn": [
+			[
+				"adj",
+				"thô bỉ; thô tục; tầm thường; sến súa"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -533,6 +578,19 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"省钱": {
+		"py": "shěngqián",
+		"mn": [
+			[
+				"v",
+				"tiết kiệm tiền"
+			],
+			[
+				"adj",
+				"rẻ; tiết kiệm; không tốn kém"
 			]
 		]
 	},
@@ -695,12 +753,30 @@
 			]
 		]
 	},
+	"西餐": {
+		"py": "xīcān",
+		"mn": [
+			[
+				"n",
+				"cơm Tây; cơm Âu; món Tây; món Âu"
+			]
+		]
+	},
 	"环境": {
 		"py": "huánjìng",
 		"mn": [
 			[
 				"n",
 				"môi trường; hoàn cảnh"
+			]
+		]
+	},
+	"优雅": {
+		"py": "yōuyǎ",
+		"mn": [
+			[
+				"adj",
+				"tao nhã; thanh nhã; thanh lịch"
 			]
 		]
 	},
@@ -723,6 +799,24 @@
 			[
 				"v",
 				"tiến lên; đi lên"
+			]
+		]
+	},
+	"一束": {
+		"py": "yīshù",
+		"mn": [
+			[
+				"n",
+				"chẽ"
+			]
+		]
+	},
+	"鲜花": {
+		"py": "xiānhuā",
+		"mn": [
+			[
+				"n",
+				"hoa tươi"
 			]
 		]
 	},
@@ -768,6 +862,15 @@
 			]
 		]
 	},
+	"百合": {
+		"py": "bǎihé",
+		"mn": [
+			[
+				"n",
+				"hoa ly; hoa bách hợp; hoa loa kèn; hoa huệ tây; hoa li-ly"
+			]
+		]
+	},
 	"这": {
 		"py": "zhè",
 		"mn": [
@@ -787,6 +890,37 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"不算": {
+		"py": "bùsuàn",
+		"mn": [
+			[
+				"v",
+				"xí xoá"
+			]
+		]
+	},
+	"高明": {
+		"py": "gāomíng",
+		"mn": [
+			[
+				"adj",
+				"cao siêu; cao minh; thông minh; giỏi giang; thông thạo; uyên bác; tài trí (kiến giải, kỹ năng)"
+			],
+			[
+				"n",
+				"người cao siêu; người tài giỏi"
+			]
+		]
+	},
+	"点子": {
+		"py": "diǎnzi",
+		"mn": [
+			[
+				"n",
+				"giọt; hạt | điểm; vết; vệt | nhịp | ít; chút | điểm quan trọng; chỗ mấu chốt; điểm mấu chốt | chủ ý; biện pháp; phương pháp; cách | sênh"
 			]
 		]
 	},
@@ -817,6 +951,15 @@
 			]
 		]
 	},
+	"还没": {
+		"py": "háiméi",
+		"mn": [
+			[
+				"sentence",
+				"vẫn chưa"
+			]
+		]
+	},
 	"完": {
 		"py": "wán",
 		"mn": [
@@ -831,6 +974,15 @@
 			[
 				"n",
 				"họ Hoàn"
+			]
+		]
+	},
+	"变得": {
+		"py": "biànde",
+		"mn": [
+			[
+				"phrase",
+				"biến thành; trở thành; trở nên"
 			]
 		]
 	},
@@ -852,6 +1004,32 @@
 			[
 				"conj",
 				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"台词": {
+		"py": "táicí",
+		"mn": [
+			[
+				"n",
+				"lời kịch; lời thoại (trên sân khấu)"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
 			]
 		]
 	},
@@ -911,6 +1089,15 @@
 			]
 		]
 	},
+	"无以为报": {
+		"py": "wúyǐwéibào",
+		"mn": [
+			[
+				"idioms",
+				"không thể trả lại ơn"
+			]
+		]
+	},
 	"只有": {
 		"py": "zhǐyǒu",
 		"mn": [
@@ -955,6 +1142,28 @@
 			[
 				"adv",
 				"hết thảy; hoàn toàn"
+			]
+		]
+	},
+	"生命": {
+		"py": "shēngmìng",
+		"mn": [
+			[
+				"n",
+				"tuổi thọ; cuộc sống; sự sống; sinh mạng; sinh mệnh; tính mệnh; mạng sống"
+			]
+		]
+	},
+	"热情": {
+		"py": "rèqíng",
+		"mn": [
+			[
+				"n",
+				"sự hăng hái; sự nhiệt tình"
+			],
+			[
+				"adj",
+				"hăng hái; nhiệt tình; say mê; hào hứng"
 			]
 		]
 	},
@@ -1024,6 +1233,82 @@
 			]
 		]
 	},
+	"任何": {
+		"py": "rènhé",
+		"mn": [
+			[
+				"pro",
+				"bất kì; bất kể; bất cứ"
+			]
+		]
+	},
+	"改变": {
+		"py": "gǎibiàn",
+		"mn": [
+			[
+				"v",
+				"thay đổi; biến đổi; đổi thay | cải biến; thay đổi; sửa đổi"
+			]
+		]
+	},
+	"而": {
+		"py": "ér",
+		"mn": [
+			[
+				"conj",
+				"và (không nối với danh từ) | mà （hai vế đẳng lập) | mà (nối hai thành phần có ý khẳng định và phủ định bổ sung cho nhau) | mà; mà lại; còn (nối các thành phần có ý nghĩa tương phản) | mà (nối các bộ phận có ý nghĩa nhân quả) | mà; nếu (đặt giữa chủ ngữ và vị ngữ) | mà; một cách (nối thành phần chỉ phương cách, thời gian với động từ) | đến; rồi (liên từ)"
+			]
+		]
+	},
+	"年华": {
+		"py": "niánhuá",
+		"mn": [
+			[
+				"n",
+				"thì giờ; tuổi tác; năm tháng; niên hoa"
+			]
+		]
+	},
+	"衰老": {
+		"py": "shuāilǎo",
+		"mn": [
+			[
+				"adj",
+				"già yếu; lão hóa; già nua"
+			]
+		]
+	},
+	"褪色": {
+		"py": "tuìsè",
+		"mn": [
+			[
+				"v",
+				"phai màu; bay màu; bạc màu; ố màu | phai; phai nhạt; phai nhòa; phai mờ"
+			]
+		]
+	},
+	"永远": {
+		"py": "yǒngyuǎn",
+		"mn": [
+			[
+				"adv",
+				"vĩnh viễn; mãi mãi; luôn luôn"
+			],
+			[
+				"n",
+				"mãi mãi"
+			]
+		]
+	},
+	"鲜明": {
+		"py": "xiānmíng",
+		"mn": [
+			[
+				"adj",
+				"sáng rõ; rõ ràng; dứt khoát; rõ rệt; nổi bật | sáng; tươi sáng"
+			]
+		]
+	},
 	"如": {
 		"py": "rú",
 		"mn": [
@@ -1077,6 +1362,15 @@
 			[
 				"onom",
 				"oa oa; oe oe; óe óe; a a; á á"
+			]
+		]
+	},
+	"肉麻": {
+		"py": "ròumá",
+		"mn": [
+			[
+				"adj",
+				"sến sẩm; ngứa ngáy; khó chịu; sến súa; nổi da gà"
 			]
 		]
 	},

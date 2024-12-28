@@ -37,6 +37,15 @@
 			]
 		]
 	},
+	"诚聘": {
+		"py": "chéngpìn",
+		"mn": [
+			[
+				"v",
+				"mời các đơn xin việc từ | tìm cách tuyển dụng"
+			]
+		]
+	},
 	"经理": {
 		"py": "jīnglǐ",
 		"mn": [
@@ -46,12 +55,52 @@
 			]
 		]
 	},
+	"财务": {
+		"py": "cáiwù",
+		"mn": [
+			[
+				"n",
+				"tài vụ; tài chính; kế toán"
+			]
+		]
+	},
+	"人力": {
+		"py": "rénlì",
+		"mn": [
+			[
+				"n",
+				"nhân lực; sức người"
+			]
+		]
+	},
 	"服务员": {
 		"py": "fúwùyuán",
 		"mn": [
 			[
 				"n",
 				"người phục vụ; nhân viên phục vụ"
+			]
+		]
+	},
+	"保安": {
+		"py": "bǎoān",
+		"mn": [
+			[
+				"v",
+				"bảo vệ trị an; bảo an; an ninh | bảo hộ; bảo hộ lao động; giữ an toàn lao động"
+			],
+			[
+				"n",
+				"nhân viên bảo vệ"
+			]
+		]
+	},
+	"保洁": {
+		"py": "bǎojié",
+		"mn": [
+			[
+				"v",
+				"giữ gìn; vệ sinh (môi trường)"
 			]
 		]
 	},
@@ -77,12 +126,47 @@
 			]
 		]
 	},
+	"底薪": {
+		"py": "dǐxīn",
+		"mn": [
+			[
+				"n",
+				"lương cơ bản"
+			]
+		]
+	},
 	"奖金": {
 		"py": "jiǎngjīn",
 		"mn": [
 			[
 				"n",
 				"tiền thưởng"
+			]
+		]
+	},
+	"提成": {
+		"py": "tíchéng",
+		"mn": [
+			[
+				"n",
+				"tiền hoa hồng"
+			],
+			[
+				"v",
+				"trích; trích ra"
+			]
+		]
+	},
+	"具体": {
+		"py": "jùtǐ",
+		"mn": [
+			[
+				"adj",
+				"cụ thể; rõ ràng | cụ thể"
+			],
+			[
+				"v",
+				"cụ thể; cụ thể hóa"
 			]
 		]
 	},
@@ -113,6 +197,32 @@
 			[
 				"n",
 				"họ Khả"
+			]
+		]
+	},
+	"面议": {
+		"py": "miànyì",
+		"mn": [
+			[
+				"v",
+				"để mặc cả mặt đối mặt | đàm phán trực tiếp | diện nghị"
+			]
+		]
+	},
+	"与": {
+		"py": "yǔ",
+		"mn": [
+			[
+				"conj",
+				"và; với"
+			],
+			[
+				"prep",
+				"cùng; với; cùng với"
+			],
+			[
+				"v",
+				"cho; dành cho | qua lại; đi lại | giúp đỡ; ủng hộ; tỏ ý khen ngợi | chờ; đợi; chờ đợi"
 			]
 		]
 	},
@@ -177,6 +287,37 @@
 			]
 		]
 	},
+	"津": {
+		"py": "jīn",
+		"mn": [
+			[
+				"n",
+				"Thiên Tân | nước bọt; nước miếng; nước dãi | mồ hôi | bến sông | chức vụ; vị trí quan trọng"
+			],
+			[
+				"v",
+				"Dưỡng ẩm; làm ẩm"
+			]
+		]
+	},
+	"地区": {
+		"py": "dìqū",
+		"mn": [
+			[
+				"n",
+				"khu; miền; vùng | khu vực; chuyên khu; khu vực hành chính | thuộc địa"
+			]
+		]
+	},
+	"拥有": {
+		"py": "yōngyǒu",
+		"mn": [
+			[
+				"v",
+				"có; mang; hàm chứa"
+			]
+		]
+	},
 	"多": {
 		"py": "duō",
 		"mn": [
@@ -219,6 +360,15 @@
 			]
 		]
 	},
+	"连锁店": {
+		"py": "liánsuǒdiàn",
+		"mn": [
+			[
+				"n",
+				"đại lí; chuỗi cửa hàng; hệ thống cửa hàng"
+			]
+		]
+	},
 	"现": {
 		"py": "xiàn",
 		"mn": [
@@ -257,6 +407,15 @@
 			]
 		]
 	},
+	"员工": {
+		"py": "yuángōng",
+		"mn": [
+			[
+				"n",
+				"công nhân; nhân viên; công nhân viên"
+			]
+		]
+	},
 	"人": {
 		"py": "rén",
 		"mn": [
@@ -292,12 +451,39 @@
 			]
 		]
 	},
+	"跻身": {
+		"py": "jīshēn",
+		"mn": [
+			[
+				"v",
+				"vươn lên; lọt top; chen chân (trong xã hội)"
+			]
+		]
+	},
 	"中国": {
 		"py": "zhōngguó",
 		"mn": [
 			[
 				"n, nlocal",
 				"Trung Hoa; Trung Quốc; nước cộng hoà nhân dân Trung Hoa"
+			]
+		]
+	},
+	"餐饮": {
+		"py": "cānyǐn",
+		"mn": [
+			[
+				"n",
+				"ăn uống"
+			]
+		]
+	},
+	"行业": {
+		"py": "hángyè",
+		"mn": [
+			[
+				"n",
+				"nghề; ngành; ngành nghề"
 			]
 		]
 	},
@@ -314,6 +500,58 @@
 			]
 		]
 	},
+	"强": {
+		"py": "qiáng",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mạnh mẽ | kiên cường; cao; mạnh mẽ (tình cảm, ý chí) | tốt; ưu việt; hơn | dư; thừa; hơn"
+			],
+			[
+				"adv",
+				"cưỡng bức; cưỡng ép"
+			],
+			[
+				"n",
+				"họ Cường"
+			],
+			[
+				"v",
+				"tăng cường; làm mạnh mẽ; làm lớn mạnh"
+			]
+		]
+	},
+	"经营": {
+		"py": "jīngyíng",
+		"mn": [
+			[
+				"v",
+				"kinh doanh; làm ăn; quản lý | tổ chức; làm; tiến hành"
+			]
+		]
+	},
+	"理念": {
+		"py": "lǐniàn",
+		"mn": [
+			[
+				"n",
+				"triết lý; quan niệm; lí tưởng; ý tưởng; tư tưởng"
+			]
+		]
+	},
+	"先进": {
+		"py": "xiānjìn",
+		"mn": [
+			[
+				"adj",
+				"tiên tiến"
+			],
+			[
+				"n",
+				"tiên tiến (người, tập thể)"
+			]
+		]
+	},
 	"职业": {
 		"py": "zhíyè",
 		"mn": [
@@ -327,12 +565,79 @@
 			]
 		]
 	},
+	"晋升": {
+		"py": "jìnshēng",
+		"mn": [
+			[
+				"v",
+				"thăng chức; lên chức; thăng cấp; thăng tiến"
+			]
+		]
+	},
+	"渠道": {
+		"py": "qúdào",
+		"mn": [
+			[
+				"n",
+				"kênh; mương máng | con đường; kênh"
+			]
+		]
+	},
+	"透明": {
+		"py": "tòumíng",
+		"mn": [
+			[
+				"adj",
+				"trong vắt; trong suốt; trong (vật thể) | minh bạch | trong sạch; thuần khiết"
+			]
+		]
+	},
+	"职工": {
+		"py": "zhígōng",
+		"mn": [
+			[
+				"n",
+				"công nhân viên; công nhân viên chức"
+			]
+		]
+	},
+	"福利": {
+		"py": "fúlì",
+		"mn": [
+			[
+				"n",
+				"phúc lợi; đãi ngộ"
+			],
+			[
+				"v",
+				"mang lại phúc lợi/ lợi ích; mang lại lợi ích"
+			]
+		]
+	},
+	"优厚": {
+		"py": "yōuhòu",
+		"mn": [
+			[
+				"adj",
+				"hậu đãi; ưu đãi; hậu hĩnh; đãi ngộ tốt"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
 			[
 				"pro",
 				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"期待": {
+		"py": "qīdài",
+		"mn": [
+			[
+				"v",
+				"mong đợi; kỳ vọng; đợi chờ"
 			]
 		]
 	},
@@ -360,6 +665,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"加入": {
+		"py": "jiārù",
+		"mn": [
+			[
+				"v",
+				"tham gia; tham dự | thêm; thêm vào"
 			]
 		]
 	}

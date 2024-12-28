@@ -30,6 +30,15 @@
 			]
 		]
 	},
+	"狼狈": {
+		"py": "lángbèi",
+		"mn": [
+			[
+				"adj",
+				"nhếch nhác; thảm hại; bối rối; lúng túng; tán loạn; hỗn loạn; chẳng ra sao"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -49,6 +58,15 @@
 			[
 				"n",
 				"học vấn; kiến thức | học (chỉ ngành học) | trường học; trường | học thuật; học thuyết"
+			]
+		]
+	},
+	"轮滑": {
+		"py": "lúnhuá",
+		"mn": [
+			[
+				"v",
+				"Trượt patin"
 			]
 		]
 	},
@@ -100,6 +118,15 @@
 			]
 		]
 	},
+	"眼冒金星": {
+		"py": "yǎnmàojīnxīng",
+		"mn": [
+			[
+				"idioms",
+				"choáng váng | để xem các ngôi sao"
+			]
+		]
+	},
 	"不": {
 		"py": "bù",
 		"mn": [
@@ -144,6 +171,15 @@
 			]
 		]
 	},
+	"受伤": {
+		"py": "shòushāng",
+		"mn": [
+			[
+				"v",
+				"bị thương; tổn thương"
+			]
+		]
+	},
 	"没事": {
 		"py": "méishì",
 		"mn": [
@@ -175,6 +211,28 @@
 			]
 		]
 	},
+	"保护": {
+		"py": "bǎohù",
+		"mn": [
+			[
+				"v",
+				"bảo hộ; bảo vệ; giữ gìn"
+			]
+		]
+	},
+	"教练": {
+		"py": "jiàoliàn",
+		"mn": [
+			[
+				"n",
+				"huấn luyện viên"
+			],
+			[
+				"v",
+				"huấn luyện"
+			]
+		]
+	},
 	"估计": {
 		"py": "gūjì",
 		"mn": [
@@ -185,6 +243,19 @@
 			[
 				"n",
 				"dự đoán; phỏng đoán"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
 			]
 		]
 	},

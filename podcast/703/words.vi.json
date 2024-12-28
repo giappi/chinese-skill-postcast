@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"请客": {
+		"py": "qǐngkè",
+		"mn": [
+			[
+				"v",
+				"mời khách; đãi khách | bao; khao; đãi; mời"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -127,6 +136,24 @@
 			]
 		]
 	},
+	"彩票": {
+		"py": "cǎipiào",
+		"mn": [
+			[
+				"n",
+				"vé số; vé xổ số"
+			]
+		]
+	},
+	"中奖": {
+		"py": "zhòngjiǎng",
+		"mn": [
+			[
+				"v",
+				"trúng thưởng; trúng giải"
+			]
+		]
+	},
 	"真": {
 		"py": "zhēn",
 		"mn": [
@@ -141,6 +168,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"难得": {
+		"py": "nándé",
+		"mn": [
+			[
+				"adj",
+				"hiếm có;  khó có được; khó làm được | ít thấy; hiếm thấy; hiếm khi"
 			]
 		]
 	},
@@ -197,6 +233,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"玲玲": {
+		"py": "línglíng",
+		"mn": [
+			[
+				"onom",
+				"lanh canh; lách cách; leng keng"
 			]
 		]
 	},
@@ -302,6 +347,15 @@
 			[
 				"adv",
 				"nhất định; chắc chắn"
+			]
+		]
+	},
+	"位子": {
+		"py": "wèizi",
+		"mn": [
+			[
+				"n",
+				"chỗ; chỗ ngồi"
 			]
 		]
 	}

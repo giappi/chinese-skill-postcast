@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"云南": {
+		"py": "yúnnán",
+		"mn": [
+			[
+				"n, nlocal",
+				"Vân Nam; tỉnh Vân Nam (Trung Quốc)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -100,12 +109,30 @@
 			]
 		]
 	},
+	"宾馆": {
+		"py": "bīnguǎn",
+		"mn": [
+			[
+				"n",
+				"nhà khách; khách sạn"
+			]
+		]
+	},
 	"路线": {
 		"py": "lùxiàn",
 		"mn": [
 			[
 				"n",
 				"đường; tuyến đường; đường đi | đường lối"
+			]
+		]
+	},
+	"行李": {
+		"py": "xíngli",
+		"mn": [
+			[
+				"n",
+				"hành lý"
 			]
 		]
 	},

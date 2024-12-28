@@ -21,6 +21,15 @@
 			]
 		]
 	},
+	"股票": {
+		"py": "gǔpiào",
+		"mn": [
+			[
+				"n",
+				"cổ phiếu"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -71,6 +80,15 @@
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"一塌糊涂": {
+		"py": "yītāhútú",
+		"mn": [
+			[
+				"idioms",
+				"rối tinh rối mù; nát bét; nhoè nhoẹt | nhôm nham"
 			]
 		]
 	},
@@ -243,6 +261,32 @@
 			[
 				"adv",
 				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"本钱": {
+		"py": "běnqián",
+		"mn": [
+			[
+				"n",
+				"vốn; tiền vốn; tiền cái (tiền dùng để đánh bạc, buôn bán) | kinh nghiệm; khả năng; năng lực; tài sản (ví năng lực, tài sức có thể dựa vào được)"
+			]
+		]
+	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
 			]
 		]
 	},

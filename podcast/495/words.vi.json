@@ -107,12 +107,34 @@
 			]
 		]
 	},
+	"海南": {
+		"py": "hǎinán",
+		"mn": [
+			[
+				"",
+				"Hải Nam (tỉnh phía nam Trung Quốc) | Kainan (thuộc Nhật Bản)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"合影": {
+		"py": "héyǐng",
+		"mn": [
+			[
+				"v, sv",
+				"chụp ảnh chung; chụp hình chung"
+			],
+			[
+				"n",
+				"ảnh nhóm; ảnh chung"
 			]
 		]
 	},
@@ -219,12 +241,43 @@
 			]
 		]
 	},
+	"瘦": {
+		"py": "shòu",
+		"mn": [
+			[
+				"adj",
+				"gầy; gầy còm; gầy yếu | chật; hẹp | nạc (thịt) | cằn; cằn cỗi"
+			]
+		]
+	},
+	"阳光": {
+		"py": "yángguāng",
+		"mn": [
+			[
+				"n",
+				"ánh nắng; ánh mặt trời; ánh sáng mặt trời"
+			],
+			[
+				"adj",
+				"lạc quan; vui vẻ | rõ ràng; minh bạch"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"强烈": {
+		"py": "qiángliè",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mãnh liệt; mạnh mẽ | đậm; rõ ràng; mạnh mẽ | mạnh mẽ; quyết liệt"
 			]
 		]
 	},

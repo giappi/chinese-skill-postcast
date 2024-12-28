@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"五一": {
+		"py": "wǔyī",
+		"mn": [
+			[
+				"n, time",
+				"ngày mồng một tháng năm; mùng 1 tháng 5 (ngày quốc tế lao động)"
+			]
+		]
+	},
 	"去": {
 		"py": "qù",
 		"mn": [
@@ -35,6 +44,15 @@
 			[
 				"adj",
 				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"九寨沟": {
+		"py": "jiǔzhàigōu",
+		"mn": [
+			[
+				"n, nlocal",
+				"Cửu Trại Câu; thung lũng Cửu Trại Câu"
 			]
 		]
 	},
@@ -69,6 +87,19 @@
 			[
 				"part",
 				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"趟": {
+		"py": "tàng",
+		"mn": [
+			[
+				"measure",
+				"lần; chuyến (chỉ số lần đi lại, di chuyển đi về của người hoặc phương tiện giao thông) | dãy; hàng (dùng cho những vật có thể xếp thành dãy, hàng)"
+			],
+			[
+				"n",
+				"hàng; đoàn; đoàn người"
 			]
 		]
 	},
@@ -138,6 +169,15 @@
 			[
 				"v",
 				"kết giao; cấu kết; thông đồng"
+			]
+		]
+	},
+	"工具": {
+		"py": "gōngjù",
+		"mn": [
+			[
+				"n",
+				"công cụ; đồ nghề; dụng cụ | công cụ; phương tiện (ví với phương tiện để đạt được mục đích)"
 			]
 		]
 	},
@@ -282,6 +322,15 @@
 			]
 		]
 	},
+	"火车": {
+		"py": "huǒchē",
+		"mn": [
+			[
+				"n",
+				"xe lửa; tàu hoả"
+			]
+		]
+	},
 	"便宜": {
 		"py": "piányi",
 		"mn": [
@@ -299,12 +348,34 @@
 			]
 		]
 	},
+	"浪费": {
+		"py": "làngfèi",
+		"mn": [
+			[
+				"v",
+				"lãng phí; hoang phí; phí phạm"
+			],
+			[
+				"adj",
+				"lãng phí; hoang phí; phung phí"
+			]
+		]
+	},
 	"时间": {
 		"py": "shíjiān",
 		"mn": [
 			[
 				"n",
 				"thời gian; ngày giờ | khoảng thời gian | giờ (thời điểm cụ thể)"
+			]
+		]
+	},
+	"思前想后": {
+		"py": "sīqiánxiǎnghòu",
+		"mn": [
+			[
+				"idioms",
+				"xem xét; suy nghĩ kĩ càng; cân nhắc trước sau; nghĩ trước nghĩ sau"
 			]
 		]
 	},
@@ -331,6 +402,15 @@
 			[
 				"measure",
 				"vở; tấn; lớp; hồi (kịch, tuồng)"
+			]
+		]
+	},
+	"两全其美": {
+		"py": "liǎngquánqíměi",
+		"mn": [
+			[
+				"idioms",
+				"vẹn toàn đôi bên; đẹp cả đôi bên; vẹn cả đôi đường"
 			]
 		]
 	},

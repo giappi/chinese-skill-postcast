@@ -151,6 +151,15 @@
 			]
 		]
 	},
+	"侄女": {
+		"py": "zhínǚ",
+		"mn": [
+			[
+				"n",
+				"cháu gái"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -178,6 +187,15 @@
 			]
 		]
 	},
+	"儿童节": {
+		"py": "értóngjié",
+		"mn": [
+			[
+				"n",
+				"ngày quốc tế thiếu nhi; tết thiếu nhi"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -201,6 +219,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"聪明": {
+		"py": "cōngmíng",
+		"mn": [
+			[
+				"adj",
+				"thông minh; nhạy bén; minh mẫn; khôn ngoan; sắc sảo"
 			]
 		]
 	},
@@ -273,6 +300,15 @@
 			]
 		]
 	},
+	"一半": {
+		"py": "yībàn",
+		"mn": [
+			[
+				"numb",
+				"phân nửa; một phần hai; một nửa"
+			]
+		]
+	},
 	"能": {
 		"py": "néng",
 		"mn": [
@@ -334,6 +370,19 @@
 			]
 		]
 	},
+	"提示": {
+		"py": "tíshì",
+		"mn": [
+			[
+				"v",
+				"nêu lên; đưa ra; gợi ý; nhắc nhở"
+			],
+			[
+				"n",
+				"gợi ý; nhắc nhở"
+			]
+		]
+	},
 	"个": {
 		"py": "gè",
 		"mn": [
@@ -352,6 +401,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"米奇": {
+		"py": "mǐqí",
+		"mn": [
+			[
+				"n",
+				"Mickey hoặc Mitch (tên)"
 			]
 		]
 	},
@@ -377,6 +435,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"料事如神": {
+		"py": "liàoshìrúshén",
+		"mn": [
+			[
+				"idioms",
+				"liệu sự như thần; đoán trước rất chuẩn"
 			]
 		]
 	},
@@ -450,6 +517,19 @@
 			]
 		]
 	},
+	"首先": {
+		"py": "shǒuxiān",
+		"mn": [
+			[
+				"adv",
+				"đầu tiên; sớm nhất"
+			],
+			[
+				"conj",
+				"thứ nhất; trước tiên"
+			]
+		]
+	},
 	"孩子": {
 		"py": "háizi",
 		"mn": [
@@ -500,6 +580,24 @@
 			[
 				"v",
 				"sẽ không | không biết | không phải; không đâu"
+			]
+		]
+	},
+	"鸳鸯": {
+		"py": "yuānyāng",
+		"mn": [
+			[
+				"n",
+				"chim uyên ương; uyên ương"
+			]
+		]
+	},
+	"之类": {
+		"py": "zhīlèi",
+		"mn": [
+			[
+				"n",
+				"vân vân và vân vân"
 			]
 		]
 	},

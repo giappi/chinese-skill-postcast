@@ -91,6 +91,15 @@
 			]
 		]
 	},
+	"别提了": {
+		"py": "biétíle",
+		"mn": [
+			[
+				"v",
+				"đừng nói nữa; đừng nhắc tới nữa"
+			]
+		]
+	},
 	"最近": {
 		"py": "zuìjìn",
 		"mn": [
@@ -164,6 +173,28 @@
 			]
 		]
 	},
+	"顺心": {
+		"py": "shùnxīn",
+		"mn": [
+			[
+				"adj",
+				"hài lòng; vừa ý; vừa lòng"
+			]
+		]
+	},
+	"平常": {
+		"py": "píngcháng",
+		"mn": [
+			[
+				"adj",
+				"bình thường; giản dị"
+			],
+			[
+				"n",
+				"thường; bình thường"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
@@ -179,6 +210,15 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"乐观": {
+		"py": "lèguān",
+		"mn": [
+			[
+				"adj",
+				"lạc quan; vui vẻ; yêu đời"
 			]
 		]
 	},
@@ -230,6 +270,19 @@
 			]
 		]
 	},
+	"烦恼": {
+		"py": "fánnǎo",
+		"mn": [
+			[
+				"adj",
+				"phiền não; phiền muộn; buồn phiền; buồn rầu; muộn phiền; phiền"
+			],
+			[
+				"n",
+				"phiền lo; lo phiền; phiền não; nỗi lo; phiền muộn"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -257,6 +310,24 @@
 			]
 		]
 	},
+	"超速": {
+		"py": "chāosù",
+		"mn": [
+			[
+				"v",
+				"vượt quá giới hạn tốc độ / tới tốc độ / tốc độ cao"
+			]
+		]
+	},
+	"行驶": {
+		"py": "xíngshǐ",
+		"mn": [
+			[
+				"v",
+				"chạy; di chuyển (phương tiện giao thông)"
+			]
+		]
+	},
 	"被": {
 		"py": "bèi",
 		"mn": [
@@ -275,6 +346,19 @@
 			[
 				"part",
 				"bị (dùng trước động từ tạo thành nhóm từ biểu thị sự bị động)"
+			]
+		]
+	},
+	"罚款": {
+		"py": "fákuǎn",
+		"mn": [
+			[
+				"n",
+				"tiền phạt"
+			],
+			[
+				"v",
+				"phạt tiền"
 			]
 		]
 	},
@@ -327,6 +411,15 @@
 			[
 				"v",
 				"cầm được; tới tay"
+			]
+		]
+	},
+	"驾照": {
+		"py": "jiàzhào",
+		"mn": [
+			[
+				"n",
+				"bằng lái xe; bằng lái"
 			]
 		]
 	},
@@ -411,6 +504,24 @@
 			]
 		]
 	},
+	"那种": {
+		"py": "nàzhǒng",
+		"mn": [
+			[
+				"pro",
+				"loại đó; kiểu đó; thứ đó"
+			]
+		]
+	},
+	"飙车": {
+		"py": "biāochē",
+		"mn": [
+			[
+				"v",
+				"đua đường phố (xe máy hoặc ô tô)"
+			]
+		]
+	},
 	"人": {
 		"py": "rén",
 		"mn": [
@@ -473,6 +584,15 @@
 			]
 		]
 	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
+			]
+		]
+	},
 	"上路": {
 		"py": "shànglù",
 		"mn": [
@@ -516,6 +636,19 @@
 			]
 		]
 	},
+	"一时": {
+		"py": "yīshí",
+		"mn": [
+			[
+				"n",
+				"tạm thời; nhất thời; chốc lát"
+			],
+			[
+				"adv",
+				"trong chốc lát; trong một lúc | lúc thì...lúc thì"
+			]
+		]
+	},
 	"忘": {
 		"py": "wàng",
 		"mn": [
@@ -525,12 +658,48 @@
 			]
 		]
 	},
+	"控制": {
+		"py": "kòngzhì",
+		"mn": [
+			[
+				"v",
+				"kiềm chế; kiểm soát; điều khiển; làm chủ | khống chế; kiểm soát"
+			]
+		]
+	},
+	"车速": {
+		"py": "chēsù",
+		"mn": [
+			[
+				"n",
+				"tốc độ xe | tốc độ tiện"
+			]
+		]
+	},
 	"哎呀": {
 		"py": "āiyā",
 		"mn": [
 			[
 				"intj",
 				"ôi; chao; ôi chao (thể hiện sự ngạc nhiên) | trời ơi; ối giời ơi (tỏ ý trách móc, sốt ruột)"
+			]
+		]
+	},
+	"幸好": {
+		"py": "xìnghǎo",
+		"mn": [
+			[
+				"adv",
+				"may mắn; may mà; may thay"
+			]
+		]
+	},
+	"搭": {
+		"py": "dā",
+		"mn": [
+			[
+				"v",
+				"bắc; dựng; làm | mắc; vắt; đắp; phủ; khoác; treo | nối; nhập lại; ăn khớp | thêm vào; góp vào | phối hợp; phân phối; trộn | khiêng; khênh; nhấc | ngồi; đi; đáp (xe, thuyền, máy bay)"
 			]
 		]
 	},
@@ -569,12 +738,30 @@
 			]
 		]
 	},
+	"吓": {
+		"py": "xià",
+		"mn": [
+			[
+				"v",
+				"doạ; doạ dẫm; hù (làm cho khiếp sợ) | sợ; sợ hãi"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"được; có thể (dùng sau động từ, biểu thị khả năng) | được (dùng giữa động từ và bổ ngữ, biểu thị khả năng) | Dùng sau động từ hoặc tính từ (gợi ý bổ sung, giải thích, mô tả, cho động từ hoặc tính từ đứng trước.)"
+			]
+		]
+	},
+	"魂飞魄散": {
+		"py": "húnfēipòsàn",
+		"mn": [
+			[
+				"idioms",
+				"hồn bay phách lạc; mất hồn mất vía; hồn vía lên mây | hú vía; hết hồn"
 			]
 		]
 	},
@@ -639,12 +826,30 @@
 			]
 		]
 	},
+	"害怕": {
+		"py": "hàipà",
+		"mn": [
+			[
+				"v",
+				"sợ; sợ hãi; sợ sệt; e dè; lo sợ"
+			]
+		]
+	},
 	"毕竟": {
 		"py": "bìjìng",
 		"mn": [
 			[
 				"adv",
 				"dẫu sao; dù sao | rốt cuộc; cuối cùng; suy cho cùng; nói cho cùng"
+			]
+		]
+	},
+	"新手": {
+		"py": "xīnshǒu",
+		"mn": [
+			[
+				"n",
+				"tay mới; lính mới (người mới vào nghề)"
 			]
 		]
 	},
@@ -683,6 +888,28 @@
 			[
 				"adv",
 				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"车子": {
+		"py": "chēzi",
+		"mn": [
+			[
+				"",
+				"xe (thường chỉ xe nhỏ)"
+			],
+			[
+				"方",
+				"xe đạp"
+			]
+		]
+	},
+	"能力": {
+		"py": "nénglì",
+		"mn": [
+			[
+				"n",
+				"năng lực; khả năng"
 			]
 		]
 	},
@@ -743,6 +970,24 @@
 			]
 		]
 	},
+	"敲": {
+		"py": "qiāo",
+		"mn": [
+			[
+				"v",
+				"gõ; khua; điểm; cốc | đãi; mời; đưa; cho | bắt bí; bóp chẹt; chặt chém (giá cả)"
+			]
+		]
+	},
+	"警钟": {
+		"py": "jǐngzhōng",
+		"mn": [
+			[
+				"n",
+				"tiếng chuông cảnh tỉnh; chuông báo động; chuông cảnh tỉnh | cảnh chung"
+			]
+		]
+	},
 	"以后": {
 		"py": "yǐhòu",
 		"mn": [
@@ -796,6 +1041,15 @@
 			[
 				"n",
 				"họ Tái"
+			]
+		]
+	},
+	"得意忘形": {
+		"py": "déyìwàngxíng",
+		"mn": [
+			[
+				"idioms",
+				"đắc ý vênh váo; đắc ý quên hình (vì đắc ý mà quên đi dáng vẻ vốn có của mình)"
 			]
 		]
 	}

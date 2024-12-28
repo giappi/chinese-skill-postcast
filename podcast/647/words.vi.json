@@ -46,6 +46,15 @@
 			]
 		]
 	},
+	"围裙": {
+		"py": "wéiqún",
+		"mn": [
+			[
+				"n",
+				"tạp dề"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -147,6 +156,19 @@
 			[
 				"v",
 				"đội lên (mũ, v.v.)"
+			]
+		]
+	},
+	"俨然": {
+		"py": "yǎnrán",
+		"mn": [
+			[
+				"adj",
+				"trang nghiêm; nghiêm trang; đứng đắn | chỉnh tề; nghiêm chỉnh; ngay ngắn; nghiễm nhiên; gọn gàng; ngăn nắp"
+			],
+			[
+				"adv",
+				"hệt như; tựa như; trông như; có vẻ như"
 			]
 		]
 	},
@@ -262,6 +284,15 @@
 			]
 		]
 	},
+	"生意": {
+		"py": "shēngyì",
+		"mn": [
+			[
+				"n",
+				"sức sống; sự sinh sôi nảy nở"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -298,6 +329,15 @@
 			]
 		]
 	},
+	"下厨": {
+		"py": "xiàchú",
+		"mn": [
+			[
+				"v",
+				"nấu ăn; vào bếp"
+			]
+		]
+	},
 	"另外": {
 		"py": "lìngwài",
 		"mn": [
@@ -324,6 +364,15 @@
 			]
 		]
 	},
+	"叫做": {
+		"py": "jiàozuò",
+		"mn": [
+			[
+				"v",
+				"là; gọi là; tên là"
+			]
+		]
+	},
 	"太": {
 		"py": "tài",
 		"mn": [
@@ -341,12 +390,30 @@
 			]
 		]
 	},
+	"贤惠": {
+		"py": "xiánhuì",
+		"mn": [
+			[
+				"adj",
+				"tốt; hiền lành; hiền thục; hòa nhã lịch sự; phụ nữ có đức hạnh (người phụ nữ)"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"将来": {
+		"py": "jiānglái",
+		"mn": [
+			[
+				"n",
+				"tương lai; sau này; mai sau"
 			]
 		]
 	},
@@ -365,6 +432,15 @@
 			[
 				"v",
 				"gả; lấy; cưới; cưới chồng; lấy chồng; xuất giá | giá; gán; đổ; đùn đẩy; vẩy cho"
+			]
+		]
+	},
+	"简直": {
+		"py": "jiǎnzhí",
+		"mn": [
+			[
+				"adv",
+				"quả thực; quả thật; quả là; thật là; tưởng như là; chừng như; tưởng chừng như; gần như là; quả thật là"
 			]
 		]
 	},
@@ -458,6 +534,15 @@
 			]
 		]
 	},
+	"贫嘴": {
+		"py": "pínzuǐ",
+		"mn": [
+			[
+				"adj",
+				"ba hoa; huyên thuyên; lắm điều; lắm lời | bẻo lẻo"
+			]
+		]
+	},
 	"快": {
 		"py": "kuài",
 		"mn": [
@@ -481,6 +566,15 @@
 			[
 				"v",
 				"kể; bảo; nói cho; báo cho; chỉ bảo; mách; mách cho; dặn dò; nói với"
+			]
+		]
+	},
+	"柴米油盐": {
+		"py": "cháimǐyóuyán",
+		"mn": [
+			[
+				"idioms",
+				"cơm áo gạo tiền"
 			]
 		]
 	},
@@ -554,6 +648,24 @@
 			]
 		]
 	},
+	"粉色": {
+		"py": "fěnsè",
+		"mn": [
+			[
+				"n",
+				"màu hồng; hồng nhạt; hồng phấn"
+			]
+		]
+	},
+	"瓶子": {
+		"py": "píngzi",
+		"mn": [
+			[
+				"n",
+				"lọ; bình; chai"
+			]
+		]
+	},
 	"里": {
 		"py": "lǐ",
 		"mn": [
@@ -602,12 +714,30 @@
 			]
 		]
 	},
+	"盐": {
+		"py": "yán",
+		"mn": [
+			[
+				"n",
+				"muối ăn | muối (hoá chất)"
+			]
+		]
+	},
 	"其他": {
 		"py": "qítā",
 		"mn": [
 			[
 				"pro",
 				"khác; cái khác | việc khác"
+			]
+		]
+	},
+	"调料": {
+		"py": "tiáoliào",
+		"mn": [
+			[
+				"n",
+				"gia vị; đồ gia vị"
 			]
 		]
 	},
@@ -629,6 +759,24 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"抽屉": {
+		"py": "chōutì",
+		"mn": [
+			[
+				"n",
+				"ngăn kéo; ngăn tủ; tủ khoá; két"
+			]
+		]
+	},
+	"交给": {
+		"py": "jiāogěi",
+		"mn": [
+			[
+				"v",
+				"Giao cho | giao"
 			]
 		]
 	},
@@ -662,6 +810,33 @@
 			]
 		]
 	},
+	"外面": {
+		"py": "wàimiàn",
+		"mn": [
+			[
+				"nlocal",
+				"bên ngoài; bề ngoài"
+			]
+		]
+	},
+	"招待": {
+		"py": "zhāodài",
+		"mn": [
+			[
+				"v",
+				"chiêu đãi; thiết đãi; tiếp đãi; phục vụ"
+			]
+		]
+	},
+	"客人": {
+		"py": "kèrén",
+		"mn": [
+			[
+				"n",
+				"khách; khách mời; khách hàng | khách buôn; lữ khách; con buôn; người buôn bán"
+			]
+		]
+	},
 	"好": {
 		"py": "hǎo",
 		"mn": [
@@ -683,6 +858,15 @@
 			]
 		]
 	},
+	"嘞": {
+		"py": "lei",
+		"mn": [
+			[
+				"mpart",
+				"thôi; rồi; nhé"
+			]
+		]
+	},
 	"那": {
 		"py": "nà",
 		"mn": [
@@ -693,6 +877,24 @@
 			[
 				"conj",
 				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"一切": {
+		"py": "yīqiè",
+		"mn": [
+			[
+				"pro",
+				"mọi; toàn bộ; tất cả"
+			]
+		]
+	},
+	"拜托": {
+		"py": "bàituō",
+		"mn": [
+			[
+				"v",
+				"nhờ; trông cậy; xin nhờ; làm ơn; kính nhờ (lời nói kính trọng)"
 			]
 		]
 	},

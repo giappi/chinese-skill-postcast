@@ -16,6 +16,23 @@
 			]
 		]
 	},
+	"声": {
+		"py": "shēng",
+		"mn": [
+			[
+				"n",
+				"tiếng; âm thanh; giọng nói | thanh mẫu; phụ âm đầu | thanh điệu | danh tiếng | tin tức; thông tin"
+			],
+			[
+				"v",
+				"nói; lên tiếng; tuyên bố; trần thuật"
+			],
+			[
+				"measure",
+				"lần; tiếng"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -186,6 +203,15 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"小说": {
+		"py": "xiǎoshuō",
+		"mn": [
+			[
+				"n",
+				"tiểu thuyết"
 			]
 		]
 	},

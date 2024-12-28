@@ -95,6 +95,19 @@
 			]
 		]
 	},
+	"巧": {
+		"py": "qiǎo",
+		"mn": [
+			[
+				"adj",
+				"nhanh nhẹn; kĩ thuật cao; khéo léo | nhạy; nhanh nhạy; khéo (tay, miệng) | đúng lúc; vừa vặn; vừa may; vừa khéo; trùng hợp | giả dối; không thực (lời nói)"
+			],
+			[
+				"n",
+				"kỹ năng; tay nghề"
+			]
+		]
+	},
 	"正在": {
 		"py": "zhèngzài",
 		"mn": [
@@ -183,6 +196,15 @@
 			[
 				"n",
 				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
 			]
 		]
 	},
@@ -304,6 +326,15 @@
 			]
 		]
 	},
+	"心": {
+		"py": "xīn",
+		"mn": [
+			[
+				"n",
+				"tim; trái tim; quả tim | tâm; lòng; tâm tư; tâm địa; ý nghĩ; ý muốn | tâm; lòng; trung tâm; khoảng giữa | suy nghĩ; suy tư; mưu tính | lòng; tấm lòng; bụng dạ; tâm địa | sao Tâm (một chòm sao trong nhị thập bát tú)"
+			]
+		]
+	},
 	"好": {
 		"py": "hǎo",
 		"mn": [
@@ -392,6 +423,15 @@
 			[
 				"conj",
 				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"拜托": {
+		"py": "bàituō",
+		"mn": [
+			[
+				"v",
+				"nhờ; trông cậy; xin nhờ; làm ơn; kính nhờ (lời nói kính trọng)"
 			]
 		]
 	}

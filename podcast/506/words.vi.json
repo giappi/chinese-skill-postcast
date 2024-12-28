@@ -25,6 +25,15 @@
 			]
 		]
 	},
+	"难吃": {
+		"py": "nánchī",
+		"mn": [
+			[
+				"adj",
+				"không ngon | khó ăn"
+			]
+		]
+	},
 	"这": {
 		"py": "zhèi",
 		"mn": [
@@ -91,6 +100,15 @@
 			]
 		]
 	},
+	"鱼": {
+		"py": "yú",
+		"mn": [
+			[
+				"n",
+				"cá; con cá | cá (chỉ một số động vật thuỷ sinh giống cá) | họ Ngư"
+			]
+		]
+	},
 	"难怪": {
 		"py": "nánguài",
 		"mn": [
@@ -145,6 +163,15 @@
 			[
 				"n",
 				"nhiều ít; bao nhiêu; ít nhiều"
+			]
+		]
+	},
+	"盐": {
+		"py": "yán",
+		"mn": [
+			[
+				"n",
+				"muối ăn | muối (hoá chất)"
 			]
 		]
 	},

@@ -38,6 +38,19 @@
 			]
 		]
 	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
+			]
+		]
+	},
 	"去": {
 		"py": "qù",
 		"mn": [
@@ -100,6 +113,31 @@
 			[
 				"numb",
 				"mấy (hỏi số lượng bao nhiêu) | mấy; vài (biểu thị một số không xác định từ hai đến chín) | mấy; vài (thay thế con số nhất định) | ngày nào"
+			]
+		]
+	},
+	"首": {
+		"py": "shǒu",
+		"mn": [
+			[
+				"n",
+				"đầu | đứng đầu; cao nhất; nguyên thủ | thủ đô | họ Thủ"
+			],
+			[
+				"measure",
+				"bài (hát, thơ)"
+			],
+			[
+				"adj",
+				"đầu tiên; tiên phong"
+			],
+			[
+				"v",
+				"thú tội; đầu thú"
+			],
+			[
+				"adv",
+				"ban đầu; đầu tiên"
 			]
 		]
 	},
@@ -235,6 +273,15 @@
 			]
 		]
 	},
+	"麦霸": {
+		"py": "màibà",
+		"mn": [
+			[
+				"n",
+				"mic hog | người độc chiếm mike trong bữa tiệc karaoke (bá chủ 霸 của micro 麥克風 | 麦克风)"
+			]
+		]
+	},
 	"从": {
 		"py": "cóng",
 		"mn": [
@@ -260,6 +307,31 @@
 			]
 		]
 	},
+	"头": {
+		"py": "tóu",
+		"mn": [
+			[
+				"n",
+				"đầu; cái đầu | tóc; đầu tóc; kiểu tóc | đầu mục; người đứng đầu; người cầm đầu | đầu; đỉnh; chóp (vật thể) | điểm đầu; điểm chót của sự việc | phía; mặt; bên; phương diện | phần còn lại; phần sót lại; phần thừa ra"
+			],
+			[
+				"measure",
+				"con (gia súc) | củ"
+			],
+			[
+				"numb",
+				"nhất; đầu; số một; thứ nhất; hạng nhất"
+			],
+			[
+				"adj",
+				"đầu; đầu tiên; đứng đầu; dẫn đầu | trước; trước kia; trước đây"
+			],
+			[
+				"prep",
+				"trước; gần; tiếp cận"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -281,6 +353,19 @@
 			]
 		]
 	},
+	"尾": {
+		"py": "wěi",
+		"mn": [
+			[
+				"n",
+				"đuôi; cái đuôi | đoạn cuối; đoạn mút; phần đuôi | phần còn lại; công việc còn lại (ngoài phần chính) | sao Vĩ (một chòm sao trong Nhị Thập Bát Tú)"
+			],
+			[
+				"measure",
+				"con (cá)"
+			]
+		]
+	},
 	"那": {
 		"py": "nà",
 		"mn": [
@@ -294,12 +379,39 @@
 			]
 		]
 	},
+	"岂不是": {
+		"py": "qǐbùshì",
+		"mn": [
+			[
+				"adv",
+				"chẳng phải sao; há chẳng phải"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"无聊": {
+		"py": "wúliáo",
+		"mn": [
+			[
+				"adj",
+				"buồn chán; buồn thiu; buồn tẻ (vì quá thanh nhàn) | vô vị; nhàm chán (tác phẩm, lời nói, việc làm)"
+			]
+		]
+	},
+	"还好": {
+		"py": "háihǎo",
+		"mn": [
+			[
+				"adj",
+				"tạm được; cũng được; vẫn ổn | may; may sao; cũng may; vẫn may; còn may"
 			]
 		]
 	},
@@ -366,6 +478,15 @@
 			[
 				"v",
 				"có ít; có chút"
+			]
+		]
+	},
+	"奢侈": {
+		"py": "shēchǐ",
+		"mn": [
+			[
+				"adj",
+				"xa xỉ; hào hoa"
 			]
 		]
 	}

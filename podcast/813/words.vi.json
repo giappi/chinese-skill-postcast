@@ -150,6 +150,15 @@
 			]
 		]
 	},
+	"感谢": {
+		"py": "gǎnxiè",
+		"mn": [
+			[
+				"v",
+				"cảm tạ; cảm ơn"
+			]
+		]
+	},
 	"能": {
 		"py": "néng",
 		"mn": [
@@ -281,6 +290,15 @@
 			]
 		]
 	},
+	"装修": {
+		"py": "zhuāngxiū",
+		"mn": [
+			[
+				"v",
+				"sửa sang; chỉnh trang; bài trí; sửa chữa; trang hoàng"
+			]
+		]
+	},
 	"过": {
 		"py": "guo",
 		"mn": [
@@ -339,6 +357,27 @@
 			[
 				"class",
 				"một vài; một số; một phần (chỉ số lượng không xác định) | một ít; một chút (chỉ số lượng rất ít) | mấy; một số | chút; một chút; một tý (đặt sau động từ hoặc tính từ)"
+			]
+		]
+	},
+	"强": {
+		"py": "qiáng",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mạnh mẽ | kiên cường; cao; mạnh mẽ (tình cảm, ý chí) | tốt; ưu việt; hơn | dư; thừa; hơn"
+			],
+			[
+				"adv",
+				"cưỡng bức; cưỡng ép"
+			],
+			[
+				"n",
+				"họ Cường"
+			],
+			[
+				"v",
+				"tăng cường; làm mạnh mẽ; làm lớn mạnh"
 			]
 		]
 	},
@@ -523,6 +562,15 @@
 			]
 		]
 	},
+	"中规中矩": {
+		"py": "zhōngguīzhōngjǔ",
+		"mn": [
+			[
+				"idioms",
+				"phù hợp với các chuẩn mực của xã hội"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -570,12 +618,43 @@
 			]
 		]
 	},
+	"过来": {
+		"py": "guòlái",
+		"mn": [
+			[
+				"v",
+				"đến; qua; sang đây; qua đây; lại đây | qua; thông qua; vượt qua | lại; lên"
+			]
+		]
+	},
 	"觉得": {
 		"py": "juéde",
 		"mn": [
 			[
 				"v",
 				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"挂画": {
+		"py": "guàhuà",
+		"mn": [
+			[
+				"",
+				"Tranh treo tường"
+			]
+		]
+	},
+	"实用": {
+		"py": "shíyòng",
+		"mn": [
+			[
+				"adj",
+				"thực dụng; hữu ích; tiện dụng; hữu dụng; hiệu quả"
+			],
+			[
+				"v",
+				"ứng dụng; áp dụng"
 			]
 		]
 	},
@@ -763,6 +842,15 @@
 			]
 		]
 	},
+	"椅子": {
+		"py": "yǐzi",
+		"mn": [
+			[
+				"n",
+				"ghế; ghế tựa; ghế dựa"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -840,6 +928,19 @@
 			]
 		]
 	},
+	"设计": {
+		"py": "shèjì",
+		"mn": [
+			[
+				"v",
+				"thiết kế | mưu; mưu hại; mưu kế; bày mưu"
+			],
+			[
+				"n",
+				"sự thiết kế; bản thiết kế"
+			]
+		]
+	},
 	"比": {
 		"py": "bǐ",
 		"mn": [
@@ -858,6 +959,15 @@
 			[
 				"adv",
 				"gần đây"
+			]
+		]
+	},
+	"实用性": {
+		"py": "shíyòngxìng",
+		"mn": [
+			[
+				"n",
+				"tính ứng dụng; tính thực tiễn; tính thực tế; tính thực dụng"
 			]
 		]
 	},
@@ -929,6 +1039,15 @@
 			]
 		]
 	},
+	"屋子": {
+		"py": "wūzi",
+		"mn": [
+			[
+				"n",
+				"phòng; buồng; gian nhà; gian phòng"
+			]
+		]
+	},
 	"桌椅板凳": {
 		"py": "zhuōyǐbǎndèng",
 		"mn": [
@@ -992,6 +1111,24 @@
 			[
 				"pro",
 				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"打扫": {
+		"py": "dǎsǎo",
+		"mn": [
+			[
+				"v",
+				"quét; quét dọn; dọn dẹp; thu dọn; quét tước"
+			]
+		]
+	},
+	"卫生": {
+		"py": "wèishēng",
+		"mn": [
+			[
+				"n",
+				"vệ sinh | y tế | y tế công cộng"
 			]
 		]
 	}

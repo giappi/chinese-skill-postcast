@@ -143,12 +143,34 @@
 			]
 		]
 	},
+	"腻": {
+		"py": "nì",
+		"mn": [
+			[
+				"adj",
+				"ngấy; ngán; nhầy; ngây ngấy | chán ngán; chán ghét | tinh tế | dính | Chán | thân; thân mật"
+			],
+			[
+				"n",
+				"bẩn"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"丫头": {
+		"py": "yātou",
+		"mn": [
+			[
+				"n",
+				"bé gái; con gái | nha hoàn; con ở"
 			]
 		]
 	},
@@ -167,6 +189,23 @@
 			[
 				"adv",
 				"ngày càng; càng ngày càng;"
+			]
+		]
+	},
+	"刁": {
+		"py": "diāo",
+		"mn": [
+			[
+				"adj",
+				"gian xảo; giảo hoạt; xảo quyệt; đểu cáng; điêu ngoa | kén ăn; kén; kén chọn"
+			],
+			[
+				"v",
+				"làm khó dễ; gây khó khăn"
+			],
+			[
+				"n",
+				"họ Điêu"
 			]
 		]
 	},
@@ -293,6 +332,15 @@
 			[
 				"adv",
 				"chưa; chưa từng"
+			]
+		]
+	},
+	"口味": {
+		"py": "kǒuwèi",
+		"mn": [
+			[
+				"n",
+				"hương vị; mùi vị | khẩu vị; gu (thích một khẩu vị nào đó) | sở thích; đam mê"
 			]
 		]
 	}

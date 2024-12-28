@@ -120,6 +120,19 @@
 			]
 		]
 	},
+	"聚会": {
+		"py": "jùhuì",
+		"mn": [
+			[
+				"v",
+				"tụ tập; tụ họp; gặp; gặp gỡ (người)"
+			],
+			[
+				"n",
+				"cuộc hội họp; buổi gặp gỡ; buổi họp mặt; buổi tụ tập"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -213,6 +226,15 @@
 			[
 				"adv",
 				"mới, vừa mới (cách đây không lâu) | mới, mới chịu (chuyện xảy ra muộn, trễ) | mới (lý do hoặc điều kiện) | chỉ; chỉ mới; chỉ có | mới (nhấn mạnh chuyện muốn nói) | mới (thay đổi tình trạng từ trước đến nay) | mới (diễn tả sự nhấn mạnh)"
+			]
+		]
+	},
+	"下课": {
+		"py": "xiàkè",
+		"mn": [
+			[
+				"v",
+				"tan học; hết giờ học; sau giờ học"
 			]
 		]
 	},

@@ -16,6 +16,15 @@
 			]
 		]
 	},
+	"羡慕": {
+		"py": "xiànmù",
+		"mn": [
+			[
+				"v",
+				"ngưỡng mộ; ước ao; hâm mộ | đố kỵ; ghen ghét; thèm muốn"
+			]
+		]
+	},
 	"你们": {
 		"py": "nǐmen",
 		"mn": [
@@ -78,6 +87,15 @@
 			]
 		]
 	},
+	"放假": {
+		"py": "fàngjià",
+		"mn": [
+			[
+				"v, sv",
+				"nghỉ; nghỉ định kỳ"
+			]
+		]
+	},
 	"今年": {
 		"py": "jīnnián",
 		"mn": [
@@ -130,6 +148,15 @@
 			]
 		]
 	},
+	"等于": {
+		"py": "děngyú",
+		"mn": [
+			[
+				"v",
+				"bằng; là | chẳng khác nào; như; giống như"
+			]
+		]
+	},
 	"没有": {
 		"py": "méiyǒu",
 		"mn": [
@@ -174,6 +201,15 @@
 			]
 		]
 	},
+	"妇女节": {
+		"py": "fùnǚjié",
+		"mn": [
+			[
+				"n",
+				"ngày 8/3; ngày Quốc tế phụ nữ"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -196,6 +232,19 @@
 			[
 				"adv",
 				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"抱怨": {
+		"py": "bàoyuàn",
+		"mn": [
+			[
+				"v",
+				"oán hận; oán giận; oán trách; than phiền; phàn nàn"
+			],
+			[
+				"n",
+				"sự than phiền; lời phàn nàn; sự khiếu nại"
 			]
 		]
 	},
@@ -285,6 +334,24 @@
 			]
 		]
 	},
+	"好处": {
+		"py": "hǎochù",
+		"mn": [
+			[
+				"n",
+				"có lợi; có ích | cho; lợi ích; đồ đút lót (thường mang nghĩa xấu)"
+			]
+		]
+	},
+	"尝": {
+		"py": "cháng",
+		"mn": [
+			[
+				"v",
+				"nếm; thử (ăn, uống) | nếm trải; trải qua; đã từng"
+			]
+		]
+	},
 	"过": {
 		"py": "guo",
 		"mn": [
@@ -364,6 +431,15 @@
 			[
 				"n",
 				"Ngày quốc tế phụ nữ 婦女節 | 妇女节 [Fu4 nu: 3 jie2], ngày 8 tháng 3 | khờ dại | dốt nát"
+			]
+		]
+	},
+	"滋味": {
+		"py": "zīwèi",
+		"mn": [
+			[
+				"n",
+				"mùi vị; mùi; hương vị | cảm nhận; cảm giác; hương vị"
 			]
 		]
 	},

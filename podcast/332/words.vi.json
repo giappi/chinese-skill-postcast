@@ -12,6 +12,15 @@
 			]
 		]
 	},
+	"骑车": {
+		"py": "qíchē",
+		"mn": [
+			[
+				"v",
+				"đạp xe; đi xe đạp"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -89,6 +98,15 @@
 			[
 				"adj",
 				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"锻炼": {
+		"py": "duànliàn",
+		"mn": [
+			[
+				"v",
+				"rèn; rèn luyện; tôi luyện; tập luyện; tập; tập thể dục"
 			]
 		]
 	},
@@ -226,6 +244,15 @@
 			]
 		]
 	},
+	"头盔": {
+		"py": "tóukuī",
+		"mn": [
+			[
+				"n",
+				"mũ nồi; mũ sắt; mũ bảo hộ; mũ bảo hiểm"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -248,6 +275,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"护膝": {
+		"py": "hùxī",
+		"mn": [
+			[
+				"n",
+				"cái bao đầu gối; nịt gối"
 			]
 		]
 	},
@@ -278,6 +314,24 @@
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"吸": {
+		"py": "xī",
+		"mn": [
+			[
+				"v",
+				"hút; hít; húp; uống | hút; hấp thu; thấm hút | bám; hút; thu hút"
+			]
+		]
+	},
+	"尾气": {
+		"py": "wěiqì",
+		"mn": [
+			[
+				"n",
+				"khói xe; khói thải; khí thải"
 			]
 		]
 	}

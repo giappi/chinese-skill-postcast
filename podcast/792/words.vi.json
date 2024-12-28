@@ -82,6 +82,15 @@
 			]
 		]
 	},
+	"公园": {
+		"py": "gōngyuán",
+		"mn": [
+			[
+				"n",
+				"công viên"
+			]
+		]
+	},
 	"里": {
 		"py": "lǐ",
 		"mn": [
@@ -211,6 +220,15 @@
 			]
 		]
 	},
+	"胡说": {
+		"py": "húshuō",
+		"mn": [
+			[
+				"v",
+				"nói bậy; nói xằng; nói càn; nói ẩu; nói bừa; nói nhảm; tào lao | xuyên tạc; nói xằng bậy"
+			]
+		]
+	},
 	"老": {
 		"py": "lǎo",
 		"mn": [
@@ -296,6 +314,19 @@
 			]
 		]
 	},
+	"动作": {
+		"py": "dòngzuò",
+		"mn": [
+			[
+				"n",
+				"động tác; hành động"
+			],
+			[
+				"v",
+				"hành động; hoạt động; làm việc"
+			]
+		]
+	},
 	"慢": {
 		"py": "màn",
 		"mn": [
@@ -373,12 +404,30 @@
 			]
 		]
 	},
+	"有百利而无一害": {
+		"py": "yǒubǎilìérwúyīhài",
+		"mn": [
+			[
+				"proverb",
+				"có nhiều ưu điểm và không có nhược điểm"
+			]
+		]
+	},
 	"受不了": {
 		"py": "shòubùliǎo",
 		"mn": [
 			[
 				"v",
 				"không chịu nổi; chịu không nổi; chịu không được"
+			]
+		]
+	},
+	"节奏": {
+		"py": "jiézòu",
+		"mn": [
+			[
+				"n",
+				"nhịp nhàng; tiết tấu; nhịp độ | tiết tấu; nhịp điệu (trong âm nhạc)"
 			]
 		]
 	},

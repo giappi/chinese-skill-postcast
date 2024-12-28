@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"交给": {
+		"py": "jiāogěi",
+		"mn": [
+			[
+				"v",
+				"Giao cho | giao"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -271,6 +280,33 @@
 			]
 		]
 	},
+	"反而": {
+		"py": "fǎnér",
+		"mn": [
+			[
+				"adv",
+				"trái lại; ngược lại"
+			]
+		]
+	},
+	"插不上手": {
+		"py": "chābùshàngshǒu",
+		"mn": [
+			[
+				"idioms",
+				"không thể can thiệp"
+			]
+		]
+	},
+	"对于": {
+		"py": "duìyú",
+		"mn": [
+			[
+				"prep",
+				"đối với; với; về"
+			]
+		]
+	},
 	"有点": {
 		"py": "yǒudiǎn",
 		"mn": [
@@ -281,6 +317,32 @@
 			[
 				"v",
 				"có ít; có chút"
+			]
+		]
+	},
+	"棘手": {
+		"py": "jíshǒu",
+		"mn": [
+			[
+				"adj",
+				"hóc búa; nan giải; gai góc; khó nhằn; khó giải quyết"
+			]
+		]
+	},
+	"尽": {
+		"py": "jìn",
+		"mn": [
+			[
+				"v",
+				"hết; tận | cực; hết sức; vô cùng; tận cùng; cực điểm; vẹn | tận sức; dùng hết | ra sức hoàn thành; làm hết | chết"
+			],
+			[
+				"adj",
+				"toàn bộ; tất cả; hoàn toàn"
+			],
+			[
+				"adv",
+				"toàn bộ; đều"
 			]
 		]
 	},
@@ -311,6 +373,19 @@
 			[
 				"part",
 				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"试": {
+		"py": "shì",
+		"mn": [
+			[
+				"v",
+				"thử; thử nghiệm; thí nghiệm"
+			],
+			[
+				"n",
+				"thi; thi cử"
 			]
 		]
 	}

@@ -100,6 +100,15 @@
 			]
 		]
 	},
+	"入迷": {
+		"py": "rùmí",
+		"mn": [
+			[
+				"v",
+				"mê li; mê hồn; mê mẩn; say mê; mê đắm; cuốn hút"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -174,12 +183,38 @@
 			]
 		]
 	},
+	"美女": {
+		"py": "měinǚ",
+		"mn": [
+			[
+				"n",
+				"mỹ nữ; con gái đẹp; mỹ nhân; người đẹp; chị đẹp"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"呆": {
+		"py": "dāi",
+		"mn": [
+			[
+				"adj",
+				"ngốc; ngu; đần độn; ngu si (đầu óc) | ngẩn; ngớ; ngẩn ngơ; ngớ ngẩn; đờ ra; trơ ra"
+			],
+			[
+				"v",
+				"ở; ở lại; nán lại"
+			],
+			[
+				"n",
+				"họ Bảo"
 			]
 		]
 	},
@@ -223,6 +258,15 @@
 			[
 				"n",
 				"quan điểm; cách nhìn; ý kiến; nhận định | họ Kiến"
+			]
+		]
+	},
+	"世面": {
+		"py": "shìmiàn",
+		"mn": [
+			[
+				"n",
+				"cảnh đời; việc đời; các mặt của xã hội; thế diện"
 			]
 		]
 	},
@@ -304,6 +348,15 @@
 			]
 		]
 	},
+	"盯": {
+		"py": "dīng",
+		"mn": [
+			[
+				"v",
+				"nhìn chăm chú; nhìn chằm chằm; dán mắt, tập trung vào; chú ý"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
@@ -337,6 +390,15 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"不礼貌": {
+		"py": "bùlǐmào",
+		"mn": [
+			[
+				"adj",
+				"không lịch sự; bất lịch sự"
 			]
 		]
 	},
@@ -464,6 +526,15 @@
 			]
 		]
 	},
+	"丈夫": {
+		"py": "zhàngfū",
+		"mn": [
+			[
+				"n",
+				"trượng phu; đàn ông; con trai; nam nhi | chồng; ông xã"
+			]
+		]
+	},
 	"就要": {
 		"py": "jiùyào",
 		"mn": [
@@ -504,6 +575,19 @@
 			[
 				"adv",
 				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"得了": {
+		"py": "déle",
+		"mn": [
+			[
+				"v",
+				"được; được rồi; thôi đi"
+			],
+			[
+				"part",
+				"đạt (trợ từ, dùng trong câu trần thuật, biểu thị sự khẳng định)"
 			]
 		]
 	},
@@ -554,6 +638,15 @@
 			]
 		]
 	},
+	"眼神": {
+		"py": "yǎnshén",
+		"mn": [
+			[
+				"n",
+				"ánh mắt | thị lực"
+			]
+		]
+	},
 	"只是": {
 		"py": "zhǐshì",
 		"mn": [
@@ -576,6 +669,15 @@
 			]
 		]
 	},
+	"欣赏": {
+		"py": "xīnshǎng",
+		"mn": [
+			[
+				"v",
+				"thưởng thức; ngắm; ngắm nhìn; chiêm ngưỡng | đánh giá cao; tán thưởng; yêu thích; thích"
+			]
+		]
+	},
 	"女人": {
 		"py": "nǚrén",
 		"mn": [
@@ -591,6 +693,23 @@
 			[
 				"n",
 				"thân thể; cơ thể | sức khỏe"
+			]
+		]
+	},
+	"美": {
+		"py": "měi",
+		"mn": [
+			[
+				"n",
+				"vẻ đẹp; đẹp; tốt | châu Mỹ | nước Mỹ; Hoa Kỳ; Mỹ"
+			],
+			[
+				"v",
+				"tự mãn; mãn nguyện; hài lòng; tự hào | làm; làm đẹp"
+			],
+			[
+				"adj",
+				"đẹp; duyên dáng; xinh đẹp | tốt; ngon (thức ăn; đồ uống)"
 			]
 		]
 	},

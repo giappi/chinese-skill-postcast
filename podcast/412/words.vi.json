@@ -39,6 +39,15 @@
 			]
 		]
 	},
+	"打不通": {
+		"py": "dǎbùtōng",
+		"mn": [
+			[
+				"v",
+				"Gọi không được"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -152,6 +161,15 @@
 			]
 		]
 	},
+	"微信": {
+		"py": "wēixìn",
+		"mn": [
+			[
+				"n",
+				"WeChat (mạng xã hội của Trung Quốc)"
+			]
+		]
+	},
 	"联系": {
 		"py": "liánxì",
 		"mn": [
@@ -192,6 +210,33 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"移动": {
+		"py": "yídòng",
+		"mn": [
+			[
+				"v",
+				"di động; chuyển dời; di chuyển; xê dịch; chuyển động"
+			]
+		]
+	},
+	"联通": {
+		"py": "liántōng",
+		"mn": [
+			[
+				"",
+				"Tổng công ty Viễn thông Hoa Kỳ Trung Quốc | viết tắt cho 中國聯通 | 中国联通 | hay còn gọi là China Unicom hoặc Unicom | sự liên quan | liên kết | liên kết với nhau"
+			]
+		]
+	},
+	"电信": {
+		"py": "diànxìn",
+		"mn": [
+			[
+				"n",
+				"điện tín; viễn thông"
 			]
 		]
 	}

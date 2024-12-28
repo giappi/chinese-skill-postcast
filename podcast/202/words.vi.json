@@ -30,6 +30,15 @@
 			]
 		]
 	},
+	"饭菜": {
+		"py": "fàncài",
+		"mn": [
+			[
+				"n",
+				"cơm nước; cơm và thức ăn"
+			]
+		]
+	},
 	"真": {
 		"py": "zhēn",
 		"mn": [
@@ -53,6 +62,15 @@
 			[
 				"adj",
 				"ngon; ngon miệng; thơm ngon"
+			]
+		]
+	},
+	"做饭": {
+		"py": "zuòfàn",
+		"mn": [
+			[
+				"v",
+				"làm cơm; nấu cơm; nấu ăn; nấu bếp"
 			]
 		]
 	},
@@ -84,6 +102,15 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"洗碗": {
+		"py": "xǐwǎn",
+		"mn": [
+			[
+				"v",
+				"rửa bát; rửa chén"
 			]
 		]
 	}

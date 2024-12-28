@@ -48,12 +48,39 @@
 			]
 		]
 	},
+	"高跟鞋": {
+		"py": "gāogēnxié",
+		"mn": [
+			[
+				"n",
+				"giầy cao gót"
+			]
+		]
+	},
 	"他": {
 		"py": "tā",
 		"mn": [
 			[
 				"pro",
 				"nó; anh ấy; hắn; người ấy; anh ta; y; cậu ấy (đàn ông) | khác; ngoài | hư chỉ (dùng giữa động từ hoặc số từ) | ai đó; nhiều người; mọi người"
+			]
+		]
+	},
+	"炒股": {
+		"py": "chǎogǔ",
+		"mn": [
+			[
+				"sv",
+				"đầu tư cổ phiếu; đầu tư chứng khoán"
+			]
+		]
+	},
+	"抽烟": {
+		"py": "chōuyān",
+		"mn": [
+			[
+				"sv, v",
+				"hút thuốc"
 			]
 		]
 	}

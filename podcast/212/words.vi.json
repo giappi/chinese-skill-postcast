@@ -89,6 +89,15 @@
 			]
 		]
 	},
+	"餐巾纸": {
+		"py": "cānjīnzhǐ",
+		"mn": [
+			[
+				"n",
+				"giấy ăn (giấy lau dùng trong bữa ăn)"
+			]
+		]
+	},
 	"好": {
 		"py": "hǎo",
 		"mn": [
@@ -163,6 +172,15 @@
 			]
 		]
 	},
+	"筷子": {
+		"py": "kuàizi",
+		"mn": [
+			[
+				"n",
+				"đũa; đôi đũa"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -206,6 +224,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"杯子": {
+		"py": "bēizi",
+		"mn": [
+			[
+				"n",
+				"cốc; chén; ly; tách"
 			]
 		]
 	},
@@ -273,6 +300,15 @@
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"起来": {
+		"py": "qǐlái",
+		"mn": [
+			[
+				"v",
+				"ngồi dậy; đứng dậy | ngủ dậy; thức dậy | nổi dậy; vùng lên; dâng lên"
 			]
 		]
 	},

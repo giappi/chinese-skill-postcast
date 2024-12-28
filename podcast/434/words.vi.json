@@ -99,6 +99,15 @@
 			]
 		]
 	},
+	"端午节": {
+		"py": "duānwǔjié",
+		"mn": [
+			[
+				"n",
+				"Tết Đoan Ngọ"
+			]
+		]
+	},
 	"难怪": {
 		"py": "nánguài",
 		"mn": [
@@ -164,6 +173,15 @@
 			]
 		]
 	},
+	"农历": {
+		"py": "nónglì",
+		"mn": [
+			[
+				"n",
+				"nông lịch; âm lịch"
+			]
+		]
+	},
 	"五月": {
 		"py": "wǔyuè",
 		"mn": [
@@ -179,6 +197,15 @@
 			[
 				"n, time",
 				"năm nay"
+			]
+		]
+	},
+	"六月": {
+		"py": "liùyuè",
+		"mn": [
+			[
+				"n",
+				"Tháng 6 | tháng sáu"
 			]
 		]
 	},
@@ -217,12 +244,30 @@
 			]
 		]
 	},
+	"那天": {
+		"py": "nàtiān",
+		"mn": [
+			[
+				"n",
+				"hôm đấy; hôm đó; hôm nọ"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
 			[
 				"pro",
 				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"放假": {
+		"py": "fàngjià",
+		"mn": [
+			[
+				"v, sv",
+				"nghỉ; nghỉ định kỳ"
 			]
 		]
 	},
@@ -257,6 +302,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"家人": {
+		"py": "jiārén",
+		"mn": [
+			[
+				"n",
+				"gia đình; người nhà; thành viên trong gia đình"
 			]
 		]
 	},
@@ -307,6 +361,15 @@
 			]
 		]
 	},
+	"赛龙舟": {
+		"py": "sàilóngzhōu",
+		"mn": [
+			[
+				"n",
+				"đua thuyền rồng"
+			]
+		]
+	},
 	"吃": {
 		"py": "chī",
 		"mn": [
@@ -321,6 +384,15 @@
 			[
 				"adj",
 				"nói lắp; cà lăm"
+			]
+		]
+	},
+	"粽子": {
+		"py": "zòngzi",
+		"mn": [
+			[
+				"n",
+				"bánh chưng; bánh tét; bánh ú"
 			]
 		]
 	},
@@ -387,6 +459,15 @@
 			[
 				"v",
 				"có ý; có tình cảm (tình cảm nam nữ)"
+			]
+		]
+	},
+	"露天": {
+		"py": "lùtiān",
+		"mn": [
+			[
+				"n",
+				"ngoài trời | lộ thiên; không che đậy"
 			]
 		]
 	},
@@ -611,6 +692,15 @@
 			[
 				"onom",
 				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"落汤鸡": {
+		"py": "luòtāngjī",
+		"mn": [
+			[
+				"n",
+				"ướt như chuột lột; ướt sũng (như gà nhúng nước)"
 			]
 		]
 	}

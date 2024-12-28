@@ -60,12 +60,47 @@
 			]
 		]
 	},
+	"报纸": {
+		"py": "bàozhǐ",
+		"mn": [
+			[
+				"n",
+				"báo; báo giấy | giấy báo"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"娱乐": {
+		"py": "yúlè",
+		"mn": [
+			[
+				"v",
+				"vui chơi; giải trí"
+			],
+			[
+				"n",
+				"giải trí; hoạt động thư giãn"
+			]
+		]
+	},
+	"版": {
+		"py": "bǎn",
+		"mn": [
+			[
+				"n",
+				"bản kẽm; bản in | trang; trang báo | phên; ván"
+			],
+			[
+				"measure",
+				"lần xuất bản; lần in sách; phiên bản"
 			]
 		]
 	},
@@ -84,6 +119,28 @@
 			[
 				"adv",
 				"lại (biểu thị lặp lại hoặc tiếp tục) | vừa...vừa.... | lại; lại thêm; lại còn (biểu thị tăng thêm) | nhưng; lại (biểu thị chuyển ý) | còn; thêm (biểu thị bổ sung) | thêm; cộng; với | vừa... lại; vừa... vừa (biểu thị hai sự việc có mâu thuẫn) | đâu (biểu thị nhấn mạnh)"
+			]
+		]
+	},
+	"八卦": {
+		"py": "bāguà",
+		"mn": [
+			[
+				"n",
+				"bát quái | tin vịt; tin đồn nhảm; tin nóng; tin sốt dẻo; drama"
+			],
+			[
+				"adj",
+				"hóng hớt; tám chuyện; nhiều chuyện"
+			]
+		]
+	},
+	"新闻": {
+		"py": "xīnwén",
+		"mn": [
+			[
+				"n",
+				"tin; tin tức; tin thời sự"
 			]
 		]
 	},

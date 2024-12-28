@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"一大早": {
+		"py": "yīdàzǎo",
+		"mn": [
+			[
+				"n",
+				"sáng sớm; mới sáng sớm"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -331,6 +340,24 @@
 			]
 		]
 	},
+	"充裕": {
+		"py": "chōngyù",
+		"mn": [
+			[
+				"adj",
+				"dư dả; dồi dào; sung túc"
+			]
+		]
+	},
+	"悠哉": {
+		"py": "yōuzāi",
+		"mn": [
+			[
+				"v",
+				"xem 悠哉 悠哉"
+			]
+		]
+	},
 	"地": {
 		"py": "de",
 		"mn": [
@@ -357,6 +384,15 @@
 			]
 		]
 	},
+	"免税店": {
+		"py": "miǎnshuìdiàn",
+		"mn": [
+			[
+				"",
+				"Cửa hàng miễn thuế"
+			]
+		]
+	},
 	"里": {
 		"py": "lǐ",
 		"mn": [
@@ -367,6 +403,15 @@
 			[
 				"measure",
 				"dặm (đơn vị đo chiều dài, bằng 1/2 km)"
+			]
+		]
+	},
+	"逛": {
+		"py": "guàng",
+		"mn": [
+			[
+				"v",
+				"đi dạo; dạo chơi; đi chơi; đi ngao du | mua; mua sắm"
 			]
 		]
 	},
@@ -415,6 +460,15 @@
 			[
 				"n, nlocal",
 				"Trung Hoa; Trung Quốc; nước cộng hoà nhân dân Trung Hoa"
+			]
+		]
+	},
+	"特色": {
+		"py": "tèsè",
+		"mn": [
+			[
+				"n",
+				"đặc trưng; đặc điểm"
 			]
 		]
 	},
@@ -471,6 +525,15 @@
 			[
 				"n",
 				"họ Tái"
+			]
+		]
+	},
+	"慢悠悠": {
+		"py": "mànyōuyōu",
+		"mn": [
+			[
+				"adj",
+				"chậm rì rì; chậm như rùa"
 			]
 		]
 	},

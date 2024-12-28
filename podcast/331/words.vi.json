@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"毽子": {
+		"py": "jiànzi",
+		"mn": [
+			[
+				"n",
+				"quả cầu; quả kiện; trái cầu"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -178,6 +187,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"五彩": {
+		"py": "wǔcǎi",
+		"mn": [
+			[
+				"n",
+				"năm màu; ngũ sắc (vàng, xanh, đỏ, trắng, đen); nhiều màu sắc"
 			]
 		]
 	},
@@ -364,6 +382,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"运动鞋": {
+		"py": "yùndòngxié",
+		"mn": [
+			[
+				"n",
+				"giày thể thao"
 			]
 		]
 	},

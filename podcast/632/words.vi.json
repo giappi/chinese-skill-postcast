@@ -167,6 +167,15 @@
 			]
 		]
 	},
+	"樱花": {
+		"py": "yīnghuā",
+		"mn": [
+			[
+				"n",
+				"anh đào"
+			]
+		]
+	},
 	"二十": {
 		"py": "èrshí",
 		"mn": [
@@ -194,6 +203,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"公园": {
+		"py": "gōngyuán",
+		"mn": [
+			[
+				"n",
+				"công viên"
 			]
 		]
 	},
@@ -318,6 +336,23 @@
 			[
 				"n",
 				"họ Đa"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
 			]
 		]
 	},

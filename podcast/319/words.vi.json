@@ -117,6 +117,15 @@
 			]
 		]
 	},
+	"意见": {
+		"py": "yìjiàn",
+		"mn": [
+			[
+				"n",
+				"ý kiến | phàn nàn; thành kiến; ý kiến; sự không hài lòng (biểu thị sự không bằng lòng đối với người và sự vật)"
+			]
+		]
+	},
 	"没": {
 		"py": "méi",
 		"mn": [
@@ -171,6 +180,15 @@
 			[
 				"prep",
 				"theo; dựa theo; chiếu theo; dựa vào; căn cứ vào"
+			]
+		]
+	},
+	"百家姓": {
+		"py": "bǎijiāxìng",
+		"mn": [
+			[
+				"n",
+				"bách gia tính; trăm họ Trung quốc"
 			]
 		]
 	},
@@ -257,6 +275,15 @@
 			]
 		]
 	},
+	"贝克汉姆": {
+		"py": "bèikèhànmǔ",
+		"mn": [
+			[
+				"n",
+				"David Beckham"
+			]
+		]
+	},
 	"名": {
 		"py": "míng",
 		"mn": [
@@ -297,6 +324,15 @@
 			[
 				"conj",
 				"thế; vậy; vậy thì; thế thì"
+			]
+		]
+	},
+	"好办": {
+		"py": "hǎobàn",
+		"mn": [
+			[
+				"adj",
+				"dễ làm; dễ xử lý; ngon ơ; ngon | dễ xài; ngon ăn | ngon xơi"
 			]
 		]
 	},

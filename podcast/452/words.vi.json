@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"怀孕": {
+		"py": "huáiyùn",
+		"mn": [
+			[
+				"v, sv",
+				"mang thai; có thai; có chửa; có mang"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -109,6 +118,15 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"升级": {
+		"py": "shēngjí",
+		"mn": [
+			[
+				"v",
+				"thăng cấp; lên cấp; ăn lên | leo thang (chiến tranh) | nâng cấp; tăng cấp"
 			]
 		]
 	},

@@ -50,6 +50,15 @@
 			]
 		]
 	},
+	"回国": {
+		"py": "huíguó",
+		"mn": [
+			[
+				"v",
+				"về nước"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -120,6 +129,15 @@
 			[
 				"measure",
 				"tiếng; cái; lần (chỉ số lần của động tác) | chỉ dung lượng của vật chứa | ngón; chiêu (dùng sau 两、几 để chỉ bản lĩnh, kỹ năng)"
+			]
+		]
+	},
+	"周二": {
+		"py": "zhōuèr",
+		"mn": [
+			[
+				"n",
+				"Thứ ba"
 			]
 		]
 	},

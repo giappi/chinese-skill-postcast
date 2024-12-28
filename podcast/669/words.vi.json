@@ -109,6 +109,15 @@
 			]
 		]
 	},
+	"简直": {
+		"py": "jiǎnzhí",
+		"mn": [
+			[
+				"adv",
+				"quả thực; quả thật; quả là; thật là; tưởng như là; chừng như; tưởng chừng như; gần như là; quả thật là"
+			]
+		]
+	},
 	"就是": {
 		"py": "jiùshì",
 		"mn": [
@@ -123,6 +132,15 @@
 			[
 				"part",
 				"được; được rồi; đúng rồi; không sai"
+			]
+		]
+	},
+	"天使": {
+		"py": "tiānshǐ",
+		"mn": [
+			[
+				"n",
+				"thiên sứ; thiên thần"
 			]
 		]
 	},
@@ -144,6 +162,24 @@
 			]
 		]
 	},
+	"魔鬼": {
+		"py": "móguǐ",
+		"mn": [
+			[
+				"n",
+				"quỷ; ma; ma quỷ"
+			]
+		]
+	},
+	"身材": {
+		"py": "shēncái",
+		"mn": [
+			[
+				"n",
+				"vóc người; vóc dáng; dáng người; hình vóc; tướng tá; thân hình"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -154,6 +190,15 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"整容": {
+		"py": "zhěngróng",
+		"mn": [
+			[
+				"v",
+				"giải phẫu thẩm mỹ; phẫu thuật thẩm mỹ"
 			]
 		]
 	},
@@ -229,6 +274,19 @@
 			[
 				"n",
 				"trước đây; trước kia; ngày trước; khi trước; ngày xưa; hồi xưa"
+			]
+		]
+	},
+	"变化": {
+		"py": "biànhuà",
+		"mn": [
+			[
+				"n",
+				"sự thay đổi; sự biến đổi"
+			],
+			[
+				"v",
+				"biến hoá; biến đổi; thay đổi"
 			]
 		]
 	},

@@ -73,12 +73,39 @@
 			]
 		]
 	},
+	"天坛": {
+		"py": "tiāntán",
+		"mn": [
+			[
+				"n",
+				"Thiên Đàn"
+			]
+		]
+	},
+	"公园": {
+		"py": "gōngyuán",
+		"mn": [
+			[
+				"n",
+				"công viên"
+			]
+		]
+	},
 	"旁边": {
 		"py": "pángbiān",
 		"mn": [
 			[
 				"n",
 				"cạnh; bên cạnh; hai bên trái phải; chỗ tiếp cận"
+			]
+		]
+	},
+	"颐和园": {
+		"py": "yíhéyuán",
+		"mn": [
+			[
+				"n",
+				"Di Hoà viên (một địa danh nổi tiếng ở Trung Quốc, nghĩa là \"Cung điện mùa hè\"; đây là một khu di tích văn hóa với cảnh quan thiên nhiên đẹp, nổi tiếng ở Bắc Kinh)"
 			]
 		]
 	},

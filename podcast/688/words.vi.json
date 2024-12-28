@@ -136,6 +136,15 @@
 			]
 		]
 	},
+	"啥": {
+		"py": "shá",
+		"mn": [
+			[
+				"pro",
+				"cái gì"
+			]
+		]
+	},
 	"东西": {
 		"py": "dōngxi",
 		"mn": [
@@ -172,6 +181,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
 			]
 		]
 	},
@@ -258,6 +276,19 @@
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"却": {
+		"py": "què",
+		"mn": [
+			[
+				"adv",
+				"lại; nhưng; mà lại; nhưng mà"
+			],
+			[
+				"v",
+				"lùi; lui; lui bước | đẩy lùi; đánh lùi | chối từ; khước từ; từ chối | mất; đi"
 			]
 		]
 	},

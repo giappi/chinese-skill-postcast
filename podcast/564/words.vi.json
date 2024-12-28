@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"走过": {
+		"py": "zǒuguò",
+		"mn": [
+			[
+				"v",
+				"đi ngang qua | đi bộ qua"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -161,6 +170,24 @@
 			]
 		]
 	},
+	"地图": {
+		"py": "dìtú",
+		"mn": [
+			[
+				"n",
+				"bản đồ; địa đồ"
+			]
+		]
+	},
+	"导航": {
+		"py": "dǎoháng",
+		"mn": [
+			[
+				"v",
+				"hướng dẫn; dẫn đường; điều hướng; định vị (tàu thuyền hoặc máy bay)"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -205,6 +232,15 @@
 			]
 		]
 	},
+	"行驶": {
+		"py": "xíngshǐ",
+		"mn": [
+			[
+				"v",
+				"chạy; di chuyển (phương tiện giao thông)"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -226,12 +262,39 @@
 			]
 		]
 	},
+	"随后": {
+		"py": "suíhòu",
+		"mn": [
+			[
+				"adv",
+				"theo sau; sau đó; tiếp theo"
+			]
+		]
+	},
+	"向东": {
+		"py": "xiàngdōng",
+		"mn": [
+			[
+				"n",
+				"về phía đông"
+			]
+		]
+	},
 	"全程": {
 		"py": "quánchéng",
 		"mn": [
 			[
 				"n",
 				"toàn bộ hành trình"
+			]
+		]
+	},
+	"公里": {
+		"py": "gōnglǐ",
+		"mn": [
+			[
+				"measure",
+				"kilomet; cây số"
 			]
 		]
 	}

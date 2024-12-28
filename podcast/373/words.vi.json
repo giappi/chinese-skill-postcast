@@ -63,12 +63,30 @@
 			]
 		]
 	},
+	"阳朔": {
+		"py": "yángshuò",
+		"mn": [
+			[
+				"",
+				"Quận Yangshuo ở Quế Lâm 桂林 , Quảng Tây"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"硬卧": {
+		"py": "yìngwò",
+		"mn": [
+			[
+				"n",
+				"giường cứng; giường gỗ (trên xe lửa)"
 			]
 		]
 	},
@@ -90,6 +108,15 @@
 			[
 				"n",
 				"đại đội (sử dụng trong quân đội) | họ Liên"
+			]
+		]
+	},
+	"站票": {
+		"py": "zhànpiào",
+		"mn": [
+			[
+				"n",
+				"vé đứng"
 			]
 		]
 	},
@@ -152,6 +179,24 @@
 			[
 				"adv",
 				"chỉ (trong phạm vi)"
+			]
+		]
+	},
+	"剩": {
+		"py": "shèng",
+		"mn": [
+			[
+				"v",
+				"thừa lại; còn lại"
+			]
+		]
+	},
+	"硬座": {
+		"py": "yìngzuò",
+		"mn": [
+			[
+				"n",
+				"ghế ngồi cứng; ghế cứng; ghế hạng phổ thông (trên xe lửa)"
 			]
 		]
 	},

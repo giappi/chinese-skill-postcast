@@ -151,6 +151,15 @@
 			]
 		]
 	},
+	"小区": {
+		"py": "xiǎoqū",
+		"mn": [
+			[
+				"n",
+				"tiểu khu; khu chung cư; khu dân cư"
+			]
+		]
+	},
 	"后面": {
 		"py": "hòumiàn",
 		"mn": [
@@ -183,6 +192,15 @@
 			[
 				"v",
 				"mua sắm; mua hàng"
+			]
+		]
+	},
+	"商场": {
+		"py": "shāngchǎng",
+		"mn": [
+			[
+				"n",
+				"thị trường | cửa hàng tổng hợp; cửa hàng; trung tâm thương mại; trung tâm mua sắm | thương trường"
 			]
 		]
 	},

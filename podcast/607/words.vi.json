@@ -56,6 +56,15 @@
 			]
 		]
 	},
+	"头晕": {
+		"py": "tóuyūn",
+		"mn": [
+			[
+				"adj",
+				"chóng mặt; choáng váng; đau đầu; nhức đầu"
+			]
+		]
+	},
 	"头疼": {
 		"py": "tóuténg",
 		"mn": [
@@ -235,6 +244,15 @@
 			]
 		]
 	},
+	"退烧药": {
+		"py": "tuìshāoyào",
+		"mn": [
+			[
+				"n",
+				"hạ sốt (thuốc hạ sốt, chẳng hạn như sulfanilamide)"
+			]
+		]
+	},
 	"估计": {
 		"py": "gūjì",
 		"mn": [
@@ -339,6 +357,15 @@
 			]
 		]
 	},
+	"请假": {
+		"py": "qǐngjià",
+		"mn": [
+			[
+				"sv, v",
+				"xin nghỉ; xin phép nghỉ (do bệnh tật hay gặp khó khăn)"
+			]
+		]
+	},
 	"回家": {
 		"py": "huíjiā",
 		"mn": [
@@ -376,6 +403,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"假": {
+		"py": "jià",
+		"mn": [
+			[
+				"n",
+				"kỳ nghỉ (ngày lễ; dịp lễ) | phép nghỉ"
 			]
 		]
 	},

@@ -79,6 +79,24 @@
 			]
 		]
 	},
+	"禁止": {
+		"py": "jìnzhǐ",
+		"mn": [
+			[
+				"v",
+				"cấm; cấm đoán; ngăn chặn; không cho phép"
+			]
+		]
+	},
+	"喝酒": {
+		"py": "hējiǔ",
+		"mn": [
+			[
+				"v",
+				"uống rượu"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -123,6 +141,33 @@
 			[
 				"conj",
 				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
+			]
+		]
+	},
+	"酒后": {
+		"py": "jiǔhòu",
+		"mn": [
+			[
+				"n",
+				"sau khi uống rượu | dưới ảnh hưởng của rượu"
+			]
+		]
+	},
+	"驾驶": {
+		"py": "jiàshǐ",
+		"mn": [
+			[
+				"v",
+				"lái; điều khiển; bẻ lái (xe, thuyền, máy bay ...)"
 			]
 		]
 	}

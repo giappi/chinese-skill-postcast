@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"暑假": {
+		"py": "shǔjià",
+		"mn": [
+			[
+				"n",
+				"nghỉ hè; kỳ nghỉ hè"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -36,6 +45,15 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"假": {
+		"py": "jià",
+		"mn": [
+			[
+				"n",
+				"kỳ nghỉ (ngày lễ; dịp lễ) | phép nghỉ"
 			]
 		]
 	},
@@ -96,6 +114,19 @@
 			[
 				"pro",
 				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"一块儿": {
+		"py": "yīkuàir",
+		"mn": [
+			[
+				"n",
+				"cùng nơi; cùng một chỗ"
+			],
+			[
+				"adv",
+				"cùng; cùng nhau; cùng một thể"
 			]
 		]
 	},
@@ -194,6 +225,15 @@
 			]
 		]
 	},
+	"阳朔": {
+		"py": "yángshuò",
+		"mn": [
+			[
+				"",
+				"Quận Yangshuo ở Quế Lâm 桂林 , Quảng Tây"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -285,6 +325,15 @@
 			[
 				"n",
 				"họ Mãi"
+			]
+		]
+	},
+	"火车": {
+		"py": "huǒchē",
+		"mn": [
+			[
+				"n",
+				"xe lửa; tàu hoả"
 			]
 		]
 	},

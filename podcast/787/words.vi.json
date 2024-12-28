@@ -68,6 +68,15 @@
 			]
 		]
 	},
+	"大连": {
+		"py": "dàlián",
+		"mn": [
+			[
+				"n, nlocal",
+				"Đại Liên (thuộc tỉnh Liêu Ninh)"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -226,6 +235,15 @@
 			[
 				"n, nlocal",
 				"Bắc Kinh; Beijing (thủ đô Trung Quốc)"
+			]
+		]
+	},
+	"不算": {
+		"py": "bùsuàn",
+		"mn": [
+			[
+				"v",
+				"xí xoá"
 			]
 		]
 	},
@@ -579,6 +597,15 @@
 			]
 		]
 	},
+	"闲着": {
+		"py": "xiánzhe",
+		"mn": [
+			[
+				"v",
+				"trốn tránh khó nhọc"
+			]
+		]
+	},
 	"不如": {
 		"py": "bùrú",
 		"mn": [
@@ -672,6 +699,15 @@
 			[
 				"measure",
 				"số năm (chỉ số lượng)"
+			]
+		]
+	},
+	"看上去": {
+		"py": "kànshàngqù",
+		"mn": [
+			[
+				"v",
+				"trông; trông như; trông có vẻ"
 			]
 		]
 	},

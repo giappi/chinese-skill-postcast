@@ -147,6 +147,19 @@
 			]
 		]
 	},
+	"具体": {
+		"py": "jùtǐ",
+		"mn": [
+			[
+				"adj",
+				"cụ thể; rõ ràng | cụ thể"
+			],
+			[
+				"v",
+				"cụ thể; cụ thể hóa"
+			]
+		]
+	},
 	"地点": {
 		"py": "dìdiǎn",
 		"mn": [
@@ -289,6 +302,19 @@
 			[
 				"n",
 				"bên trong; trong"
+			]
+		]
+	},
+	"好多": {
+		"py": "hǎoduō",
+		"mn": [
+			[
+				"adj",
+				"nhiều; quá nhiều; rất nhiều"
+			],
+			[
+				"pro",
+				"bao nhiêu(hỏi số lượng)"
 			]
 		]
 	},
@@ -470,6 +496,15 @@
 			[
 				"adv",
 				"ngay; lập tức; tức khắc; liền lập tức; ngay lập tức"
+			]
+		]
+	},
+	"消防车": {
+		"py": "xiāofángchē",
+		"mn": [
+			[
+				"n",
+				"xe cứu hỏa; xe chữa lửa; xe chữa cháy | xe cứu hoả"
 			]
 		]
 	},

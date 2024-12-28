@@ -30,6 +30,15 @@
 			]
 		]
 	},
+	"没精打采": {
+		"py": "méijīngdǎcǎi",
+		"mn": [
+			[
+				"idioms",
+				"ủ rũ; buồn bã; ỉu xìu; thẫn thờ | rù rù"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -129,6 +138,15 @@
 			]
 		]
 	},
+	"闹洞房": {
+		"py": "nàodòngfáng",
+		"mn": [
+			[
+				"v",
+				"làm phiền sự riêng tư của phòng tân hôn (phong tục Trung Quốc nơi khách đùa giỡn và chơi khăm các cặp đôi mới cưới)"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -204,6 +222,46 @@
 			]
 		]
 	},
+	"洞房": {
+		"py": "dòngfáng",
+		"mn": [
+			[
+				"n",
+				"động phòng; buồng cưới; phòng tân hôn"
+			]
+		]
+	},
+	"拼命": {
+		"py": "pīnmìng",
+		"mn": [
+			[
+				"adv",
+				"liều mạng; liều mình; liều lĩnh"
+			],
+			[
+				"v, sv",
+				"liều; liều mạng"
+			]
+		]
+	},
+	"刁难": {
+		"py": "diāonàn",
+		"mn": [
+			[
+				"v",
+				"hạch sách; làm khó dễ; gây khó khăn; gây khó dễ"
+			]
+		]
+	},
+	"新郎": {
+		"py": "xīnláng",
+		"mn": [
+			[
+				"n",
+				"chú rể; tân lang"
+			]
+		]
+	},
 	"新娘": {
 		"py": "xīnniáng",
 		"mn": [
@@ -268,6 +326,15 @@
 			]
 		]
 	},
+	"人家": {
+		"py": "rénjiā",
+		"mn": [
+			[
+				"n",
+				"nhà; hộ; gia đình | nhà người ta; nhà chồng tương lai; gia đình chồng tương lai"
+			]
+		]
+	},
 	"办": {
 		"py": "bàn",
 		"mn": [
@@ -304,6 +371,19 @@
 			[
 				"adj",
 				"đủ; quá"
+			]
+		]
+	},
+	"累": {
+		"py": "lèi",
+		"mn": [
+			[
+				"v",
+				"mỏi (làm cho mệt mỏi) | mệt mỏi; vất vả (quá tải)"
+			],
+			[
+				"adj",
+				"mệt; mệt mỏi; mệt nhọc"
 			]
 		]
 	},

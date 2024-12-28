@@ -109,12 +109,39 @@
 			]
 		]
 	},
+	"还行": {
+		"py": "háixíng",
+		"mn": [
+			[
+				"adj",
+				"vẫn ổn; cũng được; tạm ổn; cũng tạm"
+			]
+		]
+	},
 	"听说": {
 		"py": "tīngshuō",
 		"mn": [
 			[
 				"v",
 				"nghe nói | nghe nói (kỹ năng nghe và nói)"
+			]
+		]
+	},
+	"I": {
+		"py": "",
+		"mn": [
+			[
+				"",
+				"越文字母第十二字。"
+			]
+		]
+	},
+	"do": {
+		"py": "",
+		"mn": [
+			[
+				"",
+				"都 | 由于; 职 | 则 | 归"
 			]
 		]
 	},
@@ -506,6 +533,19 @@
 			]
 		]
 	},
+	"聚会": {
+		"py": "jùhuì",
+		"mn": [
+			[
+				"v",
+				"tụ tập; tụ họp; gặp; gặp gỡ (người)"
+			],
+			[
+				"n",
+				"cuộc hội họp; buổi gặp gỡ; buổi họp mặt; buổi tụ tập"
+			]
+		]
+	},
 	"一见钟情": {
 		"py": "yījiànzhōngqíng",
 		"mn": [
@@ -569,6 +609,28 @@
 			[
 				"n, time",
 				"hiện tại; hiện nay; bây giờ; hiện giờ; lúc này"
+			]
+		]
+	},
+	"看上去": {
+		"py": "kànshàngqù",
+		"mn": [
+			[
+				"v",
+				"trông; trông như; trông có vẻ"
+			]
+		]
+	},
+	"阳光": {
+		"py": "yángguāng",
+		"mn": [
+			[
+				"n",
+				"ánh nắng; ánh mặt trời; ánh sáng mặt trời"
+			],
+			[
+				"adj",
+				"lạc quan; vui vẻ | rõ ràng; minh bạch"
 			]
 		]
 	},

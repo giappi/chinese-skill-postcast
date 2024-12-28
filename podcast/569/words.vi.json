@@ -52,6 +52,15 @@
 			]
 		]
 	},
+	"街道": {
+		"py": "jiēdào",
+		"mn": [
+			[
+				"n",
+				"đường phố; đường; con đường"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -86,12 +95,30 @@
 			]
 		]
 	},
+	"商场": {
+		"py": "shāngchǎng",
+		"mn": [
+			[
+				"n",
+				"thị trường | cửa hàng tổng hợp; cửa hàng; trung tâm thương mại; trung tâm mua sắm | thương trường"
+			]
+		]
+	},
 	"饭店": {
 		"py": "fàndiàn",
 		"mn": [
 			[
 				"n",
 				"quán ăn; tiệm cơm; quán cơm; hiệu ăn | khách sạn"
+			]
+		]
+	},
+	"药店": {
+		"py": "yàodiàn",
+		"mn": [
+			[
+				"n",
+				"hiệu thuốc; tiệm thuốc"
 			]
 		]
 	},
@@ -150,12 +177,38 @@
 			]
 		]
 	},
+	"营业": {
+		"py": "yíngyè",
+		"mn": [
+			[
+				"v",
+				"kinh doanh; mở cửa"
+			]
+		]
+	},
 	"咖啡厅": {
 		"py": "kāfēitīng",
 		"mn": [
 			[
 				"n",
 				"quán cà phê; tiệm cà phê"
+			]
+		]
+	},
+	"便利": {
+		"py": "biànlì",
+		"mn": [
+			[
+				"n",
+				"sự thuận tiện; sự tiện lợi"
+			],
+			[
+				"adj",
+				"tiện lợi; thuận tiện; tiện; lợi"
+			],
+			[
+				"v",
+				"thuận tiện hơn; tạo điều kiện thuận lợi; đem lại tiện lợi"
 			]
 		]
 	},
@@ -174,6 +227,28 @@
 			[
 				"n",
 				"quán bar; bar"
+			]
+		]
+	},
+	"甚至": {
+		"py": "shènzhì",
+		"mn": [
+			[
+				"conj",
+				"thậm chí; ngay cả; đến nỗi; hơn nữa"
+			],
+			[
+				"adv",
+				"thậm chí; ngay cả; đến mức"
+			]
+		]
+	},
+	"通宵": {
+		"py": "tōngxiāo",
+		"mn": [
+			[
+				"n",
+				"suốt đêm; cả đêm; thâu đêm"
 			]
 		]
 	}

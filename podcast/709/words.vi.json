@@ -148,12 +148,39 @@
 			]
 		]
 	},
+	"金黄": {
+		"py": "jīnhuáng",
+		"mn": [
+			[
+				"adj",
+				"vàng óng; vàng ánh; vàng óng ả; vàng rực; vàng óng ánh | vàng nhạt"
+			]
+		]
+	},
+	"南瓜": {
+		"py": "nánguā",
+		"mn": [
+			[
+				"n",
+				"bí đỏ; bí rợ; bí ngô"
+			]
+		]
+	},
 	"绿油油": {
 		"py": "lǜyóuyóu",
 		"mn": [
 			[
 				"adj",
 				"xanh mượt; xanh mơn mởn; xanh biếc; xanh mươn mướt"
+			]
+		]
+	},
+	"蔬菜": {
+		"py": "shūcài",
+		"mn": [
+			[
+				"n",
+				"rau; rau củ"
 			]
 		]
 	},

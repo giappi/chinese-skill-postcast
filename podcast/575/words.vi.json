@@ -82,6 +82,15 @@
 			]
 		]
 	},
+	"起来": {
+		"py": "qǐlái",
+		"mn": [
+			[
+				"v",
+				"ngồi dậy; đứng dậy | ngủ dậy; thức dậy | nổi dậy; vùng lên; dâng lên"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -375,6 +384,24 @@
 			]
 		]
 	},
+	"日子": {
+		"py": "rìzi",
+		"mn": [
+			[
+				"n",
+				"ngày; thời kì | thời gian | cuộc sống; sinh kế; ngày tháng"
+			]
+		]
+	},
+	"走路": {
+		"py": "zǒulù",
+		"mn": [
+			[
+				"v",
+				"đi; đi đường; đi bộ | đi; rời đi; đi khỏi"
+			]
+		]
+	},
 	"跑": {
 		"py": "pǎo",
 		"mn": [
@@ -442,6 +469,15 @@
 			[
 				"conj",
 				"song; nhưng; nhưng mà; có điều là; chỉ có điều; có điều; cơ mà"
+			]
+		]
+	},
+	"的确": {
+		"py": "díquè",
+		"mn": [
+			[
+				"adv",
+				"đích xác; đích thực; quả thực; quả là"
 			]
 		]
 	}

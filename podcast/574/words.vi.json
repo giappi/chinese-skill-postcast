@@ -287,6 +287,15 @@
 			]
 		]
 	},
+	"小区": {
+		"py": "xiǎoqū",
+		"mn": [
+			[
+				"n",
+				"tiểu khu; khu chung cư; khu dân cư"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -314,6 +323,28 @@
 			[
 				"n",
 				"tổ chim"
+			]
+		]
+	},
+	"附近": {
+		"py": "fùjìn",
+		"mn": [
+			[
+				"adj",
+				"phụ cận; lân cận; cận;gần đây"
+			],
+			[
+				"n",
+				"vùng phụ cận; vùng lân cận; gần đây"
+			]
+		]
+	},
+	"家人": {
+		"py": "jiārén",
+		"mn": [
+			[
+				"n",
+				"gia đình; người nhà; thành viên trong gia đình"
 			]
 		]
 	},
@@ -394,6 +425,15 @@
 			[
 				"pro",
 				"cô ấy; chị ấy; bà ấy (phái nữ) | cô ấy (chỉ những sự vật đáng kính trọng và yêu quý)"
+			]
+		]
+	},
+	"做饭": {
+		"py": "zuòfàn",
+		"mn": [
+			[
+				"v",
+				"làm cơm; nấu cơm; nấu ăn; nấu bếp"
 			]
 		]
 	},

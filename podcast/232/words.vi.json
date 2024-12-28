@@ -48,12 +48,30 @@
 			]
 		]
 	},
+	"外套": {
+		"py": "wàitào",
+		"mn": [
+			[
+				"n",
+				"áo khoác"
+			]
+		]
+	},
 	"怎么样": {
 		"py": "zěnmeyàng",
 		"mn": [
 			[
 				"pro",
 				"thế nào; như thế nào | ra sao; ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)"
+			]
+		]
+	},
+	"看上去": {
+		"py": "kànshàngqù",
+		"mn": [
+			[
+				"v",
+				"trông; trông như; trông có vẻ"
 			]
 		]
 	},
@@ -222,6 +240,19 @@
 			]
 		]
 	},
+	"蓝": {
+		"py": "lán",
+		"mn": [
+			[
+				"adj",
+				"xanh; lam; xanh da trời"
+			],
+			[
+				"n",
+				"cây chàm | cây cối (có màu xanh) | họ Lam"
+			]
+		]
+	},
 	"只": {
 		"py": "zhǐ",
 		"mn": [
@@ -357,6 +388,53 @@
 			]
 		]
 	},
+	"顶": {
+		"py": "dǐng",
+		"mn": [
+			[
+				"n",
+				"đỉnh; ngọn; chóp; nóc | đỉnh; đỉnh điểm; hạn mức; điểm cao nhất"
+			],
+			[
+				"v",
+				"đội (mang cái gì trên đầu) | nhô lên; nhú lên; kích lên; đẩy lên | húc; chọi | chống; đẩy; chống đỡ | ngược | cãi vã; đốp chát; cãi lại; trả miếng; vặn lại | kham; gánh vác; đảm đương; cáng đáng | bằng; tương đương | thay; đổi; thay thế; thay vào; đánh tráo | gán; nhận gán; chuyển nhượng"
+			],
+			[
+				"measure",
+				"cái; chiếc (lượng từ cho những vật có chóp; đỉnh)"
+			],
+			[
+				"adv",
+				"rất; cực; vô cùng; tột bậc; cực kỳ"
+			],
+			[
+				"prep",
+				"đến (chỉ thời gian)"
+			]
+		]
+	},
+	"灰色": {
+		"py": "huīsè",
+		"mn": [
+			[
+				"adj",
+				"thất vọng; thối chí; u ám; u buồn; chán nản | xám lạnh; mập mờ; mơ hồ; không rõ ràng; thái độ lạnh nhạt | mờ ám; không minh bạch; bất hợp pháp"
+			],
+			[
+				"n",
+				"màu xám"
+			]
+		]
+	},
+	"帽子": {
+		"py": "màozi",
+		"mn": [
+			[
+				"n",
+				"mũ; nón | mũ; cái mác (bị quy chụp)"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
@@ -479,6 +557,15 @@
 			]
 		]
 	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -574,6 +661,15 @@
 			]
 		]
 	},
+	"纯色": {
+		"py": "chúnsè",
+		"mn": [
+			[
+				"n",
+				"thuần sắc; màu thuần"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -588,6 +684,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"花纹": {
+		"py": "huāwén",
+		"mn": [
+			[
+				"n",
+				"hoa văn; vân hoa; vện"
 			]
 		]
 	},
@@ -619,6 +724,15 @@
 			[
 				"adv",
 				"không; chẳng; chả | bất; phi; vô; không (thêm vào trước danh từ, ngữ danh từ, để tạo thành hình dung từ) | không (dùng ở cuối câu, biểu thị câu hỏi) | không cần; không phải; đừng | không (dùng để trả lời)"
+			]
+		]
+	},
+	"花哨": {
+		"py": "huāshào",
+		"mn": [
+			[
+				"adj",
+				"màu sắc rực rỡ; sặc sỡ; đẹp đẽ; màu sắc đẹp đẽ | đa dạng; nhiều kiểu mẫu; biến hoá; nhiều thay đổi"
 			]
 		]
 	},
@@ -705,6 +819,24 @@
 			[
 				"adj",
 				"đã qua; năm ngoái"
+			]
+		]
+	},
+	"试衣间": {
+		"py": "shìyījiān",
+		"mn": [
+			[
+				"n",
+				"phòng thử đồ"
+			]
+		]
+	},
+	"试一试": {
+		"py": "shìyīshì",
+		"mn": [
+			[
+				"v",
+				"để có một thử"
 			]
 		]
 	},

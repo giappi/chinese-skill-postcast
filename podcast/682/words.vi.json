@@ -55,6 +55,15 @@
 			]
 		]
 	},
+	"饺子": {
+		"py": "jiǎozi",
+		"mn": [
+			[
+				"n",
+				"bánh chẻo; sủi cảo; há cảo"
+			]
+		]
+	},
 	"高平": {
 		"py": "gāopíng",
 		"mn": [
@@ -122,6 +131,36 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"咸": {
+		"py": "xián",
+		"mn": [
+			[
+				"adj",
+				"mặn (vị)"
+			],
+			[
+				"adv",
+				"tất cả; đều"
+			],
+			[
+				"n",
+				"món mặn | vị; mặn nhạt | cá mặn (người lười biếng, không thích vận động, không mục tiêu, ý chí ...) | họ Hàm"
+			]
+		]
+	},
+	"淡": {
+		"py": "dàn",
+		"mn": [
+			[
+				"adj",
+				"nhạt; lạt (mùi vị) | nhạt; lợt (màu sắc) | lãnh đạm; lạnh nhạt; không nhiệt tình; nhạt; hờ hững; thờ ơ | nhạt; loãng; mỏng; thưa | ế; ế ẩm (kinh doanh) | nhạt nhẽo; vô vị; vặt vãnh"
+			],
+			[
+				"n",
+				"họ Đạm"
 			]
 		]
 	},

@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"乒乓球": {
+		"py": "pīngpāngqiú",
+		"mn": [
+			[
+				"n",
+				"bóng bàn | quả bóng bàn"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -163,6 +172,15 @@
 			]
 		]
 	},
+	"扣球": {
+		"py": "kòuqiú",
+		"mn": [
+			[
+				"v",
+				"Đập bóng, tấn công | đập bóng"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -251,6 +269,19 @@
 			[
 				"onom",
 				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"裁判": {
+		"py": "cáipàn",
+		"mn": [
+			[
+				"v",
+				"phán định; phán xử; xét xử; phán quyết và quyết định (Toà án căn cứ theo pháp luật, có hai kiểu ra quyết định về một vụ án, là phán quyết và quyết định) | bắt; phân xử; làm trọng tài"
+			],
+			[
+				"n",
+				"trọng tài"
 			]
 		]
 	}

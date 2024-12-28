@@ -60,6 +60,15 @@
 			]
 		]
 	},
+	"将近": {
+		"py": "jiāngjìn",
+		"mn": [
+			[
+				"v",
+				"gần; sắp; tiếp cận"
+			]
+		]
+	},
 	"两": {
 		"py": "liǎng",
 		"mn": [
@@ -176,6 +185,15 @@
 			]
 		]
 	},
+	"纽约": {
+		"py": "niǔyuē",
+		"mn": [
+			[
+				"n",
+				"New York (thành phố miền nam bang New York, cũng viết là New York City)"
+			]
+		]
+	},
 	"下": {
 		"py": "xià",
 		"mn": [
@@ -190,6 +208,15 @@
 			[
 				"measure",
 				"tiếng; cái; lần (chỉ số lần của động tác) | chỉ dung lượng của vật chứa | ngón; chiêu (dùng sau 两、几 để chỉ bản lĩnh, kỹ năng)"
+			]
+		]
+	},
+	"周二": {
+		"py": "zhōuèr",
+		"mn": [
+			[
+				"n",
+				"Thứ ba"
 			]
 		]
 	},
@@ -264,6 +291,19 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"巧": {
+		"py": "qiǎo",
+		"mn": [
+			[
+				"adj",
+				"nhanh nhẹn; kĩ thuật cao; khéo léo | nhạy; nhanh nhạy; khéo (tay, miệng) | đúng lúc; vừa vặn; vừa may; vừa khéo; trùng hợp | giả dối; không thực (lời nói)"
+			],
+			[
+				"n",
+				"kỹ năng; tay nghề"
 			]
 		]
 	},
@@ -345,6 +385,15 @@
 			[
 				"v",
 				"lập; ký kết; đính ước; đính | đặt trước; đặt | sửa; sửa chữa; cải chính; hiệu đính | đóng; đính"
+			]
+		]
+	},
+	"同一": {
+		"py": "tóngyī",
+		"mn": [
+			[
+				"adj",
+				"đồng nhất; chung | thống nhất; nhất trí"
 			]
 		]
 	},
@@ -507,6 +556,19 @@
 			]
 		]
 	},
+	"激动": {
+		"py": "jīdòng",
+		"mn": [
+			[
+				"adj",
+				"xúc động; phấn khích"
+			],
+			[
+				"v",
+				"xúc động; lay động lòng người"
+			]
+		]
+	},
 	"给": {
 		"py": "gěi",
 		"mn": [
@@ -546,6 +608,19 @@
 			[
 				"onom",
 				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"向导": {
+		"py": "xiàngdǎo",
+		"mn": [
+			[
+				"n",
+				"người dẫn đường; người hướng đạo"
+			],
+			[
+				"v",
+				"hướng đạo; dẫn đường"
 			]
 		]
 	},

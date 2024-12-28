@@ -86,12 +86,34 @@
 			]
 		]
 	},
+	"对了": {
+		"py": "duìle",
+		"mn": [
+			[
+				"conj",
+				"đúng rồi (sực nhớ ra còn điều gì chưa nói)"
+			],
+			[
+				"intj",
+				"đúng; đúng rồi"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"借给": {
+		"py": "jiègěi",
+		"mn": [
+			[
+				"v",
+				"cho mượn; cho vay"
 			]
 		]
 	},
@@ -185,6 +207,15 @@
 			]
 		]
 	},
+	"剩": {
+		"py": "shèng",
+		"mn": [
+			[
+				"v",
+				"thừa lại; còn lại"
+			]
+		]
+	},
 	"没": {
 		"py": "méi",
 		"mn": [
@@ -242,6 +273,15 @@
 			[
 				"n",
 				"họ Tái"
+			]
+		]
+	},
+	"还给": {
+		"py": "huángěi",
+		"mn": [
+			[
+				"v",
+				"trả; trả lại; hoàn trả"
 			]
 		]
 	},

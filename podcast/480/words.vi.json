@@ -225,6 +225,23 @@
 			]
 		]
 	},
+	"呆": {
+		"py": "dāi",
+		"mn": [
+			[
+				"adj",
+				"ngốc; ngu; đần độn; ngu si (đầu óc) | ngẩn; ngớ; ngẩn ngơ; ngớ ngẩn; đờ ra; trơ ra"
+			],
+			[
+				"v",
+				"ở; ở lại; nán lại"
+			],
+			[
+				"n",
+				"họ Bảo"
+			]
+		]
+	},
 	"三": {
 		"py": "sān",
 		"mn": [
@@ -382,6 +399,19 @@
 			]
 		]
 	},
+	"干脆": {
+		"py": "gāncuì",
+		"mn": [
+			[
+				"adj",
+				"thẳng thắn; dứt khoát; thẳng thừng"
+			],
+			[
+				"adv",
+				"cứ; dứt khoát"
+			]
+		]
+	},
 	"多": {
 		"py": "duō",
 		"mn": [
@@ -413,6 +443,15 @@
 			[
 				"numb",
 				"mấy (hỏi số lượng bao nhiêu) | mấy; vài (biểu thị một số không xác định từ hai đến chín) | mấy; vài (thay thế con số nhất định) | ngày nào"
+			]
+		]
+	},
+	"拍照": {
+		"py": "pāizhào",
+		"mn": [
+			[
+				"v, sv",
+				"chụp ảnh; chụp hình"
 			]
 		]
 	},

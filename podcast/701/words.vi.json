@@ -78,6 +78,15 @@
 			]
 		]
 	},
+	"北京烤鸭": {
+		"py": "běijīngkǎoyā",
+		"mn": [
+			[
+				"n",
+				"vịt quay Bắc Kinh"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -97,6 +106,15 @@
 			[
 				"part",
 				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"比起": {
+		"py": "bǐqǐ",
+		"mn": [
+			[
+				"",
+				"so sánh với"
 			]
 		]
 	},

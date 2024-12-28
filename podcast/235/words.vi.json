@@ -21,6 +21,15 @@
 			]
 		]
 	},
+	"牙膏": {
+		"py": "yágāo",
+		"mn": [
+			[
+				"n",
+				"kem đánh răng; thuốc đánh răng"
+			]
+		]
+	},
 	"在": {
 		"py": "zài",
 		"mn": [
@@ -35,6 +44,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"特价": {
+		"py": "tèjià",
+		"mn": [
+			[
+				"n",
+				"giá đặc biệt; giá ưu đãi; giá rẻ đặc biệt"
 			]
 		]
 	},
@@ -88,6 +106,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"毛巾": {
+		"py": "máojīn",
+		"mn": [
+			[
+				"n",
+				"khăn; khăn mặt; khăn lông"
 			]
 		]
 	},
@@ -282,6 +309,23 @@
 			[
 				"part",
 				"vậy (dùng trước từ nào đó để tăng thêm ngữ khí)"
+			]
+		]
+	},
+	"支": {
+		"py": "zhī",
+		"mn": [
+			[
+				"v",
+				"chống; đỡ; chống đỡ; chống lên | chịu; chống đỡ; giúp đỡ; ủng hộ | điều động; sai khiến; xúi giục | chi; lĩnh; lãnh; lấy (tiền) | vểnh | chia ra; phân tán; tan vỡ"
+			],
+			[
+				"measure",
+				"đội; đơn vị (lượng từ) | bản; bài (dùng cho bài hát hoặc bài nhạc) | độ sáng (dùng độ sáng của đèn điện) | cây; cán (lượng từ dùng cho vật có hình cán dài)"
+			],
+			[
+				"n",
+				"chi; nhánh; chi nhánh | địa chi; can chi | Chi (tên người)"
 			]
 		]
 	},

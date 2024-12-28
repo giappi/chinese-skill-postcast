@@ -117,6 +117,24 @@
 			]
 		]
 	},
+	"装修": {
+		"py": "zhuāngxiū",
+		"mn": [
+			[
+				"v",
+				"sửa sang; chỉnh trang; bài trí; sửa chữa; trang hoàng"
+			]
+		]
+	},
+	"看上去": {
+		"py": "kànshàngqù",
+		"mn": [
+			[
+				"v",
+				"trông; trông như; trông có vẻ"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -141,6 +159,28 @@
 			[
 				"numb",
 				"tám mươi"
+			]
+		]
+	},
+	"平米": {
+		"py": "píngmǐ",
+		"mn": [
+			[
+				"",
+				"viết tắt của 平方米 | mét vuông"
+			]
+		]
+	},
+	"采光": {
+		"py": "cǎiguāng",
+		"mn": [
+			[
+				"v",
+				"lấy ánh sáng (thiết kế kết cấu toà kiến trúc hoặc cửa sổ to nhỏ sao cho bên trong toà kiến trúc này có ánh sáng thích hợp)"
+			],
+			[
+				"n",
+				"ánh sáng"
 			]
 		]
 	},
@@ -197,6 +237,15 @@
 			[
 				"n",
 				"Ly (một trong tám quẻ bát quái)"
+			]
+		]
+	},
+	"市中心": {
+		"py": "shìzhōngxīn",
+		"mn": [
+			[
+				"n",
+				"trung tâm thành phố"
 			]
 		]
 	},
@@ -274,6 +323,24 @@
 			]
 		]
 	},
+	"小区": {
+		"py": "xiǎoqū",
+		"mn": [
+			[
+				"n",
+				"tiểu khu; khu chung cư; khu dân cư"
+			]
+		]
+	},
+	"步行": {
+		"py": "bùxíng",
+		"mn": [
+			[
+				"v",
+				"đi bộ; cuốc bộ; bộ hành"
+			]
+		]
+	},
 	"五": {
 		"py": "wǔ",
 		"mn": [
@@ -331,6 +398,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"公交": {
+		"py": "gōngjiāo",
+		"mn": [
+			[
+				"n",
+				"giao thông công cộng"
 			]
 		]
 	},
@@ -418,6 +494,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"租金": {
+		"py": "zūjīn",
+		"mn": [
+			[
+				"n",
+				"tiền thuê; giá thuê; phí thuê"
 			]
 		]
 	},

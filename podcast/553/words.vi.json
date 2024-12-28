@@ -90,6 +90,15 @@
 			]
 		]
 	},
+	"饺子": {
+		"py": "jiǎozi",
+		"mn": [
+			[
+				"n",
+				"bánh chẻo; sủi cảo; há cảo"
+			]
+		]
+	},
 	"春节": {
 		"py": "chūnjié",
 		"mn": [
@@ -139,6 +148,24 @@
 			[
 				"v",
 				"du ngoạn; du lịch"
+			]
+		]
+	},
+	"黄金周": {
+		"py": "huángjīnzhōu",
+		"mn": [
+			[
+				"n",
+				"tuần lễ vàng (các kỳ nghỉ lễ ở Trung Quốc kéo dài 7 ngày)"
+			]
+		]
+	},
+	"目前": {
+		"py": "mùqián",
+		"mn": [
+			[
+				"n",
+				"hiện nay; trước mắt; hiện tại"
 			]
 		]
 	},

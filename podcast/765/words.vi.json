@@ -46,6 +46,15 @@
 			]
 		]
 	},
+	"端午节": {
+		"py": "duānwǔjié",
+		"mn": [
+			[
+				"n",
+				"Tết Đoan Ngọ"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -90,6 +99,15 @@
 			]
 		]
 	},
+	"粽子": {
+		"py": "zòngzi",
+		"mn": [
+			[
+				"n",
+				"bánh chưng; bánh tét; bánh ú"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -118,6 +136,15 @@
 			[
 				"n",
 				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"关心": {
+		"py": "guānxīn",
+		"mn": [
+			[
+				"v",
+				"quan tâm; lo lắng; trông nom; chú ý (người hoặc sự vật)"
 			]
 		]
 	},
@@ -257,6 +284,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"后娘": {
+		"py": "hòuniáng",
+		"mn": [
+			[
+				"n",
+				"mẹ kế; kế mẫu; mẹ ghẻ; dì ghẻ"
 			]
 		]
 	},

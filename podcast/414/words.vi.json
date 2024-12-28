@@ -34,6 +34,19 @@
 			]
 		]
 	},
+	"收入": {
+		"py": "shōurù",
+		"mn": [
+			[
+				"n",
+				"thu nhập"
+			],
+			[
+				"v",
+				"kiếm được; thu về | thu vào; đưa vào; đặt vào; cất vào"
+			]
+		]
+	},
 	"块": {
 		"py": "kuài",
 		"mn": [
@@ -56,6 +69,50 @@
 			]
 		]
 	},
+	"月供": {
+		"py": "yuègōng",
+		"mn": [
+			[
+				"n",
+				"trả nợ hàng tháng | thanh toán thế chấp"
+			]
+		]
+	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
+			]
+		]
+	},
+	"掉": {
+		"py": "diào",
+		"mn": [
+			[
+				"v",
+				"rơi; rớt | tụt hậu; tụt lại; rớt lại phía sau | mất; bỏ sót; đánh mất; đánh rơi | giảm; hạ; giảm sút | vẫy; lay động; cử động; lắc lư; đung đưa | quay lại; ngoảnh lại | đổi; đổi cho nhau | khoe khoang; khoe"
+			]
+		]
+	},
+	"二分之一": {
+		"py": "èrfēnzhīyī",
+		"mn": [
+			[
+				"n",
+				"một nửa"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -71,6 +128,33 @@
 			[
 				"adv",
 				"phải; nhất định phải | nhất thiết phải; nhất định phải (ngữ khí ra lệnh)"
+			]
+		]
+	},
+	"应付": {
+		"py": "yìngfù",
+		"mn": [
+			[
+				"v",
+				"ứng phó; đối phó; chống chế | qua loa; tạm bợ"
+			]
+		]
+	},
+	"伙食费": {
+		"py": "huǒshífèi",
+		"mn": [
+			[
+				"n",
+				"tiền ăn; chi phí ăn uống"
+			]
+		]
+	},
+	"水费": {
+		"py": "shuǐfèi",
+		"mn": [
+			[
+				"n",
+				"hóa đơn tiền nước"
 			]
 		]
 	},
@@ -109,6 +193,28 @@
 			[
 				"pro",
 				"bọn; lũ; các; chúng; những (dùng sau đại từ nhân xưng hoặc danh từ chỉ người để chỉ số nhiều)"
+			]
+		]
+	},
+	"日常": {
+		"py": "rìcháng",
+		"mn": [
+			[
+				"adj",
+				"hằng ngày; thường ngày; hàng ngày"
+			]
+		]
+	},
+	"开销": {
+		"py": "kāixiāo",
+		"mn": [
+			[
+				"n",
+				"chi phí; khoản chi tiêu; tiền chi tiêu"
+			],
+			[
+				"v",
+				"xài; tiêu; chi tiêu; tiêu xài"
 			]
 		]
 	},
@@ -281,6 +387,15 @@
 			]
 		]
 	},
+	"环游": {
+		"py": "huányóu",
+		"mn": [
+			[
+				"v",
+				"đi du lịch khắp nơi (thế giới, một quốc gia, v.v.)"
+			]
+		]
+	},
 	"世界": {
 		"py": "shìjiè",
 		"mn": [
@@ -333,6 +448,15 @@
 			[
 				"numb",
 				"phân (đơn vị đo chiều dài)"
+			]
+		]
+	},
+	"掰": {
+		"py": "bāi",
+		"mn": [
+			[
+				"v",
+				"tẽ; tách; vạch; cạy; bẻ | rạn nứt; tan vỡ | nói; phân tích"
 			]
 		]
 	},

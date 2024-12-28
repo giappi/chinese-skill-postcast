@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"情人节": {
+		"py": "qíngrénjié",
+		"mn": [
+			[
+				"n",
+				"lễ tình nhân"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -99,6 +108,23 @@
 			]
 		]
 	},
+	"束": {
+		"py": "shù",
+		"mn": [
+			[
+				"v",
+				"buộc; cột; thắt; đeo | gò bó; hạn chế;khống chế"
+			],
+			[
+				"measure",
+				"bó"
+			],
+			[
+				"n",
+				"chùm | họ Thúc"
+			]
+		]
+	},
 	"顿": {
 		"py": "dùn",
 		"mn": [
@@ -121,6 +147,15 @@
 			[
 				"n",
 				"nơi; chỗ (nghỉ ngơi; ăn uống) | họ Đốn"
+			]
+		]
+	},
+	"烛光": {
+		"py": "zhúguāng",
+		"mn": [
+			[
+				"n",
+				"candela, đơn vị cường độ sáng (cd) | ánh nến | thắp nến (canh thức, v.v.)"
 			]
 		]
 	},
@@ -266,6 +301,19 @@
 			]
 		]
 	},
+	"满意": {
+		"py": "mǎnyì",
+		"mn": [
+			[
+				"v",
+				"thoả mãn; hài lòng; vừa lòng; vừa ý; bằng lòng; thỏa đáng; đẹp ý; thoả lòng"
+			],
+			[
+				"adj",
+				"hài lòng; thỏa mãn; vừa ý"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -323,6 +371,24 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"充满": {
+		"py": "chōngmǎn",
+		"mn": [
+			[
+				"v",
+				"nhồi; nhét; lấp đầy; tràn đầy; tràn ngập; lấp kín; ních đầy | chan chứa; tràn đầy; tràn trề"
+			]
+		]
+	},
+	"惊喜": {
+		"py": "jīngxǐ",
+		"mn": [
+			[
+				"adj",
+				"kinh ngạc vui mừng; ngạc nhiên mừng rỡ, bất ngờ"
 			]
 		]
 	}

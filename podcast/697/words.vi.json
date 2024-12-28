@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"绕道": {
+		"py": "ràodào",
+		"mn": [
+			[
+				"v",
+				"đi đường vòng; đường vòng"
+			]
+		]
+	},
 	"走": {
 		"py": "zǒu",
 		"mn": [
@@ -144,6 +153,15 @@
 			]
 		]
 	},
+	"岂不是": {
+		"py": "qǐbùshì",
+		"mn": [
+			[
+				"adv",
+				"chẳng phải sao; há chẳng phải"
+			]
+		]
+	},
 	"白": {
 		"py": "bái",
 		"mn": [
@@ -183,6 +201,15 @@
 			[
 				"adj",
 				"tương lai; sau này"
+			]
+		]
+	},
+	"味道": {
+		"py": "wèidào",
+		"mn": [
+			[
+				"n",
+				"vị; mùi; mùi vị | tư vị; cảm giác | thích thú; thú vị"
 			]
 		]
 	},
@@ -246,6 +273,15 @@
 			]
 		]
 	},
+	"目的": {
+		"py": "mùdì",
+		"mn": [
+			[
+				"n",
+				"mục đích"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -277,6 +313,23 @@
 			]
 		]
 	},
+	"闻": {
+		"py": "wén",
+		"mn": [
+			[
+				"v",
+				"nghe; nghe thấy; nghe nói | ngửi; ngửi mùi | biết; hay; hay biết; hiểu biết"
+			],
+			[
+				"adj",
+				"có tiếng; nổi tiếng; nổi danh"
+			],
+			[
+				"n",
+				"tin; tin tức; câu chuyện (nghe được) | tiếng tăm; tai tiếng | họ Văn"
+			]
+		]
+	},
 	"股": {
 		"py": "gǔ",
 		"mn": [
@@ -287,6 +340,24 @@
 			[
 				"n",
 				"sợi (để bện thừng) | cổ phần | ban; phòng | đùi; bắp đùi"
+			]
+		]
+	},
+	"臭味": {
+		"py": "chòuwèi",
+		"mn": [
+			[
+				"n",
+				"mùi hôi | hôi hám"
+			]
+		]
+	},
+	"起来": {
+		"py": "qǐlái",
+		"mn": [
+			[
+				"v",
+				"ngồi dậy; đứng dậy | ngủ dậy; thức dậy | nổi dậy; vùng lên; dâng lên"
 			]
 		]
 	},
@@ -320,6 +391,19 @@
 			]
 		]
 	},
+	"香": {
+		"py": "xiāng",
+		"mn": [
+			[
+				"adj",
+				"thơm; thơm tho | ngon; thơm ngon | ngon miệng | ngủ say; ngủ ngon | ưa chuộng; được ưa chuộng; được hoan nghênh"
+			],
+			[
+				"n",
+				"hương ( Cây cỏ có mùi thơm hoặc vật gì làm bằng chất thơm) | hương liệu | nhang; hương (để đốt) | đồ vật hoặc người liên quan đến phụ nữ | họ Hương"
+			]
+		]
+	},
 	"该不会": {
 		"py": "gāibùhuì",
 		"mn": [
@@ -339,6 +423,15 @@
 			[
 				"n",
 				"dây; băng; thắt lưng; cái đai | lốp; vỏ | vùng; miền; khu vực | bạch đới; khí hư (bệnh) | họ Đới"
+			]
+		]
+	},
+	"臭豆腐": {
+		"py": "chòudòufu",
+		"mn": [
+			[
+				"n",
+				"đậu phụ thối (món ăn)"
 			]
 		]
 	},
@@ -414,6 +507,19 @@
 			]
 		]
 	},
+	"情愿": {
+		"py": "qíngyuàn",
+		"mn": [
+			[
+				"v",
+				"tình nguyện; tự nguyện; tự giác"
+			],
+			[
+				"adv",
+				"thà; thà rằng"
+			]
+		]
+	},
 	"饿": {
 		"py": "è",
 		"mn": [
@@ -464,6 +570,15 @@
 			[
 				"n",
 				"đồ; vật; thứ; đồ ăn; đồ đạc | đồ; thứ; thá (cảm xúc yêu, ghét)"
+			]
+		]
+	},
+	"放弃": {
+		"py": "fàngqì",
+		"mn": [
+			[
+				"v",
+				"vứt bỏ; vứt đi; bỏ đi; từ bỏ"
 			]
 		]
 	},

@@ -151,6 +151,19 @@
 			]
 		]
 	},
+	"提议": {
+		"py": "tíyì",
+		"mn": [
+			[
+				"v",
+				"đề nghị; đề xuất"
+			],
+			[
+				"n",
+				"đề xuất; kiến nghị"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -187,6 +200,15 @@
 			]
 		]
 	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -205,6 +227,15 @@
 			[
 				"n",
 				"họ Đáo"
+			]
+		]
+	},
+	"郊外": {
+		"py": "jiāowài",
+		"mn": [
+			[
+				"n",
+				"vùng ngoại ô; vùng ngoại thành; khu vực ngoại thành"
 			]
 		]
 	},
@@ -255,6 +286,19 @@
 			]
 		]
 	},
+	"体验": {
+		"py": "tǐyàn",
+		"mn": [
+			[
+				"v",
+				"trải nghiệm"
+			],
+			[
+				"n",
+				"trải nghiệm; kinh nghiệm; sự trải nghiệm"
+			]
+		]
+	},
 	"一下": {
 		"py": "yīxià",
 		"mn": [
@@ -265,6 +309,15 @@
 			[
 				"adv",
 				"bỗng chốc; thoáng cái; một chốc; một lát"
+			]
+		]
+	},
+	"自驾游": {
+		"py": "zìjiàyóu",
+		"mn": [
+			[
+				"n",
+				"Du lịch tự túc"
 			]
 		]
 	},
@@ -312,6 +365,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"不赖": {
+		"py": "bùlài",
+		"mn": [
+			[
+				"adj",
+				"khá tốt; khá; không kém; không khá | không xoàng"
 			]
 		]
 	},
@@ -367,6 +429,15 @@
 			]
 		]
 	},
+	"靠谱": {
+		"py": "kàopǔ",
+		"mn": [
+			[
+				"adj",
+				"đáng tin; đáng tin cậy"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -412,6 +483,15 @@
 			]
 		]
 	},
+	"驾照": {
+		"py": "jiàzhào",
+		"mn": [
+			[
+				"n",
+				"bằng lái xe; bằng lái"
+			]
+		]
+	},
 	"可是": {
 		"py": "kěshì",
 		"mn": [
@@ -453,6 +533,15 @@
 			[
 				"part",
 				"đi; mà | thế; nữa; đi (bày tỏ hy vọng hoặc đưa ra lời khuyên) | sao; à; thôi (tạm dừng trong câu, để thu hút sự chú ý của người nghe)"
+			]
+		]
+	},
+	"解决": {
+		"py": "jiějué",
+		"mn": [
+			[
+				"v",
+				"xử lý; giải quyết; dàn xếp; tháo gỡ; thu xếp | tiêu diệt; thủ tiêu; giải quyết (dùng vũ lực tấn công)"
 			]
 		]
 	},
@@ -527,6 +616,15 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"时兴": {
+		"py": "shíxīng",
+		"mn": [
+			[
+				"",
+				"lưu hành một thời; thời thịnh; hợp thời"
 			]
 		]
 	},
@@ -646,6 +744,24 @@
 			]
 		]
 	},
+	"引起": {
+		"py": "yǐnqǐ",
+		"mn": [
+			[
+				"v",
+				"gây nên; dẫn tới; gợi ra; gây ra; khơi dậy; thu hút"
+			]
+		]
+	},
+	"纠纷": {
+		"py": "jiūfēn",
+		"mn": [
+			[
+				"n",
+				"tranh chấp; mâu thuẫn; xung đột"
+			]
+		]
+	},
 	"事": {
 		"py": "shì",
 		"mn": [
@@ -673,6 +789,37 @@
 			[
 				"v",
 				"đảm bảo; chắc chắn"
+			]
+		]
+	},
+	"行驶": {
+		"py": "xíngshǐ",
+		"mn": [
+			[
+				"v",
+				"chạy; di chuyển (phương tiện giao thông)"
+			]
+		]
+	},
+	"公里": {
+		"py": "gōnglǐ",
+		"mn": [
+			[
+				"measure",
+				"kilomet; cây số"
+			]
+		]
+	},
+	"数": {
+		"py": "shù",
+		"mn": [
+			[
+				"n",
+				"số; con số | số (toán học) | số (về ngữ pháp) | số mạng; số mệnh; vận mệnh; số phận"
+			],
+			[
+				"numb",
+				"vài; mấy | hơn; khoảng (không chắc chắn)"
 			]
 		]
 	},
@@ -765,6 +912,15 @@
 			[
 				"v",
 				"tìm; kiếm; tìm kiếm | trả lại; thối lại (tiền) | thêm; bù; bù thêm; bổ sung (phần thiếu) | cố ý; cố tình; tự chuốc (để lại hậu quả)"
+			]
+		]
+	},
+	"正规": {
+		"py": "zhèngguī",
+		"mn": [
+			[
+				"adj",
+				"chính quy; nề nếp"
 			]
 		]
 	},

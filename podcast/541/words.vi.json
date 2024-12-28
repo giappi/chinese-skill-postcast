@@ -152,6 +152,33 @@
 			]
 		]
 	},
+	"急救": {
+		"py": "jíjiù",
+		"mn": [
+			[
+				"v",
+				"cấp cứu; sơ cứu"
+			]
+		]
+	},
+	"报警": {
+		"py": "bàojǐng",
+		"mn": [
+			[
+				"sv",
+				"báo cảnh sát; gọi cảnh sát"
+			]
+		]
+	},
+	"消防": {
+		"py": "xiāofáng",
+		"mn": [
+			[
+				"v",
+				"cứu hỏa; phòng cháy chữa cháy"
+			]
+		]
+	},
 	"这么": {
 		"py": "zhème",
 		"mn": [

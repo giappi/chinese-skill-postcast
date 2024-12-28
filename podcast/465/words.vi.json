@@ -77,6 +77,15 @@
 			]
 		]
 	},
+	"实习": {
+		"py": "shíxí",
+		"mn": [
+			[
+				"v",
+				"thực tập"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -99,6 +108,15 @@
 			]
 		]
 	},
+	"四处": {
+		"py": "sìchù",
+		"mn": [
+			[
+				"adv",
+				"khắp nơi; xung quanh; tứ xứ"
+			]
+		]
+	},
 	"转转": {
 		"py": "zhuànzhuàn",
 		"mn": [
@@ -114,6 +132,15 @@
 			[
 				"part",
 				"nhé; nhớ; được rồi | nào; nhé; chứ; thôi; đi | chắc; hẳn; chứ (suy đoán) | nhỉ, thì phải | ư; chăng"
+			]
+		]
+	},
+	"这边": {
+		"py": "zhèbiān",
+		"mn": [
+			[
+				"pro",
+				"bên này / đây | đằng này"
 			]
 		]
 	},
@@ -152,6 +179,24 @@
 			[
 				"adj",
 				"chính; quan trọng nhất; cơ bản nhất | chủ; tự chủ; tự mình"
+			]
+		]
+	},
+	"办公区": {
+		"py": "bàngōngqū",
+		"mn": [
+			[
+				"n",
+				"khu văn phòng; khu vực văn phòng; khu vực hành chính"
+			]
+		]
+	},
+	"员工": {
+		"py": "yuángōng",
+		"mn": [
+			[
+				"n",
+				"công nhân; nhân viên; công nhân viên"
 			]
 		]
 	},
@@ -202,6 +247,15 @@
 			]
 		]
 	},
+	"隔间": {
+		"py": "géjiān",
+		"mn": [
+			[
+				"n",
+				"Vách"
+			]
+		]
+	},
 	"用": {
 		"py": "yòng",
 		"mn": [
@@ -220,6 +274,15 @@
 			[
 				"conj",
 				"vì; do; nhờ"
+			]
+		]
+	},
+	"电脑": {
+		"py": "diànnǎo",
+		"mn": [
+			[
+				"n",
+				"máy vi tính; máy tính"
 			]
 		]
 	},
@@ -293,6 +356,15 @@
 			[
 				"adv",
 				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"办公": {
+		"py": "bàngōng",
+		"mn": [
+			[
+				"v",
+				"làm việc; làm việc công; xử lý công việc"
 			]
 		]
 	},
@@ -398,12 +470,43 @@
 			]
 		]
 	},
+	"熟练": {
+		"py": "shúliàn",
+		"mn": [
+			[
+				"adj",
+				"thạo; thuần thục; thông thạo; rành nghề; thành thạo"
+			]
+		]
+	},
 	"各种": {
 		"py": "gèzhǒng",
 		"mn": [
 			[
 				"pro",
 				"các loại; mọi; đủ loại; các kiểu; đủ kiểu; các"
+			]
+		]
+	},
+	"网络": {
+		"py": "wǎngluò",
+		"mn": [
+			[
+				"n",
+				"mạng; internet; trực tuyến | mạng lưới"
+			]
+		]
+	},
+	"游戏": {
+		"py": "yóuxì",
+		"mn": [
+			[
+				"n",
+				"trò chơi"
+			],
+			[
+				"v",
+				"vui đùa; vui chơi; chơi đùa"
 			]
 		]
 	},
@@ -445,6 +548,15 @@
 			]
 		]
 	},
+	"结束": {
+		"py": "jiéshù",
+		"mn": [
+			[
+				"v",
+				"hết; kết thúc; chấm dứt"
+			]
+		]
+	},
 	"会": {
 		"py": "huì",
 		"mn": [
@@ -468,6 +580,15 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"精通": {
+		"py": "jīngtōng",
+		"mn": [
+			[
+				"v",
+				"tinh thông; thông thạo; làu thông"
 			]
 		]
 	},
@@ -541,12 +662,43 @@
 			]
 		]
 	},
+	"之前": {
+		"py": "zhīqián",
+		"mn": [
+			[
+				"n",
+				"trước; trước khi; trước lúc | trước đó; trước đấy; trước đây"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
 			[
 				"part",
 				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"熟": {
+		"py": "shóu",
+		"mn": [
+			[
+				"adj",
+				"đồng nghĩa với'熟' (shú)"
+			]
+		]
+	},
+	"闭": {
+		"py": "bì",
+		"mn": [
+			[
+				"v",
+				"đóng; khép; ngậm; nhắm (mắt) | bịt; chặn; làm tắc | kết thúc; chấm dứt; ngưng; dừng; bế"
+			],
+			[
+				"n",
+				"họ Bế"
 			]
 		]
 	},
@@ -603,6 +755,19 @@
 			[
 				"n",
 				"trước đây; trước kia; ngày trước; khi trước; ngày xưa; hồi xưa"
+			]
+		]
+	},
+	"考试": {
+		"py": "kǎoshì",
+		"mn": [
+			[
+				"v, sv",
+				"thi; kiểm tra; sát hạch"
+			],
+			[
+				"n",
+				"cuộc thi; kỳ thi; bài kiểm tra"
 			]
 		]
 	},
@@ -700,6 +865,19 @@
 			]
 		]
 	},
+	"笔记": {
+		"py": "bǐjì",
+		"mn": [
+			[
+				"v",
+				"ghi chép, ghi chú"
+			],
+			[
+				"n",
+				"bài ghi chép; bút ký | bút ký; nhật ký"
+			]
+		]
+	},
 	"哦": {
 		"py": "ò",
 		"mn": [
@@ -758,6 +936,15 @@
 			[
 				"n",
 				"(toán học.) tuyến tính (bậc một) | đầu tiên | lần đầu tiên | Một lần | keo; chuyến | buổi"
+			]
+		]
+	},
+	"掌握": {
+		"py": "zhǎngwò",
+		"mn": [
+			[
+				"v",
+				"nắm chắc; nắm vững; hiểu rõ | chủ toạ; chủ trì; khống chế; cai quản; kiểm soát"
 			]
 		]
 	},
@@ -856,6 +1043,15 @@
 			]
 		]
 	},
+	"诀窍": {
+		"py": "juéqiào",
+		"mn": [
+			[
+				"n",
+				"mẹo; bí quyết"
+			]
+		]
+	},
 	"可以": {
 		"py": "kěyǐ",
 		"mn": [
@@ -914,6 +1110,23 @@
 			[
 				"adj",
 				"thẳng; ngay | vượt trội; đặc sắc; xuất sắc; kiệt xuất"
+			]
+		]
+	},
+	"哈": {
+		"py": "hā",
+		"mn": [
+			[
+				"v",
+				"thở ra hơi; hà hơi; hà | nài nỉ; cầu xin; van xin | khom lưng; cúi xuống; cúi; nghiêng mình"
+			],
+			[
+				"onom",
+				"ha ha; ha hả (từ tượng thanh, tiếng cười)"
+			],
+			[
+				"intj",
+				"a ha (đắc ý thỏa mãn)"
 			]
 		]
 	},

@@ -25,6 +25,15 @@
 			]
 		]
 	},
+	"收银台": {
+		"py": "shōuyíntái",
+		"mn": [
+			[
+				"n",
+				"quầy thu ngân; quầy thanh toán"
+			]
+		]
+	},
 	"您好": {
 		"py": "nínhǎo",
 		"mn": [
@@ -87,6 +96,15 @@
 			[
 				"n",
 				"sự đòi hỏi; yêu cầu; nhu cầu"
+			]
+		]
+	},
+	"塑料袋": {
+		"py": "sùliàodài",
+		"mn": [
+			[
+				"n",
+				"túi nhựa; túi nilon"
 			]
 		]
 	},
@@ -300,12 +318,39 @@
 			]
 		]
 	},
+	"大号": {
+		"py": "dàhào",
+		"mn": [
+			[
+				"n",
+				"quý danh; đại danh; quý hiệu | số lớn; cỡ lớn | kèn tu-ba"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"中号": {
+		"py": "zhōnghào",
+		"mn": [
+			[
+				"n",
+				"size vừa; cỡ vừa; cỡ trung bình; size M"
+			]
+		]
+	},
+	"小号": {
+		"py": "xiǎohào",
+		"mn": [
+			[
+				"n",
+				"size nhỏ; cỡ nhỏ; size S | kèn trompet; tromba | acc phụ; acc clone"
 			]
 		]
 	},
@@ -394,6 +439,15 @@
 			[
 				"pro",
 				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"小票": {
+		"py": "xiǎopiào",
+		"mn": [
+			[
+				"n",
+				"tiền lẻ (tiền có mệnh giá nhỏ) | biên nhận; hóa đơn; biên lai; phiếu bán hàng"
 			]
 		]
 	},

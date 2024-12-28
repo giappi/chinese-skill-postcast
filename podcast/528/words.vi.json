@@ -55,6 +55,15 @@
 			]
 		]
 	},
+	"到处": {
+		"py": "dàochù",
+		"mn": [
+			[
+				"adv",
+				"khắp nơi; mọi nơi; nơi nơi; đâu đâu; khắp chốn; chỗ nào cũng"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
@@ -74,6 +83,24 @@
 			[
 				"n",
 				"giai đoạn đầu; lúc đầu"
+			]
+		]
+	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
+			]
+		]
+	},
+	"促销": {
+		"py": "cùxiāo",
+		"mn": [
+			[
+				"v",
+				"khuyến mãi; quảng cáo"
 			]
 		]
 	},
@@ -116,12 +143,48 @@
 			]
 		]
 	},
+	"正是": {
+		"py": "zhèngshì",
+		"mn": [
+			[
+				"v",
+				"chính là; đúng là; đích thị là"
+			]
+		]
+	},
+	"商家": {
+		"py": "shāngjiā",
+		"mn": [
+			[
+				"n",
+				"thương gia; cửa hàng"
+			]
+		]
+	},
 	"们": {
 		"py": "men",
 		"mn": [
 			[
 				"suff",
 				"chúng; các (đặt sau một đại từ hay danh từ để chỉ số nhiều) | những (đặt sau một danh từ chỉ đồ vật hoặc động vật để tạo thành số nhiều.)"
+			]
+		]
+	},
+	"八仙过海": {
+		"py": "bāxiānguòhǎi",
+		"mn": [
+			[
+				"idioms",
+				"mỗi người mỗi cách; mỗi người có cách riêng của mình; bát tiên quá hải; ai nấy đua nhau trổ tài; gà đua tiếng gáy. (Bát tiên trong truyện Đông Du Ký, hồi 48 có đoạn: \"Tám vị tiên đến biển Đông, Lã Động Tân nói:''Mỗi người tự trổ phép thần thông mà qua biển được không?''\". Ý nói mỗi người có cách riêng của mình, hoặc mỗi người dùng bản lĩnh của mình để cùng nhau đua tài. 八仙过海，各显神通hoặc各显其能.) 相传汉钟离、张果老、韩湘子、李铁拐、吕洞宾、曹国舅、蓝采和、何仙姑八仙过海时，各有一套法术，民间因有 \"八仙过海，各显神通\"之说"
+			]
+		]
+	},
+	"各显神通": {
+		"py": "gèxiǎnshéntōng",
+		"mn": [
+			[
+				"Thành ngữ thường dùng, Trung tính",
+				"ai cũng có tài riêng; mỗi người có sở trường"
 			]
 		]
 	},
@@ -175,6 +238,28 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"好多": {
+		"py": "hǎoduō",
+		"mn": [
+			[
+				"adj",
+				"nhiều; quá nhiều; rất nhiều"
+			],
+			[
+				"pro",
+				"bao nhiêu(hỏi số lượng)"
+			]
+		]
+	},
+	"优惠券": {
+		"py": "yōuhuìquàn",
+		"mn": [
+			[
+				"n",
+				"phiếu giảm giá; phiếu mua hàng"
 			]
 		]
 	},

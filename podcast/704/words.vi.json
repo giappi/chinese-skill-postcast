@@ -129,6 +129,15 @@
 			]
 		]
 	},
+	"饺子": {
+		"py": "jiǎozi",
+		"mn": [
+			[
+				"n",
+				"bánh chẻo; sủi cảo; há cảo"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -176,6 +185,23 @@
 			]
 		]
 	},
+	"大概": {
+		"py": "dàgài",
+		"mn": [
+			[
+				"adv",
+				"có thể; có lẽ; khoảng; độ; tầm; chắc"
+			],
+			[
+				"n",
+				"đại khái; nét chính; sơ lược; ý chính"
+			],
+			[
+				"adj",
+				"sơ sơ; chung chung"
+			]
+		]
+	},
 	"二十": {
 		"py": "èrshí",
 		"mn": [
@@ -198,12 +224,30 @@
 			]
 		]
 	},
+	"馅儿": {
+		"py": "xiànr",
+		"mn": [
+			[
+				"n",
+				"nhân"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"羊肉": {
+		"py": "yángròu",
+		"mn": [
+			[
+				"n",
+				"thịt dê, thịt cừu"
 			]
 		]
 	},

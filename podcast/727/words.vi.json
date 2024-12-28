@@ -250,6 +250,15 @@
 			]
 		]
 	},
+	"留心": {
+		"py": "liúxīn",
+		"mn": [
+			[
+				"sv",
+				"để ý; chú ý; quan tâm | lưu ý; cẩn thận; chú ý"
+			]
+		]
+	},
 	"不过": {
 		"py": "bùguò",
 		"mn": [
@@ -277,6 +286,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"车票": {
+		"py": "chēpiào",
+		"mn": [
+			[
+				"n",
+				"vé xe"
 			]
 		]
 	},
@@ -316,6 +334,15 @@
 			[
 				"adj",
 				"quan trọng; tầm lớn; hệ trọng"
+			]
+		]
+	},
+	"线索": {
+		"py": "xiànsuǒ",
+		"mn": [
+			[
+				"n",
+				"đầu mối; manh mối | gợi ý; đầu mối (trong quá trình suy nghĩ, khám phá)"
 			]
 		]
 	},
@@ -379,12 +406,38 @@
 			]
 		]
 	},
+	"钱包": {
+		"py": "qiánbāo",
+		"mn": [
+			[
+				"n",
+				"ví tiền; túi tiền; ví"
+			]
+		]
+	},
 	"手机": {
 		"py": "shǒujī",
 		"mn": [
 			[
 				"n",
 				"điện thoại di động; điện thoại"
+			]
+		]
+	},
+	"串": {
+		"py": "chuàn",
+		"mn": [
+			[
+				"v",
+				"xuyên suốt; kết ghép; gắn bó; ăn khớp | cấu kết; móc nối; thông đồng; thông lưng (làm chuyện xấu) | lẫn; nối nhầm; nhầm lẫn; lạc | lang thang; lòng vòng | sắm vai; đóng vai (trong hí khúc) | trộn; xáo trộn; pha trộn (thay đổi đặc tính ban đầu)"
+			],
+			[
+				"measure",
+				"chuỗi; xâu; chùm; túm; đoàn; dãy; loạt; nải (chuối)"
+			],
+			[
+				"n",
+				"xiên; chuỗi; xâu"
 			]
 		]
 	},
@@ -457,6 +510,15 @@
 			]
 		]
 	},
+	"登记": {
+		"py": "dēngjì",
+		"mn": [
+			[
+				"v, sv",
+				"đăng ký; vào sổ; ghi tên; khai; check - in; trước bạ; đăng bạ; đăng lục | khai báo; báo cáo"
+			]
+		]
+	},
 	"一下": {
 		"py": "yīxià",
 		"mn": [
@@ -515,6 +577,15 @@
 			[
 				"n",
 				"sau; phía sau; mặt sau | sau; cuối (vị trí, thứ tự) | sau (chỉ thời gian) | hậu thế; hậu duệ; con cháu; thế hệ sau | Hoàng hậu; Vương hậu | Vua | họ Hậu"
+			]
+		]
+	},
+	"立刻": {
+		"py": "lìkè",
+		"mn": [
+			[
+				"adv",
+				"ngay; luôn; lập tức; tức khắc; liền lập tức; ngay lập tức"
 			]
 		]
 	},

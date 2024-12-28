@@ -150,6 +150,15 @@
 			]
 		]
 	},
+	"割": {
+		"py": "gē",
+		"mn": [
+			[
+				"v",
+				"cắt; gặt; xẻo | chia; chia cắt"
+			]
+		]
+	},
 	"破": {
 		"py": "pò",
 		"mn": [
@@ -187,6 +196,15 @@
 			[
 				"adj",
 				"nghiêm trọng"
+			]
+		]
+	},
+	"伤口": {
+		"py": "shāngkǒu",
+		"mn": [
+			[
+				"n",
+				"vết thương; thương tích; miệng vết thương"
 			]
 		]
 	},

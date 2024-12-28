@@ -248,6 +248,19 @@
 			]
 		]
 	},
+	"谈话": {
+		"py": "tánhuà",
+		"mn": [
+			[
+				"v",
+				"nói chuyện; trò chuyện; đàm thoại (hai người hoặc nhiều người nói chuyện cùng nhau) | nói chuyện; trao đổi (lãnh đạo, giáo viên, bậc trên nói với cấp dưới, đưa ra yêu cầu, ý kiến hoặc làm công tác tư tưởng)"
+			],
+			[
+				"n",
+				"lời nói; cuộc nói chuyện; bài nói chuyện; bài phát biểu (chính trị)"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -275,6 +288,15 @@
 			[
 				"adj",
 				"thẳng; ngay | vượt trội; đặc sắc; xuất sắc; kiệt xuất"
+			]
+		]
+	},
+	"战战兢兢": {
+		"py": "zhànzhànjīngjīng",
+		"mn": [
+			[
+				"idioms",
+				"nơm nớp lo sợ; thấp thỏm; cúm núm | thận trọng; dè dặt | nắm nắm nớp nớp"
 			]
 		]
 	},
@@ -393,6 +415,15 @@
 			]
 		]
 	},
+	"惊讶": {
+		"py": "jīngyà",
+		"mn": [
+			[
+				"adj",
+				"kinh ngạc; ngạc nhiên; sửng sốt"
+			]
+		]
+	},
 	"又": {
 		"py": "yòu",
 		"mn": [
@@ -455,6 +486,19 @@
 			[
 				"conj",
 				"thì; vậy thì"
+			]
+		]
+	},
+	"拼命": {
+		"py": "pīnmìng",
+		"mn": [
+			[
+				"adv",
+				"liều mạng; liều mình; liều lĩnh"
+			],
+			[
+				"v, sv",
+				"liều; liều mạng"
 			]
 		]
 	},
@@ -539,6 +583,15 @@
 			]
 		]
 	},
+	"皇天不负有心人": {
+		"py": "huángtiānbùfùyǒuxīnrén",
+		"mn": [
+			[
+				"Thành ngữ phổ biến, Trung tính",
+				"trời cao không phụ người có lòng"
+			]
+		]
+	},
 	"嘛": {
 		"py": "ma",
 		"mn": [
@@ -597,6 +650,15 @@
 			[
 				"adv",
 				"quá"
+			]
+		]
+	},
+	"庆祝": {
+		"py": "qìngzhù",
+		"mn": [
+			[
+				"v",
+				"chúc mừng; chào mừng; ăn mừng; kỷ niệm"
 			]
 		]
 	}

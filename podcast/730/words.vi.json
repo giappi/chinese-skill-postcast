@@ -30,6 +30,49 @@
 			]
 		]
 	},
+	"乱": {
+		"py": "luàn",
+		"mn": [
+			[
+				"adj",
+				"loạn; rối; lộn xộn; lung tung; hốn độn | rối bời; hỗn loạn; loạn (lòng dạ) | bừa bãi; không đúng đắn (quan hệ nam nữ bất chính) | loạn; loạn lạc (xã hội)"
+			],
+			[
+				"v",
+				"gây hỗn loạn; làm rối; quấy rối"
+			],
+			[
+				"adv",
+				"lung tung; bừa bãi"
+			],
+			[
+				"n",
+				"sự hỗn loạn; cuộc náo loạn | rối loạn; xáo trộn; rắc rối"
+			]
+		]
+	},
+	"扔": {
+		"py": "rēng",
+		"mn": [
+			[
+				"v",
+				"ném; đẩy; quăng; vứt | vứt bỏ; vứt đi; quăng bỏ; quăng đi | bỏ rơi"
+			]
+		]
+	},
+	"垃圾": {
+		"py": "lājī",
+		"mn": [
+			[
+				"n",
+				"rác; rác rưởi; đồ thải; đồ vứt đi; đồ bỏ đi"
+			],
+			[
+				"adj",
+				"rác; tệ"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -82,6 +125,15 @@
 			[
 				"n",
 				"họ Tiến; tên Tiến"
+			]
+		]
+	},
+	"垃圾桶": {
+		"py": "lājītǒng",
+		"mn": [
+			[
+				"n",
+				"thùng rác"
 			]
 		]
 	},
@@ -193,6 +245,15 @@
 			]
 		]
 	},
+	"回收": {
+		"py": "huíshōu",
+		"mn": [
+			[
+				"v",
+				"tái chế; thu hồi (phế phẩm hoặc đồ cũ) | thu hồi; thu lại (đồ đạc đã đưa ra)"
+			]
+		]
+	},
 	"但是": {
 		"py": "dànshì",
 		"mn": [
@@ -248,6 +309,15 @@
 			[
 				"v",
 				"để ý; chú ý"
+			]
+		]
+	},
+	"分类": {
+		"py": "fēnlèi",
+		"mn": [
+			[
+				"v",
+				"phân loại; sắp xếp"
 			]
 		]
 	}

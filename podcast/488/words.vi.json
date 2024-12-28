@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"宾馆": {
+		"py": "bīnguǎn",
+		"mn": [
+			[
+				"n",
+				"nhà khách; khách sạn"
+			]
+		]
+	},
 	"里": {
 		"py": "lǐ",
 		"mn": [
@@ -143,6 +152,15 @@
 			]
 		]
 	},
+	"外汇": {
+		"py": "wàihuì",
+		"mn": [
+			[
+				"n",
+				"ngoại hối; ngoại tệ"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -178,6 +196,15 @@
 			[
 				"n",
 				"tay; tay cầm | bó; nắm"
+			]
+		]
+	},
+	"日元": {
+		"py": "rìyuán",
+		"mn": [
+			[
+				"n",
+				"Yên nhật"
 			]
 		]
 	},
@@ -221,6 +248,32 @@
 			[
 				"numb",
 				"trăm ngàn; một trăm nghìn; 100 nghìn"
+			]
+		]
+	},
+	"根据": {
+		"py": "gēnjù",
+		"mn": [
+			[
+				"prep",
+				"căn cứ, dựa vào (điều kiện, lý do)"
+			],
+			[
+				"n",
+				"chứng cứ; luận cứ; căn cứ; chuẩn cứ"
+			],
+			[
+				"v",
+				"căn cứ; căn cứ vào; dựa vào; thể theo"
+			]
+		]
+	},
+	"最新": {
+		"py": "zuìxīn",
+		"mn": [
+			[
+				"adj",
+				"mới nhất | tối tân"
 			]
 		]
 	},

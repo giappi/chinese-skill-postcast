@@ -90,6 +90,15 @@
 			]
 		]
 	},
+	"新意": {
+		"py": "xīnyì",
+		"mn": [
+			[
+				"n",
+				"ý tưởng mới"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -167,12 +176,30 @@
 			]
 		]
 	},
+	"睡觉": {
+		"py": "shuìjiào",
+		"mn": [
+			[
+				"v, sv",
+				"ngủ; đi ngủ; ngủ nghê"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
 			[
 				"part",
 				"thế; nhỉ; vậy; đâu (dùng để hỏi) | đấy (dùng ở cuối câu trần thuật, chỉ sự việc còn đang tiếp diễn) | ư (dùng ở cuối câu, chỉ ý ngừng ngắt) | nhé; nhỉ; cơ; đó; đấy (dùng ở cuối câu trần thuật)"
+			]
+		]
+	},
+	"成天": {
+		"py": "chéngtiān",
+		"mn": [
+			[
+				"adv",
+				"suốt ngày; cả ngày"
 			]
 		]
 	},
@@ -462,6 +489,15 @@
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"骂": {
+		"py": "mà",
+		"mn": [
+			[
+				"v",
+				"chửi; chửi rủa; mắng nhiếc | trách; trách móc; mắng"
 			]
 		]
 	}

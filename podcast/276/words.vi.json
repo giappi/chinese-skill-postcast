@@ -125,6 +125,15 @@
 			]
 		]
 	},
+	"郊区": {
+		"py": "jiāoqū",
+		"mn": [
+			[
+				"n",
+				"vùng ngoại thành; vùng ngoại ô; khu vực ngoại thành"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -142,12 +151,30 @@
 			]
 		]
 	},
+	"别墅": {
+		"py": "biéshù",
+		"mn": [
+			[
+				"n",
+				"biệt thự; vi-la"
+			]
+		]
+	},
 	"但是": {
 		"py": "dànshì",
 		"mn": [
 			[
 				"conj",
 				"nhưng; nhưng mà; song (biểu thị sự chuyển ý ngược lại) | mà; nhưng (nối kết từ có ý chuyển nghịch nhưng lại thống nhất, cách dùng như liên từ 而)"
+			]
+		]
+	},
+	"厌烦": {
+		"py": "yànfán",
+		"mn": [
+			[
+				"v",
+				"phiền chán; ngao ngán; ngán ngẩm"
 			]
 		]
 	},
@@ -166,6 +193,15 @@
 			[
 				"n, time",
 				"mỗi ngày; hằng ngày"
+			]
+		]
+	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
 			]
 		]
 	},
@@ -213,6 +249,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"市区": {
+		"py": "shìqū",
+		"mn": [
+			[
+				"n",
+				"nội thành; khu vực thành thị; khu vực thành phố"
 			]
 		]
 	},
@@ -281,6 +326,15 @@
 			]
 		]
 	},
+	"市中心": {
+		"py": "shìzhōngxīn",
+		"mn": [
+			[
+				"n",
+				"trung tâm thành phố"
+			]
+		]
+	},
 	"那儿": {
 		"py": "nàr",
 		"mn": [
@@ -290,12 +344,65 @@
 			]
 		]
 	},
+	"繁华": {
+		"py": "fánhuá",
+		"mn": [
+			[
+				"adj",
+				"phồn hoa; sầm uất; phồn thịnh; tấp nập; nhộn nhịp"
+			]
+		]
+	},
+	"商业街": {
+		"py": "shāngyèjiē",
+		"mn": [
+			[
+				"",
+				"Phố thương mại"
+			]
+		]
+	},
+	"便利": {
+		"py": "biànlì",
+		"mn": [
+			[
+				"n",
+				"sự thuận tiện; sự tiện lợi"
+			],
+			[
+				"adj",
+				"tiện lợi; thuận tiện; tiện; lợi"
+			],
+			[
+				"v",
+				"thuận tiện hơn; tạo điều kiện thuận lợi; đem lại tiện lợi"
+			]
+		]
+	},
 	"购物": {
 		"py": "gòuwù",
 		"mn": [
 			[
 				"v",
 				"mua sắm; mua hàng"
+			]
+		]
+	},
+	"中心": {
+		"py": "zhōngxīn",
+		"mn": [
+			[
+				"n",
+				"ở giữa; chính giữa | trung tâm | trung tâm (khu vực hoặc thành phố quan trọng) | trung tâm (thường dùng làm tên gọi)"
+			]
+		]
+	},
+	"近便": {
+		"py": "jìnbiàn",
+		"mn": [
+			[
+				"adj",
+				"gần dễ đi"
 			]
 		]
 	},
@@ -352,6 +459,50 @@
 			]
 		]
 	},
+	"房地产": {
+		"py": "fángdìchǎn",
+		"mn": [
+			[
+				"n",
+				"bất động sản"
+			]
+		]
+	},
+	"中介": {
+		"py": "zhōngjiè",
+		"mn": [
+			[
+				"n",
+				"môi giới; trung gian"
+			]
+		]
+	},
+	"机构": {
+		"py": "jīgòu",
+		"mn": [
+			[
+				"n",
+				"máy; cơ cấu | tổ chức; cơ quan; cơ cấu bên trong; cơ cấu nội bộ"
+			]
+		]
+	},
+	"结果": {
+		"py": "jiéguǒ",
+		"mn": [
+			[
+				"n",
+				"kết quả"
+			],
+			[
+				"conj",
+				"rốt cuộc; kết cục là; kết quả là"
+			],
+			[
+				"v",
+				"giết; xử; kết liễu"
+			]
+		]
+	},
 	"让": {
 		"py": "ràng",
 		"mn": [
@@ -366,6 +517,24 @@
 			[
 				"n",
 				"họ Nhượng"
+			]
+		]
+	},
+	"大吃一惊": {
+		"py": "dàchīyījīng",
+		"mn": [
+			[
+				"idioms",
+				"ngạc nhiên; kinh ngạc; giật nẩy người"
+			]
+		]
+	},
+	"心目中": {
+		"py": "xīnmùzhōng",
+		"mn": [
+			[
+				"phrase",
+				"Trong tâm trí"
 			]
 		]
 	},
@@ -408,6 +577,55 @@
 			[
 				"conj",
 				"nếu; nếu như | hoặc là"
+			]
+		]
+	},
+	"卖掉": {
+		"py": "màidiào",
+		"mn": [
+			[
+				"v",
+				"bán đi; bán mất"
+			]
+		]
+	},
+	"并且": {
+		"py": "bìngqiě",
+		"mn": [
+			[
+				"conj",
+				"và; còn; đồng thời; mà còn (dùng giữa hai động từ,tính từ hoặc cụm từ, biểu thị hai động tác tiến hành cùng lúc hoặc bản chất đồng thời tồn tại.) | hơn nữa; đồng thời; vả; mà còn; còn; với lại (dùng ở nửa sau của câu phức, biểu thị ý nghĩa tiến thêm một bước)"
+			]
+		]
+	},
+	"承担": {
+		"py": "chéngdān",
+		"mn": [
+			[
+				"v",
+				"đảm đương; gánh vác; đảm nhận"
+			]
+		]
+	},
+	"巨额": {
+		"py": "jùé",
+		"mn": [
+			[
+				"n",
+				"lớn; kếch xù (tiền bạc)"
+			]
+		]
+	},
+	"贷款": {
+		"py": "dàikuǎn",
+		"mn": [
+			[
+				"v",
+				"vay; cho vay"
+			],
+			[
+				"n",
+				"khoản vay"
 			]
 		]
 	},
@@ -480,6 +698,15 @@
 			[
 				"onom",
 				"leng keng (từ tượng thanh)"
+			]
+		]
+	},
+	"房奴": {
+		"py": "fángnú",
+		"mn": [
+			[
+				"n",
+				"nô lệ nhà ở"
 			]
 		]
 	}

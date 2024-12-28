@@ -25,6 +25,15 @@
 			]
 		]
 	},
+	"节日": {
+		"py": "jiérì",
+		"mn": [
+			[
+				"n",
+				"ngày lễ; ngày hội; ngày tết; lễ"
+			]
+		]
+	},
 	"你们": {
 		"py": "nǐmen",
 		"mn": [
@@ -57,6 +66,15 @@
 			[
 				"av",
 				"nhấn mạnh ngữ khí xử trí"
+			]
+		]
+	},
+	"半边天": {
+		"py": "bànbiāntiān",
+		"mn": [
+			[
+				"n",
+				"một góc trời 天空的一部分 | nửa bầu trời (ví với giới phụ nữ thời đại mới) | một góc trời"
 			]
 		]
 	},
@@ -113,6 +131,24 @@
 			]
 		]
 	},
+	"唉": {
+		"py": "ài",
+		"mn": [
+			[
+				"intj",
+				"dào; hừ. (tỏ ý thương cảm hoặc ái ngại, thở dài) | thôi; rồi (biểu thị đồng ý hoặc công nhận)"
+			]
+		]
+	},
+	"别提了": {
+		"py": "biétíle",
+		"mn": [
+			[
+				"v",
+				"đừng nói nữa; đừng nhắc tới nữa"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -140,6 +176,24 @@
 			[
 				"v",
 				"đặt; để; cất | cho; bỏ; thêm | chăn; thả | ngừng; nghỉ; tan (học tập, công tác) | phát; chiếu | tạm dừng; gác lại; để đấy (sự việc nào đó) | tha; thả; bỏ qua; phóng thích | phóng túng; buông thả | đày; lưu đày | phóng; bắn | đốt; châm | nới; mở rộng; kéo dài | nở; mở (hoa) | giữ; kiềm chế | làm đổ; làm lật | cho vay (cho vay lấy lãi)"
+			]
+		]
+	},
+	"半天": {
+		"py": "bàntiān",
+		"mn": [
+			[
+				"n",
+				"nửa ngày; buổi | rất lâu; cả buổi; hồi lâu"
+			]
+		]
+	},
+	"假": {
+		"py": "jià",
+		"mn": [
+			[
+				"n",
+				"kỳ nghỉ (ngày lễ; dịp lễ) | phép nghỉ"
 			]
 		]
 	},
@@ -171,6 +225,15 @@
 			[
 				"adv",
 				"mới, vừa mới (cách đây không lâu) | mới, mới chịu (chuyện xảy ra muộn, trễ) | mới (lý do hoặc điều kiện) | chỉ; chỉ mới; chỉ có | mới (nhấn mạnh chuyện muốn nói) | mới (thay đổi tình trạng từ trước đến nay) | mới (diễn tả sự nhấn mạnh)"
+			]
+		]
+	},
+	"知足": {
+		"py": "zhīzú",
+		"mn": [
+			[
+				"v",
+				"hài lòng; thoả mãn; vừa lòng; tự cho là đủ (với những cái đã đạt được như cuộc sống; nguyện vọng...)"
 			]
 		]
 	},
@@ -329,6 +392,15 @@
 			]
 		]
 	},
+	"逛街": {
+		"py": "guàngjiē",
+		"mn": [
+			[
+				"v",
+				"mua sắm; dạo phố; dạo bộ; tản bộ"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -350,6 +422,15 @@
 			]
 		]
 	},
+	"妇女节": {
+		"py": "fùnǚjié",
+		"mn": [
+			[
+				"n",
+				"ngày 8/3; ngày Quốc tế phụ nữ"
+			]
+		]
+	},
 	"很多": {
 		"py": "hěnduō",
 		"mn": [
@@ -359,12 +440,39 @@
 			]
 		]
 	},
+	"商场": {
+		"py": "shāngchǎng",
+		"mn": [
+			[
+				"n",
+				"thị trường | cửa hàng tổng hợp; cửa hàng; trung tâm thương mại; trung tâm mua sắm | thương trường"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
+			]
+		]
+	},
+	"促销": {
+		"py": "cùxiāo",
+		"mn": [
+			[
+				"v",
+				"khuyến mãi; quảng cáo"
 			]
 		]
 	},
@@ -378,6 +486,15 @@
 			[
 				"adj",
 				"tốt; giỏi; hay; được; ổn | lợi hại; ghê hồn; cừ khôi; ghê gớm"
+			]
+		]
+	},
+	"趁机": {
+		"py": "chènjī",
+		"mn": [
+			[
+				"",
+				"thừa cơ; lừa cơ | thừa dịp"
 			]
 		]
 	},
@@ -398,12 +515,38 @@
 			]
 		]
 	},
+	"采购": {
+		"py": "cǎigòu",
+		"mn": [
+			[
+				"v",
+				"chọn mua; mua sắm; mua (cho cơ quan xí nghiệp)"
+			],
+			[
+				"n",
+				"nhân viên vật tư; người mua hàng; nhân viên thu mua"
+			]
+		]
+	},
 	"一次": {
 		"py": "yīcì",
 		"mn": [
 			[
 				"n",
 				"(toán học.) tuyến tính (bậc một) | đầu tiên | lần đầu tiên | Một lần | keo; chuyến | buổi"
+			]
+		]
+	},
+	"对了": {
+		"py": "duìle",
+		"mn": [
+			[
+				"conj",
+				"đúng rồi (sực nhớ ra còn điều gì chưa nói)"
+			],
+			[
+				"intj",
+				"đúng; đúng rồi"
 			]
 		]
 	},
@@ -542,6 +685,15 @@
 			[
 				"part",
 				"quá (dùng ở cuối câu, tỏ ý ca ngợi) | nhỉ; nhá; nhé; đấy; đi thôi (dùng cuối câu, tỏ ý khẳng định, thúc giục, dặn dò) | hả; chứ (dùng ở cuối câu, tỏ ý nghi vấn) | đấy; ư; đó (dùng giữa câu, dừng một chút để người nghe chú ý đến lời nói tiếp theo) | này; nào; a (dùng sau những vật được liệt kê) | nha; nhá; ư (thể hiện sự thiếu kiên nhẫn; hoặc điều hiển nhiên)"
+			]
+		]
+	},
+	"过节": {
+		"py": "guòjié",
+		"mn": [
+			[
+				"v",
+				"ăn tết; đón lễ; nghỉ lễ; chơi hội"
 			]
 		]
 	},
@@ -736,6 +888,15 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"螃蟹": {
+		"py": "pángxiè",
+		"mn": [
+			[
+				"n",
+				"cua; con cua"
 			]
 		]
 	}

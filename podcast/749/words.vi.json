@@ -138,6 +138,15 @@
 			]
 		]
 	},
+	"推荐": {
+		"py": "tuījiàn",
+		"mn": [
+			[
+				"v",
+				"khuyên; tiến cử; giới thiệu; đề cử; đề xuất; gợi ý"
+			]
+		]
+	},
 	"烤鸭": {
 		"py": "kǎoyā",
 		"mn": [
@@ -208,6 +217,15 @@
 			]
 		]
 	},
+	"老少皆宜": {
+		"py": "lǎoshàojiēyí",
+		"mn": [
+			[
+				"idioms",
+				"mọi lứa tuổi; thích hợp với mọi lứa tuổi"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -256,6 +274,15 @@
 			]
 		]
 	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
+			]
+		]
+	},
 	"呢": {
 		"py": "ne",
 		"mn": [
@@ -293,6 +320,15 @@
 			[
 				"adj",
 				"trực tiếp; thẳng thắn; lập tức"
+			]
+		]
+	},
+	"送货上门": {
+		"py": "sònghuòshàngmén",
+		"mn": [
+			[
+				"v",
+				"Giao hàng tận nơi"
 			]
 		]
 	},
@@ -364,6 +400,15 @@
 			]
 		]
 	},
+	"网购": {
+		"py": "wǎnggòu",
+		"mn": [
+			[
+				"v",
+				"mua sắm trực tuyến; mua hàng trên mạng; mua hàng online"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -399,6 +444,15 @@
 			[
 				"n",
 				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"优点": {
+		"py": "yōudiǎn",
+		"mn": [
+			[
+				"n",
+				"ưu điểm; chỗ mạnh; điểm tốt"
 			]
 		]
 	}

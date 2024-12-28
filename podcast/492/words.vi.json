@@ -82,12 +82,30 @@
 			]
 		]
 	},
+	"苏州": {
+		"py": "sūzhōu",
+		"mn": [
+			[
+				"n, nlocal",
+				"Tô Châu"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"游客": {
+		"py": "yóukè",
+		"mn": [
+			[
+				"n",
+				"du khách; người đi du lịch; khách du lịch"
 			]
 		]
 	},
@@ -127,6 +145,23 @@
 			[
 				"n, nlocal",
 				"Bắc Kinh; Beijing (thủ đô Trung Quốc)"
+			]
+		]
+	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
 			]
 		]
 	},
@@ -173,6 +208,15 @@
 			]
 		]
 	},
+	"人山人海": {
+		"py": "rénshānrénhǎi",
+		"mn": [
+			[
+				"idioms",
+				"biển người; người đông nghìn nghịt; người đông như kiến"
+			]
+		]
+	},
 	"不过": {
 		"py": "bùguò",
 		"mn": [
@@ -204,6 +248,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"凑": {
+		"py": "còu",
+		"mn": [
+			[
+				"v",
+				"tập hợp; gom góp; tụ tập; thu thập | gặp; đụng; nhân lúc | đến gần; tiếp cận; sáp đến; lại gần | ghép; ghép lại"
 			]
 		]
 	}

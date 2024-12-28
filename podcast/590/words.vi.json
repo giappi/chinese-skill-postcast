@@ -65,12 +65,34 @@
 			]
 		]
 	},
+	"近视眼": {
+		"py": "jìnshìyǎn",
+		"mn": [
+			[
+				"n",
+				"Cận thị"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
 			[
 				"pro",
 				"chúng tôi; chúng tao; chúng tớ | chúng mình; chúng ta | tôi; mình"
+			]
+		]
+	},
+	"好多": {
+		"py": "hǎoduō",
+		"mn": [
+			[
+				"adj",
+				"nhiều; quá nhiều; rất nhiều"
+			],
+			[
+				"pro",
+				"bao nhiêu(hỏi số lượng)"
 			]
 		]
 	},
@@ -105,6 +127,19 @@
 			]
 		]
 	},
+	"游戏": {
+		"py": "yóuxì",
+		"mn": [
+			[
+				"n",
+				"trò chơi"
+			],
+			[
+				"v",
+				"vui đùa; vui chơi; chơi đùa"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -115,6 +150,15 @@
 			[
 				"part",
 				"(biểu thị ngữ khí tạm dừng trong câu) | vậy (biểu thị khẳng định hoặc nghi vấn)"
+			]
+		]
+	},
+	"近视": {
+		"py": "jìnshì",
+		"mn": [
+			[
+				"n",
+				"cận thị | tầm mắt hạn hẹp; thiển cận"
 			]
 		]
 	},
@@ -156,6 +200,23 @@
 			]
 		]
 	},
+	"必然": {
+		"py": "bìrán",
+		"mn": [
+			[
+				"adj",
+				"tất nhiên; nhất định; chắc chắn; tất yếu"
+			],
+			[
+				"n",
+				"điều tất nhiên; điều tất yếu; điều chắc chắn"
+			],
+			[
+				"adv",
+				"chắc chắn; tất nhiên; nhất định"
+			]
+		]
+	},
 	"联系": {
 		"py": "liánxì",
 		"mn": [
@@ -188,6 +249,15 @@
 			[
 				"n",
 				"lỗi; chỗ sai; không đúng"
+			]
+		]
+	},
+	"反对": {
+		"py": "fǎnduì",
+		"mn": [
+			[
+				"v",
+				"phản đối; không tán thành; không đồng ý"
 			]
 		]
 	},

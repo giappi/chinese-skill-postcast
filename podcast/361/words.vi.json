@@ -186,6 +186,15 @@
 			]
 		]
 	},
+	"法拉利": {
+		"py": "fǎlālì",
+		"mn": [
+			[
+				"n",
+				"Ferrari"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
@@ -230,6 +239,23 @@
 			]
 		]
 	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -240,6 +266,15 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"银子": {
+		"py": "yínzi",
+		"mn": [
+			[
+				"n",
+				"bạc | tiền; tiền bạc; ngân lượng"
 			]
 		]
 	},
@@ -344,6 +379,15 @@
 			]
 		]
 	},
+	"场面": {
+		"py": "chǎngmiàn",
+		"mn": [
+			[
+				"n",
+				"pha; cảnh; khung cảnh (phim, kịch) | cảnh; tình huống | dàn nhạc đệm; nhạc cụ đệm (hí khúc) | cảnh tượng; tình cảnh | khung cảnh; bối cảnh"
+			]
+		]
+	},
 	"酷": {
 		"py": "kù",
 		"mn": [
@@ -363,6 +407,15 @@
 			[
 				"n",
 				"em trai | em; đệ (họ)"
+			]
+		]
+	},
+	"忌妒": {
+		"py": "jìdù",
+		"mn": [
+			[
+				"v",
+				"ghen tị; đố kỵ; ganh ghét"
 			]
 		]
 	},
@@ -419,6 +472,24 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"到处": {
+		"py": "dàochù",
+		"mn": [
+			[
+				"adv",
+				"khắp nơi; mọi nơi; nơi nơi; đâu đâu; khắp chốn; chỗ nào cũng"
+			]
+		]
+	},
+	"炫耀": {
+		"py": "xuànyào",
+		"mn": [
+			[
+				"v",
+				"chiếu rọi; tỏa sáng | khoe; khoe khoang; phô trương; ra oai; rêu rao; ra vẻ; flex"
 			]
 		]
 	},
@@ -482,12 +553,30 @@
 			]
 		]
 	},
+	"家人": {
+		"py": "jiārén",
+		"mn": [
+			[
+				"n",
+				"gia đình; người nhà; thành viên trong gia đình"
+			]
+		]
+	},
 	"面前": {
 		"py": "miànqián",
 		"mn": [
 			[
 				"n, nlocal",
 				"trước mặt; phía trước; trước mắt"
+			]
+		]
+	},
+	"炫炫": {
+		"py": "xuànxuàn",
+		"mn": [
+			[
+				"adj",
+				"chói loà"
 			]
 		]
 	},
@@ -518,6 +607,15 @@
 			[
 				"n",
 				"lời khen; lời chào"
+			]
+		]
+	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
 			]
 		]
 	},
@@ -553,6 +651,24 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"岂不是": {
+		"py": "qǐbùshì",
+		"mn": [
+			[
+				"adv",
+				"chẳng phải sao; há chẳng phải"
+			]
+		]
+	},
+	"暴殄天物": {
+		"py": "bàotiǎntiānwù",
+		"mn": [
+			[
+				"idioms",
+				"phung phí của trời; tàn phá môi sinh; phá của trời không tiếc tay, phí phạm của trời"
 			]
 		]
 	},
@@ -599,6 +715,24 @@
 			]
 		]
 	},
+	"宝马": {
+		"py": "bǎomǎ",
+		"mn": [
+			[
+				"n",
+				"BMW (công ty xe hơi) | ngựa quý"
+			]
+		]
+	},
+	"表弟": {
+		"py": "biǎodì",
+		"mn": [
+			[
+				"n",
+				"biểu đệ (em trai con cô, dì hoặc cậu), em họ; biểu đệ"
+			]
+		]
+	},
 	"对不对": {
 		"py": "duìbùduì",
 		"mn": [
@@ -608,12 +742,39 @@
 			]
 		]
 	},
+	"正是": {
+		"py": "zhèngshì",
+		"mn": [
+			[
+				"v",
+				"chính là; đúng là; đích thị là"
+			]
+		]
+	},
+	"如此": {
+		"py": "rúcǐ",
+		"mn": [
+			[
+				"pro",
+				"như vậy; như thế"
+			]
+		]
+	},
 	"觉得": {
 		"py": "juéde",
 		"mn": [
 			[
 				"v",
 				"cảm thấy; thấy | nghĩ; cho rằng; thấy rằng; nghĩ rằng"
+			]
+		]
+	},
+	"崭新": {
+		"py": "zhǎnxīn",
+		"mn": [
+			[
+				"adj",
+				"mới; mới tinh; mới toanh; hoàn toàn mới"
 			]
 		]
 	},
@@ -644,6 +805,15 @@
 			[
 				"pro",
 				"nó; anh ấy; hắn; người ấy; anh ta; y; cậu ấy (đàn ông) | khác; ngoài | hư chỉ (dùng giữa động từ hoặc số từ) | ai đó; nhiều người; mọi người"
+			]
+		]
+	},
+	"拉风": {
+		"py": "lāfēng",
+		"mn": [
+			[
+				"v",
+				"bắt mắt | hào nhoáng | hợp thời trang"
 			]
 		]
 	},
@@ -703,12 +873,39 @@
 			]
 		]
 	},
+	"攀比": {
+		"py": "pānbǐ",
+		"mn": [
+			[
+				"v",
+				"so bì; đua đòi; so sánh; so đo; sân si; ganh tị"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
 			[
 				"part",
 				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"分享": {
+		"py": "fēnxiǎng",
+		"mn": [
+			[
+				"v",
+				"chia sẻ; chia nhau; san sẻ"
+			]
+		]
+	},
+	"欣喜": {
+		"py": "xīnxǐ",
+		"mn": [
+			[
+				"adj",
+				"thích thú; vui vẻ, vui sướng"
 			]
 		]
 	},
@@ -768,6 +965,24 @@
 			]
 		]
 	},
+	"而": {
+		"py": "ér",
+		"mn": [
+			[
+				"conj",
+				"và (không nối với danh từ) | mà （hai vế đẳng lập) | mà (nối hai thành phần có ý khẳng định và phủ định bổ sung cho nhau) | mà; mà lại; còn (nối các thành phần có ý nghĩa tương phản) | mà (nối các bộ phận có ý nghĩa nhân quả) | mà; nếu (đặt giữa chủ ngữ và vị ngữ) | mà; một cách (nối thành phần chỉ phương cách, thời gian với động từ) | đến; rồi (liên từ)"
+			]
+		]
+	},
+	"感到": {
+		"py": "gǎndào",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; thấy"
+			]
+		]
+	},
 	"高兴": {
 		"py": "gāoxìng",
 		"mn": [
@@ -799,6 +1014,15 @@
 			]
 		]
 	},
+	"心情": {
+		"py": "xīnqíng",
+		"mn": [
+			[
+				"n",
+				"tâm tình; tâm trạng; trong lòng (trạng thái tình cảm)"
+			]
+		]
+	},
 	"一样": {
 		"py": "yīyàng",
 		"mn": [
@@ -809,6 +1033,37 @@
 			[
 				"adj",
 				"như nhau; y hệt; giống hệt"
+			]
+		]
+	},
+	"羡慕": {
+		"py": "xiànmù",
+		"mn": [
+			[
+				"v",
+				"ngưỡng mộ; ước ao; hâm mộ | đố kỵ; ghen ghét; thèm muốn"
+			]
+		]
+	},
+	"嫉妒": {
+		"py": "jídù",
+		"mn": [
+			[
+				"v",
+				"đố kỵ; ghen ghét; ghen tị"
+			]
+		]
+	},
+	"恨": {
+		"py": "hèn",
+		"mn": [
+			[
+				"v",
+				"thù hận; hận; oán hận; căm hận; căm thù; căm ghét; căm tức; căm hờn"
+			],
+			[
+				"n",
+				"mối hận; nỗi hận; mối thù; nỗi oán hận"
 			]
 		]
 	}

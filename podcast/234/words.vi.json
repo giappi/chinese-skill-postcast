@@ -92,6 +92,15 @@
 			]
 		]
 	},
+	"美女": {
+		"py": "měinǚ",
+		"mn": [
+			[
+				"n",
+				"mỹ nữ; con gái đẹp; mỹ nhân; người đẹp; chị đẹp"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -258,6 +267,23 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"短": {
+		"py": "duǎn",
+		"mn": [
+			[
+				"adj",
+				"ngắn | ngắn (chỉ thời gian) | nông cạn; thiếu hiểu biết"
+			],
+			[
+				"n",
+				"Khuyết điểm; thiếu sót; sở đoản; chỗ yếu kém"
+			],
+			[
+				"v",
+				"thiếu"
 			]
 		]
 	},

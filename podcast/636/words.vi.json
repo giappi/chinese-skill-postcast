@@ -73,6 +73,15 @@
 			]
 		]
 	},
+	"泡温泉": {
+		"py": "pàowēnquán",
+		"mn": [
+			[
+				"phrase",
+				"ngâm mình trong spa hoặc suối nước nóng"
+			]
+		]
+	},
 	"有空": {
 		"py": "yǒukòng",
 		"mn": [
@@ -91,12 +100,30 @@
 			]
 		]
 	},
+	"万岁": {
+		"py": "wànsuì",
+		"mn": [
+			[
+				"n",
+				"muôn năm; muôn tuổi; vạn tuế | đấng vạn tuế"
+			]
+		]
+	},
 	"一直": {
 		"py": "yīzhí",
 		"mn": [
 			[
 				"adv",
 				"cứ; thẳng; thẳng tuốt; một mạch | suốt; luôn luôn; liên tục | từ (nhấn mạnh phạm vi đã định)"
+			]
+		]
+	},
+	"期待": {
+		"py": "qīdài",
+		"mn": [
+			[
+				"v",
+				"mong đợi; kỳ vọng; đợi chờ"
 			]
 		]
 	},
@@ -118,12 +145,30 @@
 			]
 		]
 	},
+	"温泉": {
+		"py": "wēnquán",
+		"mn": [
+			[
+				"n",
+				"suối nước nóng"
+			]
+		]
+	},
 	"北京": {
 		"py": "běijīng",
 		"mn": [
 			[
 				"n, nlocal",
 				"Bắc Kinh; Beijing (thủ đô Trung Quốc)"
+			]
+		]
+	},
+	"郊区": {
+		"py": "jiāoqū",
+		"mn": [
+			[
+				"n",
+				"vùng ngoại thành; vùng ngoại ô; khu vực ngoại thành"
 			]
 		]
 	},
@@ -141,6 +186,36 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"好多": {
+		"py": "hǎoduō",
+		"mn": [
+			[
+				"adj",
+				"nhiều; quá nhiều; rất nhiều"
+			],
+			[
+				"pro",
+				"bao nhiêu(hỏi số lượng)"
+			]
+		]
+	},
+	"随便": {
+		"py": "suíbiàn",
+		"mn": [
+			[
+				"adj",
+				"tự nhiên; thoải mái; sao cũng được | tuỳ tiện; cẩu thả; qua loa; hời hợt | tùy ý; không chỉn chu"
+			],
+			[
+				"v",
+				"tùy ý"
+			],
+			[
+				"conj",
+				"dù; bất cứ; bất kể"
 			]
 		]
 	},

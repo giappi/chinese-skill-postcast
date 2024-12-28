@@ -229,6 +229,19 @@
 			]
 		]
 	},
+	"完全": {
+		"py": "wánquán",
+		"mn": [
+			[
+				"adj",
+				"đầy đủ; trọn vẹn; hoàn hảo; tốt nhất; chính xác"
+			],
+			[
+				"adv",
+				"hoàn toàn"
+			]
+		]
+	},
 	"没有": {
 		"py": "méiyǒu",
 		"mn": [
@@ -239,6 +252,19 @@
 			[
 				"adv",
 				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"作用": {
+		"py": "zuòyòng",
+		"mn": [
+			[
+				"n",
+				"hiệu quả; tác dụng"
+			],
+			[
+				"v",
+				"ảnh hưởng; tác dụng; tác động"
 			]
 		]
 	},
@@ -297,6 +323,15 @@
 			]
 		]
 	},
+	"睡觉": {
+		"py": "shuìjiào",
+		"mn": [
+			[
+				"v, sv",
+				"ngủ; đi ngủ; ngủ nghê"
+			]
+		]
+	},
 	"算": {
 		"py": "suàn",
 		"mn": [
@@ -307,6 +342,15 @@
 			[
 				"adv",
 				"rốt cuộc; coi như; tính như"
+			]
+		]
+	},
+	"厉害": {
+		"py": "lìhài",
+		"mn": [
+			[
+				"adj",
+				"lợi hại; kịch liệt; ghê gớm; dữ dội | giỏi; lợi hại; cừ; đáng gờm | mạnh; dữ dội; kinh hồn"
 			]
 		]
 	}

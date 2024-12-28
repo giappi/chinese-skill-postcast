@@ -90,6 +90,15 @@
 			]
 		]
 	},
+	"黑眼圈": {
+		"py": "hēiyǎnquān",
+		"mn": [
+			[
+				"n",
+				"quầng thâm mắt"
+			]
+		]
+	},
 	"都": {
 		"py": "dōu",
 		"mn": [
@@ -146,6 +155,15 @@
 			]
 		]
 	},
+	"媲美": {
+		"py": "pìměi",
+		"mn": [
+			[
+				"adj",
+				"đẹp như nhau; đẹp ngang nhau; so sánh cái nào đẹp hơn"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -174,6 +192,28 @@
 			[
 				"n",
 				"sự chuẩn bị"
+			]
+		]
+	},
+	"考试": {
+		"py": "kǎoshì",
+		"mn": [
+			[
+				"v, sv",
+				"thi; kiểm tra; sát hạch"
+			],
+			[
+				"n",
+				"cuộc thi; kỳ thi; bài kiểm tra"
+			]
+		]
+	},
+	"压力": {
+		"py": "yālì",
+		"mn": [
+			[
+				"n",
+				"áp lực (vật lý) | gánh nặng; áp lực | áp lực (tâm lý; tinh thần)"
 			]
 		]
 	},
@@ -213,6 +253,28 @@
 			[
 				"v",
 				"thức khuya; thao thức; thức thâu đêm; thức trắng đêm; thức cả đêm"
+			]
+		]
+	},
+	"可怜": {
+		"py": "kělián",
+		"mn": [
+			[
+				"adj",
+				"đáng thương; thảm thương; khổ thân; tội nghiệp | thảm; thảm thương; quá ít; quá kém; nghèo nàn (số lượng ít hoặc chất lượng đến mức không đáng nêu lên)"
+			],
+			[
+				"v",
+				"thương; thương xót; thương tiếc; thương cảm; cảm thông; thương hại"
+			]
+		]
+	},
+	"美女": {
+		"py": "měinǚ",
+		"mn": [
+			[
+				"n",
+				"mỹ nữ; con gái đẹp; mỹ nhân; người đẹp; chị đẹp"
 			]
 		]
 	},
@@ -267,12 +329,30 @@
 			]
 		]
 	},
+	"劳逸结合": {
+		"py": "láoyìjiéhé",
+		"mn": [
+			[
+				"idioms",
+				"cân bằng giữa làm việc và nghỉ ngơi (thành ngữ)"
+			]
+		]
+	},
 	"呀": {
 		"py": "ya",
 		"mn": [
 			[
 				"av",
 				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"脑细胞": {
+		"py": "nǎoxìbāo",
+		"mn": [
+			[
+				"n",
+				"tế bào não"
 			]
 		]
 	},
@@ -368,6 +448,15 @@
 			[
 				"class",
 				"một vài; một số; một phần (chỉ số lượng không xác định) | một ít; một chút (chỉ số lượng rất ít) | mấy; một số | chút; một chút; một tý (đặt sau động từ hoặc tính từ)"
+			]
+		]
+	},
+	"补脑": {
+		"py": "bǔnǎo",
+		"mn": [
+			[
+				"v",
+				"bổ não"
 			]
 		]
 	},
@@ -498,6 +587,15 @@
 			]
 		]
 	},
+	"大脑": {
+		"py": "dànǎo",
+		"mn": [
+			[
+				"n",
+				"não; bộ não"
+			]
+		]
+	},
 	"难怪": {
 		"py": "nánguài",
 		"mn": [
@@ -511,6 +609,15 @@
 			]
 		]
 	},
+	"俗话": {
+		"py": "súhuà",
+		"mn": [
+			[
+				"n",
+				"tục ngữ"
+			]
+		]
+	},
 	"说": {
 		"py": "shuō",
 		"mn": [
@@ -521,6 +628,28 @@
 			[
 				"n",
 				"thuyết; ngôn luận; chủ trương; ý kiến; quan điểm"
+			]
+		]
+	},
+	"啥": {
+		"py": "shá",
+		"mn": [
+			[
+				"pro",
+				"cái gì"
+			]
+		]
+	},
+	"补": {
+		"py": "bǔ",
+		"mn": [
+			[
+				"v",
+				"bổ sung; bổ túc; bù; thêm; dự khuyết (số còn thiếu) | tẩm bổ; bổ; bồi dưỡng; bồi bổ | chữa; vá; sửa chữa"
+			],
+			[
+				"n",
+				"lợi ích; bổ ích | họ Bổ"
 			]
 		]
 	},
@@ -695,12 +824,48 @@
 			]
 		]
 	},
+	"凤爪": {
+		"py": "fèngzhuǎ",
+		"mn": [
+			[
+				"n",
+				"chân gà (ẩm thực)"
+			]
+		]
+	},
+	"心": {
+		"py": "xīn",
+		"mn": [
+			[
+				"n",
+				"tim; trái tim; quả tim | tâm; lòng; tâm tư; tâm địa; ý nghĩ; ý muốn | tâm; lòng; trung tâm; khoảng giữa | suy nghĩ; suy tư; mưu tính | lòng; tấm lòng; bụng dạ; tâm địa | sao Tâm (một chòm sao trong nhị thập bát tú)"
+			]
+		]
+	},
+	"猪心": {
+		"py": "zhūxīn",
+		"mn": [
+			[
+				"n",
+				"Tim lợn"
+			]
+		]
+	},
 	"这些": {
 		"py": "zhèxiē",
 		"mn": [
 			[
 				"pro",
 				"những ... này; mấy ... này"
+			]
+		]
+	},
+	"民间": {
+		"py": "mínjiān",
+		"mn": [
+			[
+				"n",
+				"dân gian | nhân dân"
 			]
 		]
 	},
@@ -753,6 +918,36 @@
 			]
 		]
 	},
+	"科学": {
+		"py": "kēxué",
+		"mn": [
+			[
+				"adj",
+				"khoa học; có tính khoa học; có kỹ thuật; kỹ thuật cao"
+			],
+			[
+				"n",
+				"khoa học; ngành khoa học"
+			]
+		]
+	},
+	"依据": {
+		"py": "yījù",
+		"mn": [
+			[
+				"v",
+				"theo; căn cứ; dựa vào"
+			],
+			[
+				"n",
+				"cơ sở; bằng chứng; căn cứ"
+			],
+			[
+				"prep",
+				"dựa vào; căn cứ vào; dựa trên"
+			]
+		]
+	},
 	"看": {
 		"py": "kàn",
 		"mn": [
@@ -788,6 +983,15 @@
 			[
 				"adv",
 				"đừng; chớ; không được (biểu thị cấm đoán hoặc can ngăn) | đừng; chớ (biểu thị nhắc nhở) | hẳn là; chắc là; có lẽ; hay là"
+			]
+		]
+	},
+	"盲目": {
+		"py": "mángmù",
+		"mn": [
+			[
+				"adj",
+				"mù quáng"
 			]
 		]
 	},
@@ -892,6 +1096,36 @@
 			[
 				"adv",
 				"gần đây"
+			]
+		]
+	},
+	"强": {
+		"py": "qiáng",
+		"mn": [
+			[
+				"adj",
+				"mạnh; mạnh mẽ | kiên cường; cao; mạnh mẽ (tình cảm, ý chí) | tốt; ưu việt; hơn | dư; thừa; hơn"
+			],
+			[
+				"adv",
+				"cưỡng bức; cưỡng ép"
+			],
+			[
+				"n",
+				"họ Cường"
+			],
+			[
+				"v",
+				"tăng cường; làm mạnh mẽ; làm lớn mạnh"
+			]
+		]
+	},
+	"言之有理": {
+		"py": "yánzhīyǒulǐ",
+		"mn": [
+			[
+				"Thành ngữ phổ biến, Trung tính",
+				"nói có lý"
 			]
 		]
 	}

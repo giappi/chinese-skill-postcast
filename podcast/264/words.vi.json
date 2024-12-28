@@ -30,6 +30,19 @@
 			]
 		]
 	},
+	"允许": {
+		"py": "yǔnxǔ",
+		"mn": [
+			[
+				"v",
+				"cho phép; được phép"
+			],
+			[
+				"n",
+				"sự cho phép"
+			]
+		]
+	},
 	"在": {
 		"py": "zài",
 		"mn": [
@@ -44,6 +57,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"校园": {
+		"py": "xiàoyuán",
+		"mn": [
+			[
+				"n",
+				"sân trường; vườn trường; khuôn viên trường học"
 			]
 		]
 	},
@@ -70,6 +92,15 @@
 			[
 				"measure",
 				"món (thức ăn)"
+			]
+		]
+	},
+	"避孕套": {
+		"py": "bìyùntào",
+		"mn": [
+			[
+				"n",
+				"bao cao su"
 			]
 		]
 	},
@@ -114,6 +145,19 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"开放": {
+		"py": "kāifàng",
+		"mn": [
+			[
+				"v",
+				"nở; bung | huỷ bỏ phong toả; hạn chế cấm vận; mở cửa | mở cửa"
+			],
+			[
+				"adj",
+				"cởi mở; lạc quan"
 			]
 		]
 	},
@@ -162,6 +206,15 @@
 			]
 		]
 	},
+	"不让": {
+		"py": "bùràng",
+		"mn": [
+			[
+				"v",
+				"không từ chối; không khước từ | không đồng ý"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
@@ -181,6 +234,19 @@
 			[
 				"n",
 				"lời nói; câu chuyện; chuyện | họ Đàm"
+			]
+		]
+	},
+	"恋爱": {
+		"py": "liànài",
+		"mn": [
+			[
+				"v",
+				"yêu đương; yêu nhau"
+			],
+			[
+				"n",
+				"tình yêu; mối tình"
 			]
 		]
 	},
@@ -279,6 +345,15 @@
 			]
 		]
 	},
+	"接吻": {
+		"py": "jiēwěn",
+		"mn": [
+			[
+				"v",
+				"hôn; thơm; hôn môi; hôn nhau"
+			]
+		]
+	},
 	"脸": {
 		"py": "liǎn",
 		"mn": [
@@ -311,6 +386,15 @@
 			[
 				"n",
 				"họp; liên hoan; buổi tiệc | họp; cuộc họp; hội nghị | hội hè; đình đám | hội; đoàn; ban | dịp; thời cơ; cơ hội | thành phố"
+			]
+		]
+	},
+	"变红": {
+		"py": "biànhóng",
+		"mn": [
+			[
+				"v",
+				"làm đỏ"
 			]
 		]
 	}

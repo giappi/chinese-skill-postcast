@@ -35,12 +35,39 @@
 			]
 		]
 	},
+	"青椒": {
+		"py": "qīngjiāo",
+		"mn": [
+			[
+				"n",
+				"ớt xanh; ớt tây; ớt chuông (xanh)"
+			]
+		]
+	},
+	"肉丝": {
+		"py": "ròusī",
+		"mn": [
+			[
+				"n",
+				"thịt vụn | thịt lợn nghiền"
+			]
+		]
+	},
 	"套餐": {
 		"py": "tàocān",
 		"mn": [
 			[
 				"n",
 				"suất; phần; phần ăn; suất ăn | gói; combo"
+			]
+		]
+	},
+	"特价": {
+		"py": "tèjià",
+		"mn": [
+			[
+				"n",
+				"giá đặc biệt; giá ưu đãi; giá rẻ đặc biệt"
 			]
 		]
 	},
@@ -116,6 +143,41 @@
 			[
 				"n",
 				"cơm tẻ; cơm"
+			]
+		]
+	},
+	"无": {
+		"py": "wú",
+		"mn": [
+			[
+				"v",
+				"không; vô; không có"
+			],
+			[
+				"adv",
+				"không; chẳng"
+			],
+			[
+				"conj",
+				"không kể; bất luận; bất cứ; bất kể"
+			]
+		]
+	},
+	"限量": {
+		"py": "xiànliàng",
+		"mn": [
+			[
+				"v",
+				"số lượng; ranh giới hạn định; số lượng hạn chế; hạn lượng"
+			]
+		]
+	},
+	"供应": {
+		"py": "gōngyìng",
+		"mn": [
+			[
+				"v",
+				"cung ứng; cung cấp"
 			]
 		]
 	},
@@ -232,6 +294,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"凉菜": {
+		"py": "liángcài",
+		"mn": [
+			[
+				"n",
+				"nộm; rau trộn; đồ nguội"
 			]
 		]
 	},

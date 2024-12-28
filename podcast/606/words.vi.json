@@ -109,12 +109,30 @@
 			]
 		]
 	},
+	"镜头": {
+		"py": "jìngtóu",
+		"mn": [
+			[
+				"n",
+				"kính máy ảnh; ống kính (máy ảnh) | cảnh quay; đoạn phim"
+			]
+		]
+	},
 	"我": {
 		"py": "wǒ",
 		"mn": [
 			[
 				"pro",
 				"tôi; ta; tao; tớ; mình (tự xưng bản thân mình) | chúng ta; chúng tôi | mình; tôi (người nói tự gọi mình) | một người nào đó"
+			]
+		]
+	},
+	"头晕眼花": {
+		"py": "tóuyūnyǎnhuā",
+		"mn": [
+			[
+				"idioms",
+				"Hoa mắt chóng mặt | xây xẩm"
 			]
 		]
 	},
@@ -161,6 +179,15 @@
 			]
 		]
 	},
+	"拍摄": {
+		"py": "pāishè",
+		"mn": [
+			[
+				"v",
+				"quay phim; chụp ảnh; chụp hình"
+			]
+		]
+	},
 	"手法": {
 		"py": "shǒufǎ",
 		"mn": [
@@ -192,6 +219,15 @@
 			[
 				"n",
 				"họ Đa"
+			]
+		]
+	},
+	"真实": {
+		"py": "zhēnshí",
+		"mn": [
+			[
+				"adj",
+				"chân thật; chân thực; thực sự"
 			]
 		]
 	},
@@ -234,6 +270,15 @@
 			]
 		]
 	},
+	"船": {
+		"py": "chuán",
+		"mn": [
+			[
+				"n",
+				"thuyền; đò; ghe; mành; tàu thuỷ"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -248,6 +293,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"头晕": {
+		"py": "tóuyūn",
+		"mn": [
+			[
+				"adj",
+				"chóng mặt; choáng váng; đau đầu; nhức đầu"
 			]
 		]
 	},
@@ -305,6 +359,15 @@
 			[
 				"adv",
 				"mỗi lần"
+			]
+		]
+	},
+	"开车": {
+		"py": "kāichē",
+		"mn": [
+			[
+				"v",
+				"lái; lái xe; chạy xe; điều khiển xe"
 			]
 		]
 	},
@@ -392,6 +455,19 @@
 			]
 		]
 	},
+	"痛苦": {
+		"py": "tòngkǔ",
+		"mn": [
+			[
+				"adj",
+				"thống khổ; đau khổ; đau đớn"
+			],
+			[
+				"n",
+				"nỗi đau; sự đau khổ, sự đau đớn, sự thống khổ"
+			]
+		]
+	},
 	"飞机": {
 		"py": "fēijī",
 		"mn": [
@@ -444,6 +520,15 @@
 			]
 		]
 	},
+	"引擎": {
+		"py": "yǐnqíng",
+		"mn": [
+			[
+				"n",
+				"máy; động cơ; công cụ"
+			]
+		]
+	},
 	"一": {
 		"py": "yī",
 		"mn": [
@@ -491,6 +576,24 @@
 			]
 		]
 	},
+	"靠窗": {
+		"py": "kàochuāng",
+		"mn": [
+			[
+				"n",
+				"cạnh cửa sổ (đề cập đến chỗ ngồi trên máy bay, v.v.)"
+			]
+		]
+	},
+	"位子": {
+		"py": "wèizi",
+		"mn": [
+			[
+				"n",
+				"chỗ; chỗ ngồi"
+			]
+		]
+	},
 	"到": {
 		"py": "dào",
 		"mn": [
@@ -509,6 +612,15 @@
 			[
 				"n",
 				"họ Đáo"
+			]
+		]
+	},
+	"眩晕": {
+		"py": "xuànyūn",
+		"mn": [
+			[
+				"v",
+				"chóng mặt; bị choáng"
 			]
 		]
 	},
@@ -591,6 +703,24 @@
 			]
 		]
 	},
+	"脚踏实地": {
+		"py": "jiǎotàshídì",
+		"mn": [
+			[
+				"idioms",
+				"làm đến nơi đến chốn; làm việc thực tế; làm ra làm chơi ra chơi"
+			]
+		]
+	},
+	"心里": {
+		"py": "xīnlǐ",
+		"mn": [
+			[
+				"n",
+				"trong lòng; trong tim | trong tâm trí; trong đầu"
+			]
+		]
+	},
 	"才": {
 		"py": "cái",
 		"mn": [
@@ -601,6 +731,15 @@
 			[
 				"adv",
 				"mới, vừa mới (cách đây không lâu) | mới, mới chịu (chuyện xảy ra muộn, trễ) | mới (lý do hoặc điều kiện) | chỉ; chỉ mới; chỉ có | mới (nhấn mạnh chuyện muốn nói) | mới (thay đổi tình trạng từ trước đến nay) | mới (diễn tả sự nhấn mạnh)"
+			]
+		]
+	},
+	"踏实": {
+		"py": "tāshi",
+		"mn": [
+			[
+				"adj",
+				"thiết thực; thực tế; chăm chỉ | yên ổn; yên tâm; thư thái; thoải mái"
 			]
 		]
 	}

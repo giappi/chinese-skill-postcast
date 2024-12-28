@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"法语": {
+		"py": "fǎyǔ",
+		"mn": [
+			[
+				"n",
+				"tiếng Pháp"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
@@ -84,6 +93,24 @@
 			[
 				"n",
 				"tiếng Anh; Anh ngữ; Anh văn"
+			]
+		]
+	},
+	"德语": {
+		"py": "déyǔ",
+		"mn": [
+			[
+				"n",
+				"tiếng Đức"
+			]
+		]
+	},
+	"西班牙语": {
+		"py": "xībānyáyǔ",
+		"mn": [
+			[
+				"n",
+				"tiếng Tây Ban Nha"
 			]
 		]
 	},
@@ -165,6 +192,28 @@
 			[
 				"numb",
 				"một"
+			]
+		]
+	},
+	"语言": {
+		"py": "yǔyán",
+		"mn": [
+			[
+				"n",
+				"ngôn ngữ | lời nói; tiếng nói"
+			]
+		]
+	},
+	"达人": {
+		"py": "dárén",
+		"mn": [
+			[
+				"",
+				"người phóng khoáng lạc quan; người phóng khoáng"
+			],
+			[
+				"",
+				"chuyên gia, người biết nhiều thứ, tinh thông, cao thủ (ở một lĩnh vực nào đó)"
 			]
 		]
 	},

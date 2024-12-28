@@ -26,12 +26,30 @@
 			]
 		]
 	},
+	"愁眉苦脸": {
+		"py": "chóuméikǔliǎn",
+		"mn": [
+			[
+				"idioms",
+				"khó đăm đăm; mày ủ mặt ê; mày chau mặt ủ; đăm chiêu ủ dột; mặt nhăn mày nhó; nhăn mày nhăn mặt"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"别提了": {
+		"py": "biétíle",
+		"mn": [
+			[
+				"v",
+				"đừng nói nữa; đừng nhắc tới nữa"
 			]
 		]
 	},
@@ -183,6 +201,15 @@
 			]
 		]
 	},
+	"打不通": {
+		"py": "dǎbùtōng",
+		"mn": [
+			[
+				"v",
+				"Gọi không được"
+			]
+		]
+	},
 	"太": {
 		"py": "tài",
 		"mn": [
@@ -197,6 +224,15 @@
 			[
 				"n",
 				"họ Thái"
+			]
+		]
+	},
+	"倒霉": {
+		"py": "dǎoméi",
+		"mn": [
+			[
+				"adj",
+				"xui; xui xẻo; xúi quẩy; không may"
 			]
 		]
 	},
@@ -217,12 +253,38 @@
 			]
 		]
 	},
+	"无所谓": {
+		"py": "wúsuǒwèi",
+		"mn": [
+			[
+				"v",
+				"không thể nói là | mặc kệ; không sao; sao cũng được; gì cũng được"
+			]
+		]
+	},
 	"但是": {
 		"py": "dànshì",
 		"mn": [
 			[
 				"conj",
 				"nhưng; nhưng mà; song (biểu thị sự chuyển ý ngược lại) | mà; nhưng (nối kết từ có ý chuyển nghịch nhưng lại thống nhất, cách dùng như liên từ 而)"
+			]
+		]
+	},
+	"所有": {
+		"py": "suǒyǒu",
+		"mn": [
+			[
+				"v",
+				"sở hữu; có được"
+			],
+			[
+				"n",
+				"tất cả (chỉ vật sở hữu)"
+			],
+			[
+				"adj",
+				"tất cả; hết thảy; toàn bộ"
 			]
 		]
 	},
@@ -250,6 +312,15 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"保存": {
+		"py": "bǎocún",
+		"mn": [
+			[
+				"v",
+				"bảo tồn; giữ gìn; bảo vệ; lưu về; lưu lại"
 			]
 		]
 	},
@@ -450,6 +521,19 @@
 			]
 		]
 	},
+	"留言": {
+		"py": "liúyán",
+		"mn": [
+			[
+				"n",
+				"thư để lại; lời dặn; bình luận; tin nhắn; lưu bút"
+			],
+			[
+				"v",
+				"bình luận; để lại lời nhắn"
+			]
+		]
+	},
 	"或者": {
 		"py": "huòzhě",
 		"mn": [
@@ -538,6 +622,15 @@
 			[
 				"n",
 				"họ Tái"
+			]
+		]
+	},
+	"发给": {
+		"py": "fāgěi",
+		"mn": [
+			[
+				"v",
+				"chia; phát; trao cấp | phân phát; cấp phát; ban cấp"
 			]
 		]
 	},

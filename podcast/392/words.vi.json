@@ -77,6 +77,15 @@
 			]
 		]
 	},
+	"外地": {
+		"py": "wàidì",
+		"mn": [
+			[
+				"n",
+				"nơi khác; vùng khác"
+			]
+		]
+	},
 	"出差": {
 		"py": "chūchāi",
 		"mn": [
@@ -379,6 +388,15 @@
 			]
 		]
 	},
+	"周到": {
+		"py": "zhōudào",
+		"mn": [
+			[
+				"adj",
+				"chu đáo; chu toàn"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -462,6 +480,15 @@
 			[
 				"intj",
 				"cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn) | hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)"
+			]
+		]
+	},
+	"意见": {
+		"py": "yìjiàn",
+		"mn": [
+			[
+				"n",
+				"ý kiến | phàn nàn; thành kiến; ý kiến; sự không hài lòng (biểu thị sự không bằng lòng đối với người và sự vật)"
 			]
 		]
 	},
@@ -660,6 +687,24 @@
 			]
 		]
 	},
+	"电话线": {
+		"py": "diànhuàxiàn",
+		"mn": [
+			[
+				"n",
+				"đường dây điện thoại | Dây điện thoại | dây điện thoại"
+			]
+		]
+	},
+	"拔": {
+		"py": "bá",
+		"mn": [
+			[
+				"v",
+				"nhổ; rút; tuốt; loại bỏ; rứt; bứt | hút; hút ra | ngâm; ngâm nước lạnh"
+			]
+		]
+	},
 	"可": {
 		"py": "kě",
 		"mn": [
@@ -737,6 +782,24 @@
 			]
 		]
 	},
+	"无聊": {
+		"py": "wúliáo",
+		"mn": [
+			[
+				"adj",
+				"buồn chán; buồn thiu; buồn tẻ (vì quá thanh nhàn) | vô vị; nhàm chán (tác phẩm, lời nói, việc làm)"
+			]
+		]
+	},
+	"吵醒": {
+		"py": "chǎoxǐng",
+		"mn": [
+			[
+				"v",
+				"gọi dậy; đánh thức"
+			]
+		]
+	},
 	"但是": {
 		"py": "dànshì",
 		"mn": [
@@ -764,6 +827,15 @@
 			]
 		]
 	},
+	"敲门": {
+		"py": "qiāomén",
+		"mn": [
+			[
+				"v",
+				"Gõ cửa"
+			]
+		]
+	},
 	"客房": {
 		"py": "kèfáng",
 		"mn": [
@@ -773,12 +845,34 @@
 			]
 		]
 	},
+	"铺床": {
+		"py": "pūchuáng",
+		"mn": [
+			[
+				"v",
+				"trải giường chiếu"
+			]
+		]
+	},
 	"吗": {
 		"py": "ma",
 		"mn": [
 			[
 				"part",
 				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"关门": {
+		"py": "guānmén",
+		"mn": [
+			[
+				"v",
+				"đóng cửa; nghỉ bán; ngưng hoạt động | dứt khoát; không thay đổi (lời nói) | khép kín"
+			],
+			[
+				"adj",
+				"cuối cùng; sau cùng; chót"
 			]
 		]
 	},
@@ -810,6 +904,24 @@
 			[
 				"adv",
 				"chớ; đừng; miễn; không"
+			]
+		]
+	},
+	"打扰": {
+		"py": "dǎrǎo",
+		"mn": [
+			[
+				"v",
+				"phiền; làm phiền; quấy rầy | xin lỗi; xin lỗi đã làm phiền; xin lỗi đã quấy rầy (lịch sự)"
+			]
+		]
+	},
+	"牌子": {
+		"py": "páizi",
+		"mn": [
+			[
+				"n",
+				"thẻ; bảng; biển; bảng hiệu; biển hiệu | nhãn hiệu; thương hiệu"
 			]
 		]
 	},
@@ -858,6 +970,46 @@
 			[
 				"n",
 				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"睡觉": {
+		"py": "shuìjiào",
+		"mn": [
+			[
+				"v, sv",
+				"ngủ; đi ngủ; ngủ nghê"
+			]
+		]
+	},
+	"突然": {
+		"py": "tūrán",
+		"mn": [
+			[
+				"adv",
+				"đột nhiên; bỗng nhiên; bất ngờ"
+			],
+			[
+				"adj",
+				"đột ngột"
+			]
+		]
+	},
+	"楼道": {
+		"py": "lóudào",
+		"mn": [
+			[
+				"n",
+				"hàng hiên; hành lang"
+			]
+		]
+	},
+	"警报": {
+		"py": "jǐngbào",
+		"mn": [
+			[
+				"n",
+				"báo động; cảnh báo; còi báo động; báo hiệu"
 			]
 		]
 	},
@@ -914,12 +1066,30 @@
 			]
 		]
 	},
+	"厨房": {
+		"py": "chúfáng",
+		"mn": [
+			[
+				"n",
+				"bếp; phòng bếp; nhà bếp"
+			]
+		]
+	},
 	"着火": {
 		"py": "zháohuǒ",
 		"mn": [
 			[
 				"v",
 				"cháy; bốc cháy; bắt lửa; bén lửa"
+			]
+		]
+	},
+	"客人": {
+		"py": "kèrén",
+		"mn": [
+			[
+				"n",
+				"khách; khách mời; khách hàng | khách buôn; lữ khách; con buôn; người buôn bán"
 			]
 		]
 	},
@@ -938,6 +1108,28 @@
 			[
 				"adj",
 				"khẩn cấp; cấp bách; hiểm nghèo; khẩn"
+			]
+		]
+	},
+	"疏散": {
+		"py": "shūsàn",
+		"mn": [
+			[
+				"adj",
+				"thưa thớt; lưa thưa | phân tán; rải rác; lơ thơ; sơ tán"
+			]
+		]
+	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
 			]
 		]
 	},
@@ -960,6 +1152,15 @@
 			[
 				"adv",
 				"ngay; lập tức; tức khắc; liền lập tức; ngay lập tức"
+			]
+		]
+	},
+	"离开": {
+		"py": "líkāi",
+		"mn": [
+			[
+				"v",
+				"bỏ đi; rời đi; ly khai; tách khỏi; rời khỏi"
 			]
 		]
 	},

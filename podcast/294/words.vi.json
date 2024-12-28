@@ -83,6 +83,23 @@
 			]
 		]
 	},
+	"集": {
+		"py": "jí",
+		"mn": [
+			[
+				"n",
+				"chợ búa; chợ | bộ sưu tập; tập | tập hợp (toán học) | họ Tập"
+			],
+			[
+				"measure",
+				"tập; phần"
+			],
+			[
+				"v",
+				"tập hợp; tụ tập"
+			]
+		]
+	},
 	"上网": {
 		"py": "shàngwǎng",
 		"mn": [
@@ -102,6 +119,15 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"网络": {
+		"py": "wǎngluò",
+		"mn": [
+			[
+				"n",
+				"mạng; internet; trực tuyến | mạng lưới"
 			]
 		]
 	},
@@ -201,6 +227,15 @@
 			]
 		]
 	},
+	"随心所欲": {
+		"py": "suíxīnsuǒyù",
+		"mn": [
+			[
+				"idioms",
+				"tùy ý; tùy tâm sở dục; tùy theo ý muốn"
+			]
+		]
+	},
 	"地": {
 		"py": "de",
 		"mn": [
@@ -283,6 +318,15 @@
 			]
 		]
 	},
+	"通宵": {
+		"py": "tōngxiāo",
+		"mn": [
+			[
+				"n",
+				"suốt đêm; cả đêm; thâu đêm"
+			]
+		]
+	},
 	"把": {
 		"py": "bǎ",
 		"mn": [
@@ -346,6 +390,15 @@
 			]
 		]
 	},
+	"中间": {
+		"py": "zhōngjiān",
+		"mn": [
+			[
+				"n",
+				"trong; trong số; bên trong | trung tâm; chính giữa | giữa"
+			]
+		]
+	},
 	"还": {
 		"py": "hái",
 		"mn": [
@@ -365,6 +418,28 @@
 			[
 				"adv",
 				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"任何": {
+		"py": "rènhé",
+		"mn": [
+			[
+				"pro",
+				"bất kì; bất kể; bất cứ"
+			]
+		]
+	},
+	"广告": {
+		"py": "guǎnggào",
+		"mn": [
+			[
+				"n",
+				"quảng cáo"
+			],
+			[
+				"v",
+				"quảng cáo; quảng bá"
 			]
 		]
 	}

@@ -135,6 +135,15 @@
 			]
 		]
 	},
+	"腰酸背痛": {
+		"py": "yāosuānbèitòng",
+		"mn": [
+			[
+				"idioms",
+				"Đau hết cả người; đau lưng mỏi vai"
+			]
+		]
+	},
 	"点儿": {
 		"py": "diǎnr",
 		"mn": [
@@ -223,6 +232,19 @@
 			]
 		]
 	},
+	"强壮": {
+		"py": "qiángzhuàng",
+		"mn": [
+			[
+				"adj",
+				"cường tráng; khoẻ mạnh; vạm vỡ; đô con"
+			],
+			[
+				"v",
+				"rèn luyện (sức khoẻ)"
+			]
+		]
+	},
 	"身体": {
 		"py": "shēntǐ",
 		"mn": [
@@ -255,6 +277,15 @@
 			[
 				"n",
 				"họ Nhượng"
+			]
+		]
+	},
+	"平心静气": {
+		"py": "píngxīnjìngqì",
+		"mn": [
+			[
+				"idioms",
+				"bình tĩnh"
 			]
 		]
 	},
@@ -411,6 +442,15 @@
 			[
 				"n",
 				"người lớn; người lớn tuổi | cha; bố; phụ thân | chú; bác | họ Đại"
+			]
+		]
+	},
+	"徒弟": {
+		"py": "túdì",
+		"mn": [
+			[
+				"n",
+				"đệ tử; đồ đệ; học trò"
 			]
 		]
 	}

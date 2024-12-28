@@ -51,6 +51,15 @@
 			]
 		]
 	},
+	"洗碗": {
+		"py": "xǐwǎn",
+		"mn": [
+			[
+				"v",
+				"rửa bát; rửa chén"
+			]
+		]
+	},
 	"吧": {
 		"py": "ba",
 		"mn": [
@@ -101,6 +110,15 @@
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"餐具": {
+		"py": "cānjù",
+		"mn": [
+			[
+				"n",
+				"bộ đồ ăn; dụng cụ ăn uống; bộ dụng cụ ăn uống (chén, đũa, nĩa, muỗng...)"
 			]
 		]
 	},

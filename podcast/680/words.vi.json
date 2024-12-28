@@ -187,6 +187,15 @@
 			]
 		]
 	},
+	"家常菜": {
+		"py": "jiāchángcài",
+		"mn": [
+			[
+				"n",
+				"món hàng ngày; món ăn thường ngày; món ăn gia đình"
+			]
+		]
+	},
 	"这": {
 		"py": "zhèi",
 		"mn": [
@@ -235,6 +244,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"大显身手": {
+		"py": "dàxiǎnshēnshǒu",
+		"mn": [
+			[
+				"idioms",
+				"thi thố tài năng; trổ tài"
 			]
 		]
 	},
@@ -296,6 +314,15 @@
 			[
 				"adv",
 				"có lẽ (ước lượng)"
+			]
+		]
+	},
+	"砸": {
+		"py": "zá",
+		"mn": [
+			[
+				"v",
+				"đánh; đập; nện; chấn; giã | đập vỡ; phá bỏ; phá vỡ; phá phách | thất bại; hỏng"
 			]
 		]
 	},

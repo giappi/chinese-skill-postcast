@@ -16,6 +16,15 @@
 			]
 		]
 	},
+	"倒霉": {
+		"py": "dǎoméi",
+		"mn": [
+			[
+				"adj",
+				"xui; xui xẻo; xúi quẩy; không may"
+			]
+		]
+	},
 	"怎么": {
 		"py": "zěnme",
 		"mn": [
@@ -92,6 +101,15 @@
 			[
 				"n",
 				"đồ; vật; thứ; đồ ăn; đồ đạc | đồ; thứ; thá (cảm xúc yêu, ghét)"
+			]
+		]
+	},
+	"人家": {
+		"py": "rénjiā",
+		"mn": [
+			[
+				"n",
+				"nhà; hộ; gia đình | nhà người ta; nhà chồng tương lai; gia đình chồng tương lai"
 			]
 		]
 	},
@@ -290,6 +308,32 @@
 			]
 		]
 	},
+	"水印": {
+		"py": "shuǐyìn",
+		"mn": [
+			[
+				"",
+				"in nước (phương pháp in tranh truyền thống của Trung Quốc) | hình mờ; thủy ấn (hoa văn, họa tiết của nhà sản xuất trong một số loại giấy, có thể trông thấy khi soi giấy lên ánh sáng) | ngấn nước; vệt nước"
+			]
+		]
+	},
+	"画": {
+		"py": "huà",
+		"mn": [
+			[
+				"v",
+				"vẽ; hoạ | vạch; vẽ"
+			],
+			[
+				"n",
+				"tranh; bức tranh; bức vẽ | tranh; bức tranh"
+			],
+			[
+				"measure",
+				"nét; gạch"
+			]
+		]
+	},
 	"在": {
 		"py": "zài",
 		"mn": [
@@ -348,6 +392,24 @@
 			[
 				"v",
 				"in; in ấn | hợp; phù hợp | in; khắc"
+			]
+		]
+	},
+	"纸币": {
+		"py": "zhǐbì",
+		"mn": [
+			[
+				"n",
+				"tiền giấy"
+			]
+		]
+	},
+	"中间": {
+		"py": "zhōngjiān",
+		"mn": [
+			[
+				"n",
+				"trong; trong số; bên trong | trung tâm; chính giữa | giữa"
 			]
 		]
 	},
@@ -420,6 +482,15 @@
 			[
 				"adj",
 				"tương lai; sau này"
+			]
+		]
+	},
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
 			]
 		]
 	},

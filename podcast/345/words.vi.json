@@ -8,6 +8,15 @@
 			]
 		]
 	},
+	"聚餐": {
+		"py": "jùcān",
+		"mn": [
+			[
+				"v",
+				"liên hoan; ăn chung; bữa tiệc; bữa ăn liên hoan"
+			]
+		]
+	},
 	"吃": {
 		"py": "chī",
 		"mn": [
@@ -91,6 +100,15 @@
 			[
 				"measure",
 				"giờ (đơn vị chỉ thời gian) | điểm (một phần năm của canh) | ít; tí; chút; vặt; nhỏ (số lượng nhỏ) | điều; điểm; việc"
+			]
+		]
+	},
+	"意见": {
+		"py": "yìjiàn",
+		"mn": [
+			[
+				"n",
+				"ý kiến | phàn nàn; thành kiến; ý kiến; sự không hài lòng (biểu thị sự không bằng lòng đối với người và sự vật)"
 			]
 		]
 	},

@@ -82,12 +82,30 @@
 			]
 		]
 	},
+	"法国": {
+		"py": "fǎguó",
+		"mn": [
+			[
+				"nlocal, n",
+				"Pháp; nước Pháp"
+			]
+		]
+	},
 	"知名": {
 		"py": "zhīmíng",
 		"mn": [
 			[
 				"adj",
 				"nổi tiếng; có tiếng; trứ danh"
+			]
+		]
+	},
+	"品牌": {
+		"py": "pǐnpái",
+		"mn": [
+			[
+				"n",
+				"thương hiệu; nhãn hiệu"
 			]
 		]
 	},
@@ -138,6 +156,33 @@
 			]
 		]
 	},
+	"牌子": {
+		"py": "páizi",
+		"mn": [
+			[
+				"n",
+				"thẻ; bảng; biển; bảng hiệu; biển hiệu | nhãn hiệu; thương hiệu"
+			]
+		]
+	},
+	"服装": {
+		"py": "fúzhuāng",
+		"mn": [
+			[
+				"n",
+				"áo khăn; quần áo; trang phục (quần áo, giày mũ)"
+			]
+		]
+	},
+	"皮包": {
+		"py": "píbāo",
+		"mn": [
+			[
+				"n",
+				"ví da; cặp da"
+			]
+		]
+	},
 	"特别": {
 		"py": "tèbié",
 		"mn": [
@@ -148,6 +193,15 @@
 			[
 				"adj",
 				"đặc biệt"
+			]
+		]
+	},
+	"高档": {
+		"py": "gāodàng",
+		"mn": [
+			[
+				"adj",
+				"cao cấp; sang trọng; hạng sang; chất lượng cao"
 			]
 		]
 	},
@@ -252,6 +306,15 @@
 			]
 		]
 	},
+	"一分价钱一分货": {
+		"py": "yīfēnjiàqiányīfēnhuò",
+		"mn": [
+			[
+				"proverb",
+				"Tiền nào của nấy"
+			]
+		]
+	},
 	"嘛": {
 		"py": "ma",
 		"mn": [
@@ -270,12 +333,34 @@
 			]
 		]
 	},
+	"突然": {
+		"py": "tūrán",
+		"mn": [
+			[
+				"adv",
+				"đột nhiên; bỗng nhiên; bất ngờ"
+			],
+			[
+				"adj",
+				"đột ngột"
+			]
+		]
+	},
 	"想": {
 		"py": "xiǎng",
 		"mn": [
 			[
 				"v",
 				"nghĩ; suy nghĩ | suy đoán; nghĩ rằng; cho rằng | mong; muốn; hi vọng; dự định | nhớ; nhớ nhung; hoài niệm"
+			]
+		]
+	},
+	"起来": {
+		"py": "qǐlái",
+		"mn": [
+			[
+				"v",
+				"ngồi dậy; đứng dậy | ngủ dậy; thức dậy | nổi dậy; vùng lên; dâng lên"
 			]
 		]
 	},
@@ -391,6 +476,19 @@
 			]
 		]
 	},
+	"句": {
+		"py": "jù",
+		"mn": [
+			[
+				"n",
+				"câu"
+			],
+			[
+				"measure",
+				"câu"
+			]
+		]
+	},
 	"别": {
 		"py": "bié",
 		"mn": [
@@ -456,6 +554,15 @@
 			]
 		]
 	},
+	"工薪": {
+		"py": "gōngxīn",
+		"mn": [
+			[
+				"n",
+				"tiền lương"
+			]
+		]
+	},
 	"阶层": {
 		"py": "jiēcéng",
 		"mn": [
@@ -487,6 +594,15 @@
 			]
 		]
 	},
+	"奢侈": {
+		"py": "shēchǐ",
+		"mn": [
+			[
+				"adj",
+				"xa xỉ; hào hoa"
+			]
+		]
+	},
 	"这": {
 		"py": "zhè",
 		"mn": [
@@ -510,6 +626,24 @@
 			[
 				"prep",
 				"bị | theo; theo như; cho rằng"
+			]
+		]
+	},
+	"超前": {
+		"py": "chāoqián",
+		"mn": [
+			[
+				"",
+				"vượt mức quy định"
+			]
+		]
+	},
+	"消费": {
+		"py": "xiāofèi",
+		"mn": [
+			[
+				"v",
+				"tiêu phí; tiêu dùng; tiêu thụ | tiêu thụ (tài nguyên, năng lượng)"
 			]
 		]
 	},
@@ -642,6 +776,15 @@
 			]
 		]
 	},
+	"潮流": {
+		"py": "cháoliú",
+		"mn": [
+			[
+				"n",
+				"trào lưu; xu hướng | thủy triều"
+			]
+		]
+	},
 	"觉得": {
 		"py": "juéde",
 		"mn": [
@@ -678,12 +821,70 @@
 			]
 		]
 	},
+	"学会": {
+		"py": "xuéhuì",
+		"mn": [
+			[
+				"n",
+				"hội học thuật; học hội"
+			],
+			[
+				"v",
+				"học hỏi; học cách"
+			]
+		]
+	},
+	"节俭": {
+		"py": "jiéjiǎn",
+		"mn": [
+			[
+				"adj",
+				"tiết kiệm; tằn tiện; tần tiện; chắt chiu"
+			]
+		]
+	},
 	"不能": {
 		"py": "bùnéng",
 		"mn": [
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"盲目": {
+		"py": "mángmù",
+		"mn": [
+			[
+				"adj",
+				"mù quáng"
+			]
+		]
+	},
+	"攀比": {
+		"py": "pānbǐ",
+		"mn": [
+			[
+				"v",
+				"so bì; đua đòi; so sánh; so đo; sân si; ganh tị"
+			]
+		]
+	},
+	"人云亦云": {
+		"py": "rényúnyìyún",
+		"mn": [
+			[
+				"idioms",
+				"bảo sao hay vậy; bắt chước y chang; quan một cũng ừ, quan tư cũng gật | ai nói sao bào hao làm vậy"
+			]
+		]
+	},
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
 			]
 		]
 	},
@@ -721,6 +922,51 @@
 			]
 		]
 	},
+	"顺应": {
+		"py": "shùnyìng",
+		"mn": [
+			[
+				"v",
+				"thuận theo; thích ứng với"
+			]
+		]
+	},
+	"时代": {
+		"py": "shídài",
+		"mn": [
+			[
+				"n",
+				"đời; thời đại; thời kỳ | thời; lúc; độ tuổi"
+			]
+		]
+	},
+	"思想": {
+		"py": "sīxiǎng",
+		"mn": [
+			[
+				"n",
+				"tư tưởng | ý nghĩ"
+			]
+		]
+	},
+	"观念": {
+		"py": "guānniàn",
+		"mn": [
+			[
+				"n",
+				"quan niệm; tư tưởng"
+			]
+		]
+	},
+	"与时俱进": {
+		"py": "yǔshíjùjìn",
+		"mn": [
+			[
+				"idioms",
+				"bắt kịp sự phát triển hiện đại | cấp tiến | hợp thời | theo kịp thời đại"
+			]
+		]
+	},
 	"在": {
 		"py": "zài",
 		"mn": [
@@ -738,6 +984,15 @@
 			]
 		]
 	},
+	"物质": {
+		"py": "wùzhì",
+		"mn": [
+			[
+				"n",
+				"vật chất; của cải | chất; vật chất"
+			]
+		]
+	},
 	"上": {
 		"py": "shàng",
 		"mn": [
@@ -752,6 +1007,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"一味": {
+		"py": "yīwèi",
+		"mn": [
+			[
+				"adv",
+				"một mực"
 			]
 		]
 	},
@@ -808,6 +1072,19 @@
 			]
 		]
 	},
+	"收入": {
+		"py": "shōurù",
+		"mn": [
+			[
+				"n",
+				"thu nhập"
+			],
+			[
+				"v",
+				"kiếm được; thu về | thu vào; đưa vào; đặt vào; cất vào"
+			]
+		]
+	},
 	"也": {
 		"py": "yě",
 		"mn": [
@@ -860,6 +1137,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"道理": {
+		"py": "dàolǐ",
+		"mn": [
+			[
+				"n",
+				"sự thật; quy luật; nguyên tắc | lý; đạo lý; lý lẽ"
 			]
 		]
 	},

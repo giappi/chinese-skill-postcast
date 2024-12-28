@@ -73,6 +73,15 @@
 			]
 		]
 	},
+	"大地": {
+		"py": "dàdì",
+		"mn": [
+			[
+				"n",
+				"mặt đất; khắp nơi; đất nước; đất đai; thế giới | trái đất; địa cầu; đất đai"
+			]
+		]
+	},
 	"来": {
 		"py": "lái",
 		"mn": [
@@ -112,6 +121,15 @@
 			[
 				"n",
 				"chiều cao; kích thước"
+			]
+		]
+	},
+	"亲密": {
+		"py": "qīnmì",
+		"mn": [
+			[
+				"adj",
+				"thân thiết; thân mật; tương thân"
 			]
 		]
 	},

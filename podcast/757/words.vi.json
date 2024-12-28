@@ -189,6 +189,15 @@
 			]
 		]
 	},
+	"丰盛": {
+		"py": "fēngshèng",
+		"mn": [
+			[
+				"adj",
+				"nhiều; giàu có; phong phú; thịnh soạn (phương diện vật chất)"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -228,6 +237,15 @@
 			]
 		]
 	},
+	"烤箱": {
+		"py": "kǎoxiāng",
+		"mn": [
+			[
+				"n",
+				"lò nướng"
+			]
+		]
+	},
 	"烤": {
 		"py": "kǎo",
 		"mn": [
@@ -246,6 +264,41 @@
 			]
 		]
 	},
+	"同事": {
+		"py": "tóngshì",
+		"mn": [
+			[
+				"n",
+				"đồng nghiệp"
+			],
+			[
+				"v",
+				"làm chung; làm việc chung; làm việc cùng nhau"
+			]
+		]
+	},
+	"秘方": {
+		"py": "mìfāng",
+		"mn": [
+			[
+				"n",
+				"bài thuốc gia truyền; bài thuốc bí truyền; khoán"
+			]
+		]
+	},
+	"香": {
+		"py": "xiāng",
+		"mn": [
+			[
+				"adj",
+				"thơm; thơm tho | ngon; thơm ngon | ngon miệng | ngủ say; ngủ ngon | ưa chuộng; được ưa chuộng; được hoan nghênh"
+			],
+			[
+				"n",
+				"hương ( Cây cỏ có mùi thơm hoặc vật gì làm bằng chất thơm) | hương liệu | nhang; hương (để đốt) | đồ vật hoặc người liên quan đến phụ nữ | họ Hương"
+			]
+		]
+	},
 	"辣": {
 		"py": "là",
 		"mn": [
@@ -256,6 +309,15 @@
 			[
 				"v",
 				"cay xè; cay cay; bỏng (mùi cay kích thích mũi hoặc mắt)"
+			]
+		]
+	},
+	"虾": {
+		"py": "xiā",
+		"mn": [
+			[
+				"n",
+				"tôm; tôm tép"
 			]
 		]
 	},
@@ -284,6 +346,41 @@
 			]
 		]
 	},
+	"意大利面": {
+		"py": "yìdàlìmiàn",
+		"mn": [
+			[
+				"n",
+				"mỳ ống | mì ống Ý"
+			]
+		]
+	},
+	"根据": {
+		"py": "gēnjù",
+		"mn": [
+			[
+				"prep",
+				"căn cứ, dựa vào (điều kiện, lý do)"
+			],
+			[
+				"n",
+				"chứng cứ; luận cứ; căn cứ; chuẩn cứ"
+			],
+			[
+				"v",
+				"căn cứ; căn cứ vào; dựa vào; thể theo"
+			]
+		]
+	},
+	"口味": {
+		"py": "kǒuwèi",
+		"mn": [
+			[
+				"n",
+				"hương vị; mùi vị | khẩu vị; gu (thích một khẩu vị nào đó) | sở thích; đam mê"
+			]
+		]
+	},
 	"道": {
 		"py": "dào",
 		"mn": [
@@ -298,6 +395,24 @@
 			[
 				"measure",
 				"món (lượng từ của món ăn) | dòng; vết; vệt; đạo; sợi; tia (dùng trước từ chỉ sông ngòi, vật có hình dài) | bức; cánh (dùng để chỉ cửa, tường) | câu; lệnh (chỉ mệnh lệnh, câu hỏi, đề bài)"
+			]
+		]
+	},
+	"蔬菜": {
+		"py": "shūcài",
+		"mn": [
+			[
+				"n",
+				"rau; rau củ"
+			]
+		]
+	},
+	"沙拉": {
+		"py": "shālā",
+		"mn": [
+			[
+				"n",
+				"salad; rau trộn"
 			]
 		]
 	},

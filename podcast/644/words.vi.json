@@ -105,6 +105,15 @@
 			]
 		]
 	},
+	"坚信": {
+		"py": "jiānxìn",
+		"mn": [
+			[
+				"v",
+				"tin chắc; tin tưởng; tin rằng; tin tưởng chắc chắn"
+			]
+		]
+	},
 	"我们": {
 		"py": "wǒmen",
 		"mn": [
@@ -153,6 +162,19 @@
 			]
 		]
 	},
+	"突然": {
+		"py": "tūrán",
+		"mn": [
+			[
+				"adv",
+				"đột nhiên; bỗng nhiên; bất ngờ"
+			],
+			[
+				"adj",
+				"đột ngột"
+			]
+		]
+	},
 	"变": {
 		"py": "biàn",
 		"mn": [
@@ -185,6 +207,15 @@
 			[
 				"pro",
 				"như thế; như vậy; thế này; làm vậy"
+			]
+		]
+	},
+	"肉麻": {
+		"py": "ròumá",
+		"mn": [
+			[
+				"adj",
+				"sến sẩm; ngứa ngáy; khó chịu; sến súa; nổi da gà"
 			]
 		]
 	},
@@ -383,6 +414,15 @@
 			]
 		]
 	},
+	"起来": {
+		"py": "qǐlái",
+		"mn": [
+			[
+				"v",
+				"ngồi dậy; đứng dậy | ngủ dậy; thức dậy | nổi dậy; vùng lên; dâng lên"
+			]
+		]
+	},
 	"好好": {
 		"py": "hǎohǎo",
 		"mn": [
@@ -491,6 +531,15 @@
 			]
 		]
 	},
+	"求婚": {
+		"py": "qiúhūn",
+		"mn": [
+			[
+				"v",
+				"cầu hôn"
+			]
+		]
+	},
 	"先": {
 		"py": "xiān",
 		"mn": [
@@ -543,6 +592,19 @@
 			[
 				"v, sv",
 				"sốt ruột; lo lắng; cuống cuồng; vội vàng; gấp gáp; nôn nóng; vội vã"
+			]
+		]
+	},
+	"回答": {
+		"py": "huídá",
+		"mn": [
+			[
+				"v",
+				"trả lời; đáp; giải đáp; đối đáp; đáp lại"
+			],
+			[
+				"n",
+				"câu trả lời"
 			]
 		]
 	},
@@ -608,6 +670,15 @@
 			]
 		]
 	},
+	"跪": {
+		"py": "guì",
+		"mn": [
+			[
+				"v",
+				"quỳ; quỳ gối"
+			]
+		]
+	},
 	"着": {
 		"py": "zhe",
 		"mn": [
@@ -639,6 +710,15 @@
 			]
 		]
 	},
+	"盯": {
+		"py": "dīng",
+		"mn": [
+			[
+				"v",
+				"nhìn chăm chú; nhìn chằm chằm; dán mắt, tập trung vào; chú ý"
+			]
+		]
+	},
 	"看": {
 		"py": "kàn",
 		"mn": [
@@ -658,6 +738,15 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"难为情": {
+		"py": "nánwéiqíng",
+		"mn": [
+			[
+				"adj",
+				"thẹn thùng; xấu hổ; ngượng ngùng; tẽn tò; ngượng mặt | khó xử; khó nghĩ"
 			]
 		]
 	},
@@ -775,6 +864,24 @@
 			[
 				"n",
 				"nhất; đứng đầu; số một"
+			]
+		]
+	},
+	"美好": {
+		"py": "měihǎo",
+		"mn": [
+			[
+				"adj",
+				"tốt đẹp; đẹp; tươi đẹp (cuộc sống, tiền đồ, nguyện vọng)"
+			]
+		]
+	},
+	"认定": {
+		"py": "rèndìng",
+		"mn": [
+			[
+				"v",
+				"nhận định; cho rằng; cho là; kết luận | xác định; khẳng định; quyết định"
 			]
 		]
 	},

@@ -83,6 +83,15 @@
 			]
 		]
 	},
+	"成天": {
+		"py": "chéngtiān",
+		"mn": [
+			[
+				"adv",
+				"suốt ngày; cả ngày"
+			]
+		]
+	},
 	"板": {
 		"py": "bǎn",
 		"mn": [
@@ -185,6 +194,19 @@
 			]
 		]
 	},
+	"觉": {
+		"py": "jué",
+		"mn": [
+			[
+				"v",
+				"cảm thấy; cảm giác (con người) | tỉnh; ngủ dậy; tỉnh ngủ; tỉnh giấc | giác ngộ; tỉnh ngộ"
+			],
+			[
+				"n",
+				"giác quan"
+			]
+		]
+	},
 	"得": {
 		"py": "de",
 		"mn": [
@@ -200,6 +222,37 @@
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"可怜": {
+		"py": "kělián",
+		"mn": [
+			[
+				"adj",
+				"đáng thương; thảm thương; khổ thân; tội nghiệp | thảm; thảm thương; quá ít; quá kém; nghèo nàn (số lượng ít hoặc chất lượng đến mức không đáng nêu lên)"
+			],
+			[
+				"v",
+				"thương; thương xót; thương tiếc; thương cảm; cảm thông; thương hại"
+			]
+		]
+	},
+	"塞翁失马": {
+		"py": "sàiwēngshīmǎ",
+		"mn": [
+			[
+				"idioms",
+				"tái ông mất ngựa"
+			]
+		]
+	},
+	"焉知非福": {
+		"py": "yānzhīfēifú",
+		"mn": [
+			[
+				"idioms",
+				"ai mà biết được đó là chuyện tốt hay xấu"
 			]
 		]
 	},

@@ -56,6 +56,15 @@
 			]
 		]
 	},
+	"灾区": {
+		"py": "zāiqū",
+		"mn": [
+			[
+				"n",
+				"khu vực thiên tai | vùng khó khăn"
+			]
+		]
+	},
 	"捐": {
 		"py": "juān",
 		"mn": [
@@ -106,6 +115,15 @@
 			[
 				"n",
 				"đô la mỹ"
+			]
+		]
+	},
+	"日元": {
+		"py": "rìyuán",
+		"mn": [
+			[
+				"n",
+				"Yên nhật"
 			]
 		]
 	},
@@ -162,6 +180,19 @@
 			[
 				"class",
 				"một vài; một số; một phần (chỉ số lượng không xác định) | một ít; một chút (chỉ số lượng rất ít) | mấy; một số | chút; một chút; một tý (đặt sau động từ hoặc tính từ)"
+			]
+		]
+	},
+	"实用": {
+		"py": "shíyòng",
+		"mn": [
+			[
+				"adj",
+				"thực dụng; hữu ích; tiện dụng; hữu dụng; hiệu quả"
+			],
+			[
+				"v",
+				"ứng dụng; áp dụng"
 			]
 		]
 	},
@@ -236,6 +267,33 @@
 			]
 		]
 	},
+	"卫生巾": {
+		"py": "wèishēngjīn",
+		"mn": [
+			[
+				"n",
+				"băng vệ sinh"
+			]
+		]
+	},
+	"内衣": {
+		"py": "nèiyī",
+		"mn": [
+			[
+				"n",
+				"áo trong; áo lót; nội y"
+			]
+		]
+	},
+	"内裤": {
+		"py": "nèikù",
+		"mn": [
+			[
+				"n",
+				"tóm tắt | quần lót"
+			]
+		]
+	},
 	"等": {
 		"py": "děng",
 		"mn": [
@@ -262,6 +320,33 @@
 			[
 				"pro",
 				"bọn; lũ; các; chúng; những (dùng sau đại từ nhân xưng hoặc danh từ chỉ người để chỉ số nhiều)"
+			]
+		]
+	},
+	"妇女": {
+		"py": "fùnǚ",
+		"mn": [
+			[
+				"n",
+				"phụ nữ"
+			]
+		]
+	},
+	"用品": {
+		"py": "yòngpǐn",
+		"mn": [
+			[
+				"n",
+				"đồ; đồ dùng; vật dụng; đồ đạc"
+			]
+		]
+	},
+	"不愧": {
+		"py": "bùkuì",
+		"mn": [
+			[
+				"adv",
+				"xứng đáng, không hổ"
 			]
 		]
 	},
@@ -303,6 +388,15 @@
 			]
 		]
 	},
+	"细心": {
+		"py": "xìxīn",
+		"mn": [
+			[
+				"adj",
+				"tỉ mỉ; kỹ lưỡng; cẩn thận; chu đáo; tinh tế"
+			]
+		]
+	},
 	"这些": {
 		"py": "zhèxiē",
 		"mn": [
@@ -318,6 +412,15 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"有用": {
+		"py": "yǒuyòng",
+		"mn": [
+			[
+				"adj",
+				"có lợi; hữu ích; hữu dụng; có ích"
 			]
 		]
 	}

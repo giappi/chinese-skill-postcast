@@ -269,6 +269,19 @@
 			]
 		]
 	},
+	"突然": {
+		"py": "tūrán",
+		"mn": [
+			[
+				"adv",
+				"đột nhiên; bỗng nhiên; bất ngờ"
+			],
+			[
+				"adj",
+				"đột ngột"
+			]
+		]
+	},
 	"对": {
 		"py": "duì",
 		"mn": [
@@ -295,6 +308,19 @@
 			[
 				"adv",
 				"đối diện; lẫn nhau; qua lại"
+			]
+		]
+	},
+	"感": {
+		"py": "gǎn",
+		"mn": [
+			[
+				"v",
+				"thấy; cảm thấy; cảm giác | cảm động; rung động; xúc động | cảm ơn; cảm tạ; biết ơn | cảm; cảm cúm | thiện cảm; cảm giác; tình cảm; cảm tưởng | cảm quang (phim ảnh)"
+			],
+			[
+				"n",
+				"cảm xúc; cảm giác | họ Cảm"
 			]
 		]
 	},
@@ -334,6 +360,15 @@
 			[
 				"v",
 				"cay xè; cay cay; bỏng (mùi cay kích thích mũi hoặc mắt)"
+			]
+		]
+	},
+	"著称": {
+		"py": "zhùchēng",
+		"mn": [
+			[
+				"v",
+				"trứ danh; nổi tiếng; nổi danh | nức danh; nức tiếng"
 			]
 		]
 	},

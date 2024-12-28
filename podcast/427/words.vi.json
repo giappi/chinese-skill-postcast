@@ -48,6 +48,15 @@
 			]
 		]
 	},
+	"业务": {
+		"py": "yèwù",
+		"mn": [
+			[
+				"n",
+				"nghiệp vụ; công việc"
+			]
+		]
+	},
 	"你好": {
 		"py": "nǐhǎo",
 		"mn": [
@@ -75,12 +84,30 @@
 			]
 		]
 	},
+	"换钱": {
+		"py": "huànqián",
+		"mn": [
+			[
+				"v",
+				"đổi tiền | bán lấy tiền; bán được tiền"
+			]
+		]
+	},
 	"兑换": {
 		"py": "duìhuàn",
 		"mn": [
 			[
 				"v",
 				"đổi; trao đổi; hối đoái"
+			]
+		]
+	},
+	"货币": {
+		"py": "huòbì",
+		"mn": [
+			[
+				"n",
+				"tiền; tiền tệ; tiền mặt"
 			]
 		]
 	},
@@ -120,6 +147,15 @@
 			[
 				"n",
 				"nhân dân tệ (tiền Trung Quốc)"
+			]
+		]
+	},
+	"外币": {
+		"py": "wàibì",
+		"mn": [
+			[
+				"n",
+				"ngoại tệ"
 			]
 		]
 	},
@@ -288,6 +324,32 @@
 			]
 		]
 	},
+	"大概": {
+		"py": "dàgài",
+		"mn": [
+			[
+				"adv",
+				"có thể; có lẽ; khoảng; độ; tầm; chắc"
+			],
+			[
+				"n",
+				"đại khái; nét chính; sơ lược; ý chính"
+			],
+			[
+				"adj",
+				"sơ sơ; chung chung"
+			]
+		]
+	},
+	"不到": {
+		"py": "bùdào",
+		"mn": [
+			[
+				"v",
+				"không đến; ít hơn | vắng mặt; không đến; không xuất hiện | không chu đáo; không cẩn thận; không đến nơi đến chốn"
+			]
+		]
+	},
 	"可以": {
 		"py": "kěyǐ",
 		"mn": [
@@ -341,6 +403,15 @@
 			[
 				"adj",
 				"thượng; trên; trước; đầu (thứ tự, thời gian) | cao; cao cấp; chất lượng tốt | trên; trên cao"
+			]
+		]
+	},
+	"牌价": {
+		"py": "páijià",
+		"mn": [
+			[
+				"n",
+				"giá quy định; giá niêm yết"
 			]
 		]
 	},
@@ -453,6 +524,15 @@
 			]
 		]
 	},
+	"升值": {
+		"py": "shēngzhí",
+		"mn": [
+			[
+				"v",
+				"tăng tỉ giá đồng bạc"
+			]
+		]
+	},
 	"请": {
 		"py": "qǐng",
 		"mn": [
@@ -493,6 +573,15 @@
 			[
 				"adj",
 				"phóng túng; phóng đãng; thái quá; tùy tiện"
+			]
+		]
+	},
+	"单子": {
+		"py": "dānzi",
+		"mn": [
+			[
+				"n",
+				"chăn; khăn trải giường; tấm trải giường | đơn; tờ khai; tờ đơn"
 			]
 		]
 	},

@@ -64,12 +64,30 @@
 			]
 		]
 	},
+	"寿司": {
+		"py": "shòusī",
+		"mn": [
+			[
+				"n",
+				"sushi"
+			]
+		]
+	},
 	"很": {
 		"py": "hěn",
 		"mn": [
 			[
 				"adv",
 				"rất; lắm; quá; hết sức"
+			]
+		]
+	},
+	"新鲜": {
+		"py": "xīnxiān",
+		"mn": [
+			[
+				"adj",
+				"tươi; tươi ngon (rau, quả, hoa, thịt, trứng, cá...) | trong lành (không khí) | mới xuất hiện; mới mẻ; tươi mới"
 			]
 		]
 	},
@@ -214,6 +232,15 @@
 			[
 				"av",
 				"a; à; nhá; nhé; nhỉ..."
+			]
+		]
+	},
+	"兰州": {
+		"py": "lánzhōu",
+		"mn": [
+			[
+				"n, nlocal",
+				"Thành phố cấp tỉnh Lan Châu và thủ phủ của tỉnh Cam Túc"
 			]
 		]
 	},

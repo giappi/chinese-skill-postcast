@@ -139,6 +139,15 @@
 			]
 		]
 	},
+	"岳母": {
+		"py": "yuèmǔ",
+		"mn": [
+			[
+				"n",
+				"nhạc mẫu; mẹ vợ"
+			]
+		]
+	},
 	"她": {
 		"py": "tā",
 		"mn": [
@@ -219,6 +228,15 @@
 			[
 				"adv",
 				"mới, vừa mới (cách đây không lâu) | mới, mới chịu (chuyện xảy ra muộn, trễ) | mới (lý do hoặc điều kiện) | chỉ; chỉ mới; chỉ có | mới (nhấn mạnh chuyện muốn nói) | mới (thay đổi tình trạng từ trước đến nay) | mới (diễn tả sự nhấn mạnh)"
+			]
+		]
+	},
+	"一家人": {
+		"py": "yījiārén",
+		"mn": [
+			[
+				"n",
+				"hộ gia đình | cả gia đình"
 			]
 		]
 	}

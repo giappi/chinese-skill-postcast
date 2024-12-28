@@ -98,6 +98,15 @@
 			]
 		]
 	},
+	"矿泉水": {
+		"py": "kuàngquánshuǐ",
+		"mn": [
+			[
+				"n",
+				"nước khoáng; nước suối"
+			]
+		]
+	},
 	"要": {
 		"py": "yào",
 		"mn": [
@@ -125,6 +134,15 @@
 			[
 				"part",
 				"không; ư; à (dùng ở cuối câu để hỏi) | ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh) | ư; à (biểu thị phản vấn)"
+			]
+		]
+	},
+	"常温": {
+		"py": "chángwēn",
+		"mn": [
+			[
+				"n",
+				"nhiệt độ bình thường (từ 15 đến 25oC)"
 			]
 		]
 	},

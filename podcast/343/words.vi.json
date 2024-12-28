@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"驾照": {
+		"py": "jiàzhào",
+		"mn": [
+			[
+				"n",
+				"bằng lái xe; bằng lái"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -134,6 +143,28 @@
 			]
 		]
 	},
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
+			]
+		]
+	},
+	"考试": {
+		"py": "kǎoshì",
+		"mn": [
+			[
+				"v, sv",
+				"thi; kiểm tra; sát hạch"
+			],
+			[
+				"n",
+				"cuộc thi; kỳ thi; bài kiểm tra"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
@@ -149,6 +180,15 @@
 			[
 				"v",
 				"quên; bỏ quên"
+			]
+		]
+	},
+	"系": {
+		"py": "jì",
+		"mn": [
+			[
+				"v",
+				"thắt; buộc; cài; đeo"
 			]
 		]
 	},
@@ -171,6 +211,28 @@
 			[
 				"adj",
 				"nguyệt; hình tròn; tròn như mặt trăng"
+			]
+		]
+	},
+	"补考": {
+		"py": "bǔkǎo",
+		"mn": [
+			[
+				"v",
+				"thi lại; thi bù; thi bổ sung"
+			]
+		]
+	},
+	"通过": {
+		"py": "tōngguò",
+		"mn": [
+			[
+				"v",
+				"qua; đi qua; vượt qua; chui qua | qua; phê duyệt; kiểm duyệt; thông qua | thông qua; đồng ý; phê chuẩn (đại biểu) | đỗ; qua; thông qua; vượt qua (tiêu chuẩn, yêu cầu)"
+			],
+			[
+				"prep",
+				"qua; thông qua"
 			]
 		]
 	},

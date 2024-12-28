@@ -17,6 +17,15 @@
 			]
 		]
 	},
+	"个子": {
+		"py": "gèzi",
+		"mn": [
+			[
+				"n",
+				"vóc dáng; vóc người; thân hình; khổ người; dáng người | kích thước"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -39,6 +48,15 @@
 			[
 				"n",
 				"tổng; tổng của hai số | họ Hoà | Nhật; Nhật Bản"
+			]
+		]
+	},
+	"姚明": {
+		"py": "yáomíng",
+		"mn": [
+			[
+				"n",
+				"Yao Ming (1980-), cầu thủ bóng rổ Trung Quốc đã nghỉ hưu, chơi cho CBA Shanghai Sharks 1997-2002 và NBA Houston Rockets 2002-2011"
 			]
 		]
 	},
@@ -105,6 +123,15 @@
 			[
 				"pro",
 				"mỗi ngày; hàng ngày; ngày ngày"
+			]
+		]
+	},
+	"打折": {
+		"py": "dǎzhé",
+		"mn": [
+			[
+				"sv, v",
+				"giảm giá; chiết khấu"
 			]
 		]
 	},

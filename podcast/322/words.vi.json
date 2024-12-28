@@ -1,4 +1,22 @@
 {
+	"元旦": {
+		"py": "yuándàn",
+		"mn": [
+			[
+				"time, n",
+				"Tết dương lịch; Tết Tây"
+			]
+		]
+	},
+	"放假": {
+		"py": "fàngjià",
+		"mn": [
+			[
+				"v, sv",
+				"nghỉ; nghỉ định kỳ"
+			]
+		]
+	},
 	"三": {
 		"py": "sān",
 		"mn": [
@@ -168,6 +186,15 @@
 			]
 		]
 	},
+	"成天": {
+		"py": "chéngtiān",
+		"mn": [
+			[
+				"adv",
+				"suốt ngày; cả ngày"
+			]
+		]
+	},
 	"当": {
 		"py": "dāng",
 		"mn": [
@@ -219,12 +246,34 @@
 			]
 		]
 	},
+	"外面": {
+		"py": "wàimiàn",
+		"mn": [
+			[
+				"nlocal",
+				"bên ngoài; bề ngoài"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"温暖": {
+		"py": "wēnnuǎn",
+		"mn": [
+			[
+				"adj",
+				"ấm; ấm áp; ấm cúng"
+			],
+			[
+				"v",
+				"sưởi ấm; làm ấm"
 			]
 		]
 	}

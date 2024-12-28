@@ -26,6 +26,15 @@
 			]
 		]
 	},
+	"钱包": {
+		"py": "qiánbāo",
+		"mn": [
+			[
+				"n",
+				"ví tiền; túi tiền; ví"
+			]
+		]
+	},
 	"不": {
 		"py": "bù",
 		"mn": [
@@ -123,6 +132,19 @@
 			[
 				"part",
 				"bị (dùng trước động từ tạo thành nhóm từ biểu thị sự bị động)"
+			]
+		]
+	},
+	"划": {
+		"py": "huá",
+		"mn": [
+			[
+				"v",
+				"chèo; bơi | cắt; cứa; quẹt; xước"
+			],
+			[
+				"adj",
+				"tính; tính toán; tính toán sao cho có lợi"
 			]
 		]
 	},
@@ -261,6 +283,28 @@
 			]
 		]
 	},
+	"分头": {
+		"py": "fēntóu",
+		"mn": [
+			[
+				"",
+				"phân công nhau; chia nhau; chia ra | rẽ tóc; rẽ đường ngôi"
+			]
+		]
+	},
+	"行动": {
+		"py": "xíngdòng",
+		"mn": [
+			[
+				"v",
+				"đi lại; di chuyển; đi đi lại lại | hành động; thực hiện"
+			],
+			[
+				"n",
+				"hành động; cử chỉ"
+			]
+		]
+	},
 	"去": {
 		"py": "qù",
 		"mn": [
@@ -282,6 +326,15 @@
 			]
 		]
 	},
+	"报警": {
+		"py": "bàojǐng",
+		"mn": [
+			[
+				"sv",
+				"báo cảnh sát; gọi cảnh sát"
+			]
+		]
+	},
 	"你": {
 		"py": "nǐ",
 		"mn": [
@@ -292,6 +345,15 @@
 			[
 				"n",
 				"họ Nhĩ"
+			]
+		]
+	},
+	"挂失": {
+		"py": "guàshī",
+		"mn": [
+			[
+				"v",
+				"báo mất; báo mất đồ; báo mất giấy tờ"
 			]
 		]
 	}

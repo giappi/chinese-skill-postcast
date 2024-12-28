@@ -38,6 +38,24 @@
 			]
 		]
 	},
+	"逛街": {
+		"py": "guàngjiē",
+		"mn": [
+			[
+				"v",
+				"mua sắm; dạo phố; dạo bộ; tản bộ"
+			]
+		]
+	},
+	"洗面奶": {
+		"py": "xǐmiànnǎi",
+		"mn": [
+			[
+				"n",
+				"sữa rửa mặt"
+			]
+		]
+	},
 	"用完": {
 		"py": "yòngwán",
 		"mn": [
@@ -62,6 +80,24 @@
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"洗发水": {
+		"py": "xǐfàshuǐ",
+		"mn": [
+			[
+				"n",
+				"dầu gội đầu"
+			]
+		]
+	},
+	"沐浴液": {
+		"py": "mùyùyè",
+		"mn": [
+			[
+				"n",
+				"sữa tắm"
 			]
 		]
 	},
@@ -313,6 +349,15 @@
 			[
 				"v",
 				"mua sắm; mua hàng"
+			]
+		]
+	},
+	"清单": {
+		"py": "qīngdān",
+		"mn": [
+			[
+				"n",
+				"menu; danh sách; danh mục bản liệt kê; bảng kê"
 			]
 		]
 	},

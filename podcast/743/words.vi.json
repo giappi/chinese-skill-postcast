@@ -76,6 +76,15 @@
 			]
 		]
 	},
+	"打火机": {
+		"py": "dǎhuǒjī",
+		"mn": [
+			[
+				"n",
+				"hộp quẹt; bật lửa"
+			]
+		]
+	},
 	"戒": {
 		"py": "jiè",
 		"mn": [
@@ -160,6 +169,15 @@
 			[
 				"adv",
 				"đều; cả; hoàn toàn; toàn bộ | vì; tại; do; đều; cũng vì; đều tại | cũng; thậm chí | đã; cũng đã"
+			]
+		]
+	},
+	"抽": {
+		"py": "chōu",
+		"mn": [
+			[
+				"v",
+				"rút; rút ra; lấy ra; chiết xuất; dẫn ra | dành; bớt; cử; lấy ra; tách ra; đưa ra; tháo ra; chọn ra (một phần) | trổ; nảy; đâm ra; mọc ra | hút; bơm | co; rút; ngắn lại; co vào; rút vào; nhỏ đi | quất; đánh; vụt"
 			]
 		]
 	},
@@ -264,6 +282,31 @@
 			[
 				"v",
 				"xếp; xếp bày"
+			]
+		]
+	},
+	"非": {
+		"py": "fēi",
+		"mn": [
+			[
+				"adv",
+				"phải; nhất định | không; không phải; không phải là | hỏng; tệ; xấu; không tốt"
+			],
+			[
+				"v",
+				"phản đối; chê trách; trách mắng; không đồng ý | vi phạm; phi pháp; phạm pháp; phạm luật; không hợp | không; không phải"
+			],
+			[
+				"n",
+				"Châu Phi"
+			],
+			[
+				"adj",
+				"sai; trái; không đúng; sai lầm"
+			],
+			[
+				"pref",
+				"phi; không"
 			]
 		]
 	},

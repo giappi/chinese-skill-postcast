@@ -99,6 +99,15 @@
 			]
 		]
 	},
+	"丫头": {
+		"py": "yātou",
+		"mn": [
+			[
+				"n",
+				"bé gái; con gái | nha hoàn; con ở"
+			]
+		]
+	},
 	"这么": {
 		"py": "zhème",
 		"mn": [
@@ -268,6 +277,24 @@
 			[
 				"n",
 				"hẹn; cuộc hẹn"
+			]
+		]
+	},
+	"激将法": {
+		"py": "jījiàngfǎ",
+		"mn": [
+			[
+				"n",
+				"phương pháp gián tiếp, tâm lý để khiến ai đó làm theo ý muốn (ví dụ: đặt câu hỏi liệu họ có hoàn thành nhiệm vụ hay không)"
+			]
+		]
+	},
+	"没用": {
+		"py": "méiyòng",
+		"mn": [
+			[
+				"adj",
+				"vô tác dụng | vô ích; vô tích sự"
 			]
 		]
 	},

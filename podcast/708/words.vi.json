@@ -34,6 +34,15 @@
 			]
 		]
 	},
+	"悲剧": {
+		"py": "bēijù",
+		"mn": [
+			[
+				"n",
+				"bi kịch; thảm kịch (một thể loại kịch) | cảnh ngộ bất hạnh"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -145,6 +154,15 @@
 			[
 				"n",
 				"trong nhà; trong gia đình | bà xã; bà nhà; vợ"
+			]
+		]
+	},
+	"翻": {
+		"py": "fān",
+		"mn": [
+			[
+				"v",
+				"lật; đổ; trở mình; giở; đảo | lục lọi; lục; đảo lộn | lật đổ; phản; lật bỏ (cái cũ) | vượt qua; leo qua; trèo qua | tăng gấp đôi; tăng gấp bội (số lượng) | dịch; phiên dịch | trở mặt; giở giọng"
 			]
 		]
 	},
@@ -260,6 +278,15 @@
 			]
 		]
 	},
+	"虚惊一场": {
+		"py": "xūjīngyīchǎng",
+		"mn": [
+			[
+				"v",
+				"Một phen hú hồn"
+			]
+		]
+	},
 	"而已": {
 		"py": "éryǐ",
 		"mn": [
@@ -366,12 +393,34 @@
 			]
 		]
 	},
+	"呵呵": {
+		"py": "hēhē",
+		"mn": [
+			[
+				"onom",
+				"ha ha; ha hả; hề hề (tiếng cười)"
+			]
+		]
+	},
 	"放": {
 		"py": "fàng",
 		"mn": [
 			[
 				"v",
 				"đặt; để; cất | cho; bỏ; thêm | chăn; thả | ngừng; nghỉ; tan (học tập, công tác) | phát; chiếu | tạm dừng; gác lại; để đấy (sự việc nào đó) | tha; thả; bỏ qua; phóng thích | phóng túng; buông thả | đày; lưu đày | phóng; bắn | đốt; châm | nới; mở rộng; kéo dài | nở; mở (hoa) | giữ; kiềm chế | làm đổ; làm lật | cho vay (cho vay lấy lãi)"
+			]
+		]
+	},
+	"轻松": {
+		"py": "qīngsōng",
+		"mn": [
+			[
+				"adj",
+				"nhẹ nhõm; ung dung; thoải mái; thư giãn"
+			],
+			[
+				"v",
+				"thư giãn; thả lỏng"
 			]
 		]
 	},

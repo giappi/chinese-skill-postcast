@@ -73,6 +73,24 @@
 			]
 		]
 	},
+	"电子书": {
+		"py": "diànzǐshū",
+		"mn": [
+			[
+				"n",
+				"sách điện tử | người đọc sách điện tử"
+			]
+		]
+	},
+	"阅读器": {
+		"py": "yuèdúqì",
+		"mn": [
+			[
+				"n",
+				"đầu đọc (phần mềm)"
+			]
+		]
+	},
 	"刚": {
 		"py": "gāng",
 		"mn": [
@@ -87,6 +105,15 @@
 			[
 				"n",
 				"họ Cương"
+			]
+		]
+	},
+	"下载": {
+		"py": "xiàzài",
+		"mn": [
+			[
+				"v",
+				"tải xuống; tải về"
 			]
 		]
 	},
@@ -105,6 +132,15 @@
 			[
 				"pro",
 				"này; cái này | nay; ngay; lúc này; bây giờ; ngay bây giờ | này; đây | cái này; việc này; điều này"
+			]
+		]
+	},
+	"东西": {
+		"py": "dōngxī",
+		"mn": [
+			[
+				"n",
+				"đông tây; phía đông và phía tây. | từ đông sang tây"
 			]
 		]
 	},
@@ -265,6 +301,19 @@
 			]
 		]
 	},
+	"无数": {
+		"py": "wúshù",
+		"mn": [
+			[
+				"adj",
+				"vô số; rất nhiều; nhiều vô kể"
+			],
+			[
+				"v",
+				"không; không biết; không chắc; không biết chắc"
+			]
+		]
+	},
 	"本": {
 		"py": "běn",
 		"mn": [
@@ -300,6 +349,15 @@
 			[
 				"conj",
 				"mà còn; với lại"
+			]
+		]
+	},
+	"拎": {
+		"py": "līn",
+		"mn": [
+			[
+				"v",
+				"xách (lực nhẹ, ngón tay hay cổ tay đều được)"
 			]
 		]
 	},
@@ -514,6 +572,15 @@
 			]
 		]
 	},
+	"相当于": {
+		"py": "xiāngdāngyú",
+		"mn": [
+			[
+				"v",
+				"bằng với; giống như; tương đương với"
+			]
+		]
+	},
 	"一个": {
 		"py": "yīgè",
 		"mn": [
@@ -537,6 +604,15 @@
 			[
 				"adv",
 				"ít hơn; nhỏ hơn | hơi; chỉ hơi; hơi một chút"
+			]
+		]
+	},
+	"图书馆": {
+		"py": "túshūguǎn",
+		"mn": [
+			[
+				"n",
+				"thư viện"
 			]
 		]
 	},
@@ -641,12 +717,38 @@
 			]
 		]
 	},
+	"根据": {
+		"py": "gēnjù",
+		"mn": [
+			[
+				"prep",
+				"căn cứ, dựa vào (điều kiện, lý do)"
+			],
+			[
+				"n",
+				"chứng cứ; luận cứ; căn cứ; chuẩn cứ"
+			],
+			[
+				"v",
+				"căn cứ; căn cứ vào; dựa vào; thể theo"
+			]
+		]
+	},
 	"自己": {
 		"py": "zìjǐ",
 		"mn": [
 			[
 				"pro",
 				"tự mình; bản thân; mình"
+			]
+		]
+	},
+	"喜好": {
+		"py": "xǐhào",
+		"mn": [
+			[
+				"v",
+				"yêu thích; mến chuộng; sở thích"
 			]
 		]
 	},
@@ -660,6 +762,37 @@
 			[
 				"n",
 				"sự lựa chọn"
+			]
+		]
+	},
+	"字体": {
+		"py": "zìtǐ",
+		"mn": [
+			[
+				"n",
+				"kiểu chữ; thể chữ | kiểu chữ (của các nhà thư pháp) | hình dạng chữ; hình dạng của chữ"
+			]
+		]
+	},
+	"大小": {
+		"py": "dàxiǎo",
+		"mn": [
+			[
+				"n",
+				"khổ; cỡ; size; kích thước | lớn bé; lớn nhỏ; cả nhà; người lớn và trẻ em | lớn và nhỏ | cao thấp; lớn bé (ngôi thứ, địa vị, tuổi tác)"
+			],
+			[
+				"adv",
+				"có thể coi là; cũng được xem như"
+			]
+		]
+	},
+	"行距": {
+		"py": "hángjù",
+		"mn": [
+			[
+				"n",
+				"khoảng cách giữa các hàng cây; cự li giữa các hàng; cự ly giữa hai hàng"
 			]
 		]
 	},
@@ -682,6 +815,46 @@
 			[
 				"v",
 				"xem; đọc; đọc hiểu"
+			]
+		]
+	},
+	"习惯": {
+		"py": "xíguàn",
+		"mn": [
+			[
+				"n",
+				"thói quen; tập quán; thói; tập tục; tục lệ"
+			],
+			[
+				"v",
+				"quen; quen với (việc làm gì đó)"
+			]
+		]
+	},
+	"调整": {
+		"py": "tiáozhěng",
+		"mn": [
+			[
+				"v",
+				"chỉnh; điều chỉnh"
+			]
+		]
+	},
+	"屏幕": {
+		"py": "píngmù",
+		"mn": [
+			[
+				"n",
+				"màn hình"
+			]
+		]
+	},
+	"亮度": {
+		"py": "liàngdù",
+		"mn": [
+			[
+				"n",
+				"độ sáng; mức độ ánh sáng | quang độ"
 			]
 		]
 	},

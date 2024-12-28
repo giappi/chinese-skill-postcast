@@ -130,6 +130,15 @@
 			]
 		]
 	},
+	"短信": {
+		"py": "duǎnxìn",
+		"mn": [
+			[
+				"n",
+				"tin nhắn; tin nhắn văn bản; tin"
+			]
+		]
+	},
 	"和": {
 		"py": "hé",
 		"mn": [
@@ -173,12 +182,34 @@
 			]
 		]
 	},
+	"超额": {
+		"py": "chāoé",
+		"mn": [
+			[
+				"v",
+				"vượt mức; số lượng hơn; dôi ra; dư ra"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"要命": {
+		"py": "yàomìng",
+		"mn": [
+			[
+				"v",
+				"chết người; mất mạng"
+			],
+			[
+				"adj",
+				"cực kỳ; vô cùng | khó chịu (hình dung khiến người ta không thể chịu đựng được)"
 			]
 		]
 	},
@@ -256,6 +287,15 @@
 			]
 		]
 	},
+	"通话": {
+		"py": "tōnghuà",
+		"mn": [
+			[
+				"v",
+				"gọi điện thoại | trò chuyện; nói chuyện; giao tiếp"
+			]
+		]
+	},
 	"条": {
 		"py": "tiáo",
 		"mn": [
@@ -308,6 +348,32 @@
 			]
 		]
 	},
+	"少": {
+		"py": "shǎo",
+		"mn": [
+			[
+				"v",
+				"thiếu; thiếu đi | thiếu; nợ | mất | ngưng; dừng; đừng; bớt"
+			],
+			[
+				"adj",
+				"ít"
+			],
+			[
+				"adv",
+				"tạm thời; một chút; một lát"
+			]
+		]
+	},
+	"至少": {
+		"py": "zhìshǎo",
+		"mn": [
+			[
+				"adv",
+				"chí ít; ít nhất; ít ra; ít lắm"
+			]
+		]
+	},
 	"看": {
 		"py": "kàn",
 		"mn": [
@@ -318,6 +384,24 @@
 			[
 				"part",
 				"xem; coi; thử; thử xem"
+			]
+		]
+	},
+	"微博": {
+		"py": "wēibó",
+		"mn": [
+			[
+				"n",
+				"Weibo"
+			]
+		]
+	},
+	"微信": {
+		"py": "wēixìn",
+		"mn": [
+			[
+				"n",
+				"WeChat (mạng xã hội của Trung Quốc)"
 			]
 		]
 	},
@@ -352,6 +436,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"用光": {
+		"py": "yòngguāng",
+		"mn": [
+			[
+				"v",
+				"cạn kiệt | cạn kiệt (sử dụng hết) | hết (cung cấp) | dành ra"
 			]
 		]
 	},
@@ -437,6 +530,15 @@
 			]
 		]
 	},
+	"大胆": {
+		"py": "dàdǎn",
+		"mn": [
+			[
+				"adj",
+				"dũng cảm; mạnh dạn; gan dạ; táo bạo"
+			]
+		]
+	},
 	"地": {
 		"py": "de",
 		"mn": [
@@ -476,6 +578,19 @@
 			]
 		]
 	},
+	"对了": {
+		"py": "duìle",
+		"mn": [
+			[
+				"conj",
+				"đúng rồi (sực nhớ ra còn điều gì chưa nói)"
+			],
+			[
+				"intj",
+				"đúng; đúng rồi"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -494,6 +609,15 @@
 			[
 				"pro",
 				"đây; này; vậy"
+			]
+		]
+	},
+	"G": {
+		"py": "",
+		"mn": [
+			[
+				"",
+				"越南字母第十字。"
 			]
 		]
 	},

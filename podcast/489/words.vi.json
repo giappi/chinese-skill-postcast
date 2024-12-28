@@ -47,6 +47,19 @@
 			]
 		]
 	},
+	"趟": {
+		"py": "tàng",
+		"mn": [
+			[
+				"measure",
+				"lần; chuyến (chỉ số lần đi lại, di chuyển đi về của người hoặc phương tiện giao thông) | dãy; hàng (dùng cho những vật có thể xếp thành dãy, hàng)"
+			],
+			[
+				"n",
+				"hàng; đoàn; đoàn người"
+			]
+		]
+	},
 	"银行": {
 		"py": "yínháng",
 		"mn": [
@@ -120,6 +133,32 @@
 			]
 		]
 	},
+	"花": {
+		"py": "huā",
+		"mn": [
+			[
+				"n",
+				"hoa; bông; bông hoa | cây hoa; cây bông | hoa (vật giống như hoa) | bông; bông vải | pháo hoa | hạt; miếng; lát; giọt | hoa văn; hình hoa | đoá hoa; bông hoa (tinh hoa của sự vật) | đoá hoa; bông hoa (tinh hoa) | hoa; bông hoa; hoa khôi; người đẹp; mỹ nữ (ví với con gái đẹp) | bị thương; ngoại thương (khi chiến đấu) | họ Hoa"
+			],
+			[
+				"adj",
+				"nhiều màu; sặc sỡ; lòe loẹt | choáng váng; hoa mắt | hoa mỹ; xảo trá | kỹ nữ; gái điếm; cô đầu | sờn; cũ (quần áo)"
+			],
+			[
+				"v",
+				"dùng; tiêu tốn; chi tiêu; xài; tốn"
+			]
+		]
+	},
+	"使者": {
+		"py": "shǐzhě",
+		"mn": [
+			[
+				"n",
+				"sứ giả; đại diện; đại sứ"
+			]
+		]
+	},
 	"没": {
 		"py": "méi",
 		"mn": [
@@ -143,6 +182,19 @@
 			[
 				"adj",
 				"có vấn đề; không bình thường"
+			]
+		]
+	},
+	"对了": {
+		"py": "duìle",
+		"mn": [
+			[
+				"conj",
+				"đúng rồi (sực nhớ ra còn điều gì chưa nói)"
+			],
+			[
+				"intj",
+				"đúng; đúng rồi"
 			]
 		]
 	},
@@ -307,6 +359,15 @@
 			[
 				"prep",
 				"đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)"
+			]
+		]
+	},
+	"升值": {
+		"py": "shēngzhí",
+		"mn": [
+			[
+				"v",
+				"tăng tỉ giá đồng bạc"
 			]
 		]
 	},
@@ -676,6 +737,15 @@
 			]
 		]
 	},
+	"言之有理": {
+		"py": "yánzhīyǒulǐ",
+		"mn": [
+			[
+				"Thành ngữ phổ biến, Trung tính",
+				"nói có lý"
+			]
+		]
+	},
 	"那": {
 		"py": "nà",
 		"mn": [
@@ -707,6 +777,15 @@
 			[
 				"v",
 				"đi trước"
+			]
+		]
+	},
+	"存": {
+		"py": "cún",
+		"mn": [
+			[
+				"v",
+				"tồn tại; sinh tồn; sống | dự trữ; bảo quản; lưu giữ | dồn lại; tích đọng; tụ | để dành; gửi tiền tiết kiệm | gởi; gửi | giữ lại; gác lại | số dư; tồn; còn lại | ấp ủ; khao khát"
 			]
 		]
 	},

@@ -46,6 +46,19 @@
 			]
 		]
 	},
+	"中": {
+		"py": "zhōng",
+		"mn": [
+			[
+				"n",
+				"giữa; chính giữa; trung tâm | Trung Quốc | trong; bên trong | giữa; trung; trung bình | nội tâm; trong lòng | người trung gian; người ở giữa; người môi giới | trong; trên (lĩnh vực, phương diện) | họ Trung"
+			],
+			[
+				"adj",
+				"được; thích hợp; hợp lý; khả thi"
+			]
+		]
+	},
 	"没有": {
 		"py": "méiyǒu",
 		"mn": [
@@ -56,6 +69,15 @@
 			[
 				"adv",
 				"chưa | chưa từng; chưa hề"
+			]
+		]
+	},
+	"热水": {
+		"py": "rèshuǐ",
+		"mn": [
+			[
+				"n",
+				"nước nóng"
 			]
 		]
 	},
@@ -83,6 +105,15 @@
 			[
 				"v",
 				"không thể; không được phép"
+			]
+		]
+	},
+	"洗澡": {
+		"py": "xǐzǎo",
+		"mn": [
+			[
+				"v, sv",
+				"tắm; tắm rửa"
 			]
 		]
 	},

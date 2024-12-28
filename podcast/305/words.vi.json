@@ -1,4 +1,13 @@
 {
+	"诶": {
+		"py": "èi",
+		"mn": [
+			[
+				"intj",
+				"ừ; ừm; umm (để bày tỏ sự đồng ý)"
+			]
+		]
+	},
 	"高平": {
 		"py": "gāopíng",
 		"mn": [
@@ -36,6 +45,15 @@
 			[
 				"part",
 				"đã; rồi (động tác được thực hiện) | đã; rồi (tính chất trạng thái có sự thay đổi) | thôi; rồi; nữa (biểu thị sự thôi thúc hoặc khuyên ngăn) | quá; rồi (dùng trong câu cảm thán)"
+			]
+		]
+	},
+	"胳膊": {
+		"py": "gēbo",
+		"mn": [
+			[
+				"n",
+				"cánh tay; tay"
 			]
 		]
 	},
@@ -151,6 +169,15 @@
 			]
 		]
 	},
+	"献": {
+		"py": "xiàn",
+		"mn": [
+			[
+				"v",
+				"dâng; tặng; cống hiến | trình diễn; thể hiện"
+			]
+		]
+	},
 	"多少": {
 		"py": "duōshǎo",
 		"mn": [
@@ -220,6 +247,15 @@
 			]
 		]
 	},
+	"看见": {
+		"py": "kànjiàn",
+		"mn": [
+			[
+				"v",
+				"thấy; trông thấy; thấy được; nhìn thấy"
+			]
+		]
+	},
 	"扎": {
 		"py": "zhā",
 		"mn": [
@@ -276,6 +312,15 @@
 			]
 		]
 	},
+	"心": {
+		"py": "xīn",
+		"mn": [
+			[
+				"n",
+				"tim; trái tim; quả tim | tâm; lòng; tâm tư; tâm địa; ý nghĩ; ý muốn | tâm; lòng; trung tâm; khoảng giữa | suy nghĩ; suy tư; mưu tính | lòng; tấm lòng; bụng dạ; tâm địa | sao Tâm (một chòm sao trong nhị thập bát tú)"
+			]
+		]
+	},
 	"就": {
 		"py": "jiù",
 		"mn": [
@@ -294,6 +339,15 @@
 			[
 				"prep",
 				"nhân; tiện; nhân tiện; tiện thể | nói; về; nói về | ngay; gần; liền"
+			]
+		]
+	},
+	"突突": {
+		"py": "tūtū",
+		"mn": [
+			[
+				"adj",
+				"thình thịch; xình xịch (từ tượng thanh)"
 			]
 		]
 	},
@@ -341,6 +395,15 @@
 			]
 		]
 	},
+	"立刻": {
+		"py": "lìkè",
+		"mn": [
+			[
+				"adv",
+				"ngay; luôn; lập tức; tức khắc; liền lập tức; ngay lập tức"
+			]
+		]
+	},
 	"啊": {
 		"py": "a",
 		"mn": [
@@ -364,6 +427,15 @@
 			[
 				"n",
 				"trước đây"
+			]
+		]
+	},
+	"还好": {
+		"py": "háihǎo",
+		"mn": [
+			[
+				"adj",
+				"tạm được; cũng được; vẫn ổn | may; may sao; cũng may; vẫn may; còn may"
 			]
 		]
 	},
@@ -453,6 +525,15 @@
 			]
 		]
 	},
+	"反而": {
+		"py": "fǎnér",
+		"mn": [
+			[
+				"adv",
+				"trái lại; ngược lại"
+			]
+		]
+	},
 	"觉得": {
 		"py": "juéde",
 		"mn": [
@@ -497,6 +578,15 @@
 			]
 		]
 	},
+	"没什么": {
+		"py": "méishénme",
+		"mn": [
+			[
+				"sentence",
+				"không sao; không việc gì; không hề gì"
+			]
+		]
+	},
 	"是": {
 		"py": "shì",
 		"mn": [
@@ -524,6 +614,24 @@
 			[
 				"pro",
 				"loại này; cái này; kiểu này"
+			]
+		]
+	},
+	"血": {
+		"py": "xiě",
+		"mn": [
+			[
+				"n",
+				"máu; huyết"
+			]
+		]
+	},
+	"叫做": {
+		"py": "jiàozuò",
+		"mn": [
+			[
+				"v",
+				"là; gọi là; tên là"
 			]
 		]
 	},
@@ -574,6 +682,15 @@
 			]
 		]
 	},
+	"将来": {
+		"py": "jiānglái",
+		"mn": [
+			[
+				"n",
+				"tương lai; sau này; mai sau"
+			]
+		]
+	},
 	"一定": {
 		"py": "yīdìng",
 		"mn": [
@@ -619,6 +736,15 @@
 			[
 				"n",
 				"người; con người | loại người | thành niên; người trưởng thành | người khác | mỗi người; người bình thường | người tài; nhân tài | phẩm chất; tính cách; danh dự | chỉ thân thể con người"
+			]
+		]
+	},
+	"上次": {
+		"py": "shàngcì",
+		"mn": [
+			[
+				"n",
+				"lần trước"
 			]
 		]
 	},
@@ -735,6 +861,19 @@
 			]
 		]
 	},
+	"却": {
+		"py": "què",
+		"mn": [
+			[
+				"adv",
+				"lại; nhưng; mà lại; nhưng mà"
+			],
+			[
+				"v",
+				"lùi; lui; lui bước | đẩy lùi; đánh lùi | chối từ; khước từ; từ chối | mất; đi"
+			]
+		]
+	},
 	"所以": {
 		"py": "suǒyǐ",
 		"mn": [
@@ -745,6 +884,24 @@
 			[
 				"n",
 				"nguyên cớ; nguyên do; nguyên nhân"
+			]
+		]
+	},
+	"媒体": {
+		"py": "méitǐ",
+		"mn": [
+			[
+				"n",
+				"truyền thông; truyền thông phương tiện; giới truyền thông; cánh truyền thông"
+			]
+		]
+	},
+	"社会": {
+		"py": "shèhuì",
+		"mn": [
+			[
+				"n",
+				"xã hội | cộng đồng; xã hội | xã đoàn; hội; câu lạc bộ; tổ chức"
 			]
 		]
 	},

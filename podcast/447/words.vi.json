@@ -59,6 +59,15 @@
 			]
 		]
 	},
+	"旺季": {
+		"py": "wàngjì",
+		"mn": [
+			[
+				"n",
+				"mùa thịnh vượng; mùa rộ; mùa đắt hàng; mùa cao điểm (trong sản xuất và kinh doanh)"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -164,12 +173,48 @@
 			]
 		]
 	},
+	"季度": {
+		"py": "jìdù",
+		"mn": [
+			[
+				"n",
+				"quý (danh từ chỉ thời gian)"
+			]
+		]
+	},
+	"那样": {
+		"py": "nàyàng",
+		"mn": [
+			[
+				"pro",
+				"thế; như vậy; như thế"
+			]
+		]
+	},
+	"手忙脚乱": {
+		"py": "shǒumángjiǎoluàn",
+		"mn": [
+			[
+				"idioms",
+				"luống cuống; chân tay lúng túng; lúng ta lúng túng; lúng túng như thợ vụng mất kim"
+			]
+		]
+	},
 	"的": {
 		"py": "de",
 		"mn": [
 			[
 				"part",
 				"của (chỉ sở hữu) | miêu tả thêm cho trung tâm ngữ | thay thế cho người hoặc vật đã đề cập trước đó | nhấn mạnh hành động, sự việc đã thực hiện (thời gian, địa điểm, phương thức) | diễn tả khẳng định (đứng cuối câu kể) | biểu thị rằng ai đó đã đạt được chức vụ hoặc địa vị nhất định | chỉ rõ đối tượng nào đó | vân vân; các loại như; v.v. | kết hợp với động từ phía trước biểu thị ai đó là đối tượng của động tác"
+			]
+		]
+	},
+	"按理说": {
+		"py": "ànlǐshuō",
+		"mn": [
+			[
+				"adv",
+				"nó là hợp lý để nói rằng ..."
 			]
 		]
 	},
@@ -203,6 +248,15 @@
 			]
 		]
 	},
+	"淡季": {
+		"py": "dànjì",
+		"mn": [
+			[
+				"n",
+				"trái mùa; mùa ế hàng; mùa ít khách; mùa thấp điểm"
+			]
+		]
+	},
 	"可是": {
 		"py": "kěshì",
 		"mn": [
@@ -225,12 +279,57 @@
 			]
 		]
 	},
+	"反常": {
+		"py": "fǎncháng",
+		"mn": [
+			[
+				"adj",
+				"khác thường; lạ; bất thường; dị thường; lố lăng"
+			]
+		]
+	},
+	"导致": {
+		"py": "dǎozhì",
+		"mn": [
+			[
+				"v",
+				"dẫn đến; gây ra; đưa tới; làm cho; khiến cho"
+			]
+		]
+	},
 	"咱们": {
 		"py": "zánmen",
 		"mn": [
 			[
 				"pro",
 				"tụi mình; chúng ta; chúng mình (cả người nói và người nghe) | bạn; cậu; các bạn | tôi; tớ; mình"
+			]
+		]
+	},
+	"游客": {
+		"py": "yóukè",
+		"mn": [
+			[
+				"n",
+				"du khách; người đi du lịch; khách du lịch"
+			]
+		]
+	},
+	"数量": {
+		"py": "shùliàng",
+		"mn": [
+			[
+				"n",
+				"lượng; số lượng"
+			]
+		]
+	},
+	"剧增": {
+		"py": "jùzēng",
+		"mn": [
+			[
+				"v",
+				"tăng nhanh; tăng đột biến; gia tăng đáng kể"
 			]
 		]
 	},
@@ -265,12 +364,39 @@
 			]
 		]
 	},
+	"各项": {
+		"py": "gèxiàng",
+		"mn": [
+			[
+				"n",
+				"Các hạng mục"
+			]
+		]
+	},
+	"应急": {
+		"py": "yìngjí",
+		"mn": [
+			[
+				"v, sv",
+				"ứng phó; đáp ứng (nhu cầu bức thiết)"
+			]
+		]
+	},
 	"如果": {
 		"py": "rúguǒ",
 		"mn": [
 			[
 				"conj",
 				"nếu; nếu như; nếu mà; lỡ như; giá mà"
+			]
+		]
+	},
+	"应付": {
+		"py": "yìngfù",
+		"mn": [
+			[
+				"v",
+				"ứng phó; đối phó; chống chế | qua loa; tạm bợ"
 			]
 		]
 	},
@@ -284,6 +410,15 @@
 			[
 				"v",
 				"kết giao; cấu kết; thông đồng"
+			]
+		]
+	},
+	"洪流": {
+		"py": "hóngliú",
+		"mn": [
+			[
+				"n",
+				"nước lũ; dòng thác; dòng nước lũ | tệ nạn; dòng chảy; vấn nạn; dòng thác"
 			]
 		]
 	},
@@ -306,6 +441,24 @@
 			[
 				"adj",
 				"nguyệt; hình tròn; tròn như mặt trăng"
+			]
+		]
+	},
+	"高峰期": {
+		"py": "gāofēngqī",
+		"mn": [
+			[
+				"n",
+				"giờ cao điểm; thời kỳ đỉnh điểm; thời kỳ cao điểm"
+			]
+		]
+	},
+	"业务": {
+		"py": "yèwù",
+		"mn": [
+			[
+				"n",
+				"nghiệp vụ; công việc"
 			]
 		]
 	},
@@ -332,6 +485,15 @@
 			[
 				"adj",
 				"mạnh mẽ; mãnh liệt; nhanh chóng"
+			]
+		]
+	},
+	"增长": {
+		"py": "zēngzhǎng",
+		"mn": [
+			[
+				"v",
+				"tăng trưởng; nâng cao; tăng thêm"
 			]
 		]
 	},
@@ -387,6 +549,33 @@
 			]
 		]
 	},
+	"迎来": {
+		"py": "yínglái",
+		"mn": [
+			[
+				"v",
+				"đón; chào đón; chào mừng; tiếp đón; nghênh tiếp | giới thiệu; đưa vào"
+			]
+		]
+	},
+	"大量": {
+		"py": "dàliàng",
+		"mn": [
+			[
+				"adv",
+				"nhiều; lớn; hàng loạt, số lượng lớn; khối lượng lớn | đại lượng; độ lượng; rộng lượng"
+			]
+		]
+	},
+	"岂不是": {
+		"py": "qǐbùshì",
+		"mn": [
+			[
+				"adv",
+				"chẳng phải sao; há chẳng phải"
+			]
+		]
+	},
 	"白": {
 		"py": "bái",
 		"mn": [
@@ -408,6 +597,15 @@
 			]
 		]
 	},
+	"忙活": {
+		"py": "mánghuó",
+		"mn": [
+			[
+				"v",
+				"bận việc; bận làm ăn | việc gấp"
+			]
+		]
+	},
 	"这种": {
 		"py": "zhèzhǒng",
 		"mn": [
@@ -426,6 +624,15 @@
 			]
 		]
 	},
+	"累积": {
+		"py": "lěijī",
+		"mn": [
+			[
+				"v",
+				"tích luỹ; tích lại; gộp lại; gom góp"
+			]
+		]
+	},
 	"经验": {
 		"py": "jīngyàn",
 		"mn": [
@@ -436,6 +643,15 @@
 			[
 				"v",
 				"trải qua; gặp qua; trải nghiệm"
+			]
+		]
+	},
+	"过程": {
+		"py": "guòchéng",
+		"mn": [
+			[
+				"n",
+				"quá trình"
 			]
 		]
 	},
@@ -540,6 +756,33 @@
 			]
 		]
 	},
+	"道理": {
+		"py": "dàolǐ",
+		"mn": [
+			[
+				"n",
+				"sự thật; quy luật; nguyên tắc | lý; đạo lý; lý lẽ"
+			]
+		]
+	},
+	"与其": {
+		"py": "yǔqí",
+		"mn": [
+			[
+				"conj",
+				"so với; thay vì"
+			]
+		]
+	},
+	"亡羊补牢": {
+		"py": "wángyángbǔláo",
+		"mn": [
+			[
+				"proverb",
+				"mất bò mới lo làm chuồng; khát nước mới lo đào giếng (ví với việc đã hỏng rồi mới lo cứu chữa)"
+			]
+		]
+	},
 	"不如": {
 		"py": "bùrú",
 		"mn": [
@@ -550,6 +793,15 @@
 			[
 				"conj",
 				"chi bằng"
+			]
+		]
+	},
+	"未雨绸缪": {
+		"py": "wèiyǔchóumóu",
+		"mn": [
+			[
+				"idioms",
+				"phòng ngừa chu đáo; lo trước tính sau (ví với việc đề phòng trước) | Câu tục ngữ này là một cách nói tượng hình cho việc lên kế hoạch trước, hoặc chuẩn bị từ trước. Ở đây 未 雨 (wèiyǔ) có nghĩa là trước khi trời mưa. 未 (Wèi) thường để chỉ một điều diễn ra trong tương lai, tức là vẫn chưa xảy ra, trong trường hợp này ám chỉ cơn mưa. 绸缪 (Chóumóu) có nghĩa là buộc chặt một cái gì đó lại bằng lụa.Đừng để mất bò mới lo làm chuồng"
 			]
 		]
 	}

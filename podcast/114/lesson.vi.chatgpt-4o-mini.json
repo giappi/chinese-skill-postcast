@@ -1,0 +1,38 @@
+{
+    "ST": "帅哥",
+    "TV": "Anh chàng đẹp trai",
+    "Sents": {
+        "0": {
+            "STRC": "",
+            "STRV": ""
+        },
+        "1": {
+            "STRC": "B：李丽，早上好！",
+            "STRV": "B: Lý Lệ, chào buổi sáng!"
+        },
+        "2": {
+            "STRC": "A：早上好！高平，你看！那儿有一位帅哥！",
+            "STRV": "A: Chào buổi sáng! Cao Bình, nhìn kìa! Ở đằng kia có một anh chàng đẹp trai!"
+        },
+        "3": {
+            "STRC": "B：那是我哥哥。",
+            "STRV": "B: Đó là anh trai của mình."
+        },
+        "4": {
+            "STRC": "A：他长得真帅！",
+            "STRV": "A: Anh ấy đẹp trai thật đấy!"
+        },
+        "5": {
+            "STRC": "B：你想认识他吗？",
+            "STRV": "B: Bạn muốn làm quen với anh ấy không?"
+        },
+        "6": {
+            "STRC": "A：当然想。",
+            "STRV": "A: Tất nhiên là muốn rồi."
+        },
+        "7": {
+            "STRC": "B：好的，走吧！我介绍你们认识。",
+            "STRV": "B: Được thôi, đi nào! Mình sẽ giới thiệu hai người với nhau."
+        }
+    }
+}

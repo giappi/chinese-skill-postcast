@@ -21,6 +21,15 @@
 			]
 		]
 	},
+	"发型": {
+		"py": "fàxíng",
+		"mn": [
+			[
+				"n",
+				"kiểu tóc"
+			]
+		]
+	},
 	"了": {
 		"py": "le",
 		"mn": [
@@ -125,6 +134,23 @@
 			]
 		]
 	},
+	"短": {
+		"py": "duǎn",
+		"mn": [
+			[
+				"adj",
+				"ngắn | ngắn (chỉ thời gian) | nông cạn; thiếu hiểu biết"
+			],
+			[
+				"n",
+				"Khuyết điểm; thiếu sót; sở đoản; chỗ yếu kém"
+			],
+			[
+				"v",
+				"thiếu"
+			]
+		]
+	},
 	"不错": {
 		"py": "bùcuò",
 		"mn": [
@@ -161,6 +187,15 @@
 			]
 		]
 	},
+	"青春": {
+		"py": "qīngchūn",
+		"mn": [
+			[
+				"n",
+				"thanh xuân | tuổi trẻ; tuổi thanh xuân"
+			]
+		]
+	},
 	"有": {
 		"py": "yǒu",
 		"mn": [
@@ -175,6 +210,15 @@
 			[
 				"pref",
 				"hữu (dùng trước tên triều đại, dân tộc)"
+			]
+		]
+	},
+	"活力": {
+		"py": "huólì",
+		"mn": [
+			[
+				"n",
+				"sức sống; sinh khí; sôi động"
 			]
 		]
 	},
@@ -280,6 +324,15 @@
 			]
 		]
 	},
+	"老气": {
+		"py": "lǎoqì",
+		"mn": [
+			[
+				"adj",
+				"vẻ người lớn; chững chạc; ra vẻ; ra vẻ người lớn | cổ lỗ; xám xịt (trang phục)"
+			]
+		]
+	},
 	"那": {
 		"py": "nà",
 		"mn": [
@@ -350,6 +403,15 @@
 			[
 				"adj",
 				"nhất định (nào đó) | nhất định (không thay đổi) | nhất định (về cách làm; số lượng)"
+			]
+		]
+	},
+	"精神": {
+		"py": "jīngshén",
+		"mn": [
+			[
+				"n",
+				"tinh thần; nghị lực; sinh lực | tôn chỉ; tinh thần; ý nghĩa chủ yếu; điều cốt lõi"
 			]
 		]
 	},

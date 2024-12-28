@@ -208,6 +208,19 @@
 			]
 		]
 	},
+	"迷": {
+		"py": "mí",
+		"mn": [
+			[
+				"v",
+				"không phân biệt; không nhận ra; lạc đường | thích; say đắm; đam mê | mê hoặc; làm say mê"
+			],
+			[
+				"n",
+				"mê; đam mê (người)"
+			]
+		]
+	},
 	"当然": {
 		"py": "dāngrán",
 		"mn": [
@@ -340,6 +353,15 @@
 			[
 				"adv",
 				"quá; thật; thực sự"
+			]
+		]
+	},
+	"不巧": {
+		"py": "bùqiǎo",
+		"mn": [
+			[
+				"adj",
+				"không may; xui xẻo"
 			]
 		]
 	},
