@@ -1,6 +1,7 @@
 
 var lessonData;
 var player = new Audio();
+var timeoutPlayAll = 0;
 
 function main(data)
 {
@@ -154,11 +155,7 @@ function main(data)
     function showDetail(headword, pinyin, meaning, audio)
     {
         // Play audio
-        if(audio != player.src)
-        {
-            player.src = audio;
-        }
-        player.play();
+        play(audio);
 
         // Set content for detail
         wordDetailHead.innerText = headword;
@@ -178,6 +175,15 @@ function main(data)
         wordDetailHTML.style.display = "none";
     }
 
+    function play(audio)
+    {
+        if(audio != player.src)
+        {
+            player.src = audio;
+        }
+        player.onended = (function(){});
+        player.play();
+    }
 
     function playAll(lines)
     {
@@ -209,7 +215,8 @@ function main(data)
             player.onended = (function() 
             {
                 delete lines[lineId];
-                setTimeout(() => playAll(lines), 300);
+                clearTimeout(timeoutPlayAll);
+                timeoutPlayAll = setTimeout(() => playAll(lines), 300);
                 
             });
             player.onerror = (e) => console.log('[E] ' + player.src);
